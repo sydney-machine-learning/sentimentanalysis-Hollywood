@@ -1,6 +1,6 @@
-##  research structure:
+## Research structure:
 
- 1
+ 1 
 
  2
 
@@ -9,4 +9,4 @@
  4
 
 
-## question
+## Question
