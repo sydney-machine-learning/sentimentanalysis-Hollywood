@@ -1,0 +1,8828 @@
+1
+00:00:58,907 --> 00:01:00,727
+Hey, look, over there!
+
+2
+00:01:01,775 --> 00:01:03,017
+Wow!
+
+3
+00:01:04,687 --> 00:01:06,241
+Their ship is so big.
+
+4
+00:01:06,266 --> 00:01:07,938
+Wish ours was that fancy.
+
+5
+00:01:07,963 --> 00:01:10,909
+I'd be so happy if
+ours was that fancy.
+
+6
+00:01:11,109 --> 00:01:12,617
+- 'Cause then...
+- Why is that?
+
+7
+00:01:13,054 --> 00:01:14,632
+'Cause is looks better?
+
+8
+00:01:15,616 --> 00:01:17,616
+This boat has seen us
+through many a storm.
+
+9
+00:01:18,931 --> 00:01:20,673
+It may not look like much but,
+
+10
+00:01:20,875 --> 00:01:22,820
+it has something
+theirs never will.
+
+11
+00:01:22,845 --> 00:01:24,736
+What? Wood rot and rats?
+
+12
+00:01:25,547 --> 00:01:27,750
+Are the children learning
+something, dear?
+
+13
+00:01:27,799 --> 00:01:29,157
+It is unclear.
+
+14
+00:01:29,548 --> 00:01:31,726
+All right, sit, children.
+
+15
+00:01:32,773 --> 00:01:36,132
+I think it's time
+that I told you the story
+
+16
+00:01:36,209 --> 00:01:40,825
+of Aladdin, the Princess,
+and the lamp.
+
+17
+00:01:40,998 --> 00:01:43,069
+What's so special about a lamp?
+
+18
+00:01:43,094 --> 00:01:44,524
+Oh, this is a magic lamp.
+
+19
+00:01:44,881 --> 00:01:46,232
+Maybe if you sing.
+
+20
+00:01:46,258 --> 00:01:47,602
+It's better when you sing.
+
+21
+00:01:47,627 --> 00:01:50,447
+No, no. No singing.
+It's been a long day.
+
+22
+00:01:54,724 --> 00:01:59,114
+♪ Oh, imagine a land
+It's a faraway place ♪
+
+23
+00:01:59,144 --> 00:02:02,261
+♪ Where the caravan camels roam ♪
+
+24
+00:02:02,489 --> 00:02:06,325
+♪ Where you wander among
+every culture and tongue ♪
+
+25
+00:02:06,427 --> 00:02:09,747
+♪ It's chaotic, but hey,
+it's home ♪
+
+26
+00:02:10,052 --> 00:02:14,044
+♪ When the wind's from the east
+and the sun's from the west ♪
+
+27
+00:02:14,162 --> 00:02:16,983
+♪ And the sand in the glass is right ♪
+
+28
+00:02:17,206 --> 00:02:19,472
+♪ Come on down,
+stop on by ♪
+
+29
+00:02:19,497 --> 00:02:21,247
+♪ Hop a carpet and fly ♪
+
+30
+00:02:21,362 --> 00:02:26,291
+♪ To another Arabian night ♪
+
+31
+00:02:45,359 --> 00:02:47,455
+♪ As you wind through the streets ♪
+
+32
+00:02:47,510 --> 00:02:49,515
+♪ At the fabled bazaars ♪
+
+33
+00:02:49,562 --> 00:02:52,523
+♪ With the cardamom-cluttered stalls ♪
+
+34
+00:02:52,827 --> 00:02:54,709
+♪ You can smell every spice ♪
+
+35
+00:02:54,734 --> 00:02:56,693
+♪ While you haggle the price ♪
+
+36
+00:02:56,718 --> 00:02:59,874
+♪ Of the silks and the satin shawls ♪
+
+37
+00:03:00,147 --> 00:03:02,084
+♪ Oh, the music that plays ♪
+
+38
+00:03:02,117 --> 00:03:04,201
+♪ As you move through a maze ♪
+
+39
+00:03:04,266 --> 00:03:07,445
+♪ In the haze of your pure delight ♪
+
+40
+00:03:07,781 --> 00:03:09,656
+♪ You are caught in a dance ♪
+
+41
+00:03:09,757 --> 00:03:11,632
+♪ You are lost in the trance ♪
+
+42
+00:03:11,731 --> 00:03:15,614
+♪ Of another Arabian night ♪
+
+43
+00:03:16,161 --> 00:03:19,442
+♪ Arabian nights ♪
+
+44
+00:03:19,472 --> 00:03:23,098
+♪ Like Arabian days ♪
+
+45
+00:03:23,406 --> 00:03:25,257
+♪ More often than not ♪
+
+46
+00:03:25,574 --> 00:03:27,549
+♪ Are hotter than hot ♪
+
+47
+00:03:27,589 --> 00:03:30,979
+♪ In a lot of good ways ♪
+
+48
+00:03:31,245 --> 00:03:34,674
+♪ Arabian nights ♪
+
+49
+00:03:34,714 --> 00:03:38,229
+♪ Like Arabian dreams ♪
+
+50
+00:03:38,338 --> 00:03:40,423
+♪ This mystical land ♪
+
+51
+00:03:40,486 --> 00:03:42,198
+♪ Of magic and sand ♪
+
+52
+00:03:42,260 --> 00:03:45,174
+♪ Is more than it seems ♪
+
+53
+00:03:46,682 --> 00:03:48,589
+♪ There's a road that may lead you ♪
+
+54
+00:03:48,643 --> 00:03:50,659
+♪ To good or to greed through ♪
+
+55
+00:03:50,714 --> 00:03:54,050
+♪ The power your wishing commands ♪
+
+56
+00:03:54,075 --> 00:03:55,746
+♪ Let the darkness unfold ♪
+
+57
+00:03:55,771 --> 00:03:57,658
+♪ Or find fortunes untold ♪
+
+58
+00:03:57,688 --> 00:04:01,730
+♪ Well, your destiny lies in your hands ♪
+
+59
+00:04:01,755 --> 00:04:04,575
+Only one may enter here.
+
+60
+00:04:04,629 --> 00:04:07,551
+One whose worth lies far within.
+
+61
+00:04:07,723 --> 00:04:10,598
+A diamond in the rough.
+
+62
+00:04:10,724 --> 00:04:14,997
+♪ Arabian nights ♪
+
+63
+00:04:15,105 --> 00:04:18,379
+♪ Like Arabian days ♪
+
+64
+00:04:18,688 --> 00:04:20,485
+♪ They seem to excite ♪
+
+65
+00:04:20,610 --> 00:04:22,571
+♪ Take off and take flight ♪
+
+66
+00:04:22,644 --> 00:04:25,666
+♪ To shock and amaze ♪
+
+67
+00:04:57,836 --> 00:04:59,578
+Seek me out.
+
+68
+00:04:59,929 --> 00:05:03,094
+The diamond in the rough.
+
+69
+00:05:03,949 --> 00:05:07,387
+♪ Arabian nights ♪
+
+70
+00:05:07,449 --> 00:05:10,668
+♪ 'Neath Arabian moons ♪
+
+71
+00:05:11,090 --> 00:05:13,059
+♪ A fool off his guard ♪
+
+72
+00:05:13,319 --> 00:05:15,007
+♪ Could fall and fall hard ♪
+
+73
+00:05:15,225 --> 00:05:20,256
+♪ Out there on the dunes ♪
+
+74
+00:05:34,720 --> 00:05:36,298
+What's your monkey's name?
+
+75
+00:05:36,678 --> 00:05:37,865
+Abu.
+
+76
+00:05:38,279 --> 00:05:39,756
+He's a lovely monkey.
+
+77
+00:05:39,880 --> 00:05:41,982
+Mm, that's a lovely necklace.
+
+78
+00:05:42,210 --> 00:05:44,312
+So, where does Abu come from?
+
+79
+00:05:44,429 --> 00:05:46,437
+He, uh... Oh!
+
+80
+00:05:47,101 --> 00:05:49,358
+I think this... belongs to me.
+
+81
+00:05:50,814 --> 00:05:52,267
+Good day, ladies.
+
+82
+00:05:55,257 --> 00:05:56,374
+Okay.
+
+83
+00:06:13,459 --> 00:06:14,991
+How'd we do, Abu?
+
+84
+00:06:17,413 --> 00:06:18,592
+Good monkey.
+
+85
+00:06:19,666 --> 00:06:21,080
+Stop right there, Aladdin.
+
+86
+00:06:21,119 --> 00:06:23,361
+Whatever it is you stole today,
+I don't want it.
+
+87
+00:06:23,658 --> 00:06:26,205
+Whoa, whoa,
+I didn't steal anything.
+
+88
+00:06:26,617 --> 00:06:28,930
+It's a family heirloom
+that's worth a lot of...
+
+89
+00:06:29,001 --> 00:06:31,031
+I'll give you a bag of dates
+for it, nothing more.
+
+90
+00:06:31,056 --> 00:06:34,054
+Zulla, we both know it's
+worth at least three bags.
+
+91
+00:06:34,079 --> 00:06:35,844
+Take a bag of dates
+and get out!
+
+92
+00:06:42,617 --> 00:06:43,977
+Here you go, Abu.
+
+93
+00:06:53,039 --> 00:06:54,086
+Shh.
+
+94
+00:07:15,783 --> 00:07:16,876
+Hello.
+
+95
+00:07:17,592 --> 00:07:18,704
+Hi.
+
+96
+00:07:19,143 --> 00:07:21,022
+- Are you hungry?
+- Mm-hmm.
+
+97
+00:07:21,135 --> 00:07:23,041
+Here, take some bread.
+
+98
+00:07:26,869 --> 00:07:28,619
+Hey. Hey!
+
+99
+00:07:28,711 --> 00:07:30,048
+You steal from my brother.
+
+100
+00:07:30,182 --> 00:07:31,541
+Stealing? No, I...
+
+101
+00:07:31,566 --> 00:07:32,835
+You pay or I take bracelet.
+
+102
+00:07:32,871 --> 00:07:34,221
+Sir, I don't have any money.
+
+103
+00:07:34,382 --> 00:07:36,179
+- Let go of me!
+- No.
+
+104
+00:07:36,296 --> 00:07:38,296
+Take it easy, Jamal.
+
+105
+00:07:38,359 --> 00:07:40,046
+Khalil walks away from the stall,
+
+106
+00:07:40,101 --> 00:07:42,241
+and this one... this one...
+
+107
+00:07:42,272 --> 00:07:43,412
+she steal the bread!
+
+108
+00:07:43,437 --> 00:07:44,796
+Those children were hungry!
+
+109
+00:07:45,023 --> 00:07:46,718
+- I...
+- Okay, give me a minute.
+
+110
+00:07:47,523 --> 00:07:50,327
+You keep your little
+street rat nose
+
+111
+00:07:50,413 --> 00:07:52,218
+out of it! Huh?
+
+112
+00:07:53,838 --> 00:07:55,205
+Do you have any money?
+
+113
+00:07:55,448 --> 00:07:57,049
+- No!
+- Okay.
+
+114
+00:07:57,194 --> 00:07:58,416
+Trust me.
+
+115
+00:08:03,166 --> 00:08:04,220
+- Here you go.
+- Wait!
+
+116
+00:08:04,275 --> 00:08:06,580
+- This is what you wanted, right?
+- Eh! Thank you.
+
+117
+00:08:06,619 --> 00:08:08,517
+Okay, and an apple
+for your troubles.
+
+118
+00:08:08,729 --> 00:08:10,033
+- Nice.
+- That was m...
+
+119
+00:08:10,058 --> 00:08:11,767
+I'm not leaving
+without my bracelet!
+
+120
+00:08:11,792 --> 00:08:13,275
+You mean, this bracelet?
+
+121
+00:08:13,573 --> 00:08:14,744
+Come on.
+
+122
+00:08:14,923 --> 00:08:16,829
+♪ Nay nay nay na-na-nay ♪
+
+123
+00:08:17,178 --> 00:08:18,748
+♪ Nay nay nay na-na-nay ♪
+
+124
+00:08:20,096 --> 00:08:21,362
+♪ Nay nay nay nay nay... ♪
+
+125
+00:08:21,471 --> 00:08:22,760
+Aladdin!
+
+126
+00:08:22,932 --> 00:08:24,119
+Thief, Aladdin!
+
+127
+00:08:24,144 --> 00:08:25,275
+Are we in trouble?
+
+128
+00:08:25,300 --> 00:08:26,361
+Only if you get caught.
+
+129
+00:08:26,386 --> 00:08:27,235
+Aladdin!
+
+130
+00:08:27,260 --> 00:08:29,354
+Down that alley.
+Monkey knows the way.
+
+131
+00:08:30,236 --> 00:08:31,244
+Abu.
+
+132
+00:08:31,588 --> 00:08:33,228
+Cute butt.
+
+133
+00:08:33,291 --> 00:08:34,588
+You'll be fine.
+
+134
+00:08:36,307 --> 00:08:38,119
+- Over there!
+- Hey, you!
+
+135
+00:08:38,682 --> 00:08:40,267
+You looking for this, Jamal?
+
+136
+00:08:40,408 --> 00:08:41,588
+Aladdin, you street rat!
+
+137
+00:09:01,560 --> 00:09:02,584
+♪ Gotta keep ♪
+
+138
+00:09:02,609 --> 00:09:04,397
+♪ One jump ahead of the bread line ♪
+
+139
+00:09:04,498 --> 00:09:06,459
+♪ One swing ahead of the sword ♪
+
+140
+00:09:06,498 --> 00:09:08,544
+♪ I steal only what I can't afford ♪
+
+141
+00:09:08,578 --> 00:09:09,420
+Stop!
+
+142
+00:09:09,445 --> 00:09:10,514
+♪ And that's everything ♪
+
+143
+00:09:10,790 --> 00:09:12,720
+♪ One jump ahead of the lawmen ♪
+
+144
+00:09:12,783 --> 00:09:14,665
+♪ That's all, and that's no joke ♪
+
+145
+00:09:14,869 --> 00:09:17,204
+♪ These guys don't appreciate I'm broke ♪
+
+146
+00:09:18,588 --> 00:09:21,353
+♪ Riffraff! Street rat! Scoundrel! ♪
+
+147
+00:09:21,463 --> 00:09:22,502
+♪ Take that! ♪
+
+148
+00:09:22,642 --> 00:09:25,947
+♪ Try a different tact, guys ♪
+
+149
+00:09:28,822 --> 00:09:30,478
+♪ Rip him open ♪
+
+150
+00:09:30,775 --> 00:09:32,846
+♪ 'Round the back, guys ♪
+
+151
+00:09:32,871 --> 00:09:34,494
+♪ I can take a hint
+Gotta face the facts ♪
+
+152
+00:09:34,617 --> 00:09:36,454
+♪ Could really use a friend or two ♪
+
+153
+00:09:36,978 --> 00:09:39,932
+♪ Oh, it's sad,
+Aladdin's hit the bottom ♪
+
+154
+00:09:40,861 --> 00:09:43,994
+♪ He's become a
+one-man rise in crime ♪
+
+155
+00:09:44,548 --> 00:09:48,150
+♪ I'd blame parents,
+'cept he hasn't got 'em ♪
+
+156
+00:09:48,540 --> 00:09:50,259
+♪ Gotta eat to live,
+gotta steal to eat ♪
+
+157
+00:09:50,290 --> 00:09:52,806
+♪ Tell you all about it
+when I got the time ♪
+
+158
+00:10:01,618 --> 00:10:02,618
+Hey!
+
+159
+00:10:06,278 --> 00:10:07,560
+There are stairs, you know.
+
+160
+00:10:08,560 --> 00:10:09,693
+Where's the fun in that?
+
+161
+00:10:09,880 --> 00:10:11,802
+♪ One jump ahead of the slowpokes ♪
+
+162
+00:10:11,849 --> 00:10:13,857
+♪ One skip ahead of my doom ♪
+
+163
+00:10:13,974 --> 00:10:16,415
+♪ Next time gonna use
+a nom de plume ♪
+
+164
+00:10:16,440 --> 00:10:17,589
+Hey, get back here!
+
+165
+00:10:17,973 --> 00:10:19,981
+♪ One jump ahead of the hitmen ♪
+
+166
+00:10:20,006 --> 00:10:22,091
+♪ One hit ahead of the flock ♪
+
+167
+00:10:22,169 --> 00:10:24,904
+♪ I think I'll take a stroll
+around the block ♪
+
+168
+00:10:27,586 --> 00:10:28,633
+♪ Stop thief! ♪
+
+169
+00:10:28,658 --> 00:10:29,728
+♪ Vandal! ♪
+
+170
+00:10:29,753 --> 00:10:30,766
+♪ Abu! ♪
+
+171
+00:10:30,797 --> 00:10:31,961
+♪ Scoundrel! ♪
+
+172
+00:10:31,993 --> 00:10:35,235
+♪ Let's not be too hasty ♪
+
+173
+00:10:35,797 --> 00:10:39,531
+♪ Still I think he's rather tasty ♪
+
+174
+00:10:39,556 --> 00:10:41,321
+♪ Gotta eat to live,
+gotta steal to eat ♪
+
+175
+00:10:41,555 --> 00:10:42,969
+♪ Otherwise we'd get along ♪
+
+176
+00:10:43,055 --> 00:10:44,062
+♪ Wrong! ♪
+
+177
+00:10:46,415 --> 00:10:47,469
+No, no, no, no!
+
+178
+00:10:51,984 --> 00:10:53,102
+Together on three.
+
+179
+00:10:53,127 --> 00:10:54,227
+Together on three?
+
+180
+00:10:54,252 --> 00:10:55,805
+- We jump.
+- We jump?!
+
+181
+00:10:55,846 --> 00:10:57,594
+Why are you repeating
+everything I say?
+
+182
+00:10:57,711 --> 00:10:58,790
+The pole.
+
+183
+00:11:01,383 --> 00:11:04,321
+One, two, three!
+
+184
+00:11:10,624 --> 00:11:11,773
+Sorry!
+
+185
+00:11:14,179 --> 00:11:15,249
+I can't.
+
+186
+00:11:20,611 --> 00:11:22,588
+Look at me.
+Look at me.
+
+187
+00:11:22,807 --> 00:11:25,088
+You... can do this.
+
+188
+00:11:33,398 --> 00:11:34,374
+- Oh.
+- Oh.
+
+189
+00:11:34,428 --> 00:11:35,444
+Nicely done.
+
+190
+00:11:35,469 --> 00:11:36,523
+Thank you.
+
+191
+00:11:37,102 --> 00:11:38,789
+♪ One jump ahead of the hoofbeats ♪
+
+192
+00:11:38,828 --> 00:11:40,875
+♪ One hop ahead of the hump ♪
+
+193
+00:11:40,992 --> 00:11:42,922
+♪ One trick ahead of disaster ♪
+
+194
+00:11:42,961 --> 00:11:44,844
+♪ They're quick, but I'm much faster ♪
+
+195
+00:11:44,969 --> 00:11:46,672
+♪ Here goes
+Better throw my hand in ♪
+
+196
+00:11:46,697 --> 00:11:47,727
+♪ Wish me happy landing ♪
+
+197
+00:11:47,758 --> 00:11:49,641
+♪ All I gotta do is jump! ♪
+
+198
+00:12:06,441 --> 00:12:07,496
+Oh, dear.
+
+199
+00:12:16,207 --> 00:12:18,964
+Come on. I know
+somewhere we'll be safe.
+
+200
+00:12:26,871 --> 00:12:28,659
+Here comes the Master.
+
+201
+00:12:35,729 --> 00:12:38,034
+You bring me the rough
+but never a diamond.
+
+202
+00:12:39,074 --> 00:12:40,465
+Take them away.
+
+203
+00:12:41,043 --> 00:12:42,722
+Take them away.
+
+204
+00:12:43,573 --> 00:12:46,433
+Majazeer, perhaps this
+
+205
+00:12:46,527 --> 00:12:49,183
+diamond in the rough
+does not exist.
+
+206
+00:12:49,612 --> 00:12:51,269
+He is out there.
+
+207
+00:12:51,440 --> 00:12:53,375
+But we've searched for months.
+
+208
+00:12:53,493 --> 00:12:54,969
+I do not understand
+
+209
+00:12:55,016 --> 00:12:57,094
+what could possibly
+be in that cave
+
+210
+00:12:57,172 --> 00:13:00,618
+that could help a man
+as great as you.
+
+211
+00:13:00,875 --> 00:13:03,743
+You are already second
+only to the Sultan.
+
+212
+00:13:03,805 --> 00:13:06,360
+Second! Uh-oh.
+
+213
+00:13:08,383 --> 00:13:10,266
+Who's in trouble now?
+
+214
+00:13:10,414 --> 00:13:12,125
+And you think second is enough?
+
+215
+00:13:12,321 --> 00:13:13,586
+Of course.
+
+216
+00:13:14,313 --> 00:13:15,883
+You were not born to be sultan.
+
+217
+00:13:15,961 --> 00:13:17,547
+Not smart.
+
+218
+00:13:17,774 --> 00:13:21,008
+Do you know what I had to do
+to get the power that I have?
+
+219
+00:13:21,461 --> 00:13:23,071
+The sacrifices that I've made?
+
+220
+00:13:23,096 --> 00:13:24,852
+The bodies that I've buried?
+
+221
+00:13:25,086 --> 00:13:27,555
+The five years spent
+in a Sherabad jail?
+
+222
+00:13:27,946 --> 00:13:30,055
+People need to understand
+that they will pay
+
+223
+00:13:30,080 --> 00:13:31,672
+for underestimating me.
+
+224
+00:13:31,697 --> 00:13:33,032
+Second is not enough!
+
+225
+00:13:33,057 --> 00:13:34,517
+And it will never be enough!
+
+226
+00:13:34,587 --> 00:13:35,923
+That's why I need the lamp.
+
+227
+00:13:36,024 --> 00:13:38,032
+And why I no longer need you!
+
+228
+00:14:49,518 --> 00:14:50,559
+Tea?
+
+229
+00:14:50,584 --> 00:14:51,669
+Thank you.
+
+230
+00:14:51,943 --> 00:14:54,880
+And thank you for
+getting me out of there.
+
+231
+00:14:55,896 --> 00:14:57,599
+Aladdin, isn't it?
+
+232
+00:14:58,365 --> 00:14:59,795
+Uh, you're welcome...
+
+233
+00:15:00,005 --> 00:15:02,138
+Um, I'm Dalia.
+
+234
+00:15:02,498 --> 00:15:03,630
+Dalia.
+
+235
+00:15:04,498 --> 00:15:06,068
+From the palace.
+
+236
+00:15:06,661 --> 00:15:07,802
+How could you tell?
+
+237
+00:15:07,929 --> 00:15:10,241
+Well, only someone
+from the palace
+
+238
+00:15:10,303 --> 00:15:11,905
+could afford a bracelet like that.
+
+239
+00:15:12,046 --> 00:15:14,780
+And that silk lining
+is imported, too.
+
+240
+00:15:14,851 --> 00:15:17,601
+It comes from the merchant
+boats straight to the palace.
+
+241
+00:15:17,679 --> 00:15:19,819
+But not to servants.
+
+242
+00:15:19,913 --> 00:15:21,226
+At least not most servants.
+
+243
+00:15:21,296 --> 00:15:22,726
+Which means you...
+
+244
+00:15:22,858 --> 00:15:24,546
+are a handmaid to the Princess.
+
+245
+00:15:26,089 --> 00:15:27,339
+Impressive.
+
+246
+00:15:27,393 --> 00:15:29,088
+You think that's impressive.
+
+247
+00:15:29,167 --> 00:15:31,026
+You should see the
+city from up there.
+
+248
+00:15:36,314 --> 00:15:37,720
+Agrabah.
+
+249
+00:15:38,353 --> 00:15:39,892
+It's so beautiful.
+
+250
+00:15:40,033 --> 00:15:41,385
+I should get out more.
+
+251
+00:15:41,578 --> 00:15:43,946
+You should tell the
+Princess to get out more.
+
+252
+00:15:44,438 --> 00:15:46,578
+The people haven't
+seen her in years.
+
+253
+00:15:46,852 --> 00:15:48,289
+They won't let her.
+
+254
+00:15:49,672 --> 00:15:51,500
+Ever since my...
+
+255
+00:15:52,336 --> 00:15:54,532
+The Queen was killed,
+
+256
+00:15:54,586 --> 00:15:56,133
+the Sultan's been afraid.
+
+257
+00:15:56,242 --> 00:15:58,000
+So she's kept locked away.
+
+258
+00:15:58,117 --> 00:16:00,117
+Seems everyone's been
+afraid since then.
+
+259
+00:16:00,235 --> 00:16:03,071
+But the people of Agrabah
+had nothing to do with that.
+
+260
+00:16:03,180 --> 00:16:04,555
+The people loved her.
+
+261
+00:16:05,242 --> 00:16:06,726
+They did, didn't they?
+
+262
+00:16:09,649 --> 00:16:11,007
+Is this yours?
+
+263
+00:16:11,032 --> 00:16:13,672
+It's kind of... borrowed.
+
+264
+00:16:21,254 --> 00:16:23,011
+My mother taught me that song.
+
+265
+00:16:24,230 --> 00:16:25,441
+Mine too.
+
+266
+00:16:25,824 --> 00:16:27,222
+It's all I remember of her.
+
+267
+00:16:28,371 --> 00:16:30,051
+And what about your father?
+
+268
+00:16:30,496 --> 00:16:32,105
+I lost them both
+when I was young.
+
+269
+00:16:32,605 --> 00:16:34,238
+Been on my own ever since.
+
+270
+00:16:34,863 --> 00:16:36,199
+It's all right, it's just...
+
+271
+00:16:36,457 --> 00:16:37,511
+What?
+
+272
+00:16:37,996 --> 00:16:39,628
+It's a little sad...
+
+273
+00:16:40,043 --> 00:16:43,370
+having a monkey as the only
+parental authority in your life.
+
+274
+00:16:45,676 --> 00:16:46,988
+We get by.
+
+275
+00:16:47,933 --> 00:16:51,384
+Every day, I just...
+think things will be different,
+
+276
+00:16:51,409 --> 00:16:53,439
+but it never seems to change.
+
+277
+00:16:54,369 --> 00:16:56,830
+Just sometimes,
+I feel like I'm...
+
+278
+00:16:56,855 --> 00:16:58,134
+Trapped.
+
+279
+00:16:59,619 --> 00:17:01,259
+Like you...
+
+280
+00:17:01,338 --> 00:17:03,306
+can't escape what
+you were born into?
+
+281
+00:17:04,369 --> 00:17:05,541
+Yes.
+
+282
+00:17:12,342 --> 00:17:14,045
+I have to get back to the palace.
+
+283
+00:17:14,389 --> 00:17:15,553
+Now?
+
+284
+00:17:22,420 --> 00:17:25,459
+It's just another prince
+coming to court the princess.
+
+285
+00:17:27,622 --> 00:17:30,700
+Yes, and I have to
+get her ready.
+
+286
+00:17:30,725 --> 00:17:32,332
+Oh, do you have my bracelet?
+
+287
+00:17:32,357 --> 00:17:33,387
+Sure.
+
+288
+00:17:37,216 --> 00:17:39,317
+I'm sure I put it in here.
+
+289
+00:17:40,552 --> 00:17:41,825
+Somewhere.
+
+290
+00:17:41,945 --> 00:17:43,836
+Abu, did you take it?
+
+291
+00:17:44,289 --> 00:17:45,851
+That was my mother's bracelet.
+
+292
+00:17:47,648 --> 00:17:49,531
+Yes, it's beautiful.
+
+293
+00:17:50,671 --> 00:17:51,773
+You are a thief.
+
+294
+00:17:52,069 --> 00:17:53,586
+No. No. Yes, but...
+
+295
+00:17:53,687 --> 00:17:54,898
+I was so naive.
+
+296
+00:17:54,923 --> 00:17:56,086
+Excuse me.
+
+297
+00:17:56,710 --> 00:17:58,163
+Wait. Wait. Wait!
+
+298
+00:17:58,468 --> 00:18:00,109
+Wait, it's not like that!
+
+299
+00:18:06,527 --> 00:18:08,214
+Street rat, get out of the way.
+
+300
+00:18:08,239 --> 00:18:10,050
+Who do you think you're
+calling a street rat?
+
+301
+00:18:10,542 --> 00:18:11,863
+Are you talking back to me?
+
+302
+00:18:12,456 --> 00:18:15,027
+You were born worthless
+and you will die worthless.
+
+303
+00:18:15,472 --> 00:18:17,089
+And only your fleas
+will mourn you.
+
+304
+00:18:20,597 --> 00:18:21,847
+Come on, Abu.
+
+305
+00:18:22,628 --> 00:18:23,839
+Let's go home.
+
+306
+00:18:37,519 --> 00:18:39,120
+♪ Riffraff ♪
+
+307
+00:18:39,518 --> 00:18:41,105
+♪ Street rat ♪
+
+308
+00:18:41,870 --> 00:18:43,644
+♪ I don't ♪
+
+309
+00:18:43,995 --> 00:18:45,589
+♪ Buy that ♪
+
+310
+00:18:45,878 --> 00:18:47,519
+♪ If only ♪
+
+311
+00:18:47,620 --> 00:18:49,792
+♪ They'd look closer ♪
+
+312
+00:18:50,338 --> 00:18:53,690
+♪ Would they see a poor boy? ♪
+
+313
+00:18:54,097 --> 00:18:55,737
+♪ No, siree ♪
+
+314
+00:18:58,730 --> 00:19:00,839
+♪ They'd find out ♪
+
+315
+00:19:01,315 --> 00:19:04,370
+♪ There's so much more ♪
+
+316
+00:19:04,855 --> 00:19:09,128
+♪ To me ♪
+
+317
+00:19:15,274 --> 00:19:16,391
+Abu.
+
+318
+00:19:17,641 --> 00:19:21,063
+There's a time that we do steal,
+and a time we don't.
+
+319
+00:19:21,602 --> 00:19:23,906
+This was definitely a don't.
+
+320
+00:19:31,562 --> 00:19:33,828
+Welcome, Prince Anders.
+
+321
+00:19:34,274 --> 00:19:36,625
+We trust you had an
+enjoyable journey.
+
+322
+00:19:44,047 --> 00:19:45,188
+Oh, wow.
+
+323
+00:19:59,541 --> 00:20:02,510
+Prince Anders, my daughter...
+
+324
+00:20:02,604 --> 00:20:05,549
+Princess Jasmine.
+
+325
+00:20:07,213 --> 00:20:08,580
+S-So...
+
+326
+00:20:08,994 --> 00:20:11,252
+Why did no one tell
+me of your beauty?
+
+327
+00:20:11,440 --> 00:20:12,979
+No one mentioned yours, either.
+
+328
+00:20:13,033 --> 00:20:14,455
+Oh, thank you.
+
+329
+00:20:14,893 --> 00:20:16,955
+They say that in Skånland.
+
+330
+00:20:17,049 --> 00:20:18,181
+Ya, right?
+
+331
+00:20:20,674 --> 00:20:23,526
+It's... It's very, very amusing.
+
+332
+00:20:23,666 --> 00:20:25,181
+- Is it?
+- Ya.
+
+333
+00:20:25,206 --> 00:20:28,877
+We have that same title yet are
+never described the same way.
+
+334
+00:20:29,908 --> 00:20:32,619
+Mm-hrm... Jasmine.
+
+335
+00:20:33,440 --> 00:20:34,487
+Ya.
+
+336
+00:20:35,401 --> 00:20:36,487
+Oh.
+
+337
+00:20:36,526 --> 00:20:38,526
+What is that?
+
+338
+00:20:38,861 --> 00:20:40,752
+Don't. Don't tell me.
+
+339
+00:20:41,526 --> 00:20:43,713
+It's a cat... with stripes.
+
+340
+00:20:44,612 --> 00:20:46,268
+He likes you.
+
+341
+00:20:46,330 --> 00:20:47,369
+I know.
+
+342
+00:20:47,471 --> 00:20:50,470
+'Cause in Skånland, cats love me.
+Here, puss-puss.
+
+343
+00:20:50,557 --> 00:20:51,932
+Hey, puss-puss.
+
+344
+00:20:52,198 --> 00:20:53,565
+Hey, puss-puss, puss...
+
+345
+00:20:57,573 --> 00:20:58,573
+My Sultan...
+
+346
+00:20:58,630 --> 00:21:01,036
+Our enemies grow
+stronger every day,
+
+347
+00:21:01,091 --> 00:21:03,770
+yet you allow your daughter
+to dismiss Prince Anders
+
+348
+00:21:03,856 --> 00:21:05,731
+and a possible military alliance.
+
+349
+00:21:05,778 --> 00:21:06,880
+Which enemies?
+
+350
+00:21:06,989 --> 00:21:08,606
+Sherabad continues to amass.
+
+351
+00:21:08,631 --> 00:21:10,028
+Sherabad is our ally.
+
+352
+00:21:10,114 --> 00:21:11,528
+Was our ally.
+
+353
+00:21:11,553 --> 00:21:14,113
+You would drag us into
+a war with our only...
+
+354
+00:21:14,184 --> 00:21:17,660
+Yet you would allow your
+kingdom to sink into ruin,
+
+355
+00:21:17,685 --> 00:21:18,745
+for mere sentiment!
+
+356
+00:21:18,770 --> 00:21:19,989
+Jafar!
+
+357
+00:21:21,910 --> 00:21:25,324
+Remember your place.
+
+358
+00:21:27,590 --> 00:21:29,004
+I apologize.
+
+359
+00:21:32,183 --> 00:21:33,605
+Forgive me, my Sultan.
+
+360
+00:21:34,699 --> 00:21:35,941
+I went too far.
+
+361
+00:21:41,988 --> 00:21:43,285
+But...
+
+362
+00:21:45,019 --> 00:21:47,074
+if you would only reconsider,
+
+363
+00:21:48,097 --> 00:21:51,191
+I think you would see
+
+364
+00:21:52,129 --> 00:21:54,621
+that invading Sherabad
+
+365
+00:21:54,824 --> 00:21:57,387
+is the right thing to do.
+
+366
+00:21:58,136 --> 00:22:04,234
+Invading Sherabad is...
+
+367
+00:22:04,562 --> 00:22:05,855
+Invade Sherabad?
+
+368
+00:22:09,680 --> 00:22:12,703
+Why would we invade
+Mother's kingdom?
+
+369
+00:22:13,000 --> 00:22:15,196
+We would never invade Sherabad.
+
+370
+00:22:15,281 --> 00:22:18,289
+But an ally in Skånland would
+
+371
+00:22:18,375 --> 00:22:20,078
+improve our situation.
+
+372
+00:22:20,133 --> 00:22:22,344
+Yes. If you
+
+373
+00:22:22,477 --> 00:22:25,234
+consider giving
+Prince Anders a chance.
+
+374
+00:22:25,259 --> 00:22:26,406
+To rule?
+
+375
+00:22:26,431 --> 00:22:28,274
+Baba, Rajah would
+make a better ruler.
+
+376
+00:22:28,352 --> 00:22:30,867
+My dear, I'm not
+getting any younger.
+
+377
+00:22:31,180 --> 00:22:33,836
+We must find you
+a husband and...
+
+378
+00:22:34,359 --> 00:22:36,125
+we are running out of kingdoms.
+
+379
+00:22:36,150 --> 00:22:39,047
+What foreign prince can
+care for our people as I do?
+
+380
+00:22:39,344 --> 00:22:40,616
+I could lead, if only...
+
+381
+00:22:40,641 --> 00:22:43,149
+My dear, you cannot be a sultan.
+
+382
+00:22:43,235 --> 00:22:44,883
+Because it has never been done
+
+383
+00:22:44,922 --> 00:22:47,758
+in the thousand-year
+history of our kingdom.
+
+384
+00:22:48,102 --> 00:22:51,899
+I have been preparing for this
+my whole life.
+
+385
+00:22:51,985 --> 00:22:53,844
+- I have read every...
+- Books?
+
+386
+00:22:53,946 --> 00:22:55,789
+But you cannot read experience.
+
+387
+00:22:55,844 --> 00:22:58,000
+Inexperience is dangerous.
+
+388
+00:22:58,094 --> 00:23:00,735
+People, left unchecked, will revolt.
+
+389
+00:23:00,899 --> 00:23:04,195
+Walls and borders, unguarded,
+will be attacked.
+
+390
+00:23:04,274 --> 00:23:06,383
+Jafar is right.
+
+391
+00:23:06,516 --> 00:23:07,899
+One day,
+
+392
+00:23:09,586 --> 00:23:11,399
+you will understand.
+
+393
+00:23:16,544 --> 00:23:18,115
+You may leave now.
+
+394
+00:23:35,974 --> 00:23:39,482
+Life will be kinder
+to you, Princess,
+
+395
+00:23:39,778 --> 00:23:43,193
+once you accept these
+traditions and understand
+
+396
+00:23:43,218 --> 00:23:46,927
+it's better for you to be seen
+
+397
+00:23:47,037 --> 00:23:48,771
+and not heard.
+
+398
+00:24:07,297 --> 00:24:11,085
+♪ Here comes a wave
+Meant to wash me away ♪
+
+399
+00:24:11,156 --> 00:24:14,672
+♪ A tide that is taking me under ♪
+
+400
+00:24:15,312 --> 00:24:19,281
+♪ Broken again
+Left with nothing to say ♪
+
+401
+00:24:19,431 --> 00:24:24,140
+♪ My voice drowned out in the thunder ♪
+
+402
+00:24:24,390 --> 00:24:27,680
+♪ But I can't cry ♪
+
+403
+00:24:27,820 --> 00:24:32,383
+♪ And I can't start to crumble ♪
+
+404
+00:24:32,414 --> 00:24:35,383
+♪ Whenever they try ♪
+
+405
+00:24:35,445 --> 00:24:40,195
+♪ To shut me or cut me down ♪
+
+406
+00:24:40,398 --> 00:24:43,961
+♪ I can't stay silent ♪
+
+407
+00:24:44,047 --> 00:24:47,585
+♪ Though they wanna keep me quiet ♪
+
+408
+00:24:47,656 --> 00:24:52,336
+♪ And I tremble when they try it ♪
+
+409
+00:24:54,039 --> 00:24:56,101
+♪ All I know ♪
+
+410
+00:24:56,195 --> 00:24:58,187
+♪ Is I won't ♪
+
+411
+00:24:58,218 --> 00:25:02,914
+♪ Go speechless ♪
+
+412
+00:25:10,695 --> 00:25:12,195
+Open the gates!
+
+413
+00:25:17,508 --> 00:25:19,141
+You know what to do, Abu.
+
+414
+00:25:30,664 --> 00:25:31,961
+Close the gates!
+
+415
+00:25:32,070 --> 00:25:33,687
+Tacky monkey.
+
+416
+00:25:39,711 --> 00:25:42,047
+Remember your place, Jafar.
+
+417
+00:25:42,117 --> 00:25:43,617
+Remember your place.
+
+418
+00:25:43,656 --> 00:25:45,656
+If I hear that...!
+
+419
+00:25:45,750 --> 00:25:46,992
+One more time.
+
+420
+00:25:47,070 --> 00:25:48,641
+Sorry, Master.
+
+421
+00:25:48,711 --> 00:25:52,820
+Another petty insult
+from that slow-minded fool.
+
+422
+00:25:53,625 --> 00:25:55,976
+He sees a city
+where I see an empire.
+
+423
+00:25:56,001 --> 00:25:57,344
+Such vision.
+
+424
+00:25:57,883 --> 00:26:01,078
+Once that lamp sits in my hand,
+
+425
+00:26:02,055 --> 00:26:04,938
+then I shall sit on his throne.
+
+426
+00:26:05,015 --> 00:26:07,242
+Thief! Thief in the palace.
+
+427
+00:26:08,406 --> 00:26:09,875
+Thief in the palace?
+
+428
+00:26:10,125 --> 00:26:11,648
+That's what I said.
+
+429
+00:26:11,779 --> 00:26:12,779
+Thief.
+
+430
+00:26:12,804 --> 00:26:14,258
+What have you seen, lago?
+
+431
+00:26:14,492 --> 00:26:16,156
+Diamond in the rough.
+
+432
+00:26:49,087 --> 00:26:51,360
+Who's a clever boy?
+
+433
+00:26:53,501 --> 00:26:55,993
+But Dalia, there has to be
+something I can do.
+
+434
+00:26:56,404 --> 00:26:58,544
+A handsome prince
+wants to marry you.
+
+435
+00:26:58,662 --> 00:27:00,732
+Oh, when will life get easier?
+
+436
+00:27:00,810 --> 00:27:03,052
+It's not that I don't want to
+marry, it's just...
+
+437
+00:27:03,115 --> 00:27:04,943
+You want to be sultan.
+
+438
+00:27:04,997 --> 00:27:05,919
+But why?
+
+439
+00:27:05,982 --> 00:27:07,826
+You remember my
+mother used to say,
+
+440
+00:27:07,896 --> 00:27:10,779
+"We would only ever be as happy
+as our least happy subject."
+
+441
+00:27:11,693 --> 00:27:13,529
+If she saw what I saw today,
+
+442
+00:27:13,554 --> 00:27:15,560
+she would be heart-broken.
+
+443
+00:27:15,654 --> 00:27:17,787
+She would also want
+you to be safe.
+
+444
+00:27:18,872 --> 00:27:21,412
+And clean. I'll draw the bath.
+
+445
+00:27:22,044 --> 00:27:24,513
+Jafar's guards on every corner.
+
+446
+00:27:25,232 --> 00:27:27,083
+Soon he'd have them
+invading our neighbors,
+
+447
+00:27:27,122 --> 00:27:29,263
+risking lives, for what?
+
+448
+00:27:31,052 --> 00:27:32,216
+I can help!
+
+449
+00:27:32,692 --> 00:27:34,130
+I know I can.
+
+450
+00:27:34,304 --> 00:27:38,068
+I was born to do more than
+marry some useless prince.
+
+451
+00:27:38,169 --> 00:27:39,779
+If you had to marry
+a useless prince,
+
+452
+00:27:39,865 --> 00:27:42,263
+you could certainly do
+worse than this one.
+
+453
+00:27:42,505 --> 00:27:44,826
+He's tall and handsome,
+
+454
+00:27:44,896 --> 00:27:46,747
+and yes, he's a little dim but,
+
+455
+00:27:46,794 --> 00:27:48,622
+you're just getting married.
+
+456
+00:27:48,685 --> 00:27:50,684
+It's not like you
+have to talk to him.
+
+457
+00:27:52,497 --> 00:27:54,997
+But you'd prefer that
+boy from the market.
+
+458
+00:28:06,388 --> 00:28:07,732
+Can I help you?
+
+459
+00:28:10,146 --> 00:28:12,271
+- Tea?
+- You.
+
+460
+00:28:12,615 --> 00:28:14,403
+You! What are you doing here?
+
+461
+00:28:14,474 --> 00:28:15,779
+Get in here, now.
+
+462
+00:28:15,804 --> 00:28:17,872
+I... came back to
+return your bracelet.
+
+463
+00:28:18,115 --> 00:28:19,654
+My bracelet? Where is it?
+
+464
+00:28:19,747 --> 00:28:20,966
+On your wrist.
+
+465
+00:28:21,310 --> 00:28:22,372
+What?
+
+466
+00:28:22,490 --> 00:28:24,208
+Not bad!
+
+467
+00:28:24,638 --> 00:28:26,388
+I like what she's
+done with the place.
+
+468
+00:28:26,708 --> 00:28:28,208
+How did you get past the guards?
+
+469
+00:28:28,419 --> 00:28:29,865
+That was challenging.
+
+470
+00:28:30,044 --> 00:28:32,052
+But, I have my ways.
+
+471
+00:28:32,927 --> 00:28:36,404
+While the Princess is out,
+would you like to go for a stroll?
+
+472
+00:28:36,732 --> 00:28:38,263
+Have a little chat?
+
+473
+00:28:38,912 --> 00:28:40,646
+You're unbelievable.
+
+474
+00:28:41,497 --> 00:28:43,169
+You cannot just
+break into a palace
+
+475
+00:28:43,263 --> 00:28:45,224
+and walk around like
+you own the place.
+
+476
+00:28:45,458 --> 00:28:46,692
+If you don't have anything,
+
+477
+00:28:46,717 --> 00:28:48,412
+you have to act like
+you own everything.
+
+478
+00:28:48,919 --> 00:28:51,247
+So, what do you say?
+
+479
+00:28:51,365 --> 00:28:52,716
+I did find your bracelet.
+
+480
+00:28:52,787 --> 00:28:54,779
+You did not find it,
+you stole it.
+
+481
+00:28:54,804 --> 00:28:56,865
+Correction, the monkey stole it.
+
+482
+00:28:57,201 --> 00:28:58,435
+He's your monkey.
+
+483
+00:28:58,685 --> 00:29:00,443
+He's still just a monkey.
+
+484
+00:29:00,794 --> 00:29:02,294
+Who ordered the tea?
+
+485
+00:29:03,794 --> 00:29:05,091
+Uh...
+
+486
+00:29:05,568 --> 00:29:06,763
+I did.
+
+487
+00:29:09,732 --> 00:29:11,201
+For you,
+
+488
+00:29:11,341 --> 00:29:13,122
+Princess Jasmine.
+
+489
+00:29:14,122 --> 00:29:15,458
+Your Majesty!
+
+490
+00:29:17,247 --> 00:29:18,864
+Why are you being weird?
+
+491
+00:29:26,919 --> 00:29:31,435
+Oh, I'm... the Princess... Yes!
+
+492
+00:29:32,122 --> 00:29:33,169
+Mm-hmm.
+
+493
+00:29:33,247 --> 00:29:37,701
+And it is good to be me
+with all my
+
+494
+00:29:37,865 --> 00:29:40,068
+palaces and...
+
+495
+00:29:40,207 --> 00:29:43,739
+wagons of gold... things...
+
+496
+00:29:43,897 --> 00:29:48,928
+and dresses for...
+every hour of the day.
+
+497
+00:29:51,116 --> 00:29:54,038
+Now it is time for
+my cat to be cleaned.
+
+498
+00:29:56,561 --> 00:29:58,249
+She doesn't get out much.
+
+499
+00:29:58,405 --> 00:30:00,772
+Mm-hmm. Clearly.
+
+500
+00:30:03,960 --> 00:30:05,780
+Aren't you supposed
+to be in the bath?
+
+501
+00:30:09,883 --> 00:30:13,225
+This cat isn't going
+to clean itself.
+
+502
+00:30:13,694 --> 00:30:16,344
+But don't cats clean themselves?
+
+503
+00:30:17,306 --> 00:30:18,759
+You have to go now.
+
+504
+00:30:18,853 --> 00:30:20,814
+Oh, okay, but I'm coming
+back tomorrow night.
+
+505
+00:30:20,839 --> 00:30:22,150
+What? No, you can't.
+
+506
+00:30:22,175 --> 00:30:23,993
+Meet me in the courtyard
+beside the fountain.
+
+507
+00:30:24,157 --> 00:30:26,110
+When the moon is
+above the minaret.
+
+508
+00:30:27,376 --> 00:30:28,946
+To return this.
+
+509
+00:30:33,438 --> 00:30:34,750
+I promise.
+
+510
+00:30:44,234 --> 00:30:45,680
+Can you believe it, Abu?
+
+511
+00:30:46,250 --> 00:30:48,859
+The most heavily guarded
+place in all of Agrabah.
+
+512
+00:30:50,211 --> 00:30:51,351
+Evening.
+
+513
+00:30:51,742 --> 00:30:52,758
+Evening.
+
+514
+00:30:53,805 --> 00:30:55,078
+Evening.
+
+515
+00:30:56,242 --> 00:30:57,539
+Guards are behind me.
+
+516
+00:31:00,356 --> 00:31:01,426
+Hello, boys.
+
+517
+00:31:25,223 --> 00:31:26,574
+Where am I?
+
+518
+00:31:26,785 --> 00:31:29,254
+In a world of trouble, boy.
+
+519
+00:31:30,398 --> 00:31:33,249
+That bracelet. Is that
+what this is about?
+
+520
+00:31:34,046 --> 00:31:35,523
+Because I-I didn't steal it.
+
+521
+00:31:35,749 --> 00:31:36,749
+The handmaid...
+
+522
+00:31:36,774 --> 00:31:39,610
+What was the handmaid doing
+wearing the Queen's bracelet?
+
+523
+00:31:39,773 --> 00:31:40,898
+The Queen?
+
+524
+00:31:40,999 --> 00:31:42,562
+No, no. She said that
+
+525
+00:31:42,671 --> 00:31:44,436
+- it belonged to...
+- Her mother.
+
+526
+00:31:46,686 --> 00:31:48,913
+Well, at least she told
+the truth about one thing.
+
+527
+00:31:49,702 --> 00:31:52,553
+A-Are you saying that
+was the Princess?
+
+528
+00:31:53,967 --> 00:31:56,983
+- I was talking to the...
+- She was toying with you.
+
+529
+00:31:58,046 --> 00:32:00,413
+It amuses her to meet commoners.
+
+530
+00:32:02,155 --> 00:32:04,038
+Did you actually
+think she liked you?
+
+531
+00:32:07,406 --> 00:32:08,844
+What do they call you?
+
+532
+00:32:09,430 --> 00:32:10,531
+Aladdin.
+
+533
+00:32:10,969 --> 00:32:12,250
+Aladdin.
+
+534
+00:32:12,867 --> 00:32:14,492
+People like us
+must be realistic.
+
+535
+00:32:14,517 --> 00:32:15,443
+Us?
+
+536
+00:32:15,468 --> 00:32:17,320
+You see, I was once like you.
+
+537
+00:32:20,031 --> 00:32:21,523
+A common thief.
+
+538
+00:32:23,836 --> 00:32:25,265
+Only I thought bigger.
+
+539
+00:32:26,109 --> 00:32:27,890
+Steal an apple,
+and you're a thief.
+
+540
+00:32:28,210 --> 00:32:30,851
+Steal a kingdom,
+and you're a statesman.
+
+541
+00:32:31,711 --> 00:32:33,906
+Only weak men stop there.
+
+542
+00:32:34,695 --> 00:32:37,570
+You're either the most powerful
+man in the room, or you're nothing.
+
+543
+00:32:38,305 --> 00:32:41,547
+You. You stumbled
+upon an opportunity.
+
+544
+00:32:41,718 --> 00:32:43,507
+I can make you rich.
+
+545
+00:32:43,820 --> 00:32:45,773
+Rich enough to impress a princess.
+
+546
+00:32:46,586 --> 00:32:48,312
+But nothing comes for free.
+
+547
+00:32:58,200 --> 00:32:59,653
+What would I have to do?
+
+548
+00:33:00,934 --> 00:33:02,825
+There's a cave nearby.
+
+549
+00:33:03,684 --> 00:33:06,903
+And in it, a simple oil lamp.
+
+550
+00:33:07,442 --> 00:33:09,473
+Retrieve it for me,
+and I will make you
+
+551
+00:33:09,504 --> 00:33:12,786
+wealthy enough to
+impress a princess.
+
+552
+00:33:15,083 --> 00:33:17,075
+You're nothing to her.
+
+553
+00:33:17,598 --> 00:33:19,192
+But you could be.
+
+554
+00:33:19,973 --> 00:33:24,418
+Your life begins now, Aladdin.
+
+555
+00:33:30,551 --> 00:33:31,793
+Still waiting?
+
+556
+00:33:33,098 --> 00:33:37,035
+No. No, I... came out to...
+
+557
+00:33:40,707 --> 00:33:41,981
+He promised.
+
+558
+00:33:45,238 --> 00:33:47,285
+I'll be upstairs if you need me.
+
+559
+00:33:47,801 --> 00:33:49,066
+Good night, Dalia.
+
+560
+00:33:57,004 --> 00:33:58,895
+The Cave of Wonders.
+
+561
+00:33:59,129 --> 00:34:01,191
+When you enter,
+you will see more riches
+
+562
+00:34:01,216 --> 00:34:03,059
+than you've ever dreamed of.
+
+563
+00:34:03,176 --> 00:34:04,981
+Gold, diamonds...
+
+564
+00:34:05,106 --> 00:34:07,215
+and... the lamp.
+
+565
+00:34:07,285 --> 00:34:10,254
+Bring it to me and I will
+make you rich and free.
+
+566
+00:34:11,566 --> 00:34:12,691
+But take no other treasure,
+
+567
+00:34:12,716 --> 00:34:15,019
+no matter how sorely
+you are tempted.
+
+568
+00:34:18,589 --> 00:34:20,293
+And you will be tempted.
+
+569
+00:34:23,879 --> 00:34:27,309
+Only one may enter here.
+
+570
+00:34:27,379 --> 00:34:31,160
+One who's worth lies far within.
+
+571
+00:34:31,238 --> 00:34:34,254
+A diamond in the rough.
+
+572
+00:34:35,254 --> 00:34:36,746
+Remember...
+
+573
+00:34:36,910 --> 00:34:39,059
+take nothing but the lamp.
+
+574
+00:35:20,456 --> 00:35:23,425
+Abu, don't touch. Remember?
+
+575
+00:36:12,291 --> 00:36:13,299
+Whoa.
+
+576
+00:36:20,307 --> 00:36:21,440
+Abu.
+
+577
+00:36:23,330 --> 00:36:25,776
+This is a magic carpet.
+
+578
+00:36:26,150 --> 00:36:27,784
+These really do exist.
+
+579
+00:36:28,651 --> 00:36:30,073
+Hello, carpet.
+
+580
+00:36:34,041 --> 00:36:36,424
+Let's see what we can do
+about your situation here.
+
+581
+00:36:51,151 --> 00:36:52,432
+Oh, hey!
+
+582
+00:36:52,792 --> 00:36:54,120
+Don't mention it.
+
+583
+00:36:56,964 --> 00:37:00,167
+Abu, keep your little
+monkey hands to yourself.
+
+584
+00:38:11,323 --> 00:38:12,901
+Abu! No!
+
+585
+00:38:12,926 --> 00:38:17,690
+You have touched the
+forbidden treasure!
+
+586
+00:38:17,767 --> 00:38:22,752
+Now, you will never
+again see the light
+
+587
+00:38:22,801 --> 00:38:24,650
+of day!
+
+588
+00:38:52,409 --> 00:38:53,776
+Carpet!
+
+589
+00:39:02,235 --> 00:39:03,977
+Abu, jump!
+
+590
+00:39:28,046 --> 00:39:29,389
+Could you give me a hand?
+
+591
+00:39:29,530 --> 00:39:30,749
+First, the lamp.
+
+592
+00:39:31,061 --> 00:39:33,678
+- No, no, first, your hand.
+- We don't have much time.
+
+593
+00:39:33,748 --> 00:39:35,085
+Give me the lamp.
+
+594
+00:39:40,452 --> 00:39:41,764
+Your hand!
+
+595
+00:39:41,952 --> 00:39:43,905
+Second no more, Master.
+
+596
+00:39:43,936 --> 00:39:45,311
+Now, your hand!
+
+597
+00:39:47,968 --> 00:39:49,655
+How about my foot?
+
+598
+00:39:51,233 --> 00:39:52,233
+No!
+
+599
+00:39:59,612 --> 00:40:01,120
+Get off me, monkey!
+
+600
+00:40:11,275 --> 00:40:12,814
+Dirty monkey.
+
+601
+00:40:22,055 --> 00:40:25,688
+Aaahhh!
+
+602
+00:40:35,799 --> 00:40:37,025
+We're alive.
+
+603
+00:40:37,219 --> 00:40:38,445
+I think.
+
+604
+00:40:39,195 --> 00:40:40,578
+Thank you, carpet.
+
+605
+00:40:45,109 --> 00:40:46,164
+Abu.
+
+606
+00:40:48,469 --> 00:40:49,617
+How did you...?
+
+607
+00:40:50,189 --> 00:40:51,861
+You cunning little monkey.
+
+608
+00:40:54,408 --> 00:40:57,306
+Now, all we need's a way out.
+
+609
+00:41:00,908 --> 00:41:03,580
+Hey, carpet, do you know
+a way out of here?
+
+610
+00:41:05,486 --> 00:41:06,595
+The lamp?
+
+611
+00:41:09,744 --> 00:41:10,908
+What is that?
+
+612
+00:41:27,392 --> 00:41:29,853
+Oh, great one who summons me.
+
+613
+00:41:30,306 --> 00:41:32,423
+Terrible one who commands me.
+
+614
+00:41:32,775 --> 00:41:35,017
+I stand by my oath.
+
+615
+00:41:35,150 --> 00:41:37,783
+Loyalty to wishes three.
+
+616
+00:41:39,774 --> 00:41:43,197
+I said... oh...
+
+617
+00:41:43,431 --> 00:41:44,822
+great...
+
+618
+00:41:45,314 --> 00:41:47,455
+Excuse me.
+Boy, where's your boss?
+
+619
+00:41:47,861 --> 00:41:49,556
+Help me out here,
+where's your boss?
+
+620
+00:41:49,673 --> 00:41:52,283
+If I was gonna talk to myself,
+I coulda just stayed in the lamp.
+
+621
+00:41:53,478 --> 00:41:55,071
+Hello!
+
+622
+00:41:55,345 --> 00:41:56,351
+Um...
+
+623
+00:41:56,376 --> 00:41:57,705
+Use your big boy voice.
+
+624
+00:41:58,002 --> 00:42:00,212
+I'm... talking...
+
+625
+00:42:00,830 --> 00:42:02,431
+to a smoking blue giant?
+
+626
+00:42:02,470 --> 00:42:03,525
+No!
+
+627
+00:42:04,181 --> 00:42:06,252
+I am not a giant.
+
+628
+00:42:06,291 --> 00:42:09,056
+I am a genie.
+There's a difference.
+
+629
+00:42:09,314 --> 00:42:11,533
+Giants are not real.
+
+630
+00:42:11,558 --> 00:42:13,712
+- Where's your boss?
+- Um, my boss?
+
+631
+00:42:13,759 --> 00:42:16,470
+Look, kid, I've been doing
+this a long time, all right?
+
+632
+00:42:16,502 --> 00:42:18,642
+There's always a guy, you know.
+
+633
+00:42:18,728 --> 00:42:21,072
+He's cheated somebody
+or buried somebody or...
+
+634
+00:42:21,220 --> 00:42:23,252
+I mean, you get my point.
+Where's that guy?
+
+635
+00:42:23,361 --> 00:42:25,697
+I know that guy.
+He's outside.
+
+636
+00:42:25,752 --> 00:42:26,986
+So...
+
+637
+00:42:27,306 --> 00:42:28,486
+it's just...
+
+638
+00:42:29,353 --> 00:42:30,978
+you and me down here?
+
+639
+00:42:31,447 --> 00:42:32,478
+And a monkey.
+
+640
+00:42:32,728 --> 00:42:34,899
+That's your personal business, but
+
+641
+00:42:34,931 --> 00:42:36,604
+we gonna need to talk
+about that monkey later.
+
+642
+00:42:36,628 --> 00:42:37,735
+Such a pretty little monkey.
+
+643
+00:42:37,759 --> 00:42:39,243
+So, you rubbed the lamp?
+
+644
+00:42:39,408 --> 00:42:40,619
+Uh-huh.
+
+645
+00:42:40,806 --> 00:42:42,228
+O... kay.
+
+646
+00:42:42,267 --> 00:42:43,774
+Hey, do you mind if I just
+
+647
+00:42:43,799 --> 00:42:45,437
+stretch it out over here?
+Do you mind?
+
+648
+00:42:45,462 --> 00:42:47,423
+Uh, are you asking me?
+
+649
+00:42:47,595 --> 00:42:48,916
+You're my master.
+
+650
+00:42:49,806 --> 00:42:51,627
+I'm your master?
+
+651
+00:42:51,727 --> 00:42:52,977
+Downward dog!
+
+652
+00:42:53,032 --> 00:42:55,258
+No, no, no. You look like
+you should be my master.
+
+653
+00:42:55,322 --> 00:42:58,291
+Right, but that's not
+quite how it works, though.
+
+654
+00:42:58,345 --> 00:43:00,111
+How long have you
+been trapped in here?
+
+655
+00:43:00,775 --> 00:43:01,782
+'Bout a thousand years.
+
+656
+00:43:01,939 --> 00:43:02,954
+A thousand years?
+
+657
+00:43:03,134 --> 00:43:04,330
+A thousand years?
+
+658
+00:43:04,455 --> 00:43:07,931
+Kid, is it me, or does, like,
+everything surprise you?
+
+659
+00:43:07,962 --> 00:43:10,361
+So, you really
+don't know who I am?
+
+660
+00:43:10,494 --> 00:43:12,611
+Genie, wishes, lamp?
+
+661
+00:43:12,720 --> 00:43:14,345
+None of that ringin' a bell?
+
+662
+00:43:15,416 --> 00:43:16,455
+Wow.
+
+663
+00:43:16,494 --> 00:43:18,205
+Well, th-th-that's a first.
+
+664
+00:43:19,197 --> 00:43:20,345
+Monkey!
+
+665
+00:43:26,212 --> 00:43:28,259
+Oh, you don't need to
+worry about him, he's fine.
+
+666
+00:43:32,627 --> 00:43:35,267
+♪ Well, Ali Baba, he had
+them forty thieves ♪
+
+667
+00:43:35,292 --> 00:43:37,103
+♪ Scheherazade had
+a thousand tales ♪
+
+668
+00:43:37,470 --> 00:43:40,110
+♪ Well, master, you're in luck
+because up your sleeve ♪
+
+669
+00:43:40,157 --> 00:43:42,759
+♪ You got a genie that never fails! ♪
+
+670
+00:43:43,697 --> 00:43:44,806
+Whoo!
+
+671
+00:43:47,095 --> 00:43:48,259
+I'm the best.
+
+672
+00:43:49,220 --> 00:43:50,274
+Yeah.
+
+673
+00:43:52,853 --> 00:43:54,142
+Not enough, huh?
+
+674
+00:43:55,025 --> 00:43:56,869
+I'm kidding. Watch this.
+
+675
+00:44:00,525 --> 00:44:01,931
+Here I go!
+
+676
+00:44:02,080 --> 00:44:04,142
+Unh, ooh, woo!
+
+677
+00:44:05,228 --> 00:44:06,244
+Back up!
+
+678
+00:44:06,290 --> 00:44:07,297
+Uh-oh!
+
+679
+00:44:07,377 --> 00:44:08,462
+Watch out!
+
+680
+00:44:09,790 --> 00:44:11,407
+You done wound me up!
+
+681
+00:44:11,454 --> 00:44:13,634
+'Boutta show you what
+I'm workin' with, unh!
+
+682
+00:44:13,712 --> 00:44:16,158
+♪ Well, Ali Baba, he had
+them forty thieves ♪
+
+683
+00:44:16,235 --> 00:44:18,524
+♪ Scheherazade had
+a thousand tales ♪
+
+684
+00:44:18,572 --> 00:44:21,142
+♪ But, master, you're in luck
+because up your sleeves ♪
+
+685
+00:44:21,167 --> 00:44:23,580
+♪ You got a brand of magic
+never fails ♪
+
+686
+00:44:23,642 --> 00:44:26,127
+♪ You got some power
+in your corner now ♪
+
+687
+00:44:26,189 --> 00:44:28,291
+♪ Heavy ammunition in your camp ♪
+
+688
+00:44:28,543 --> 00:44:31,238
+♪ You got some punch,
+pizazz, yahoo, and how? ♪
+
+689
+00:44:31,269 --> 00:44:32,980
+♪ All you gotta do
+is rub that lamp ♪
+
+690
+00:44:33,013 --> 00:44:34,144
+♪ And then I'll say ♪
+
+691
+00:44:34,169 --> 00:44:36,231
+♪ Mister-Man, what's your name?
+Whatever ♪
+
+692
+00:44:36,256 --> 00:44:38,222
+♪ What will your pleasure be? ♪
+
+693
+00:44:38,574 --> 00:44:40,824
+♪ Let me take your order,
+I'll jot it down ♪
+
+694
+00:44:40,989 --> 00:44:43,239
+♪ You ain't never had
+a friend like me ♪
+
+695
+00:44:44,137 --> 00:44:45,996
+♪ Life is your restaurant ♪
+
+696
+00:44:46,192 --> 00:44:47,989
+♪ And I'm your maitre d' ♪
+
+697
+00:44:48,504 --> 00:44:50,777
+♪ Come, whisper to me
+whatever it is you want ♪
+
+698
+00:44:50,816 --> 00:44:53,098
+♪ You ain't never had
+a friend like me ♪
+
+699
+00:44:53,723 --> 00:44:55,879
+♪ We pride ourselves on service ♪
+
+700
+00:44:56,012 --> 00:44:58,059
+♪ You the boss, the king, the shah! ♪
+
+701
+00:44:58,332 --> 00:45:00,793
+♪ Say what you wish,
+it's yours! True dish ♪
+
+702
+00:45:00,848 --> 00:45:03,886
+♪ How about a little more baklava? ♪
+
+703
+00:45:03,973 --> 00:45:05,785
+♪ Have some of column A ♪
+
+704
+00:45:05,926 --> 00:45:07,871
+♪ Try all of column B ♪
+
+705
+00:45:08,028 --> 00:45:10,746
+♪ I'm in the mood
+to help you, dude ♪
+
+706
+00:45:10,793 --> 00:45:12,996
+♪ You ain't never had
+a friend like me ♪
+
+707
+00:45:14,239 --> 00:45:15,261
+Oh!
+
+708
+00:45:15,614 --> 00:45:16,778
+Unh!
+
+709
+00:45:16,864 --> 00:45:18,199
+It's the big part
+
+710
+00:45:18,263 --> 00:45:19,263
+Watch out!
+
+711
+00:45:19,348 --> 00:45:20,442
+It's the big part
+
+712
+00:45:20,582 --> 00:45:21,668
+Oh!
+
+713
+00:45:22,457 --> 00:45:24,184
+♪ Can your friends do this? ♪
+
+714
+00:45:24,762 --> 00:45:26,692
+♪ Can your friends do that? ♪
+
+715
+00:45:27,276 --> 00:45:29,175
+♪ Can your friends pull this ♪
+
+716
+00:45:29,573 --> 00:45:32,192
+♪ Outta they little hat? ♪
+
+717
+00:45:32,224 --> 00:45:33,482
+♪ Can your friends go ♪
+
+718
+00:45:38,521 --> 00:45:40,287
+♪ I'm the genie of the lamp ♪
+
+719
+00:45:40,357 --> 00:45:43,294
+♪ I can sing, rap, dance,
+if you give me a chance, oh! ♪
+
+720
+00:45:43,357 --> 00:45:45,122
+♪ Don't sit there buggy-eyed ♪
+
+721
+00:45:45,147 --> 00:45:47,279
+♪ I'm here to answer
+all your midday prayers ♪
+
+722
+00:45:47,888 --> 00:45:50,091
+♪ You got me bona fide, certified ♪
+
+723
+00:45:50,162 --> 00:45:52,513
+♪ You got a genie
+for your charge d'affaires ♪
+
+724
+00:45:52,653 --> 00:45:54,918
+♪ I got a powerful urge
+to help you out ♪
+
+725
+00:45:54,943 --> 00:45:56,942
+♪ So what's your wish?
+I really wanna know ♪
+
+726
+00:45:57,229 --> 00:45:59,863
+♪ You got a list that's
+three miles long, no doubt ♪
+
+727
+00:45:59,926 --> 00:46:02,364
+♪ All you gotta do
+is rub like so ♪
+
+728
+00:46:02,575 --> 00:46:04,731
+♪ - Mister? Yes!
+- Aladdin ♪
+
+729
+00:46:04,895 --> 00:46:07,020
+♪ One wish or two or three ♪
+
+730
+00:46:07,145 --> 00:46:09,692
+♪ Well, I'm on the job,
+you big nabob ♪
+
+731
+00:46:09,832 --> 00:46:11,574
+♪ You ain't never had a friend,
+never had a friend ♪
+
+732
+00:46:11,598 --> 00:46:13,988
+♪ You ain't never had a friend,
+never had a friend ♪
+
+733
+00:46:14,104 --> 00:46:15,878
+♪ - You ain't never
+- Never ♪
+
+734
+00:46:16,019 --> 00:46:17,253
+♪ - Had a
+- Had a ♪
+
+735
+00:46:17,356 --> 00:46:18,542
+♪ - Friend
+- Friend ♪
+
+736
+00:46:18,605 --> 00:46:19,675
+♪ - Like
+- Like ♪
+
+737
+00:46:19,738 --> 00:46:24,562
+♪ Me! ♪
+
+738
+00:46:26,524 --> 00:46:28,814
+♪ You ain't never had
+a friend like me ♪
+
+739
+00:46:32,994 --> 00:46:34,157
+You can clap now.
+
+740
+00:46:34,182 --> 00:46:35,202
+Puh-domp.
+
+741
+00:46:37,311 --> 00:46:39,897
+No, no, no, no.
+Please, please, please, please.
+
+742
+00:46:39,983 --> 00:46:41,756
+You can thank me outside.
+
+743
+00:46:41,866 --> 00:46:43,272
+I-In the sun.
+
+744
+00:46:43,522 --> 00:46:44,803
+When you wish us out.
+
+745
+00:46:45,124 --> 00:46:47,092
+So, how does it work?
+
+746
+00:46:47,858 --> 00:46:50,131
+You're... kidding, right?
+
+747
+00:46:50,749 --> 00:46:52,866
+The whole song...
+
+748
+00:46:52,999 --> 00:46:55,608
+was th-the instructions!
+
+749
+00:46:56,092 --> 00:46:59,069
+Obviously you can't dance
+and listen at the same time.
+
+750
+00:46:59,108 --> 00:47:00,153
+So here's the basics:
+
+751
+00:47:00,178 --> 00:47:01,756
+Step one. Rub the lamp.
+
+752
+00:47:01,781 --> 00:47:03,538
+Step two. Say what you want.
+
+753
+00:47:03,608 --> 00:47:05,779
+Step three. There is no step three.
+
+754
+00:47:05,826 --> 00:47:07,169
+See? It's that easy.
+
+755
+00:47:07,194 --> 00:47:09,841
+You get three wishes. They must
+begin with rubbing the lamp
+
+756
+00:47:09,866 --> 00:47:11,513
+and saying "I wish". Got it?
+
+757
+00:47:11,561 --> 00:47:13,272
+- I think so.
+- A couple other rules.
+
+758
+00:47:13,310 --> 00:47:15,495
+You can't wish for more wishes.
+Three is enough.
+
+759
+00:47:15,520 --> 00:47:17,989
+Now, I can't make
+anybody love anybody.
+
+760
+00:47:18,014 --> 00:47:20,629
+Or bring anybody
+back from the dead.
+
+761
+00:47:20,654 --> 00:47:22,888
+Feel free to interrupt me
+anytime you don't understand.
+
+762
+00:47:22,913 --> 00:47:25,133
+I'm kidding. Don't ever interrupt me,
+no matter what.
+
+763
+00:47:25,158 --> 00:47:26,807
+Now, I usually don't have
+to go through all this
+
+764
+00:47:26,831 --> 00:47:28,860
+because by the time
+the guy gets to me,
+
+765
+00:47:28,915 --> 00:47:30,438
+he pretty much
+knows what he wants
+
+766
+00:47:30,463 --> 00:47:32,048
+and it generally has to do with
+
+767
+00:47:32,073 --> 00:47:35,493
+tons of money and power!
+
+768
+00:47:37,542 --> 00:47:40,190
+Do me a favor,
+do not drink from that cup.
+
+769
+00:47:40,215 --> 00:47:42,917
+I promise you, there's not
+enough money and power on earth
+
+770
+00:47:42,942 --> 00:47:44,292
+for you to be satisfied.
+
+771
+00:47:44,317 --> 00:47:46,111
+Good?
+So, what's your first wish?
+
+772
+00:47:46,151 --> 00:47:47,768
+Mm, well...
+
+773
+00:47:47,932 --> 00:47:51,291
+I have to think about it.
+I mean, if there are only three.
+
+774
+00:47:51,315 --> 00:47:53,159
+Why are there only three, anyway?
+
+775
+00:47:53,245 --> 00:47:55,081
+I don't know! Who cares?
+
+776
+00:47:55,612 --> 00:47:56,963
+You don't know.
+
+777
+00:47:56,995 --> 00:47:58,651
+I thought you were all-knowing?
+
+778
+00:47:58,676 --> 00:48:00,362
+That's 'cause you don't listen.
+
+779
+00:48:00,542 --> 00:48:02,237
+I never said I was all-knowing.
+
+780
+00:48:02,315 --> 00:48:04,010
+I said I was all-powerful.
+
+781
+00:48:04,088 --> 00:48:06,456
+The most powerful
+being in the universe.
+
+782
+00:48:06,503 --> 00:48:09,174
+Look, whatever I don't know,
+I know I can learn it.
+
+783
+00:48:09,393 --> 00:48:10,682
+Side in the sun.
+
+784
+00:48:10,729 --> 00:48:12,612
+Why you playin' hard to wish?
+
+785
+00:48:12,637 --> 00:48:15,158
+I know you can't tell,
+but I'm very pale.
+
+786
+00:48:15,194 --> 00:48:16,677
+This is sky blue.
+
+787
+00:48:16,702 --> 00:48:19,030
+My natural pigmentation is navy.
+
+788
+00:48:19,055 --> 00:48:20,592
+Give us some sun!
+
+789
+00:48:20,717 --> 00:48:21,819
+Okay, Genie.
+
+790
+00:48:21,844 --> 00:48:24,897
+I wish for you
+to get us out of this cave.
+
+791
+00:48:25,373 --> 00:48:28,842
+Oh, yeah!
+He has made his first wish!
+
+792
+00:48:28,905 --> 00:48:30,882
+Thank you for choosing
+carpets, camels and caravans.
+
+793
+00:48:30,906 --> 00:48:32,986
+Please don't forget to tip
+your genie on the way out.
+
+794
+00:48:33,022 --> 00:48:34,702
+Hold yourself, kid!
+
+795
+00:48:38,589 --> 00:48:39,721
+Whoo!
+
+796
+00:48:39,768 --> 00:48:40,885
+Whoa.
+
+797
+00:48:41,081 --> 00:48:43,362
+Man, look at this world.
+
+798
+00:48:43,577 --> 00:48:46,600
+It's so... big.
+
+799
+00:48:46,678 --> 00:48:48,694
+Inside the lamp,
+everything's like, brass!
+
+800
+00:48:48,757 --> 00:48:51,007
+Brass! Brass! Brass!
+
+801
+00:48:51,062 --> 00:48:53,586
+Like, ooh, is that some copper?
+Nope! Brass!
+
+802
+00:48:53,635 --> 00:48:56,354
+Sorta the problem with the
+genie life.
+
+803
+00:48:56,432 --> 00:48:58,268
+Phenomenal cosmic powers,
+
+804
+00:48:58,432 --> 00:49:00,284
+but itty-bitty living space.
+
+805
+00:49:00,351 --> 00:49:02,718
+So, is this magic?
+
+806
+00:49:02,788 --> 00:49:04,382
+Or are you magic?
+
+807
+00:49:04,515 --> 00:49:06,960
+Eh, kind of a package deal.
+
+808
+00:49:09,156 --> 00:49:11,304
+Can you warn me
+before you do that?
+
+809
+00:49:11,445 --> 00:49:13,046
+Oh, you'll get used to it.
+
+810
+00:49:13,289 --> 00:49:14,468
+Right.
+
+811
+00:49:14,789 --> 00:49:17,258
+So, do I have to make
+all my wishes here?
+
+812
+00:49:17,362 --> 00:49:19,675
+I mean, if I take you back to
+Agrabah, won't people...?
+
+813
+00:49:19,753 --> 00:49:22,792
+No, no, no, no, no.
+I can look totally normal.
+
+814
+00:49:24,300 --> 00:49:26,159
+Right. Totally normal.
+
+815
+00:49:28,005 --> 00:49:29,310
+Still blue.
+
+816
+00:49:31,755 --> 00:49:33,380
+Do we need the top knot?
+
+817
+00:49:33,458 --> 00:49:35,349
+That's my little cherry on top.
+
+818
+00:49:35,438 --> 00:49:36,805
+Okay, okay.
+
+819
+00:49:37,344 --> 00:49:38,523
+So...
+
+820
+00:49:39,508 --> 00:49:41,063
+What are you gonna wish?
+
+821
+00:49:41,133 --> 00:49:42,820
+Oh, I-I haven't
+thought about that.
+
+822
+00:49:42,845 --> 00:49:46,117
+Mm. You really are not that guy.
+
+823
+00:49:46,542 --> 00:49:48,956
+Okay.
+So what would you wish for?
+
+824
+00:49:51,823 --> 00:49:54,799
+No one's ever
+asked me that before.
+
+825
+00:49:55,648 --> 00:49:57,265
+An easy one though.
+
+826
+00:49:57,859 --> 00:49:59,609
+I wish to be free.
+
+827
+00:50:00,489 --> 00:50:01,661
+To not have to say,
+
+828
+00:50:01,974 --> 00:50:03,247
+Can I help you?
+
+829
+00:50:03,598 --> 00:50:04,638
+What would you like?
+
+830
+00:50:05,028 --> 00:50:06,988
+Welcome to the lamp.
+May I take your order please?
+
+831
+00:50:07,597 --> 00:50:08,611
+Freedom.
+
+832
+00:50:08,666 --> 00:50:10,361
+I wish to be...
+
+833
+00:50:10,962 --> 00:50:12,408
+To be human.
+
+834
+00:50:12,480 --> 00:50:14,402
+Why don't you just
+set yourself free?
+
+835
+00:50:17,336 --> 00:50:18,547
+Carpet!
+
+836
+00:50:18,610 --> 00:50:20,125
+Did you hear
+what this boy said?
+
+837
+00:50:20,180 --> 00:50:22,696
+Why don't I set myself free?
+
+838
+00:50:23,226 --> 00:50:25,523
+Only way a genie
+gets to be free is if
+
+839
+00:50:25,554 --> 00:50:27,069
+the owner of the lamp
+
+840
+00:50:27,140 --> 00:50:29,905
+uses one of his wishes
+to set him free.
+
+841
+00:50:29,930 --> 00:50:32,047
+And the last time
+that happened was, like,
+
+842
+00:50:32,072 --> 00:50:34,321
+the fourth of Never-ary.
+
+843
+00:50:37,735 --> 00:50:38,836
+I'll do it.
+
+844
+00:50:38,937 --> 00:50:40,218
+I've got three, right?
+
+845
+00:50:40,312 --> 00:50:41,804
+Actually, you have two left.
+
+846
+00:50:41,829 --> 00:50:44,626
+You used one to get out
+of the cave, remember?
+
+847
+00:50:44,696 --> 00:50:46,860
+Did I? Or did you?
+
+848
+00:50:46,885 --> 00:50:48,899
+I thought I had to be
+rubbing the lamp?
+
+849
+00:50:48,946 --> 00:50:51,462
+Okay, little street boy.
+Let's rewind the tape.
+
+850
+00:50:54,597 --> 00:50:55,691
+Okay, Genie.
+
+851
+00:50:55,839 --> 00:50:56,956
+Oooh!
+
+852
+00:50:56,987 --> 00:50:59,425
+The old
+monkey-with-the-lamp trick.
+
+853
+00:50:59,527 --> 00:51:01,886
+Never seen that one before.
+
+854
+00:51:02,769 --> 00:51:04,324
+Keep my eye on you.
+
+855
+00:51:04,488 --> 00:51:07,284
+At least now I can use my
+third wish to set you free.
+
+856
+00:51:08,402 --> 00:51:10,456
+Here's the thing about wishes.
+
+857
+00:51:10,870 --> 00:51:12,574
+The more you have,
+
+858
+00:51:12,971 --> 00:51:14,214
+the more you want.
+
+859
+00:51:14,581 --> 00:51:15,855
+That's not me.
+
+860
+00:51:16,652 --> 00:51:17,659
+Hmm.
+
+861
+00:51:17,784 --> 00:51:18,972
+We'll see about that.
+
+862
+00:51:19,027 --> 00:51:20,988
+- But there is something.
+- Uh-oh.
+
+863
+00:51:21,069 --> 00:51:22,826
+Seen that face before.
+
+864
+00:51:22,865 --> 00:51:23,881
+Who is she?
+
+865
+00:51:24,013 --> 00:51:25,216
+Who's the girl?
+
+866
+00:51:25,803 --> 00:51:26,912
+She's a princess.
+
+867
+00:51:26,983 --> 00:51:28,514
+Aww, aren't they all?
+
+868
+00:51:28,623 --> 00:51:31,209
+Treat your woman like a
+queen, I always say.
+
+869
+00:51:31,234 --> 00:51:34,120
+No. No, she's
+an actual princess.
+
+870
+00:51:34,145 --> 00:51:35,260
+Well, I already told you.
+
+871
+00:51:35,314 --> 00:51:37,564
+I can't make anyone
+love anyone, so.
+
+872
+00:51:37,589 --> 00:51:39,565
+No, no. We had a connection.
+
+873
+00:51:39,800 --> 00:51:41,018
+Did they?
+
+874
+00:51:42,195 --> 00:51:46,489
+She is smart and kind
+and so beautiful.
+
+875
+00:51:46,514 --> 00:51:48,912
+But she has to marry a...
+
+876
+00:51:50,052 --> 00:51:51,943
+Hey, can you make me a prince?
+
+877
+00:51:52,474 --> 00:51:56,584
+There's a lot of gray area
+in "make me a prince".
+
+878
+00:51:56,677 --> 00:51:59,037
+I could just... make you a prince.
+
+879
+00:51:59,302 --> 00:52:00,309
+Oh, no.
+
+880
+00:52:00,334 --> 00:52:02,615
+Right, you'd be snuggled up with
+that dude for the rest of your life.
+
+881
+00:52:02,639 --> 00:52:04,045
+Yo, you all seen my palace?
+
+882
+00:52:04,771 --> 00:52:07,013
+Be specific with your words.
+
+883
+00:52:07,209 --> 00:52:09,825
+- The deal is in the detail.
+- Got it.
+
+884
+00:52:09,880 --> 00:52:11,100
+Which I don't really understand
+
+885
+00:52:11,124 --> 00:52:13,388
+because if she already
+likes you, why change?
+
+886
+00:52:13,413 --> 00:52:16,089
+I told you she
+has to marry a prince.
+
+887
+00:52:16,114 --> 00:52:17,339
+I just wanna go home, man.
+
+888
+00:52:17,464 --> 00:52:19,535
+Okay. I can do that.
+
+889
+00:52:20,066 --> 00:52:22,371
+An official wish this time,
+
+890
+00:52:22,402 --> 00:52:23,808
+for those of us
+who are counting,
+
+891
+00:52:23,833 --> 00:52:25,699
+which now, I am one.
+
+892
+00:52:25,839 --> 00:52:28,441
+Genie... I wish...
+
+893
+00:52:28,487 --> 00:52:29,488
+Lamp?
+
+894
+00:52:29,542 --> 00:52:31,097
+Oh. Sorry.
+
+895
+00:52:32,756 --> 00:52:33,858
+All right.
+
+896
+00:52:34,272 --> 00:52:35,271
+Genie...
+
+897
+00:52:35,296 --> 00:52:36,749
+Don't hurt him, Genie.
+
+898
+00:52:37,325 --> 00:52:38,614
+I wish...
+
+899
+00:52:39,005 --> 00:52:40,411
+to become...
+
+900
+00:52:40,981 --> 00:52:42,215
+a prince.
+
+901
+00:52:42,240 --> 00:52:43,950
+Back up, boy,
+I need some room to work.
+
+902
+00:52:44,403 --> 00:52:46,216
+I'm about to fabulize you.
+
+903
+00:52:47,453 --> 00:52:48,602
+Genie?
+
+904
+00:52:53,134 --> 00:52:55,345
+A little head-spinning.
+Better though, right?
+
+905
+00:52:55,986 --> 00:52:58,361
+I think I'm...
+getting used to it.
+
+906
+00:52:58,509 --> 00:53:00,822
+Okay, a prince, a prince.
+
+907
+00:53:01,407 --> 00:53:04,892
+Obviously, the ghetto-chic
+is not gonna work.
+
+908
+00:53:05,306 --> 00:53:07,782
+I'm feeling a periwinkle.
+
+909
+00:53:07,907 --> 00:53:09,447
+Wh-What's periwinkle?
+
+910
+00:53:09,572 --> 00:53:11,423
+No. Chartreuse.
+
+911
+00:53:15,120 --> 00:53:16,815
+- The lines are all wrong.
+- What is this?
+
+912
+00:53:16,886 --> 00:53:18,596
+The color clashes
+with your skin tone.
+
+913
+00:53:18,621 --> 00:53:20,026
+The silhouette is confused.
+
+914
+00:53:20,089 --> 00:53:21,198
+This is a big hat.
+
+915
+00:53:21,237 --> 00:53:23,175
+No, that is not a big hat.
+
+916
+00:53:23,276 --> 00:53:25,440
+Come on, Genie,
+gotta beat the door down.
+
+917
+00:53:25,745 --> 00:53:27,026
+Gotta go bold!
+
+918
+00:53:27,112 --> 00:53:28,792
+Gotta... gold!
+
+919
+00:53:29,323 --> 00:53:30,964
+Aah, no!
+
+920
+00:53:31,081 --> 00:53:33,088
+- We've gone too far.
+- Genie! You slippin'.
+
+921
+00:53:33,198 --> 00:53:34,638
+It's gotta be neutral
+for the desert.
+
+922
+00:53:34,737 --> 00:53:37,346
+Ivory, beige, bone, Albion.
+
+923
+00:53:37,371 --> 00:53:38,705
+It's a little heavy.
+
+924
+00:53:42,330 --> 00:53:43,400
+Oh!
+
+925
+00:53:43,425 --> 00:53:45,322
+And the crowd goes wild!
+
+926
+00:53:45,884 --> 00:53:47,189
+Oho!
+
+927
+00:53:47,244 --> 00:53:50,197
+The Genie! The Genie's on fire!
+
+928
+00:53:50,438 --> 00:53:52,852
+The Genie's on fire, folks.
+
+929
+00:53:54,916 --> 00:53:56,228
+Somebody cool me down!
+
+930
+00:53:56,869 --> 00:53:59,306
+Somebody put me out!
+I'm too much!
+
+931
+00:54:01,541 --> 00:54:02,705
+So what do you think?
+
+932
+00:54:03,306 --> 00:54:04,306
+I like it.
+
+933
+00:54:04,331 --> 00:54:05,853
+Of course you like it, boy.
+I made it.
+
+934
+00:54:05,878 --> 00:54:07,103
+I think that's me.
+
+935
+00:54:07,189 --> 00:54:09,336
+Strictly speaking, it... it's me.
+
+936
+00:54:09,361 --> 00:54:11,798
+I mean, I did most of the work.
+You was just standing there.
+
+937
+00:54:11,823 --> 00:54:12,884
+But I hear you.
+
+938
+00:54:12,909 --> 00:54:15,134
+But won't people recognize me?
+
+939
+00:54:15,205 --> 00:54:18,017
+Nobody will recognize you.
+That's how genie magic works.
+
+940
+00:54:18,122 --> 00:54:20,013
+People see what
+they're told to see.
+
+941
+00:54:20,169 --> 00:54:21,231
+Right.
+
+942
+00:54:21,669 --> 00:54:23,317
+- Who am I?
+- Who...
+
+943
+00:54:24,542 --> 00:54:27,096
+Prince... Ali.
+
+944
+00:54:28,229 --> 00:54:29,956
+- From?
+- Duh.
+
+945
+00:54:30,003 --> 00:54:31,158
+From Abuvwah.
+
+946
+00:54:31,183 --> 00:54:32,956
+A-bab-wah?
+
+947
+00:54:33,253 --> 00:54:35,206
+You're not listenin'.
+Ababwah.
+
+948
+00:54:35,807 --> 00:54:37,385
+- Is that a real place?
+- Yeah.
+
+949
+00:54:37,410 --> 00:54:40,596
+Like, everybody knows about it.
+It has a brochure.
+
+950
+00:54:40,768 --> 00:54:42,799
+A little hot in the summer,
+temperate in the fall.
+
+951
+00:54:42,824 --> 00:54:44,221
+I-I'll let you read it en route.
+
+952
+00:54:45,236 --> 00:54:46,799
+How are we gonna get there?
+
+953
+00:54:47,885 --> 00:54:49,846
+I guess you can't ride a chimp.
+
+954
+00:54:50,185 --> 00:54:51,505
+Don't you just love
+a moonwalking monkey?
+
+955
+00:54:51,529 --> 00:54:53,553
+Uh-uh, hold it there, Abu.
+
+956
+00:54:54,842 --> 00:54:56,318
+Donkey. Too small.
+
+957
+00:54:58,873 --> 00:55:01,185
+No. Too obvious.
+
+958
+00:55:01,210 --> 00:55:03,060
+We need something robust.
+
+959
+00:55:07,641 --> 00:55:09,453
+Relax, Abu.
+It's just for a minute.
+
+960
+00:55:09,478 --> 00:55:10,547
+Whoa.
+
+961
+00:55:10,953 --> 00:55:12,071
+Prince Ali...
+
+962
+00:55:12,383 --> 00:55:13,391
+of Ababwah.
+
+963
+00:55:13,476 --> 00:55:15,414
+And now, for your entourage.
+
+964
+00:55:15,439 --> 00:55:16,461
+What?
+
+965
+00:55:19,312 --> 00:55:20,513
+What's happening?
+
+966
+00:55:20,538 --> 00:55:21,616
+Genie?
+
+967
+00:55:38,662 --> 00:55:39,772
+Clear the way!
+
+968
+00:55:40,100 --> 00:55:41,319
+Clear the way!
+
+969
+00:55:42,644 --> 00:55:45,191
+Clear the way! Clear the way!
+
+970
+00:56:14,488 --> 00:56:19,449
+♪ Make way for Prince Ali! ♪
+
+971
+00:56:19,754 --> 00:56:24,199
+♪ Say hey! It's Prince Ali! ♪
+
+972
+00:56:25,152 --> 00:56:27,683
+♪ Hey! Clear the way
+in the old bazaar ♪
+
+973
+00:56:27,708 --> 00:56:30,472
+♪ Hey you! Let us through!
+It's a brand new star ♪
+
+974
+00:56:30,497 --> 00:56:35,230
+♪ Oh come, be the first on
+your block to meet his eye! ♪
+
+975
+00:56:35,337 --> 00:56:36,776
+♪ Make way! Here he comes! ♪
+
+976
+00:56:36,869 --> 00:56:38,510
+♪ Ring bells! Bang the drums! ♪
+
+977
+00:56:38,535 --> 00:56:40,363
+♪ You're gonna love this guy ♪
+
+978
+00:56:40,480 --> 00:56:45,284
+♪ Prince Ali! Fabulous he!
+Ali Ababwa ♪
+
+979
+00:56:45,331 --> 00:56:47,746
+♪ Show some respect,
+boy, genuflect ♪
+
+980
+00:56:47,832 --> 00:56:50,011
+♪ Down on one knee ♪
+
+981
+00:56:50,714 --> 00:56:52,879
+♪ Now, try your best to stay calm ♪
+
+982
+00:56:53,261 --> 00:56:55,652
+♪ Brush up your Friday salaam ♪
+
+983
+00:56:55,886 --> 00:57:00,207
+♪ Then come and meet his
+spectacular coterie ♪
+
+984
+00:57:00,519 --> 00:57:05,066
+♪ Prince Ali! Mighty is he!
+Ali Ababwa ♪
+
+985
+00:57:05,332 --> 00:57:07,472
+♪ Strong as ten regular men ♪
+
+986
+00:57:07,534 --> 00:57:09,152
+♪ Definitely! ♪
+
+987
+00:57:10,324 --> 00:57:12,582
+♪ He's faced the galloping hordes ♪
+
+988
+00:57:12,761 --> 00:57:15,144
+♪ A hundred bad guys
+with swords ♪
+
+989
+00:57:15,284 --> 00:57:17,104
+♪ Who sent those goons
+to their lords? ♪
+
+990
+00:57:17,182 --> 00:57:19,229
+♪ Why, Prince Ali ♪
+
+991
+00:57:19,316 --> 00:57:20,449
+♪ Fellas, he's got ♪
+
+992
+00:57:20,474 --> 00:57:23,394
+♪ He's got
+seventy-five golden camels ♪
+
+993
+00:57:23,419 --> 00:57:24,692
+♪ Now the ladies, what he got? ♪
+
+994
+00:57:24,716 --> 00:57:27,564
+♪ Purple peacocks,
+he's got fifty-three ♪
+
+995
+00:57:27,589 --> 00:57:28,980
+♪ Uh-uh-uh, uh-uh-uh,
+uh-uh-uh ♪
+
+996
+00:57:29,043 --> 00:57:33,168
+♪ When it comes to
+exotic-type mammals ♪
+
+997
+00:57:33,193 --> 00:57:34,410
+♪ Everybody help me out! ♪
+
+998
+00:57:34,435 --> 00:57:36,074
+♪ He's got a zoo
+I'm telling you ♪
+
+999
+00:57:36,099 --> 00:57:38,160
+♪ It's a world-class menagerie ♪
+
+1000
+00:57:38,242 --> 00:57:40,771
+♪ Prince Ali! Handsome is he
+There's no question this Ali's alluring ♪
+
+1001
+00:57:40,795 --> 00:57:43,226
+♪ Ali Ababwa
+Never ordinary, never boring ♪
+
+1002
+00:57:43,264 --> 00:57:45,016
+♪ That physique! How can I speak?
+Everything about that man ♪
+
+1003
+00:57:45,040 --> 00:57:46,794
+♪ Weak at my knees
+Just plain impresses ♪
+
+1004
+00:57:46,819 --> 00:57:47,945
+♪ You yummy boy! ♪
+
+1005
+00:57:47,989 --> 00:57:50,248
+♪ So, get on out in that square
+He's a winner, he's a whiz, a wonder ♪
+
+1006
+00:57:50,272 --> 00:57:52,553
+♪ Adjust your veil and prepare
+He's about to pull my heart asunder ♪
+
+1007
+00:57:52,577 --> 00:57:54,317
+♪ To gawk and grovel and stare
+And I absolutely love ♪
+
+1008
+00:57:54,341 --> 00:57:56,724
+♪ At Prince Ali, oops
+The way he dresses ♪
+
+1009
+00:57:56,749 --> 00:57:59,700
+♪ He's got ninety-five
+white Persian monkeys ♪
+
+1010
+00:57:59,778 --> 00:58:01,419
+♪ He got the monkeys,
+a bunch of monkeys ♪
+
+1011
+00:58:01,444 --> 00:58:04,271
+♪ And to view them
+he charges no fee ♪
+
+1012
+00:58:04,296 --> 00:58:05,942
+♪ He's generous, so generous ♪
+
+1013
+00:58:05,967 --> 00:58:09,349
+♪ He's got 10,000
+servants and flunkies ♪
+
+1014
+00:58:09,374 --> 00:58:10,601
+♪ Proud to work for him! ♪
+
+1015
+00:58:10,626 --> 00:58:12,188
+♪ They bow to his whim,
+love serving him ♪
+
+1016
+00:58:12,212 --> 00:58:16,289
+♪ They're just lousy
+with loyalty to Ali! ♪
+
+1017
+00:58:16,518 --> 00:58:19,057
+♪ Prince Ali! ♪
+
+1018
+00:58:19,440 --> 00:58:23,197
+♪ Prince Aaaa- ♪
+
+1019
+00:58:23,267 --> 00:58:24,604
+We waitin' for you!
+
+1020
+00:58:24,662 --> 00:58:28,075
+♪ Aaaa ♪
+
+1021
+00:58:28,100 --> 00:58:29,658
+We're not going 'til you go!
+
+1022
+00:58:29,740 --> 00:58:31,841
+♪ Aaaa ♪
+
+1023
+00:58:31,987 --> 00:58:33,174
+♪ Aa-aa ♪
+
+1024
+00:58:33,295 --> 00:58:34,318
+♪ Aaaa ♪
+
+1025
+00:58:34,361 --> 00:58:35,423
+You can do it!
+
+1026
+00:58:35,466 --> 00:58:37,115
+♪ Aaaa ♪
+
+1027
+00:58:37,182 --> 00:58:38,400
+There it is!
+
+1028
+00:58:39,073 --> 00:58:41,994
+♪ Prince Ali! ♪
+
+1029
+00:58:42,135 --> 00:58:44,768
+♪ Amorous he! ♪
+
+1030
+00:58:44,822 --> 00:58:48,338
+♪ Ali Ababwa ♪
+
+1031
+00:58:48,377 --> 00:58:52,620
+♪ Heard your princess was hot!
+Where is she? ♪
+
+1032
+00:58:53,815 --> 00:58:55,807
+♪ And that, good people, is why ♪
+
+1033
+00:58:55,955 --> 00:58:57,862
+♪ He got all cute and dropped by ♪
+
+1034
+00:58:57,947 --> 00:59:00,369
+♪ With sixty elephants, llamas galore
+- For real? ♪
+
+1035
+00:59:00,394 --> 00:59:02,322
+♪ With his bears and lions,
+a brass band and more - What? ♪
+
+1036
+00:59:02,346 --> 00:59:04,190
+♪ With his forty fakirs - Oh!
+His cooks, his bakers - Oh! ♪
+
+1037
+00:59:04,214 --> 00:59:05,572
+♪ His birds that warble on key
+- Oh! ♪
+
+1038
+00:59:05,596 --> 00:59:07,651
+♪ Make way ♪
+
+1039
+00:59:07,703 --> 00:59:13,601
+♪ For Prince Ali ♪
+
+1040
+00:59:32,185 --> 00:59:33,325
+Where are they?
+
+1041
+00:59:33,614 --> 00:59:34,661
+Relax.
+
+1042
+00:59:34,686 --> 00:59:36,208
+What is taking so long?
+
+1043
+00:59:37,795 --> 00:59:39,013
+Here comes the man.
+
+1044
+00:59:41,818 --> 00:59:43,178
+What you doing?
+Put your arms down.
+
+1045
+00:59:43,373 --> 00:59:45,076
+I'm... I'm presenting it.
+
+1046
+00:59:45,178 --> 00:59:46,193
+Put your arms down.
+
+1047
+00:59:46,318 --> 00:59:48,763
+It's a pleasure to
+welcome you to Agrabah,
+
+1048
+00:59:48,788 --> 00:59:50,013
+Prince Ali.
+
+1049
+00:59:52,459 --> 00:59:54,998
+- How did you break that?
+- I don't know. It fell off.
+
+1050
+00:59:55,240 --> 00:59:56,920
+It's a pleasure to meet him.
+
+1051
+00:59:56,998 --> 00:59:58,207
+Uh...
+
+1052
+00:59:58,232 --> 01:00:01,060
+It's just as much... a pleasure
+
+1053
+01:00:01,138 --> 01:00:03,303
+for me, Your Highness, Sir.
+
+1054
+01:00:03,349 --> 01:00:05,363
+You look very serene.
+
+1055
+01:00:05,388 --> 01:00:06,904
+That's a curtsy, not a bow.
+
+1056
+01:00:07,153 --> 01:00:08,153
+Stand up.
+
+1057
+01:00:08,178 --> 01:00:11,475
+I'm afraid I'm unfamiliar with...
+Ababwa.
+
+1058
+01:00:13,944 --> 01:00:15,506
+- Well, it's north.
+- It's south.
+
+1059
+01:00:17,889 --> 01:00:19,819
+Uh, we have a north
+
+1060
+01:00:20,631 --> 01:00:21,858
+and a south.
+
+1061
+01:00:21,958 --> 01:00:22,980
+What?
+
+1062
+01:00:23,014 --> 01:00:25,341
+It's near, if you were to go...
+it's... it's...
+
+1063
+01:00:25,366 --> 01:00:28,506
+Around there, you can find it,
+if you just look.
+
+1064
+01:00:28,531 --> 01:00:29,670
+Don't help me.
+
+1065
+01:00:29,733 --> 01:00:32,694
+The world is changing
+quickly, Jafar.
+
+1066
+01:00:33,030 --> 01:00:35,819
+It seems as if there is
+a new country every day.
+
+1067
+01:00:39,134 --> 01:00:40,251
+Don't touch me.
+
+1068
+01:00:40,822 --> 01:00:41,884
+Don't touch me.
+
+1069
+01:00:41,909 --> 01:00:42,993
+Well.
+
+1070
+01:00:43,704 --> 01:00:44,837
+Yes!
+
+1071
+01:00:44,862 --> 01:00:46,368
+You are very wise.
+
+1072
+01:00:46,572 --> 01:00:48,368
+Um, tell him that we have
+gifts, please.
+
+1073
+01:00:48,736 --> 01:00:50,009
+Oh, right!
+
+1074
+01:00:50,111 --> 01:00:52,126
+We have things! Gifts!
+
+1075
+01:00:52,258 --> 01:00:53,532
+Did you organize this?
+
+1076
+01:00:53,712 --> 01:00:54,970
+Bi-baba!
+
+1077
+01:00:56,978 --> 01:00:59,798
+Yes, here we are! Gifts.
+
+1078
+01:00:59,823 --> 01:01:01,353
+Coming right up.
+
+1079
+01:01:01,447 --> 01:01:04,376
+We have spices. Golden camels.
+
+1080
+01:01:04,447 --> 01:01:06,158
+And spoons, tiny spoons.
+
+1081
+01:01:06,266 --> 01:01:07,400
+Spoons!
+
+1082
+01:01:07,431 --> 01:01:09,259
+How do they make 'em that tiny?
+
+1083
+01:01:09,284 --> 01:01:10,447
+We have jams!
+
+1084
+01:01:10,472 --> 01:01:11,798
+- Jams?
+- Jams.
+
+1085
+01:01:11,962 --> 01:01:13,228
+Yes, jams!
+
+1086
+01:01:13,533 --> 01:01:14,876
+Yam jams.
+
+1087
+01:01:15,001 --> 01:01:16,048
+Fig jams.
+
+1088
+01:01:16,134 --> 01:01:17,157
+Yam jams!
+
+1089
+01:01:17,182 --> 01:01:18,243
+And date jams.
+
+1090
+01:01:18,268 --> 01:01:19,408
+Seedless.
+
+1091
+01:01:19,859 --> 01:01:22,281
+Delicious, e-exotic jams.
+
+1092
+01:01:22,306 --> 01:01:24,845
+Move. Away. From the jams.
+
+1093
+01:01:24,908 --> 01:01:26,595
+- What?
+- We have jewels.
+
+1094
+01:01:26,986 --> 01:01:27,986
+Jewels!
+
+1095
+01:01:28,033 --> 01:01:29,064
+We have them.
+
+1096
+01:01:29,089 --> 01:01:30,970
+And, uh, that!
+
+1097
+01:01:31,220 --> 01:01:32,290
+Over there.
+
+1098
+01:01:32,470 --> 01:01:33,923
+Hidden for...
+
+1099
+01:01:34,071 --> 01:01:35,235
+suspense.
+
+1100
+01:01:35,314 --> 01:01:36,322
+Wfoo.
+
+1101
+01:01:36,673 --> 01:01:37,900
+Ta-da.
+
+1102
+01:01:38,173 --> 01:01:40,681
+It's a... wheel?
+
+1103
+01:01:41,594 --> 01:01:43,867
+It's a... very expensive.
+
+1104
+01:01:43,937 --> 01:01:47,266
+And what do you hope to buy
+with this... expensive?
+
+1105
+01:01:47,328 --> 01:01:48,578
+You!
+
+1106
+01:01:51,515 --> 01:01:52,625
+Wow.
+
+1107
+01:01:53,125 --> 01:01:55,586
+No! No, no, no, no!
+A moment with you.
+
+1108
+01:01:55,610 --> 01:01:57,134
+A moment... that's not...
+
+1109
+01:01:57,251 --> 01:01:58,486
+Pkkffw.
+
+1110
+01:01:58,564 --> 01:02:00,877
+Are you suggesting I am for sale?
+
+1111
+01:02:01,088 --> 01:02:02,361
+Of course.
+
+1112
+01:02:02,948 --> 01:02:05,010
+Not! No, of course not!
+
+1113
+01:02:05,057 --> 01:02:06,127
+No!
+
+1114
+01:02:06,260 --> 01:02:09,158
+It's cold, and it's dark
+
+1115
+01:02:09,213 --> 01:02:10,534
+in that lamp.
+
+1116
+01:02:10,559 --> 01:02:11,799
+But I prefer it to this.
+
+1117
+01:02:11,824 --> 01:02:14,799
+Please excuse me,
+I... need to go and...
+
+1118
+01:02:15,143 --> 01:02:16,659
+find some bread.
+
+1119
+01:02:18,846 --> 01:02:20,159
+For the jams.
+
+1120
+01:02:20,184 --> 01:02:22,338
+No, no, that's not
+what I meant. I...
+
+1121
+01:02:22,401 --> 01:02:23,768
+You did great.
+
+1122
+01:02:24,088 --> 01:02:25,440
+That's not what I meant.
+
+1123
+01:02:25,565 --> 01:02:27,440
+Just leave her alone.
+You didn't do great.
+
+1124
+01:02:27,495 --> 01:02:30,315
+You will... get a chance
+to speak again.
+
+1125
+01:02:30,463 --> 01:02:34,072
+We hope you can join us tonight,
+Prince Ali,
+
+1126
+01:02:34,135 --> 01:02:36,745
+when we celebrate our harvest.
+
+1127
+01:02:36,838 --> 01:02:38,213
+Of course,
+
+1128
+01:02:38,299 --> 01:02:39,541
+Your...
+
+1129
+01:02:39,627 --> 01:02:41,276
+Serene Self.
+
+1130
+01:02:41,627 --> 01:02:43,018
+We will join you.
+
+1131
+01:02:43,291 --> 01:02:44,745
+Smooth.
+
+1132
+01:02:45,612 --> 01:02:47,627
+In 10,000 years,
+
+1133
+01:02:48,143 --> 01:02:49,924
+I've never been that embarrassed.
+
+1134
+01:02:58,654 --> 01:03:01,169
+Don't worry. You are not
+out of the game yet.
+
+1135
+01:03:01,254 --> 01:03:03,153
+Just do whatever you
+normally do at a party.
+
+1136
+01:03:03,200 --> 01:03:04,739
+I've never been to a party.
+
+1137
+01:03:04,764 --> 01:03:05,764
+What?
+
+1138
+01:03:05,980 --> 01:03:06,980
+What?
+
+1139
+01:03:07,146 --> 01:03:08,982
+Oh, you gonna need to go
+back to the room then.
+
+1140
+01:03:09,006 --> 01:03:10,395
+You're not messin' up my night.
+
+1141
+01:03:10,420 --> 01:03:11,864
+Prince Ali.
+
+1142
+01:03:14,388 --> 01:03:15,661
+May I have a word?
+
+1143
+01:03:15,872 --> 01:03:17,200
+Privately?
+
+1144
+01:03:18,396 --> 01:03:20,904
+This doesn't concern your
+servant.
+
+1145
+01:03:23,005 --> 01:03:25,029
+Be over there,
+minding my business.
+
+1146
+01:03:30,294 --> 01:03:31,622
+I know who you are.
+
+1147
+01:03:35,082 --> 01:03:36,090
+You do?
+
+1148
+01:03:37,849 --> 01:03:38,927
+Yes.
+
+1149
+01:03:39,247 --> 01:03:42,279
+You're a man of great
+ambition, like myself.
+
+1150
+01:03:43,521 --> 01:03:46,310
+I, uh, I don't believe we've
+been properly introduced.
+
+1151
+01:03:46,419 --> 01:03:47,529
+Jafar.
+
+1152
+01:03:47,966 --> 01:03:50,021
+Vizier to the Sultan.
+
+1153
+01:03:50,060 --> 01:03:51,980
+I could be a valuable ally
+
+1154
+01:03:52,005 --> 01:03:54,154
+to help you get what you want.
+
+1155
+01:03:54,466 --> 01:03:56,247
+I, uh, I will think on that.
+
+1156
+01:03:56,309 --> 01:03:57,786
+I don't wanna keep
+the Princess waiting.
+
+1157
+01:03:57,810 --> 01:04:00,872
+Perhaps I'm not
+making myself clear.
+
+1158
+01:04:02,372 --> 01:04:04,966
+This offer will not be on
+the table for long, you see.
+
+1159
+01:04:07,528 --> 01:04:08,911
+Prince Ali...
+
+1160
+01:04:09,098 --> 01:04:10,458
+Excuse me.
+
+1161
+01:04:10,700 --> 01:04:12,950
+Prince Ali, your
+presence is requested.
+
+1162
+01:04:13,810 --> 01:04:16,005
+So I guess that's <i>the</i> guy.
+
+1163
+01:04:16,169 --> 01:04:18,185
+Mm-hmm, that's the guy.
+
+1164
+01:04:26,765 --> 01:04:28,069
+Okay, there she is.
+
+1165
+01:04:28,569 --> 01:04:29,623
+This is your chance.
+
+1166
+01:04:29,648 --> 01:04:30,733
+You know what?
+
+1167
+01:04:30,874 --> 01:04:33,593
+There are a lot of people.
+I don't think I can do this.
+
+1168
+01:04:34,483 --> 01:04:35,929
+- You'll be fine.
+- Okay.
+
+1169
+01:04:35,983 --> 01:04:37,272
+This one's gonna be easy.
+
+1170
+01:04:37,843 --> 01:04:40,296
+Ooh! Look at her handmaid.
+
+1171
+01:04:43,319 --> 01:04:46,171
+She's gonna get some punch.
+Feelin' a little thirsty myself.
+
+1172
+01:04:46,196 --> 01:04:47,765
+No. No, no, no, no.
+You can't leave me.
+
+1173
+01:04:47,850 --> 01:04:49,842
+- They'll see right through me.
+- No, they won't.
+
+1174
+01:04:49,905 --> 01:04:51,843
+All you have to do
+is walk over there.
+
+1175
+01:04:51,868 --> 01:04:54,233
+And speak.
+I also have to speak.
+
+1176
+01:04:54,296 --> 01:04:55,757
+Okay, listen to me.
+
+1177
+01:04:55,936 --> 01:04:57,382
+I live in a lamp.
+
+1178
+01:04:57,725 --> 01:05:01,265
+But this is a party.
+Do not mess this up for me.
+
+1179
+01:05:01,358 --> 01:05:03,679
+Okay? I'd like to party.
+
+1180
+01:05:03,704 --> 01:05:04,983
+Go get her!
+
+1181
+01:05:06,710 --> 01:05:08,890
+Okay. Mm-hrm.
+
+1182
+01:05:14,966 --> 01:05:17,396
+Princess Jasmine!
+
+1183
+01:05:18,115 --> 01:05:19,888
+You! You're... still here.
+
+1184
+01:05:20,044 --> 01:05:21,263
+Yas.
+
+1185
+01:05:25,388 --> 01:05:26,529
+What you doing?
+
+1186
+01:05:26,974 --> 01:05:27,989
+Hmm?
+
+1187
+01:05:28,021 --> 01:05:29,263
+What are you doing?
+
+1188
+01:05:29,296 --> 01:05:32,708
+I'm just making sure the water's...
+a good temperature.
+
+1189
+01:05:32,733 --> 01:05:34,169
+Why are you not over there?
+
+1190
+01:05:34,208 --> 01:05:35,990
+How am I supposed to
+compete with that?
+
+1191
+01:05:36,015 --> 01:05:38,693
+Look at him. He's so princely.
+
+1192
+01:05:38,779 --> 01:05:42,005
+You have got to be more confident
+about what you have to offer.
+
+1193
+01:05:42,030 --> 01:05:43,763
+What do I have to offer?
+
+1194
+01:05:43,826 --> 01:05:45,255
+Knowledge of how to steal food?
+
+1195
+01:05:45,280 --> 01:05:47,326
+How to jump between buildings?
+
+1196
+01:05:47,568 --> 01:05:49,614
+Now, Prince Ali, he has jewels.
+
+1197
+01:05:49,639 --> 01:05:51,060
+Stop, stop, stop.
+
+1198
+01:05:52,529 --> 01:05:55,833
+I made you look like a prince
+on the outside.
+
+1199
+01:05:56,919 --> 01:05:59,091
+I didn't change anything
+on the inside.
+
+1200
+01:05:59,716 --> 01:06:01,865
+Prince Ali got you to the door.
+
+1201
+01:06:02,107 --> 01:06:04,115
+But Aladdin has to open it.
+
+1202
+01:06:05,044 --> 01:06:06,044
+Oh.
+
+1203
+01:06:06,185 --> 01:06:08,318
+See, the sultan does like me.
+
+1204
+01:06:08,365 --> 01:06:10,873
+Okay, well, maybe he'll
+let you be his wife.
+
+1205
+01:06:12,638 --> 01:06:15,865
+Look at that. Another prince
+more interested in Baba.
+
+1206
+01:06:16,529 --> 01:06:18,990
+I don't know. I think this
+one might be different.
+
+1207
+01:06:19,302 --> 01:06:22,310
+And he comes with an
+incredibly attractive friend.
+
+1208
+01:06:22,349 --> 01:06:23,724
+Please make it work.
+
+1209
+01:06:24,255 --> 01:06:26,912
+And what about Prince Ali?
+
+1210
+01:06:27,047 --> 01:06:29,492
+Oh, look at him,
+he's trying so hard.
+
+1211
+01:06:30,508 --> 01:06:31,891
+And that's the problem.
+
+1212
+01:06:32,094 --> 01:06:33,107
+Showtime.
+
+1213
+01:06:33,132 --> 01:06:34,501
+No, I'm waiting for
+the right moment.
+
+1214
+01:06:34,525 --> 01:06:37,031
+No, no. No waiting.
+We're done waiting.
+
+1215
+01:06:37,058 --> 01:06:38,659
+No. I'm in charge, okay?
+
+1216
+01:06:38,727 --> 01:06:40,796
+I say when it's
+the right moment.
+
+1217
+01:06:44,996 --> 01:06:46,934
+Really? Really?
+
+1218
+01:06:48,767 --> 01:06:50,236
+He's here. Say something.
+
+1219
+01:06:50,261 --> 01:06:51,767
+Act natural.
+
+1220
+01:06:53,189 --> 01:06:54,267
+Hi!
+
+1221
+01:06:55,570 --> 01:06:58,288
+I'm sorry... for the...
+
+1222
+01:06:58,320 --> 01:06:59,344
+The jams.
+
+1223
+01:06:59,422 --> 01:07:00,945
+And the jewels,
+and the-and the...
+
+1224
+01:07:01,047 --> 01:07:02,492
+And the buying you.
+
+1225
+01:07:02,656 --> 01:07:03,820
+That wasn't me.
+
+1226
+01:07:03,845 --> 01:07:04,904
+It-It was me.
+
+1227
+01:07:04,929 --> 01:07:07,516
+I don't, I-it was me. I don't
+have a twin or anything.
+
+1228
+01:07:07,541 --> 01:07:10,218
+But, uh, I... um...
+
+1229
+01:07:10,680 --> 01:07:12,297
+- You're...
+- Dance? I'd love to.
+
+1230
+01:07:13,437 --> 01:07:14,437
+Yes.
+
+1231
+01:07:20,900 --> 01:07:22,556
+Go. Go.
+
+1232
+01:09:42,986 --> 01:09:45,416
+Something very
+strange about him.
+
+1233
+01:09:47,470 --> 01:09:49,767
+Keep a close eye on Prince Ali.
+
+1234
+01:09:51,627 --> 01:09:52,681
+Walked out.
+
+1235
+01:09:52,751 --> 01:09:55,767
+Maybe I went a tad far
+with the backflip, but
+
+1236
+01:09:55,792 --> 01:09:56,860
+that dance
+
+1237
+01:09:56,885 --> 01:09:59,549
+may be the best thing
+you ever do in your life.
+
+1238
+01:10:00,064 --> 01:10:01,345
+I was pretty good.
+
+1239
+01:10:01,424 --> 01:10:03,252
+But nothing seems
+to impress her.
+
+1240
+01:10:03,431 --> 01:10:04,900
+Yeah, it's crazy. Not
+
+1241
+01:10:04,925 --> 01:10:07,353
+gems or jams or jewels.
+
+1242
+01:10:07,588 --> 01:10:08,994
+If I can't impress her,
+
+1243
+01:10:09,275 --> 01:10:10,838
+I wonder who can.
+
+1244
+01:10:11,689 --> 01:10:13,236
+What's that supposed to mean?
+
+1245
+01:10:13,283 --> 01:10:16,939
+I'm just sayin'
+try being yourself?
+
+1246
+01:10:17,011 --> 01:10:18,808
+But she has to marry a prince.
+
+1247
+01:10:19,753 --> 01:10:22,511
+If I just had a few more
+minutes with her, I know I could...
+
+1248
+01:10:23,917 --> 01:10:26,323
+- You need to get me over there.
+- Is that an official wish?
+
+1249
+01:10:26,370 --> 01:10:28,729
+No. It's a favor... for a friend.
+
+1250
+01:10:28,776 --> 01:10:31,862
+Ooh, yeah, see, genies
+don't really have friends.
+
+1251
+01:10:31,887 --> 01:10:34,097
+I thought you said you
+never had a friend like me?
+
+1252
+01:10:34,144 --> 01:10:37,901
+No. I said you...
+never had a friend like me.
+
+1253
+01:10:38,175 --> 01:10:39,487
+When you're a genie,
+
+1254
+01:10:39,534 --> 01:10:41,448
+somebody always wants
+somethin' from you.
+
+1255
+01:10:41,473 --> 01:10:42,667
+I-It's awkward.
+
+1256
+01:10:42,692 --> 01:10:44,315
+You're right. You're right.
+
+1257
+01:10:44,409 --> 01:10:46,581
+Besides, it would've involved
+
+1258
+01:10:46,606 --> 01:10:48,284
+distracting a
+certain handmaiden...
+
+1259
+01:10:48,409 --> 01:10:50,753
+Ooh! Ha! See what you're doin'.
+
+1260
+01:10:50,784 --> 01:10:52,440
+You hooked me.
+See you there?
+
+1261
+01:11:00,565 --> 01:11:01,644
+Good evening.
+
+1262
+01:11:01,893 --> 01:11:03,557
+How did you get past the guards?
+
+1263
+01:11:03,862 --> 01:11:06,542
+Oh, uh, I snuck past.
+
+1264
+01:11:06,612 --> 01:11:09,425
+All 48 of them?
+Even the ones that eat fire?
+
+1265
+01:11:09,450 --> 01:11:10,518
+Impressive.
+
+1266
+01:11:10,557 --> 01:11:11,854
+That's why I'm, uh...
+
+1267
+01:11:11,885 --> 01:11:13,698
+That's what people say about me.
+
+1268
+01:11:14,925 --> 01:11:17,847
+Oh, that-that didn't come out
+the right way.
+
+1269
+01:11:17,956 --> 01:11:20,089
+No one says that.
+I-I don't know why I said that.
+
+1270
+01:11:22,151 --> 01:11:23,558
+They're beautiful.
+
+1271
+01:11:23,894 --> 01:11:25,058
+She will hate them.
+
+1272
+01:11:25,276 --> 01:11:28,448
+Tell Prince Ali, the way to
+her heart is through her mind.
+
+1273
+01:11:28,752 --> 01:11:32,151
+Actually, these are from me...
+to you.
+
+1274
+01:11:34,448 --> 01:11:36,323
+Could you excuse me
+one moment?
+
+1275
+01:11:36,378 --> 01:11:38,104
+Wait, just...
+
+1276
+01:11:43,394 --> 01:11:44,901
+"That's what people
+say about me."
+
+1277
+01:11:45,362 --> 01:11:46,597
+Come on, Genie!
+
+1278
+01:11:47,440 --> 01:11:48,651
+My favorites.
+
+1279
+01:11:48,925 --> 01:11:50,745
+I accept. Please continue.
+
+1280
+01:11:50,800 --> 01:11:55,791
+I was noticing how...
+pleasant the evening is.
+
+1281
+01:11:55,816 --> 01:12:00,685
+At the party, I noticed...
+you noticing how...
+
+1282
+01:12:00,810 --> 01:12:02,967
+pleasant I am.
+
+1283
+01:12:03,268 --> 01:12:05,089
+Right. How's this going?
+
+1284
+01:12:05,167 --> 01:12:07,800
+It's clumsy, but in a
+charming sort of way.
+
+1285
+01:12:08,417 --> 01:12:09,831
+Uh, a stroll.
+
+1286
+01:12:11,480 --> 01:12:14,785
+Would you like to take
+an evening stroll?
+
+1287
+01:12:15,316 --> 01:12:16,847
+Just the two of us?
+
+1288
+01:12:16,941 --> 01:12:18,277
+On purpose?
+
+1289
+01:12:18,339 --> 01:12:20,011
+Yes. As people.
+
+1290
+01:12:21,518 --> 01:12:22,807
+Just one more second.
+
+1291
+01:12:22,832 --> 01:12:23,839
+Okay.
+
+1292
+01:12:24,659 --> 01:12:26,308
+Why would I say "as people"?
+
+1293
+01:12:27,050 --> 01:12:28,675
+The kid is contagious.
+
+1294
+01:12:34,956 --> 01:12:37,479
+I've never done this before.
+How does it work?
+
+1295
+01:12:38,316 --> 01:12:39,956
+Do you like sheep cheese?
+
+1296
+01:12:45,018 --> 01:12:46,135
+Come in.
+
+1297
+01:12:46,737 --> 01:12:48,331
+Actually, I'm already in.
+
+1298
+01:12:49,363 --> 01:12:50,620
+Don't move.
+
+1299
+01:12:53,761 --> 01:12:56,502
+I just came back...
+because you left so...
+
+1300
+01:12:56,527 --> 01:12:58,433
+How did you get there?
+
+1301
+01:13:00,120 --> 01:13:01,511
+Magic carpet?
+
+1302
+01:13:01,536 --> 01:13:02,536
+Hmm.
+
+1303
+01:13:03,824 --> 01:13:05,636
+Actually, I'm glad you are here.
+
+1304
+01:13:06,027 --> 01:13:07,097
+You are?
+
+1305
+01:13:07,261 --> 01:13:08,855
+I've been trying to find Ababwa,
+
+1306
+01:13:08,894 --> 01:13:11,636
+but it doesn't seem to
+be on any of my maps.
+
+1307
+01:13:12,964 --> 01:13:14,245
+Care to show me?
+
+1308
+01:13:14,910 --> 01:13:15,964
+I'd love to.
+
+1309
+01:13:17,386 --> 01:13:19,402
+Oh, Rajah, let's not
+eat the Prince today.
+
+1310
+01:13:19,427 --> 01:13:21,214
+He needs his legs for dancing.
+
+1311
+01:13:22,753 --> 01:13:24,963
+Did I go too far
+with the backflip?
+
+1312
+01:13:24,988 --> 01:13:26,128
+A little.
+
+1313
+01:13:28,213 --> 01:13:29,362
+Ababwah?
+
+1314
+01:13:29,549 --> 01:13:30,549
+Yes.
+
+1315
+01:13:30,602 --> 01:13:31,930
+Genie, I need to find Ababwah.
+
+1316
+01:13:31,955 --> 01:13:34,266
+The other brother, the short one.
+Not the one who
+
+1317
+01:13:34,291 --> 01:13:35,656
+gifted me a goat.
+
+1318
+01:13:36,361 --> 01:13:37,978
+She has lots of maps.
+
+1319
+01:13:39,463 --> 01:13:41,416
+Ababwah, of course.
+
+1320
+01:13:47,075 --> 01:13:48,169
+Ababwah.
+
+1321
+01:13:48,240 --> 01:13:50,724
+Yak napkins are not easy to find.
+
+1322
+01:14:05,061 --> 01:14:06,514
+Have you lost your country?
+
+1323
+01:14:06,787 --> 01:14:09,397
+My country? No. No.
+
+1324
+01:14:13,998 --> 01:14:15,513
+There it is.
+
+1325
+01:14:16,513 --> 01:14:18,724
+I don't think so.
+I've been...
+
+1326
+01:14:21,591 --> 01:14:22,865
+There it is!
+
+1327
+01:14:24,341 --> 01:14:25,615
+How did I not see that?
+
+1328
+01:14:25,857 --> 01:14:27,451
+Who needs maps anyway?
+
+1329
+01:14:27,662 --> 01:14:29,685
+They're old and useless.
+
+1330
+01:14:29,740 --> 01:14:31,443
+And have no practical value.
+
+1331
+01:14:31,468 --> 01:14:33,412
+Maps are how I see the world.
+
+1332
+01:14:33,919 --> 01:14:36,623
+I thought a princess
+could go anywhere?
+
+1333
+01:14:37,755 --> 01:14:38,974
+Not this princess.
+
+1334
+01:14:42,396 --> 01:14:44,959
+Uh, well, uh, would you...?
+
+1335
+01:14:45,216 --> 01:14:47,201
+Would you wanna...?
+
+1336
+01:14:48,646 --> 01:14:49,659
+Sorry.
+
+1337
+01:14:49,940 --> 01:14:51,034
+Sorry.
+
+1338
+01:14:52,393 --> 01:14:53,464
+Rajah.
+
+1339
+01:15:01,194 --> 01:15:02,217
+Thanks...
+
+1340
+01:15:02,842 --> 01:15:04,256
+for that.
+
+1341
+01:15:05,998 --> 01:15:07,709
+I-I was saying...
+
+1342
+01:15:08,294 --> 01:15:10,545
+You should see these places.
+
+1343
+01:15:10,570 --> 01:15:13,241
+I mean, there's a whole world
+
+1344
+01:15:13,287 --> 01:15:15,310
+outside of books and maps.
+
+1345
+01:15:18,029 --> 01:15:19,412
+Do you want to?
+
+1346
+01:15:20,162 --> 01:15:21,881
+How? The door's guarded.
+
+1347
+01:15:22,321 --> 01:15:24,024
+Who said anything about a door?
+
+1348
+01:15:24,500 --> 01:15:25,945
+What are you doing?
+
+1349
+01:15:26,141 --> 01:15:27,907
+Sometimes Princess...
+
+1350
+01:15:28,875 --> 01:15:32,219
+Sometimes,
+you just have to take a risk.
+
+1351
+01:15:36,391 --> 01:15:38,140
+What just happened?
+
+1352
+01:15:44,610 --> 01:15:46,008
+What?
+
+1353
+01:15:47,750 --> 01:15:49,157
+Is this...?
+
+1354
+01:15:49,266 --> 01:15:50,945
+A magic carpet.
+
+1355
+01:15:52,274 --> 01:15:53,703
+Do you trust me?
+
+1356
+01:15:54,391 --> 01:15:55,758
+What did you say?
+
+1357
+01:15:55,922 --> 01:15:57,313
+Do you trust me?
+
+1358
+01:16:02,777 --> 01:16:04,019
+Yes.
+
+1359
+01:16:18,823 --> 01:16:21,682
+♪ I can show you the world ♪
+
+1360
+01:16:22,854 --> 01:16:26,479
+♪ Shining, shimmering, splendid ♪
+
+1361
+01:16:26,908 --> 01:16:28,729
+♪ Tell me, princess ♪
+
+1362
+01:16:28,932 --> 01:16:33,682
+♪ Now when did you last
+let your heart decide? ♪
+
+1363
+01:16:35,268 --> 01:16:38,346
+♪ I can open your eyes ♪
+
+1364
+01:16:39,338 --> 01:16:43,385
+♪ Take you wonder by wonder ♪
+
+1365
+01:16:43,463 --> 01:16:46,221
+♪ Over, sideways and under ♪
+
+1366
+01:16:46,299 --> 01:16:50,127
+♪ On a magic carpet ride ♪
+
+1367
+01:16:50,166 --> 01:16:53,803
+♪ A whole new world ♪
+
+1368
+01:17:24,127 --> 01:17:27,744
+♪ A new fantastic point of view ♪
+
+1369
+01:17:28,088 --> 01:17:30,783
+♪ No one to tell us, "No" ♪
+
+1370
+01:17:30,908 --> 01:17:32,893
+♪ Or where to go ♪
+
+1371
+01:17:32,979 --> 01:17:35,932
+♪ Or say we're only dreaming ♪
+
+1372
+01:17:36,002 --> 01:17:39,588
+♪ A whole new world ♪
+
+1373
+01:17:39,729 --> 01:17:43,510
+♪ A dazzling place I never knew ♪
+
+1374
+01:17:43,807 --> 01:17:46,604
+♪ But when I'm way up here ♪
+
+1375
+01:17:46,705 --> 01:17:48,392
+♪ It's crystal clear ♪
+
+1376
+01:17:48,478 --> 01:17:52,861
+♪ That now I'm in a whole
+new world with you ♪
+
+1377
+01:17:52,916 --> 01:17:56,940
+♪ Now I'm in a whole
+new world with you ♪
+
+1378
+01:17:56,965 --> 01:17:59,369
+♪ Unbelievable sights ♪
+
+1379
+01:18:00,737 --> 01:18:04,174
+♪ Indescribable feeling ♪
+
+1380
+01:18:04,455 --> 01:18:07,377
+♪ Soaring, tumbling, freewheeling ♪
+
+1381
+01:18:08,026 --> 01:18:10,729
+♪ Through an endless diamond sky ♪
+
+1382
+01:18:11,416 --> 01:18:15,158
+♪ A whole new world
+Don't you dare close your eyes ♪
+
+1383
+01:18:15,213 --> 01:18:19,151
+♪ A hundred thousand things to see
+Hold your breath, it gets better ♪
+
+1384
+01:18:19,307 --> 01:18:21,948
+♪ I'm like a shooting star ♪
+
+1385
+01:18:22,095 --> 01:18:23,939
+♪ I've come so far ♪
+
+1386
+01:18:23,964 --> 01:18:27,283
+♪ I can't go back to
+where I used to be ♪
+
+1387
+01:18:27,308 --> 01:18:30,580
+♪ A whole new world
+Every turn, a surprise ♪
+
+1388
+01:18:31,041 --> 01:18:34,924
+♪ With new horizons to pursue
+Every moment, red-letter ♪
+
+1389
+01:18:34,963 --> 01:18:37,674
+♪ I'll chase them anywhere ♪
+
+1390
+01:18:37,776 --> 01:18:39,612
+♪ There's time to spare ♪
+
+1391
+01:18:39,830 --> 01:18:45,471
+♪ Let me share this
+whole new world with you ♪
+
+1392
+01:18:46,549 --> 01:18:50,940
+♪ A whole new world
+A whole new world ♪
+
+1393
+01:18:51,260 --> 01:18:54,893
+♪ That's where we'll be
+That's where we'll be ♪
+
+1394
+01:18:54,971 --> 01:18:59,112
+♪ A thrilling chase
+A wondrous place ♪
+
+1395
+01:18:59,919 --> 01:19:06,826
+♪ For you and me ♪
+
+1396
+01:19:20,325 --> 01:19:21,771
+Of all the places
+you've shown me,
+
+1397
+01:19:21,796 --> 01:19:24,357
+this is by far,
+the most beautiful.
+
+1398
+01:19:25,654 --> 01:19:28,341
+Sometimes you just have to see
+it from a different perspective.
+
+1399
+01:19:29,373 --> 01:19:32,185
+It's them, the people.
+They make it beautiful.
+
+1400
+01:19:32,529 --> 01:19:34,826
+And they deserve a
+leader who knows that.
+
+1401
+01:19:35,232 --> 01:19:37,223
+I don't know why I
+think it could be me.
+
+1402
+01:19:37,248 --> 01:19:38,724
+Because it should be you.
+
+1403
+01:19:39,810 --> 01:19:41,084
+You think so?
+
+1404
+01:19:41,943 --> 01:19:43,568
+Does it matter, what I think?
+
+1405
+01:19:51,592 --> 01:19:54,646
+Oh, look at that adorable
+monkey down there. Is that Abu?
+
+1406
+01:19:54,671 --> 01:19:56,880
+No, no, it couldn't be Abu, he's...
+
+1407
+01:20:01,013 --> 01:20:03,176
+So, how many names
+do you have,
+
+1408
+01:20:03,216 --> 01:20:05,193
+Prince Aladdin?
+
+1409
+01:20:05,295 --> 01:20:06,435
+No, no, I...
+
+1410
+01:20:06,513 --> 01:20:07,912
+So, who's Prince Ali?
+
+1411
+01:20:08,256 --> 01:20:10,990
+I am... Prince Ali.
+
+1412
+01:20:11,068 --> 01:20:12,544
+But how would you
+know the city so well?
+
+1413
+01:20:12,568 --> 01:20:14,318
+I came to Agrabah early.
+
+1414
+01:20:14,607 --> 01:20:17,529
+Because to know a people,
+you have to see them for yourself.
+
+1415
+01:20:17,554 --> 01:20:19,115
+But you already know that.
+
+1416
+01:20:19,256 --> 01:20:22,497
+When we first met, you were
+disguised in your own city.
+
+1417
+01:20:22,748 --> 01:20:24,357
+You saw us arrive
+
+1418
+01:20:24,382 --> 01:20:27,678
+with dancers, an elephant,
+and a magic carpet.
+
+1419
+01:20:27,787 --> 01:20:29,974
+How could a street thief
+have all that?
+
+1420
+01:20:30,060 --> 01:20:32,443
+But how could I not
+recognize you?
+
+1421
+01:20:33,584 --> 01:20:35,872
+People don't see the real you
+when you're royalty.
+
+1422
+01:20:38,724 --> 01:20:40,076
+I'm sorry.
+
+1423
+01:20:40,997 --> 01:20:42,065
+I'm embarrassed.
+
+1424
+01:20:42,090 --> 01:20:44,308
+I mean, you've seen
+more of Agrabah in days
+
+1425
+01:20:44,333 --> 01:20:46,256
+than I have in an
+entire lifetime.
+
+1426
+01:20:50,207 --> 01:20:51,613
+We should...
+
+1427
+01:20:53,980 --> 01:20:55,699
+probably head back.
+
+1428
+01:20:57,152 --> 01:20:58,597
+Already?
+
+1429
+01:21:08,043 --> 01:21:09,535
+Until tomorrow, Princess.
+
+1430
+01:21:24,902 --> 01:21:26,144
+Good night.
+
+1431
+01:21:29,269 --> 01:21:30,433
+Good night.
+
+1432
+01:21:35,135 --> 01:21:36,214
+Yes.
+
+1433
+01:21:38,714 --> 01:21:40,472
+Woo-hoo!
+
+1434
+01:21:43,363 --> 01:21:45,043
+Fascinating.
+
+1435
+01:21:48,512 --> 01:21:49,597
+Ooh!
+
+1436
+01:21:49,965 --> 01:21:51,246
+I like that face.
+
+1437
+01:21:51,371 --> 01:21:53,457
+- Good date?
+- The best.
+
+1438
+01:21:53,605 --> 01:21:55,409
+But it was better than the best.
+
+1439
+01:21:55,902 --> 01:21:57,660
+She figured out I was Aladdin.
+
+1440
+01:21:57,745 --> 01:21:58,987
+You said that wouldn't happen.
+
+1441
+01:21:59,035 --> 01:21:59,932
+Wow.
+
+1442
+01:21:59,957 --> 01:22:03,261
+I mean, genie magic is
+really just a facade.
+
+1443
+01:22:03,286 --> 01:22:04,299
+At some point,
+
+1444
+01:22:04,324 --> 01:22:06,863
+the real character's always
+gonna shine through.
+
+1445
+01:22:07,090 --> 01:22:09,512
+But that's a good thing, right?
+Now, she knows.
+
+1446
+01:22:09,683 --> 01:22:11,908
+- Well...
+- Well, what?
+
+1447
+01:22:11,933 --> 01:22:14,588
+He told me he was only pretending
+to be a thief to see the city.
+
+1448
+01:22:14,613 --> 01:22:16,597
+But he's actually a prince.
+
+1449
+01:22:16,622 --> 01:22:19,058
+I convinced her that
+I really was a prince.
+
+1450
+01:22:19,168 --> 01:22:20,433
+And you believed him?
+
+1451
+01:22:20,458 --> 01:22:21,613
+And she believed you?
+
+1452
+01:22:21,638 --> 01:22:22,676
+I think so.
+
+1453
+01:22:22,730 --> 01:22:26,909
+Eventually, you are going
+to have to tell her the truth.
+
+1454
+01:22:26,934 --> 01:22:29,730
+Eventually, I will tell her.
+
+1455
+01:22:30,668 --> 01:22:31,996
+Anyway,
+
+1456
+01:22:32,409 --> 01:22:34,074
+I sort of am a prince now.
+
+1457
+01:22:34,558 --> 01:22:35,619
+Oh.
+
+1458
+01:22:35,644 --> 01:22:38,183
+So you're gonna drink
+from that cup.
+
+1459
+01:22:39,624 --> 01:22:41,554
+You don't think maybe
+you want to believe him
+
+1460
+01:22:41,579 --> 01:22:42,952
+because you have to
+marry a prince
+
+1461
+01:22:42,977 --> 01:22:44,593
+but you can't marry a thief?
+
+1462
+01:22:44,671 --> 01:22:45,757
+No.
+
+1463
+01:22:46,554 --> 01:22:47,843
+I believe him.
+
+1464
+01:22:48,140 --> 01:22:49,265
+I do.
+
+1465
+01:22:56,869 --> 01:22:58,119
+When the time is right,
+
+1466
+01:22:58,486 --> 01:22:59,674
+I will tell her.
+
+1467
+01:23:04,749 --> 01:23:05,772
+Morning?
+
+1468
+01:23:06,203 --> 01:23:07,375
+Morning.
+
+1469
+01:23:10,777 --> 01:23:11,918
+Not again.
+
+1470
+01:23:16,034 --> 01:23:17,597
+Please, please, I...
+
+1471
+01:23:18,573 --> 01:23:19,683
+Gentlemen.
+
+1472
+01:23:19,768 --> 01:23:22,042
+I-I think there's been
+some sort of confusion.
+
+1473
+01:23:22,112 --> 01:23:23,698
+I don't think
+you know who I am.
+
+1474
+01:23:23,776 --> 01:23:26,409
+Oh, no, no.
+I know who you are.
+
+1475
+01:23:27,376 --> 01:23:28,385
+Aladdin.
+
+1476
+01:23:28,697 --> 01:23:29,885
+Aladdin?
+
+1477
+01:23:30,448 --> 01:23:31,487
+Aladdin.
+
+1478
+01:23:31,512 --> 01:23:33,416
+I don't know who that is.
+I-I'm Prince Ali...
+
+1479
+01:23:33,441 --> 01:23:34,442
+Street rat.
+
+1480
+01:23:34,467 --> 01:23:35,467
+Of-Of Ababwah.
+
+1481
+01:23:35,492 --> 01:23:37,325
+A prince from a kingdom
+that doesn't exist.
+
+1482
+01:23:37,786 --> 01:23:40,371
+Who now possesses
+a magic carpet
+
+1483
+01:23:40,426 --> 01:23:42,177
+from the Cave of Wonders.
+
+1484
+01:23:42,202 --> 01:23:43,870
+Seems to me,
+the only way that's possible,
+
+1485
+01:23:43,895 --> 01:23:45,231
+Where's your monkey?
+
+1486
+01:23:45,256 --> 01:23:47,129
+Is if you found a certain treasure.
+
+1487
+01:23:48,364 --> 01:23:50,114
+My treasure.
+
+1488
+01:23:51,177 --> 01:23:52,504
+Where's the lamp?
+
+1489
+01:24:00,475 --> 01:24:03,092
+This clearly, is some sort
+of misunderstanding.
+
+1490
+01:24:03,202 --> 01:24:04,349
+I'm Prince Ali.
+
+1491
+01:24:04,374 --> 01:24:06,366
+If I throw you off
+of that balcony,
+
+1492
+01:24:07,053 --> 01:24:09,163
+and you are who
+you say you are,
+
+1493
+01:24:10,405 --> 01:24:12,795
+you will die a watery death.
+
+1494
+01:24:14,186 --> 01:24:15,384
+If you survive,
+
+1495
+01:24:15,977 --> 01:24:17,803
+it can only be
+because of the lamp.
+
+1496
+01:24:19,369 --> 01:24:21,251
+In which case,
+I will have my answer.
+
+1497
+01:24:22,400 --> 01:24:24,126
+For the last time...
+
+1498
+01:24:28,431 --> 01:24:30,822
+Where is the lamp?
+
+1499
+01:24:31,275 --> 01:24:32,548
+Listen to me.
+
+1500
+01:24:33,774 --> 01:24:35,298
+I don't know who you think I am.
+
+1501
+01:24:35,369 --> 01:24:36,884
+- Goodbye, Aladdin.
+- No!
+
+1502
+01:25:00,871 --> 01:25:01,996
+Hmm.
+
+1503
+01:25:42,579 --> 01:25:43,922
+What in the...?
+
+1504
+01:25:45,157 --> 01:25:47,609
+Oh! Hey, kid! Okay.
+
+1505
+01:25:47,868 --> 01:25:49,915
+I can't get you out of this
+unless you make a wish.
+
+1506
+01:25:50,016 --> 01:25:51,289
+You have to make a wish!
+
+1507
+01:25:51,314 --> 01:25:53,024
+Come on, wake up!
+
+1508
+01:25:53,049 --> 01:25:54,508
+Okay, try and form the words.
+
+1509
+01:25:54,562 --> 01:25:56,031
+"I wish."
+
+1510
+01:25:56,610 --> 01:25:58,829
+Kid, come on, wake up!
+
+1511
+01:25:58,914 --> 01:25:59,914
+Wake up.
+
+1512
+01:26:00,047 --> 01:26:01,813
+You need to think.
+Think, think.
+
+1513
+01:26:03,047 --> 01:26:04,047
+Think.
+
+1514
+01:26:04,657 --> 01:26:05,821
+Okay. Okay.
+
+1515
+01:26:05,846 --> 01:26:08,071
+A little gray area here,
+but it's worth a try.
+
+1516
+01:26:09,336 --> 01:26:12,266
+I, Aladdin, being of
+sound body and mind,
+
+1517
+01:26:12,291 --> 01:26:14,008
+declare that my second wish
+
+1518
+01:26:14,033 --> 01:26:15,985
+is to be saved from
+certain doom.
+
+1519
+01:26:16,010 --> 01:26:18,031
+I took the liberty to
+backdate that a day.
+
+1520
+01:26:18,063 --> 01:26:19,241
+I hope you don't mind.
+
+1521
+01:26:19,266 --> 01:26:20,571
+Yes! Here we go!
+Come on!
+
+1522
+01:26:32,032 --> 01:26:33,672
+Come on, kid! Kid!
+
+1523
+01:26:33,899 --> 01:26:35,703
+Kid, please. Come on.
+Wake up.
+
+1524
+01:26:35,961 --> 01:26:37,883
+Wake up, wake up. Kid!
+
+1525
+01:26:38,547 --> 01:26:40,742
+Wake up, please.
+
+1526
+01:26:42,000 --> 01:26:43,000
+Ew.
+
+1527
+01:26:45,543 --> 01:26:48,574
+Probably coulda done that
+the other direction though.
+
+1528
+01:26:52,512 --> 01:26:53,652
+How you doin'?
+
+1529
+01:26:54,356 --> 01:26:55,426
+Thanks, Genie.
+
+1530
+01:26:55,754 --> 01:26:58,723
+Hey, no problem, uh,
+I was in the neighborhood.
+
+1531
+01:26:59,520 --> 01:27:01,090
+I thought you said no favors?
+
+1532
+01:27:01,215 --> 01:27:02,309
+I wa-I wa...
+
+1533
+01:27:02,402 --> 01:27:03,715
+I thought you said no friends?
+
+1534
+01:27:04,192 --> 01:27:05,645
+Right, uh...
+
+1535
+01:27:05,785 --> 01:27:07,910
+It actually cost you a wish.
+
+1536
+01:27:10,020 --> 01:27:11,410
+Whatever it cost.
+
+1537
+01:27:12,871 --> 01:27:14,277
+You saved my life.
+
+1538
+01:27:14,520 --> 01:27:15,629
+Yeah, that's true.
+
+1539
+01:27:16,152 --> 01:27:19,020
+I mean, strictly speaking though,
+it was a team effort.
+
+1540
+01:27:22,649 --> 01:27:23,828
+Thank you.
+
+1541
+01:27:26,192 --> 01:27:27,723
+We have to stop Jafar.
+
+1542
+01:27:28,277 --> 01:27:29,840
+That's not gonna be easy.
+
+1543
+01:27:30,027 --> 01:27:32,020
+The Sultan trusts him completely.
+
+1544
+01:27:32,356 --> 01:27:34,309
+He has everybody fooled.
+
+1545
+01:27:36,425 --> 01:27:37,761
+Maybe not everyone.
+
+1546
+01:27:40,604 --> 01:27:42,948
+I overheard Prince Ali
+talking to his advisor
+
+1547
+01:27:42,973 --> 01:27:45,643
+about returning with an
+army to conquer Agrabah.
+
+1548
+01:27:45,668 --> 01:27:46,729
+What?
+
+1549
+01:27:46,810 --> 01:27:48,912
+Now it appears
+he's fled in the night.
+
+1550
+01:27:50,955 --> 01:27:51,979
+Jasmine.
+
+1551
+01:27:54,448 --> 01:27:55,946
+You heard him say this, Jafar?
+
+1552
+01:27:55,978 --> 01:27:57,549
+And you saw him leave?
+
+1553
+01:27:57,574 --> 01:27:58,432
+Uh-oh.
+
+1554
+01:27:58,457 --> 01:27:59,453
+Yes.
+
+1555
+01:27:59,478 --> 01:28:02,151
+With my own ears
+and my own eyes.
+
+1556
+01:28:02,424 --> 01:28:05,549
+So, what's the problem now,
+Princess?
+
+1557
+01:28:06,432 --> 01:28:08,979
+This is the problem, Jafar.
+
+1558
+01:28:09,260 --> 01:28:11,041
+If what you say is true,
+
+1559
+01:28:11,074 --> 01:28:13,143
+why is Prince Ali still here?
+
+1560
+01:28:13,206 --> 01:28:14,518
+Your Majesty.
+
+1561
+01:28:15,463 --> 01:28:17,112
+Prince Ali.
+
+1562
+01:28:18,729 --> 01:28:20,048
+This is a surprise.
+
+1563
+01:28:20,073 --> 01:28:22,752
+Your Highness, your advisor's
+not who he says he is.
+
+1564
+01:28:23,104 --> 01:28:24,197
+Oh.
+
+1565
+01:28:24,275 --> 01:28:25,814
+I'm not who I say I am.
+
+1566
+01:28:25,893 --> 01:28:26,993
+Baba,
+
+1567
+01:28:27,018 --> 01:28:29,549
+he tried to kill Prince Ali.
+
+1568
+01:28:30,682 --> 01:28:33,088
+Jafar, can you explain this to me?
+
+1569
+01:28:34,299 --> 01:28:35,377
+Yes.
+
+1570
+01:28:37,612 --> 01:28:38,963
+My Sultan...
+
+1571
+01:28:39,979 --> 01:28:44,424
+You know my loyalty
+belongs to you.
+
+1572
+01:28:46,849 --> 01:28:48,544
+Your loyalty.
+
+1573
+01:28:50,059 --> 01:28:51,497
+Your loyalty.
+
+1574
+01:28:52,044 --> 01:28:53,200
+Yes.
+
+1575
+01:28:55,833 --> 01:28:59,372
+Prince Ali, you invited
+yourself into our city.
+
+1576
+01:28:59,419 --> 01:29:01,591
+And we welcomed you
+as our guest.
+
+1577
+01:29:01,794 --> 01:29:05,106
+But I believe your intentions are...
+
+1578
+01:29:08,356 --> 01:29:09,880
+deceitful.
+
+1579
+01:29:10,302 --> 01:29:12,159
+You are a grave
+danger to Agrabah,
+
+1580
+01:29:12,184 --> 01:29:13,776
+and you shall be
+dealt with as such.
+
+1581
+01:29:13,801 --> 01:29:15,567
+Baba, what are you saying?
+
+1582
+01:29:15,614 --> 01:29:17,052
+Enough, Jasmine!
+
+1583
+01:29:17,661 --> 01:29:21,458
+Jafar told me
+of Prince Ali's ambition.
+
+1584
+01:29:21,614 --> 01:29:22,614
+The staff.
+
+1585
+01:29:22,639 --> 01:29:23,880
+He's here for my throne.
+
+1586
+01:29:24,153 --> 01:29:25,309
+Hakim!
+
+1587
+01:29:34,919 --> 01:29:36,075
+Baba?
+
+1588
+01:29:37,513 --> 01:29:38,644
+What happened?
+
+1589
+01:29:38,669 --> 01:29:39,917
+He had you under a spell.
+
+1590
+01:29:39,942 --> 01:29:41,177
+He's not to be trusted.
+
+1591
+01:29:41,599 --> 01:29:42,620
+Your Majesty.
+
+1592
+01:29:42,645 --> 01:29:43,778
+He wants your throne.
+
+1593
+01:29:43,848 --> 01:29:47,777
+Jafar, you were my
+most trusted advisor!
+
+1594
+01:29:48,590 --> 01:29:49,691
+Hakim!
+
+1595
+01:29:50,035 --> 01:29:51,676
+Put him in the dungeon!
+
+1596
+01:29:59,764 --> 01:30:01,779
+You should think
+about how quickly
+
+1597
+01:30:01,842 --> 01:30:05,530
+the sands of power shift
+in the storm, Hakim.
+
+1598
+01:30:05,772 --> 01:30:08,014
+I am loyal to my sultan.
+
+1599
+01:30:09,014 --> 01:30:10,787
+As you should have been.
+
+1600
+01:30:13,639 --> 01:30:15,733
+The law is the law.
+
+1601
+01:30:31,355 --> 01:30:32,683
+Prince Ali,
+
+1602
+01:30:32,988 --> 01:30:35,004
+I must apologize.
+
+1603
+01:30:35,129 --> 01:30:38,066
+Well, Your Highness,
+there's something I...
+
+1604
+01:30:38,433 --> 01:30:39,672
+I'd like to explain.
+
+1605
+01:30:39,697 --> 01:30:41,167
+Your honor and integrity
+
+1606
+01:30:41,192 --> 01:30:44,200
+will never again be
+questioned here in Agrabah.
+
+1607
+01:30:45,582 --> 01:30:46,644
+- I...
+- A more noble
+
+1608
+01:30:46,669 --> 01:30:49,246
+and sincere young man
+has never graced
+
+1609
+01:30:49,332 --> 01:30:51,496
+the chambers of this palace.
+
+1610
+01:30:51,566 --> 01:30:53,316
+- Well, uh...
+- Wow.
+
+1611
+01:30:53,495 --> 01:30:55,269
+I would be honored
+
+1612
+01:30:55,801 --> 01:30:58,207
+- to call you my son.
+- Oooh.
+
+1613
+01:30:58,457 --> 01:31:00,051
+If that...
+
+1614
+01:31:00,379 --> 01:31:02,652
+were something anyone wanted.
+
+1615
+01:31:03,801 --> 01:31:05,346
+So you got the girl.
+
+1616
+01:31:05,371 --> 01:31:08,230
+I mean, trust me, I had
+my doubts after your whole
+
+1617
+01:31:08,255 --> 01:31:09,621
+jam debacle.
+
+1618
+01:31:09,646 --> 01:31:12,996
+But y-you pulled yourself
+back together a little bit.
+
+1619
+01:31:13,418 --> 01:31:14,754
+I did, didn't I?
+
+1620
+01:31:14,902 --> 01:31:16,824
+I think I finally got the
+hang of being a prince.
+
+1621
+01:31:16,902 --> 01:31:18,955
+Oh, well, that-that's
+not exactly what I meant.
+
+1622
+01:31:18,980 --> 01:31:20,090
+But you were right.
+
+1623
+01:31:20,191 --> 01:31:21,683
+People see what they wanna see.
+
+1624
+01:31:21,730 --> 01:31:23,215
+Aladdin is gone.
+
+1625
+01:31:23,240 --> 01:31:24,441
+I'm Prince Ali now.
+
+1626
+01:31:24,512 --> 01:31:25,512
+Wow.
+
+1627
+01:31:25,537 --> 01:31:27,535
+Got it all figured out now,
+huh, kid?
+
+1628
+01:31:27,560 --> 01:31:29,441
+And you know, I was thinking
+about my last wish,
+
+1629
+01:31:29,488 --> 01:31:30,973
+and I just...
+
+1630
+01:31:31,333 --> 01:31:33,083
+I can't do this without you.
+
+1631
+01:31:33,146 --> 01:31:34,841
+I know I told you
+I'd use it to set you free,
+
+1632
+01:31:34,865 --> 01:31:36,130
+but you heard the sultan.
+
+1633
+01:31:36,155 --> 01:31:38,016
+I can't let everything that
+we've worked for fall apart.
+
+1634
+01:31:38,040 --> 01:31:39,040
+So...
+
+1635
+01:31:39,172 --> 01:31:41,797
+You just never
+tell her the truth?
+
+1636
+01:31:41,822 --> 01:31:43,243
+You're gonna keep
+living the lie?
+
+1637
+01:31:43,268 --> 01:31:45,329
+It's not a lie.
+People can change.
+
+1638
+01:31:45,461 --> 01:31:47,594
+Heh, oh, they can change, all right.
+
+1639
+01:31:48,984 --> 01:31:51,328
+And? That's a bad thing?
+
+1640
+01:31:51,430 --> 01:31:53,516
+Everything's better now.
+No one got hurt.
+
+1641
+01:31:53,541 --> 01:31:54,828
+You'd rather me
+be back on the streets
+
+1642
+01:31:54,852 --> 01:31:56,899
+stealing to survive? I...
+
+1643
+01:31:57,304 --> 01:31:59,117
+thought you'd be happy for me.
+
+1644
+01:32:00,001 --> 01:32:01,251
+But all you cared about was that
+
+1645
+01:32:01,275 --> 01:32:03,563
+I use my last wish
+to set you free.
+
+1646
+01:32:03,993 --> 01:32:05,907
+Wow. Kid,
+
+1647
+01:32:06,219 --> 01:32:07,852
+I don't care
+nothin' about that wish.
+
+1648
+01:32:08,266 --> 01:32:09,719
+This is about you.
+
+1649
+01:32:09,766 --> 01:32:11,649
+What's happening to you.
+
+1650
+01:32:11,852 --> 01:32:14,438
+You'd rather lie
+to somebody you love
+
+1651
+01:32:14,463 --> 01:32:16,321
+than give all of this up.
+
+1652
+01:32:16,446 --> 01:32:17,774
+You don't get it, Genie.
+
+1653
+01:32:18,485 --> 01:32:19,726
+People like me
+
+1654
+01:32:19,751 --> 01:32:22,290
+don't get anything
+except by pretending.
+
+1655
+01:32:23,133 --> 01:32:25,774
+I think, maybe,
+you don't get it.
+
+1656
+01:32:26,415 --> 01:32:29,649
+The more you gain
+by pretending,
+
+1657
+01:32:29,727 --> 01:32:32,047
+the less you're
+actually gonna have.
+
+1658
+01:32:32,696 --> 01:32:34,266
+10,000 years,
+
+1659
+01:32:34,291 --> 01:32:37,001
+I have never once, ever...
+
+1660
+01:32:37,368 --> 01:32:39,883
+called a master a friend.
+
+1661
+01:32:40,844 --> 01:32:42,344
+I broke the rules for you.
+
+1662
+01:32:42,540 --> 01:32:43,993
+I saved your life...
+
+1663
+01:32:44,079 --> 01:32:45,469
+and for what?
+
+1664
+01:32:45,656 --> 01:32:48,376
+You are breaking
+my heart here, kid.
+
+1665
+01:32:49,063 --> 01:32:50,515
+You're breaking my heart.
+
+1666
+01:32:50,540 --> 01:32:52,602
+Genie, no. Hey, come on!
+
+1667
+01:33:10,953 --> 01:33:11,994
+Master.
+
+1668
+01:33:14,314 --> 01:33:15,846
+Who does he think he is?
+
+1669
+01:33:16,033 --> 01:33:17,611
+He's supposed to serve me.
+
+1670
+01:33:17,838 --> 01:33:20,588
+I'm the same as I always was
+on the inside, right, Abu?
+
+1671
+01:33:25,541 --> 01:33:26,588
+Hey!
+
+1672
+01:33:47,236 --> 01:33:49,337
+Aah! Are you kidding?
+
+1673
+01:33:49,479 --> 01:33:51,908
+Now, why would you rub
+the thing under the...?
+
+1674
+01:33:52,408 --> 01:33:53,861
+Archway.
+
+1675
+01:34:02,305 --> 01:34:03,586
+Riffraff.
+
+1676
+01:34:04,274 --> 01:34:05,485
+Street rat.
+
+1677
+01:34:06,498 --> 01:34:08,014
+♪ Would they ♪
+
+1678
+01:34:08,561 --> 01:34:10,014
+♪ Think that ♪
+
+1679
+01:34:11,175 --> 01:34:13,738
+♪ If they look ♪
+
+1680
+01:34:13,918 --> 01:34:17,550
+♪ Much closer? ♪
+
+1681
+01:34:18,394 --> 01:34:21,988
+♪ Still, I can't play a prince here ♪
+
+1682
+01:34:22,066 --> 01:34:24,121
+♪ No, siree ♪
+
+1683
+01:34:26,597 --> 01:34:28,535
+♪ Gotta tell the truth ♪
+
+1684
+01:34:28,560 --> 01:34:30,308
+♪ I can't pretend ♪
+
+1685
+01:34:30,333 --> 01:34:32,238
+♪ Even if it means ♪
+
+1686
+01:34:32,300 --> 01:34:35,308
+♪ This dream will end ♪
+
+1687
+01:34:36,774 --> 01:34:38,501
+♪ Even if ♪
+
+1688
+01:34:38,884 --> 01:34:43,548
+♪ She walks away ♪
+
+1689
+01:34:45,314 --> 01:34:46,697
+♪ From me ♪
+
+1690
+01:34:57,001 --> 01:34:58,181
+Jafar.
+
+1691
+01:34:58,650 --> 01:35:01,720
+You should have left Agrabah
+while you had the chance.
+
+1692
+01:35:02,360 --> 01:35:05,086
+Why leave when the city
+belongs to me now?
+
+1693
+01:35:05,126 --> 01:35:06,376
+It's over, Jafar.
+
+1694
+01:35:06,401 --> 01:35:07,626
+Over for you.
+
+1695
+01:35:07,651 --> 01:35:11,354
+I've endured your spineless
+incompetence for long enough.
+
+1696
+01:35:11,414 --> 01:35:12,485
+Hakim.
+
+1697
+01:35:12,510 --> 01:35:13,806
+Own throne.
+
+1698
+01:35:24,615 --> 01:35:25,873
+Genie!
+
+1699
+01:35:26,053 --> 01:35:27,926
+For my first wish,
+
+1700
+01:35:27,951 --> 01:35:30,552
+I wish to be Sultan of Agrabah.
+
+1701
+01:35:30,577 --> 01:35:31,577
+What?
+
+1702
+01:35:32,467 --> 01:35:33,740
+As you wish, master.
+
+1703
+01:35:33,826 --> 01:35:34,834
+No.
+
+1704
+01:36:10,337 --> 01:36:11,493
+Hakim!
+
+1705
+01:36:11,970 --> 01:36:13,267
+Hakim!
+
+1706
+01:36:13,798 --> 01:36:15,517
+You obey the sultan.
+
+1707
+01:36:16,126 --> 01:36:18,025
+So you obey me now.
+
+1708
+01:36:23,158 --> 01:36:25,791
+You know the law, Hakim.
+
+1709
+01:36:30,837 --> 01:36:31,853
+No.
+
+1710
+01:36:35,587 --> 01:36:36,829
+My Sultan!
+
+1711
+01:36:37,439 --> 01:36:38,595
+- My Sultan!
+- My Sultan!
+
+1712
+01:36:41,111 --> 01:36:42,290
+Hakim.
+
+1713
+01:36:42,688 --> 01:36:44,595
+Marshal an army
+to invade Sherabad.
+
+1714
+01:36:44,626 --> 01:36:45,884
+- Sherabad?
+- You cannot...
+
+1715
+01:36:45,909 --> 01:36:47,993
+I think we've heard
+enough from you, Princess.
+
+1716
+01:36:48,018 --> 01:36:50,665
+It's time you start doing what
+you should've done all along.
+
+1717
+01:36:50,690 --> 01:36:52,369
+Stay silent.
+
+1718
+01:36:53,134 --> 01:36:54,283
+Guards!
+
+1719
+01:36:54,361 --> 01:36:55,830
+Remove her!
+
+1720
+01:36:59,142 --> 01:37:02,033
+Control that cat if you
+know what's good for you.
+
+1721
+01:37:05,892 --> 01:37:06,900
+Rajah.
+
+1722
+01:37:08,360 --> 01:37:09,368
+Rajah.
+
+1723
+01:37:10,142 --> 01:37:11,259
+It's all right.
+
+1724
+01:37:17,517 --> 01:37:19,501
+- Don't touch her!
+- Baba.
+
+1725
+01:37:25,985 --> 01:37:27,150
+Jasmine.
+
+1726
+01:37:39,931 --> 01:37:43,579
+♪ Written in stone
+Every rule, every word ♪
+
+1727
+01:37:43,626 --> 01:37:47,228
+♪ Centuries old and unbending ♪
+
+1728
+01:37:47,665 --> 01:37:51,032
+♪ Stay in your place
+Better seen and not heard ♪
+
+1729
+01:37:51,057 --> 01:37:56,056
+♪ Well, now that story is ending ♪
+
+1730
+01:37:57,166 --> 01:37:59,062
+♪ 'Cause I ♪
+
+1731
+01:37:59,087 --> 01:38:03,423
+♪ I cannot start to crumble ♪
+
+1732
+01:38:03,830 --> 01:38:05,955
+♪ So come on and try ♪
+
+1733
+01:38:06,048 --> 01:38:11,189
+♪ Try to shut me
+and cut me down ♪
+
+1734
+01:38:13,062 --> 01:38:16,140
+♪ I won't be silenced ♪
+
+1735
+01:38:16,165 --> 01:38:19,634
+♪ You can't keep me quiet ♪
+
+1736
+01:38:19,767 --> 01:38:23,267
+♪ Won't tremble when you try it ♪
+
+1737
+01:38:23,345 --> 01:38:27,540
+♪ All I know is I won't go speechless ♪
+
+1738
+01:38:27,603 --> 01:38:29,275
+♪ Speechless ♪
+
+1739
+01:38:29,300 --> 01:38:31,228
+♪ Let the storm in ♪
+
+1740
+01:38:31,439 --> 01:38:35,103
+♪ I cannot be broken ♪
+
+1741
+01:38:35,289 --> 01:38:38,547
+♪ No, I won't live unspoken ♪
+
+1742
+01:38:38,572 --> 01:38:41,642
+♪ 'Cause I won't go speechless ♪
+
+1743
+01:38:42,189 --> 01:38:45,345
+♪ Try to lock me in this cage ♪
+
+1744
+01:38:45,673 --> 01:38:50,017
+♪ I won't just lay me down and die ♪
+
+1745
+01:38:50,148 --> 01:38:53,091
+♪ I will take these broken wings ♪
+
+1746
+01:38:53,116 --> 01:38:57,820
+♪ And watch me burn across the sky ♪
+
+1747
+01:38:57,882 --> 01:38:59,835
+♪ And it echoes saying ♪
+
+1748
+01:38:59,922 --> 01:39:05,335
+♪ I won't be silenced ♪
+
+1749
+01:39:05,547 --> 01:39:11,086
+♪ Though you wanna see me
+tremble when you try it ♪
+
+1750
+01:39:11,117 --> 01:39:14,937
+♪ All I know is I won't
+go speechless ♪
+
+1751
+01:39:15,031 --> 01:39:16,922
+♪ Speechless ♪
+
+1752
+01:39:16,947 --> 01:39:18,836
+♪ 'Cause I'll breathe ♪
+
+1753
+01:39:19,062 --> 01:39:22,507
+♪ When they try to suffocate me ♪
+
+1754
+01:39:22,609 --> 01:39:25,936
+♪ Don't you underestimate me ♪
+
+1755
+01:39:26,039 --> 01:39:30,085
+♪ Cause I know that I won't
+go speechless ♪
+
+1756
+01:39:30,164 --> 01:39:33,570
+♪ All I know is I won't
+go speechless ♪
+
+1757
+01:39:34,007 --> 01:39:36,070
+♪ Speechless! ♪
+
+1758
+01:39:42,914 --> 01:39:44,054
+<i>Hakim!</i>
+
+1759
+01:39:44,523 --> 01:39:45,898
+Hakim!
+
+1760
+01:39:47,640 --> 01:39:49,437
+Take her away!
+
+1761
+01:39:51,312 --> 01:39:52,781
+Tell them, Hakim.
+
+1762
+01:40:01,852 --> 01:40:03,391
+You were just a boy
+
+1763
+01:40:04,274 --> 01:40:06,313
+when your father came
+to work the grounds.
+
+1764
+01:40:07,938 --> 01:40:09,258
+But you have risen up
+
+1765
+01:40:09,283 --> 01:40:12,251
+to become our
+most trusted soldier.
+
+1766
+01:40:12,688 --> 01:40:16,469
+As a man, I know you to be
+both loyal and just.
+
+1767
+01:40:17,868 --> 01:40:19,813
+But now, you have to choose.
+
+1768
+01:40:21,047 --> 01:40:23,079
+Duty isn't always honor.
+
+1769
+01:40:23,305 --> 01:40:25,031
+Our greatest challenge
+
+1770
+01:40:25,056 --> 01:40:27,531
+isn't speaking up
+against our enemies,
+
+1771
+01:40:28,243 --> 01:40:32,126
+but defying those whose
+approval we seek the most.
+
+1772
+01:40:32,656 --> 01:40:35,757
+Jafar is not worthy
+of your admiration
+
+1773
+01:40:35,782 --> 01:40:37,234
+nor your sacrifice.
+
+1774
+01:40:37,327 --> 01:40:41,624
+I wish nothing but glory
+for the Kingdom of Agrabah.
+
+1775
+01:40:41,649 --> 01:40:42,649
+No.
+
+1776
+01:40:43,038 --> 01:40:45,077
+You seek glory for yourself.
+
+1777
+01:40:45,585 --> 01:40:48,570
+And you would win it
+off the backs of my people!
+
+1778
+01:40:49,609 --> 01:40:50,812
+Hakim.
+
+1779
+01:40:51,218 --> 01:40:52,617
+These men,
+
+1780
+01:40:52,749 --> 01:40:55,991
+they will follow where you lead,
+but it's up to you.
+
+1781
+01:40:56,085 --> 01:40:57,522
+Will you stand silent
+
+1782
+01:40:57,547 --> 01:40:59,880
+while Jafar destroys
+our beloved kingdom?
+
+1783
+01:40:59,905 --> 01:41:01,687
+Or will you do what is right...
+
+1784
+01:41:06,679 --> 01:41:09,585
+And stand with the
+people of Agrabah?
+
+1785
+01:41:21,161 --> 01:41:23,145
+My Princess.
+
+1786
+01:41:25,231 --> 01:41:26,489
+Forgive me.
+
+1787
+01:41:28,512 --> 01:41:29,887
+My Sultan.
+
+1788
+01:41:34,715 --> 01:41:35,989
+Hakim.
+
+1789
+01:41:37,778 --> 01:41:40,489
+Guards! Arrest the Vizier.
+
+1790
+01:41:43,403 --> 01:41:44,504
+Rub the lamp.
+
+1791
+01:41:44,692 --> 01:41:46,731
+So this is how it will be.
+
+1792
+01:41:47,442 --> 01:41:48,949
+Not even the title of sultan
+
+1793
+01:41:48,974 --> 01:41:50,958
+would wake the herd
+from their sleep.
+
+1794
+01:41:51,340 --> 01:41:52,911
+I should have known.
+
+1795
+01:41:53,325 --> 01:41:55,434
+If you won't bow
+before a sultan,
+
+1796
+01:41:55,942 --> 01:41:57,989
+you will cower
+before a sorcerer.
+
+1797
+01:41:58,286 --> 01:41:59,504
+Genie!
+
+1798
+01:41:59,606 --> 01:42:02,825
+I wish to become the most
+powerful sorcerer there is.
+
+1799
+01:42:03,356 --> 01:42:05,012
+As you wish, master.
+
+1800
+01:42:29,733 --> 01:42:31,553
+This could be fun.
+
+1801
+01:42:33,327 --> 01:42:34,483
+Hakim.
+
+1802
+01:42:34,795 --> 01:42:36,928
+I had such big plans for you.
+
+1803
+01:42:37,866 --> 01:42:39,311
+But now...
+
+1804
+01:42:41,037 --> 01:42:43,178
+you are no longer
+of any use to me.
+
+1805
+01:42:43,717 --> 01:42:46,405
+Perhaps your men would like
+to follow you to the dungeon.
+
+1806
+01:42:48,764 --> 01:42:49,928
+You too.
+
+1807
+01:42:52,819 --> 01:42:53,983
+Prince Ali!
+
+1808
+01:42:56,418 --> 01:42:58,534
+If it isn't our Prince Ali...
+
+1809
+01:42:58,559 --> 01:42:59,620
+Ali!
+
+1810
+01:42:59,645 --> 01:43:00,887
+Or should I say...
+
+1811
+01:43:06,248 --> 01:43:07,436
+Aladdin.
+
+1812
+01:43:10,295 --> 01:43:11,389
+Aladdin.
+
+1813
+01:43:11,436 --> 01:43:13,740
+He's been pretending
+the entire time.
+
+1814
+01:43:14,013 --> 01:43:15,264
+An impostor.
+
+1815
+01:43:15,592 --> 01:43:17,639
+There is no Prince Ali.
+
+1816
+01:43:17,764 --> 01:43:19,022
+There never was.
+
+1817
+01:43:19,091 --> 01:43:21,373
+He's nothing but a lying thief.
+
+1818
+01:43:21,398 --> 01:43:22,656
+I'm sorry.
+
+1819
+01:43:22,740 --> 01:43:24,162
+You're insignificant.
+
+1820
+01:43:24,187 --> 01:43:27,389
+An irritation I no longer
+need to tolerate once I...
+
+1821
+01:43:27,454 --> 01:43:30,438
+ensure your agonizing death by
+
+1822
+01:43:30,532 --> 01:43:32,860
+banishing you to the
+ends of the earth.
+
+1823
+01:43:33,172 --> 01:43:34,172
+No!
+
+1824
+01:43:53,182 --> 01:43:54,197
+No.
+
+1825
+01:43:54,533 --> 01:43:55,596
+No.
+
+1826
+01:43:58,877 --> 01:43:59,955
+No.
+
+1827
+01:44:01,470 --> 01:44:02,782
+Abu!
+
+1828
+01:44:05,291 --> 01:44:07,564
+I could simply kill you all.
+
+1829
+01:44:08,392 --> 01:44:11,236
+But that would be inadequate
+repayment for years of
+
+1830
+01:44:11,291 --> 01:44:13,353
+humiliation and neglect.
+
+1831
+01:44:14,158 --> 01:44:15,767
+"Remember your place, Jafar."
+
+1832
+01:44:16,517 --> 01:44:18,486
+"You forget yourself, Jafar."
+
+1833
+01:44:18,971 --> 01:44:20,588
+- Jafar.
+- No.
+
+1834
+01:44:20,877 --> 01:44:22,236
+What you need,
+
+1835
+01:44:22,261 --> 01:44:23,385
+Baba,
+
+1836
+01:44:23,410 --> 01:44:24,650
+is to suffer.
+
+1837
+01:44:24,978 --> 01:44:26,134
+Like I have suffered.
+
+1838
+01:44:26,159 --> 01:44:27,159
+Baba?
+
+1839
+01:44:27,247 --> 01:44:29,512
+Watching me rule your
+kingdom be enough?
+
+1840
+01:44:29,700 --> 01:44:30,700
+Stop!
+
+1841
+01:44:30,725 --> 01:44:33,434
+But watching my armies devour
+your toothless allies...
+
+1842
+01:44:33,459 --> 01:44:34,958
+Please, make it stop!
+
+1843
+01:44:34,983 --> 01:44:37,778
+No, the most suitable punishment
+would be to make you watch
+
+1844
+01:44:37,803 --> 01:44:40,989
+- while I take what you love most.
+- No!
+
+1845
+01:44:41,582 --> 01:44:43,270
+- Baba!
+- And marry your daughter.
+
+1846
+01:44:43,567 --> 01:44:44,590
+No!
+
+1847
+01:44:45,817 --> 01:44:46,895
+No!
+
+1848
+01:44:47,934 --> 01:44:50,778
+She will never marry you.
+
+1849
+01:44:56,919 --> 01:44:58,380
+I will do as you wish!
+
+1850
+01:44:59,528 --> 01:45:00,966
+Make it stop!
+
+1851
+01:45:03,966 --> 01:45:05,442
+Make it stop.
+
+1852
+01:45:16,819 --> 01:45:17,842
+Abu!
+
+1853
+01:45:20,350 --> 01:45:21,381
+Abu!
+
+1854
+01:45:23,178 --> 01:45:24,397
+Abu!
+
+1855
+01:45:38,767 --> 01:45:39,923
+You okay?
+
+1856
+01:45:41,329 --> 01:45:42,447
+Let's get outta here.
+
+1857
+01:45:44,353 --> 01:45:45,353
+No.
+
+1858
+01:46:15,163 --> 01:46:16,827
+Your Highness, Sultan.
+
+1859
+01:46:17,006 --> 01:46:19,014
+In honesty and sincerity,
+
+1860
+01:46:19,436 --> 01:46:21,663
+- do you accept Princess Jasmine...
+- Yes.
+
+1861
+01:46:22,811 --> 01:46:24,671
+Yes, I accept.
+
+1862
+01:46:25,296 --> 01:46:26,608
+Princess.
+
+1863
+01:46:27,288 --> 01:46:31,639
+Princess Jasmine, do you accept
+the Sultan to be your husband?
+
+1864
+01:46:36,944 --> 01:46:38,561
+Come on, woman!
+
+1865
+01:46:39,841 --> 01:46:40,841
+Accept.
+
+1866
+01:46:40,866 --> 01:46:41,999
+I...
+
+1867
+01:46:46,780 --> 01:46:48,014
+Yes?
+
+1868
+01:46:48,725 --> 01:46:49,733
+I...
+
+1869
+01:46:51,600 --> 01:46:52,600
+Do not!
+
+1870
+01:46:53,632 --> 01:46:56,061
+- The lamp, the lamp!
+- Ah! Stop her!
+
+1871
+01:46:56,225 --> 01:46:57,514
+No, Jasmine!
+
+1872
+01:46:57,539 --> 01:46:58,694
+No!
+
+1873
+01:46:58,975 --> 01:47:00,960
+No! No!
+
+1874
+01:47:06,950 --> 01:47:08,856
+The lamp! Iago!
+
+1875
+01:47:08,881 --> 01:47:10,754
+- Are you okay?
+- Yes!
+
+1876
+01:47:22,137 --> 01:47:23,145
+Hold on!
+
+1877
+01:47:28,997 --> 01:47:30,184
+The lamp!
+
+1878
+01:47:30,559 --> 01:47:31,567
+Abu!
+
+1879
+01:48:01,052 --> 01:48:02,310
+Carpet, get me up there!
+
+1880
+01:48:05,654 --> 01:48:06,654
+Abu!
+
+1881
+01:48:11,005 --> 01:48:12,012
+Jump!
+
+1882
+01:48:40,314 --> 01:48:42,884
+You are nothing
+without your staff!
+
+1883
+01:48:43,282 --> 01:48:44,525
+Nothing!
+
+1884
+01:49:20,599 --> 01:49:21,865
+Carpet!
+
+1885
+01:49:34,219 --> 01:49:35,227
+Jasmine.
+
+1886
+01:49:39,649 --> 01:49:41,664
+Punish them. Punish them.
+
+1887
+01:49:44,238 --> 01:49:46,027
+Genie should witness.
+
+1888
+01:49:52,167 --> 01:49:53,722
+As the old man said,
+
+1889
+01:49:53,839 --> 01:49:55,999
+"You should have left Agrabah
+when you had the chance."
+
+1890
+01:50:06,744 --> 01:50:09,244
+I told you before to think bigger.
+
+1891
+01:50:09,385 --> 01:50:11,994
+You could have been the most
+powerful man in the room.
+
+1892
+01:50:12,104 --> 01:50:14,213
+But now, I hold the lamp.
+
+1893
+01:50:14,283 --> 01:50:16,393
+I hold the power.
+
+1894
+01:50:20,541 --> 01:50:23,135
+You can't find what you're
+looking for in that lamp, Jafar.
+
+1895
+01:50:23,760 --> 01:50:26,017
+I tried and failed,
+and so will you.
+
+1896
+01:50:26,057 --> 01:50:27,221
+You think so?
+
+1897
+01:50:27,510 --> 01:50:29,010
+But I am Sultan!
+
+1898
+01:50:29,416 --> 01:50:32,440
+I am the greatest sorcerer
+the world has ever seen.
+
+1899
+01:50:32,729 --> 01:50:36,455
+I will create an empire
+that history cannot ignore.
+
+1900
+01:50:37,299 --> 01:50:40,830
+I... can destroy cities.
+
+1901
+01:50:41,612 --> 01:50:44,533
+I can destroy kingdoms!
+
+1902
+01:50:49,681 --> 01:50:52,595
+And I can destroy you.
+
+1903
+01:50:52,651 --> 01:50:53,955
+True.
+
+1904
+01:50:54,151 --> 01:50:55,471
+But who made you a sultan?
+
+1905
+01:50:56,752 --> 01:50:58,190
+Who made you a sorcerer?
+
+1906
+01:50:58,767 --> 01:51:02,790
+There will always be some thing,
+some man, some being
+
+1907
+01:51:02,830 --> 01:51:04,869
+- more powerful than you.
+- What are you doing?
+
+1908
+01:51:04,947 --> 01:51:06,455
+Genie gave you your power,
+
+1909
+01:51:06,541 --> 01:51:07,791
+and he can take it away.
+
+1910
+01:51:07,854 --> 01:51:09,752
+- He serves me!
+- For now.
+
+1911
+01:51:09,777 --> 01:51:12,026
+But you'll never have
+more power than the genie.
+
+1912
+01:51:17,043 --> 01:51:18,689
+You said it yourself...
+
+1913
+01:51:19,299 --> 01:51:22,182
+You're either the most
+powerful in the room
+
+1914
+01:51:22,207 --> 01:51:24,073
+or you're nothing.
+
+1915
+01:51:25,330 --> 01:51:27,073
+You will always
+
+1916
+01:51:27,182 --> 01:51:28,541
+be second.
+
+1917
+01:51:28,658 --> 01:51:29,775
+Second.
+
+1918
+01:51:30,151 --> 01:51:31,181
+Second!
+
+1919
+01:51:34,026 --> 01:51:35,096
+Second?!
+
+1920
+01:51:35,690 --> 01:51:37,362
+Only second?
+
+1921
+01:51:37,869 --> 01:51:39,580
+He serves me!
+
+1922
+01:51:42,283 --> 01:51:46,252
+I will make sure no one will
+ever say these words again!
+
+1923
+01:51:46,377 --> 01:51:47,557
+Genie!
+
+1924
+01:51:48,229 --> 01:51:49,931
+For my final wish,
+I wish to become
+
+1925
+01:51:49,956 --> 01:51:52,869
+the most powerful
+being in the universe!
+
+1926
+01:51:53,073 --> 01:51:54,791
+More powerful than you!
+
+1927
+01:51:55,682 --> 01:51:58,143
+A lotta gray area in that wish,
+
+1928
+01:51:58,168 --> 01:51:59,604
+but, uh...
+
+1929
+01:51:59,791 --> 01:52:03,002
+The most powerful being
+in the universe!
+
+1930
+01:52:03,190 --> 01:52:04,893
+Coming right up!
+
+1931
+01:52:29,782 --> 01:52:32,016
+The most powerful in the universe!
+
+1932
+01:52:32,344 --> 01:52:33,618
+At last!
+
+1933
+01:52:33,852 --> 01:52:35,915
+Second to no one!
+
+1934
+01:52:36,266 --> 01:52:39,157
+And I thought
+I had power before!
+
+1935
+01:52:39,657 --> 01:52:40,836
+First...
+
+1936
+01:52:40,891 --> 01:52:44,204
+I'll lay waste to those
+fools in Sherabad.
+
+1937
+01:52:59,506 --> 01:53:00,951
+What have you done to me?
+
+1938
+01:53:00,990 --> 01:53:02,841
+I haven't done
+anything to you, Jafar.
+
+1939
+01:53:02,866 --> 01:53:04,724
+What have you done to me?!
+
+1940
+01:53:05,021 --> 01:53:06,716
+This was your wish, not mine.
+
+1941
+01:53:07,545 --> 01:53:09,966
+A genie might have
+phenomenal cosmic powers...
+
+1942
+01:53:09,991 --> 01:53:12,584
+But an itty-bitty living space.
+
+1943
+01:53:12,685 --> 01:53:15,584
+You see, a genie
+without a master,
+
+1944
+01:53:15,631 --> 01:53:17,865
+goes back in their lamp.
+
+1945
+01:53:22,568 --> 01:53:24,497
+I will not forget you, boy!
+
+1946
+01:53:24,522 --> 01:53:25,653
+Mark my words.
+
+1947
+01:53:25,678 --> 01:53:28,310
+I will not forget what
+you have done to me.
+
+1948
+01:53:28,335 --> 01:53:29,388
+Goodbye, Jafar.
+
+1949
+01:53:29,521 --> 01:53:31,912
+Parrot! You're coming with me!
+
+1950
+01:53:33,585 --> 01:53:34,694
+No!
+
+1951
+01:53:50,217 --> 01:53:51,217
+Baba!
+
+1952
+01:53:51,686 --> 01:53:52,843
+- Baba.
+- Come on.
+
+1953
+01:53:52,874 --> 01:53:54,826
+A couple thousand years
+in the Cave of Wonders
+
+1954
+01:53:54,851 --> 01:53:56,491
+ought to cool you off.
+
+1955
+01:54:07,561 --> 01:54:09,944
+Wait... wait.
+
+1956
+01:54:10,319 --> 01:54:12,085
+How can I ever thank you?
+
+1957
+01:54:12,327 --> 01:54:15,889
+Oh, no, no.
+You don't need to thank me.
+
+1958
+01:54:16,405 --> 01:54:18,764
+But I hope you
+accept my apology.
+
+1959
+01:54:19,046 --> 01:54:22,038
+I'm sorry...
+to the both of you.
+
+1960
+01:54:22,827 --> 01:54:24,108
+Especially you.
+
+1961
+01:54:24,304 --> 01:54:25,780
+You deserve...
+
+1962
+01:54:26,577 --> 01:54:27,905
+so much.
+
+1963
+01:54:28,882 --> 01:54:30,608
+We all make mistakes.
+
+1964
+01:54:34,444 --> 01:54:35,468
+Aladdin.
+
+1965
+01:54:38,866 --> 01:54:40,725
+I hope you find
+what you're looking for.
+
+1966
+01:54:46,624 --> 01:54:49,163
+Ooh, that's a bit of a mess
+there, Abu.
+
+1967
+01:54:49,225 --> 01:54:50,827
+Let me take care
+of that for you.
+
+1968
+01:54:58,545 --> 01:54:59,592
+Cute.
+
+1969
+01:55:00,225 --> 01:55:03,647
+Ah-ah-ah. No.
+No long faces, all right?
+
+1970
+01:55:03,701 --> 01:55:05,592
+I got an idea, all right?
+
+1971
+01:55:05,617 --> 01:55:07,147
+It's your last wish.
+
+1972
+01:55:07,272 --> 01:55:09,764
+Royalty was the
+right idea, okay?
+
+1973
+01:55:09,803 --> 01:55:11,678
+We should just
+rip on that a little bit.
+
+1974
+01:55:11,703 --> 01:55:13,553
+All right,
+here's what I'm thinkin'.
+
+1975
+01:55:14,569 --> 01:55:17,319
+Aladdin, warrior prince!
+
+1976
+01:55:17,428 --> 01:55:21,233
+A noble heart in a land
+where thieves run feral.
+
+1977
+01:55:21,975 --> 01:55:24,889
+Jasmine!
+
+1978
+01:55:25,631 --> 01:55:26,921
+You like it?
+
+1979
+01:55:27,460 --> 01:55:29,921
+No? Okay, all right.
+I hear you loud and clear.
+
+1980
+01:55:30,053 --> 01:55:31,819
+But this is what you need.
+
+1981
+01:55:32,014 --> 01:55:34,928
+The governing laws of
+Agrabah by royal decree.
+
+1982
+01:55:35,077 --> 01:55:37,280
+Okay, and... here it is!
+
+1983
+01:55:37,335 --> 01:55:39,366
+"Must marry a prince."
+
+1984
+01:55:39,391 --> 01:55:41,600
+Right. But, you say the words...
+
+1985
+01:55:41,646 --> 01:55:44,841
+and this law just kinda like,
+goes away.
+
+1986
+01:55:44,905 --> 01:55:46,288
+You and the princess
+
+1987
+01:55:46,327 --> 01:55:48,335
+are in it together forever.
+
+1988
+01:55:48,460 --> 01:55:50,521
+You can just
+make the law disappear?
+
+1989
+01:55:50,546 --> 01:55:51,928
+Psshh. Please.
+
+1990
+01:55:51,953 --> 01:55:53,537
+Like it never existed.
+
+1991
+01:55:54,483 --> 01:55:56,747
+All right. Last wish.
+Let's get it.
+
+1992
+01:55:56,772 --> 01:55:57,897
+Okay.
+
+1993
+01:55:58,444 --> 01:55:59,835
+Last wish.
+
+1994
+01:56:01,037 --> 01:56:02,037
+Genie.
+
+1995
+01:56:02,062 --> 01:56:03,601
+I'm ready. Hold on.
+Here we go.
+
+1996
+01:56:06,108 --> 01:56:07,280
+I wish...
+
+1997
+01:56:07,342 --> 01:56:09,553
+Third and final wish.
+
+1998
+01:56:09,639 --> 01:56:11,038
+I wish...
+
+1999
+01:56:11,936 --> 01:56:13,397
+To set you free.
+
+2000
+01:56:14,209 --> 01:56:15,280
+What?
+
+2001
+01:56:20,146 --> 01:56:21,154
+Whoa.
+
+2002
+01:56:22,099 --> 01:56:23,099
+Oh!
+
+2003
+01:56:27,100 --> 01:56:28,100
+Wait.
+
+2004
+01:56:37,069 --> 01:56:38,077
+Am I...
+
+2005
+01:56:45,288 --> 01:56:47,358
+Wait, wait, um...
+
+2006
+01:56:47,608 --> 01:56:48,983
+Tell-Tell me to do somethin'.
+
+2007
+01:56:49,008 --> 01:56:51,381
+Um... give me some jams.
+
+2008
+01:56:53,037 --> 01:56:54,521
+Get it yourself?
+
+2009
+01:56:57,272 --> 01:56:58,624
+Get your own jams!
+
+2010
+01:57:05,100 --> 01:57:06,217
+Thank you.
+
+2011
+01:57:06,803 --> 01:57:07,803
+Thank you.
+
+2012
+01:57:08,053 --> 01:57:09,225
+No.
+
+2013
+01:57:09,334 --> 01:57:10,796
+Thank you, Genie.
+
+2014
+01:57:11,202 --> 01:57:12,756
+I owe you everything.
+
+2015
+01:57:16,014 --> 01:57:17,624
+What are you gonna do now?
+
+2016
+01:57:19,413 --> 01:57:20,428
+Um...
+
+2017
+01:57:23,233 --> 01:57:24,983
+Actually, there is this...
+
+2018
+01:57:25,608 --> 01:57:26,874
+handmaiden
+
+2019
+01:57:28,186 --> 01:57:31,436
+that I would love
+to travel the world with.
+
+2020
+01:57:33,468 --> 01:57:34,937
+If she'll have me.
+
+2021
+01:57:38,123 --> 01:57:40,653
+When do we leave?
+Also, I want children.
+
+2022
+01:57:40,678 --> 01:57:42,248
+Yes! Two of them.
+
+2023
+01:57:42,576 --> 01:57:44,850
+Lian and Omar,
+three years apart.
+
+2024
+01:57:44,912 --> 01:57:47,467
+They will worship us both
+and ask lots of questions.
+
+2025
+01:57:47,492 --> 01:57:50,295
+And you will entertain them
+with stories and songs.
+
+2026
+01:57:51,240 --> 01:57:53,139
+- We'll have a boat.
+- A large one
+
+2027
+01:57:53,164 --> 01:57:55,756
+with multiple levels
+and magnificent sails.
+
+2028
+01:57:55,781 --> 01:57:57,620
+I was thinking more of a-
+a smaller one.
+
+2029
+01:57:57,659 --> 01:57:59,668
+- Perfect.
+- Perfect.
+
+2030
+01:58:00,975 --> 01:58:03,116
+Sit with me, my child.
+
+2031
+01:58:04,534 --> 01:58:05,565
+I'm sorry.
+
+2032
+01:58:05,590 --> 01:58:07,995
+- Baba, why are you...?
+- Please, let me finish.
+
+2033
+01:58:09,041 --> 01:58:10,814
+I feared losing you.
+
+2034
+01:58:11,861 --> 01:58:13,595
+Like I lost your mother.
+
+2035
+01:58:14,103 --> 01:58:16,760
+All I saw was my little girl.
+
+2036
+01:58:16,892 --> 01:58:18,908
+Not the woman you have become.
+
+2037
+01:58:19,400 --> 01:58:21,056
+You have shown me
+
+2038
+01:58:21,142 --> 01:58:22,627
+courage
+
+2039
+01:58:22,728 --> 01:58:24,017
+and strength.
+
+2040
+01:58:24,356 --> 01:58:25,715
+You...
+
+2041
+01:58:26,566 --> 01:58:28,965
+are the future of Agrabah.
+
+2042
+01:58:35,050 --> 01:58:36,409
+You...
+
+2043
+01:58:37,480 --> 01:58:40,019
+shall be the next sultan.
+
+2044
+01:58:49,003 --> 01:58:50,792
+Thank you, Baba.
+
+2045
+01:58:50,832 --> 01:58:54,039
+As sultan,
+you may change the law.
+
+2046
+01:58:55,644 --> 01:58:57,261
+He is a good man.
+
+2047
+01:59:04,364 --> 01:59:05,786
+Where'd he go?
+
+2048
+01:59:33,926 --> 01:59:34,973
+Stop, thief.
+
+2049
+01:59:35,286 --> 01:59:36,715
+Your sultan commands it.
+
+2050
+01:59:41,442 --> 01:59:42,629
+Sultan?
+
+2051
+01:59:44,387 --> 01:59:46,262
+Does that mean I'm in trouble?
+
+2052
+01:59:49,762 --> 01:59:51,645
+Only because you got caught.
+
+2053
+02:01:02,917 --> 02:01:04,730
+♪ Can your friends do this? ♪
+
+2054
+02:02:07,458 --> 02:02:08,928
+♪ You ain't never had
+a friend like me ♪
+
+2055
+02:02:09,027 --> 02:02:09,951
+Subs by enwansix

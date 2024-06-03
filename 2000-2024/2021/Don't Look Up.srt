@@ -1,0 +1,9066 @@
+1
+00:00:39,875 --> 00:00:42,375
+Ugh… God damn it.
+
+2
+00:03:05,708 --> 00:03:08,541
+This is nuts! This is so crazy!
+
+3
+00:03:08,625 --> 00:03:11,791
+I've got a hard cider
+and a bag of Crossbone Crunch.
+
+4
+00:03:11,875 --> 00:03:12,791
+It's a party.
+
+5
+00:03:12,875 --> 00:03:15,791
+I'm... I'm just so,
+so thrilled for you, Kate.
+
+6
+00:03:15,875 --> 00:03:19,416
+To Comet Dibiasky, right? Cheers!
+
+7
+00:03:20,166 --> 00:03:22,916
+It's gotta be, look…
+It's gotta be an Oort cloud comet
+
+8
+00:03:23,000 --> 00:03:24,833
+just based on where you saw it.
+
+9
+00:03:24,916 --> 00:03:27,083
+Probably the last time
+it was this close to the Sun
+
+10
+00:03:27,166 --> 00:03:29,375
+was long before human civilization.
+
+11
+00:03:29,458 --> 00:03:31,541
+Look at the arc on that thing.
+God, it's amazing.
+
+12
+00:03:31,625 --> 00:03:35,083
+How would we find out the comet's
+velocity in orbit, Professor Mindy?
+
+13
+00:03:35,166 --> 00:03:37,250
+That is a good question.
+
+14
+00:03:37,333 --> 00:03:40,166
+This will be fun. I haven't done
+orbital dynamics since grad school.
+
+15
+00:03:40,791 --> 00:03:42,000
+Question is, what…
+
+16
+00:03:42,916 --> 00:03:45,375
+What would Carl Sagan do?
+
+17
+00:03:45,458 --> 00:03:48,875
+He would take it back to first principles.
+
+18
+00:03:49,458 --> 00:03:52,666
+The topocentric vector is rho.
+
+19
+00:03:54,541 --> 00:03:56,500
+Kate, what are the initial coordinates?
+
+20
+00:03:57,083 --> 00:03:58,000
+Twenty-one.
+
+21
+00:03:59,666 --> 00:04:00,875
+Twenty-four.
+
+22
+00:04:01,541 --> 00:04:02,500
+Thirteen.
+
+23
+00:04:02,583 --> 00:04:04,250
+This is fun, huh, guys?
+
+24
+00:04:04,333 --> 00:04:07,458
+- Sixty-seven.
+- Wow. Now you got me pumped.
+
+25
+00:04:07,541 --> 00:04:08,791
+- Dr. Mindy.
+- All right…
+
+26
+00:04:08,875 --> 00:04:10,583
+How many terms do you have to calibrate…
+
+27
+00:04:10,666 --> 00:04:13,458
+Approximation
+of coordinates in Marsden, '85.
+
+28
+00:04:14,125 --> 00:04:17,958
+Now that we have the comet's orbit,
+we will check the ephemeris
+
+29
+00:04:18,041 --> 00:04:22,458
+and that will give us the distance
+between the comet and planet Earth.
+
+30
+00:04:25,625 --> 00:04:28,083
+Why does the ephemeris
+keep getting lower and lower?
+
+31
+00:04:42,708 --> 00:04:43,833
+Professor Mindy?
+
+32
+00:04:49,416 --> 00:04:50,625
+Professor Mindy?
+
+33
+00:04:56,250 --> 00:04:58,041
+You know what, guys? Let's…
+
+34
+00:04:58,875 --> 00:05:00,458
+Let's call it a night, huh?
+
+35
+00:05:02,833 --> 00:05:04,916
+But what about
+the relative position?
+
+36
+00:05:05,416 --> 00:05:08,500
+I can't figure this one out.
+Not tonight, guys. Sorry.
+
+37
+00:05:09,291 --> 00:05:11,875
+- Let's hit it, man. I'm beat.
+- Me too.
+
+38
+00:05:12,500 --> 00:05:15,375
+- Kate, this was amazing.
+- Congratulations.
+
+39
+00:05:16,000 --> 00:05:16,958
+Hey, Kate.
+
+40
+00:05:18,666 --> 00:05:19,666
+You stay.
+
+41
+00:05:30,083 --> 00:05:31,708
+Yeah, uh, Dr. Calder,
+
+42
+00:05:31,791 --> 00:05:33,916
+a Michigan State professor
+and his grad students...
+
+43
+00:05:34,000 --> 00:05:36,375
+This is Dr. Calder.
+You pulled me out of a meeting
+
+44
+00:05:36,458 --> 00:05:39,291
+where I had to tell my team
+we lost eight billion in funding.
+
+45
+00:05:39,375 --> 00:05:42,208
+I am so sorry, Dr. Calder,
+
+46
+00:05:42,291 --> 00:05:45,125
+but we are seeing some
+awfully strange orbital numbers
+
+47
+00:05:45,208 --> 00:05:47,041
+on this comet we just found.
+
+48
+00:05:47,125 --> 00:05:48,958
+They should be in your inbox, right?
+
+49
+00:05:49,041 --> 00:05:50,916
+- Is this it?
+- Yeah. This is it.
+
+50
+00:05:51,000 --> 00:05:53,375
+Oh, yeah. Yeah. Let me get
+Dr. Oglethorpe on the line.
+
+51
+00:05:53,458 --> 00:05:54,791
+<i>Please hold.</i>
+
+52
+00:05:54,875 --> 00:05:57,250
+Uh… Uh, I'm on hold.
+
+53
+00:05:57,333 --> 00:06:00,500
+She's calling a Dr. Oglethorpe.
+Who is that?
+
+54
+00:06:01,333 --> 00:06:04,083
+Jesus Christ.
+I'm gonna put them on speaker.
+
+55
+00:06:06,041 --> 00:06:07,166
+"Dr. Oglethorpe,
+
+56
+00:06:07,250 --> 00:06:10,666
+head of the Planetary
+Defense Coordination Office."
+
+57
+00:06:10,750 --> 00:06:12,625
+- Is that a real place?
+- I have no idea.
+
+58
+00:06:20,958 --> 00:06:22,625
+<i>This is Dr. Oglethorpe.</i>
+
+59
+00:06:22,708 --> 00:06:24,208
+<i>Yes, this is Jocelyn Calder</i>
+
+60
+00:06:24,291 --> 00:06:25,375
+from Kennedy Space Center.
+
+61
+00:06:25,458 --> 00:06:27,000
+Hey, Jocelyn.
+
+62
+00:06:27,083 --> 00:06:29,125
+<i>Listen, we got a sighting</i>
+
+63
+00:06:29,208 --> 00:06:31,500
+of an NEO from Subaru telescope.
+
+64
+00:06:31,583 --> 00:06:32,916
+<i>Okay. Uh…</i>
+
+65
+00:06:33,000 --> 00:06:35,458
+Why you just didn't report it
+to the Minor Planet Center?
+
+66
+00:06:35,541 --> 00:06:38,333
+<i>It's a professor</i>
+<i>and a bunch of Michigan State students</i>
+
+67
+00:06:38,416 --> 00:06:40,333
+<i>who identified something big.</i>
+
+68
+00:06:40,416 --> 00:06:41,833
+Really? How large?
+
+69
+00:06:41,916 --> 00:06:43,291
+<i>How big we talking?</i>
+
+70
+00:06:43,375 --> 00:06:45,666
+<i>We clocked it in around
+five to ten kilometers wide.</i>
+
+71
+00:06:45,750 --> 00:06:47,250
+About five to ten kilometers wide.
+
+72
+00:06:48,250 --> 00:06:49,750
+Uh… That's a big boy.
+
+73
+00:06:51,041 --> 00:06:55,291
+And, uh, was this professor the one
+who first made the observations?
+
+74
+00:06:55,375 --> 00:06:57,625
+Hi, yes. Uh, Dr. Mindy.
+
+75
+00:06:57,708 --> 00:07:01,083
+And... And no,
+PhD candidate Kate Dibiasky found it.
+
+76
+00:07:01,166 --> 00:07:02,916
+I did the orbital calculations.
+
+77
+00:07:03,625 --> 00:07:07,250
+I, uh… I study trace gasses
+in dead galaxies.
+
+78
+00:07:07,333 --> 00:07:10,750
+I haven't published in a while
+so you probably haven't heard of me.
+
+79
+00:07:10,833 --> 00:07:11,916
+But anyway, that doesn't matter.
+
+80
+00:07:12,000 --> 00:07:14,333
+<i>Sorry. What was your question?</i>
+
+81
+00:07:14,416 --> 00:07:17,375
+What are the most updated estimates
+on its trajectory?
+
+82
+00:07:17,458 --> 00:07:18,458
+Kate?
+
+83
+00:07:20,625 --> 00:07:21,625
+Um…
+
+84
+00:07:22,958 --> 00:07:27,041
+I've been running it all day.
+I keep getting the same result.
+
+85
+00:07:27,791 --> 00:07:30,875
+A direct hit of Earth
+in six months and 14 days.
+
+86
+00:07:31,875 --> 00:07:33,000
+Me too.
+
+87
+00:07:33,083 --> 00:07:35,333
+<i>Matthew,</i>
+<i>what are your calculations?</i>
+
+88
+00:07:35,416 --> 00:07:40,500
+<i>Um, Scout program
+is saying six months, 14 days.</i>
+
+89
+00:07:40,583 --> 00:07:42,791
+<i>We got six months and 14 days.</i>
+
+90
+00:07:42,875 --> 00:07:48,916
+And it's roughly five
+to ten kilometers wide.
+
+91
+00:07:49,000 --> 00:07:51,125
+Which… Which, uh…
+
+92
+00:07:52,250 --> 00:07:53,625
+<i>Isn't that…</i>
+
+93
+00:07:54,625 --> 00:07:56,083
+An extinction-level event?
+
+94
+00:07:57,208 --> 00:07:59,333
+Well, let's not be dramatic here.
+
+95
+00:08:01,500 --> 00:08:02,541
+Okay, uh…
+
+96
+00:08:03,250 --> 00:08:07,291
+First move is to get
+the school field trip out here to DC.
+
+97
+00:08:07,375 --> 00:08:08,833
+<i>Let's all calm down.</i>
+
+98
+00:08:08,916 --> 00:08:11,166
+<i>I need the person who first had eyes
+on the comet</i>
+
+99
+00:08:11,250 --> 00:08:12,750
+and the person in charge.
+
+100
+00:08:12,833 --> 00:08:13,833
+What?
+
+101
+00:08:16,916 --> 00:08:21,208
+…share this data immediately
+with Cambridge, Caltech and IAU.
+
+102
+00:08:21,291 --> 00:08:23,291
+Wait a minute.
+This is classified information.
+
+103
+00:08:23,375 --> 00:08:24,708
+What's happening?
+
+104
+00:08:24,791 --> 00:08:26,833
+<i>I serve</i>
+<i>at the discretion of the president.</i>
+
+105
+00:08:26,916 --> 00:08:28,166
+Is this really happening?
+
+106
+00:08:28,250 --> 00:08:30,666
+…and the dead galaxy professor
+to Hickam Air Force base.
+
+107
+00:08:30,750 --> 00:08:33,291
+DC, right?
+Hey! Hey, Kate.
+
+108
+00:08:33,375 --> 00:08:35,291
+<i>This isn't happening, right?</i>
+
+109
+00:08:35,375 --> 00:08:38,541
+Kate, this isn't real, right? This is, uh…
+
+110
+00:08:38,625 --> 00:08:41,125
+This is just some sort
+of alternate reality, right?
+
+111
+00:08:41,208 --> 00:08:42,041
+<i>Say something.</i>
+
+112
+00:08:42,125 --> 00:08:43,750
+I gotta go get high.
+
+113
+00:08:43,833 --> 00:08:48,041
+Word is that I need you both in DC fast.
+Only plane I got going there is that one.
+
+114
+00:08:48,125 --> 00:08:50,375
+Anyway, I am Dr. Mindy. This is...
+
+115
+00:08:50,458 --> 00:08:52,208
+- Hi! Oh.
+- Go, go, go!
+
+116
+00:08:54,833 --> 00:08:57,708
+- Where do we sit, Kate?
+- I have no idea.
+
+117
+00:08:57,791 --> 00:08:59,625
+Is there
+any customary seating for…
+
+118
+00:09:06,708 --> 00:09:10,625
+What the fuck? Is this real?
+Is this a goddamn joke?
+
+119
+00:09:10,708 --> 00:09:11,833
+Holy shit.
+
+120
+00:09:18,458 --> 00:09:21,000
+This can't be happening. No.
+
+121
+00:10:09,166 --> 00:10:11,125
+- Brendon. You mean Brendon?
+- Yeah, Brendon.
+
+122
+00:10:11,208 --> 00:10:15,041
+You know, he didn't keep his head down.
+It's all politics, Teddy. You know that.
+
+123
+00:10:15,125 --> 00:10:17,083
+You must be Randall and Kate.
+
+124
+00:10:17,166 --> 00:10:18,250
+Yes. Yes, hi.
+
+125
+00:10:18,333 --> 00:10:20,583
+I'm Dr. Oglethorpe,
+but you can call me Teddy.
+
+126
+00:10:20,666 --> 00:10:22,166
+I'm sorry. Did you say your name…
+
+127
+00:10:22,250 --> 00:10:25,333
+- I should call you "Teddy"? Teddy.
+- Teddy. Yeah.
+
+128
+00:10:25,416 --> 00:10:28,083
+Yeah, we call him Teddy
+because he ain't no teddy bear.
+
+129
+00:10:29,000 --> 00:10:31,416
+General Themes.
+I'm the Pentagon's eyes on, uh,
+
+130
+00:10:31,500 --> 00:10:33,375
+you know, whatever this turns out to be.
+
+131
+00:10:33,458 --> 00:10:37,875
+The president is famously late,
+and you've had a long flight, so…
+
+132
+00:10:40,625 --> 00:10:44,250
+- Michigan State Spartans.
+- Mmm.
+
+133
+00:10:48,916 --> 00:10:52,583
+- Is that the Oval Office?
+- Yeah, that's the Oval Office, yeah.
+
+134
+00:10:53,458 --> 00:10:55,541
+It's a lot smaller
+than in the photographs.
+
+135
+00:10:55,625 --> 00:10:57,625
+The president
+should be here shortly.
+
+136
+00:10:57,708 --> 00:10:58,875
+She's already been briefed.
+
+137
+00:10:58,958 --> 00:11:00,458
+Correct, Scott?
+
+138
+00:11:02,041 --> 00:11:03,166
+That is correct.
+
+139
+00:11:03,250 --> 00:11:05,750
+Are we really about to tell
+the president of the United States
+
+140
+00:11:05,833 --> 00:11:07,583
+that we have just over six months
+
+141
+00:11:07,666 --> 00:11:12,166
+until humankind, basically every species,
+is completely extinct?
+
+142
+00:11:12,250 --> 00:11:16,291
+Yeah. That's exactly
+what we're about to do. Yeah.
+
+143
+00:11:21,916 --> 00:11:23,916
+Oh, gosh. Oh, gosh.
+
+144
+00:12:13,541 --> 00:12:15,416
+Yes, I said law enforcement.
+
+145
+00:12:15,500 --> 00:12:18,708
+But I didn't want… I mean,
+you told me that he was clean.
+
+146
+00:12:20,916 --> 00:12:24,166
+- Hello, Madam President. Dr. Oglethorpe.
+- Step back, please.
+
+147
+00:12:24,250 --> 00:12:25,666
+Hello.
+
+148
+00:12:25,750 --> 00:12:30,208
+Madam President, I'm Dr. Oglethorpe.
+I believe Jocelyn briefed you to…
+
+149
+00:12:30,291 --> 00:12:32,833
+- Hey, Jason.
+- Yeah? What up, yo?
+
+150
+00:12:32,916 --> 00:12:35,166
+Come on, man. What the hell?
+This is real world.
+
+151
+00:12:35,250 --> 00:12:36,875
+Yeah. I know. We need five minutes.
+
+152
+00:12:36,958 --> 00:12:40,625
+We have a problem with our Supreme Court
+nominee. Five minutes. Thank you.
+
+153
+00:13:08,500 --> 00:13:11,750
+Just take a message,
+and then, stuff like this happens,
+
+154
+00:13:11,833 --> 00:13:13,500
+and I don't know what's going on.
+
+155
+00:13:14,833 --> 00:13:17,541
+I don't understand
+how many more times I need to tell you…
+
+156
+00:13:17,625 --> 00:13:21,500
+Well, there's a bunch of stuff about
+their nominee not being qualified,
+
+157
+00:13:22,791 --> 00:13:25,875
+but I don't see
+any articles about our thing.
+
+158
+00:13:25,958 --> 00:13:28,291
+Social media is just going on and on
+
+159
+00:13:28,375 --> 00:13:32,250
+about that singer Riley Bina
+and DJ Chello breaking up.
+
+160
+00:13:33,458 --> 00:13:35,166
+That's just too bad.
+
+161
+00:13:36,083 --> 00:13:37,291
+They seem like sweet kids.
+
+162
+00:13:37,375 --> 00:13:39,541
+Hmm. I don't… I don't know them.
+
+163
+00:13:41,708 --> 00:13:42,583
+Which is…
+
+164
+00:13:42,666 --> 00:13:44,375
+- It's a shame though.
+- Yeah.
+
+165
+00:13:44,458 --> 00:13:46,625
+- Do you know them, Kate?
+- Yes.
+
+166
+00:13:46,708 --> 00:13:49,416
+- But I don't really give a shit right now.
+- Oh.
+
+167
+00:13:51,208 --> 00:13:53,208
+They charge
+an arm and a leg for this stuff.
+
+168
+00:13:53,291 --> 00:13:55,041
+- Ten apiece ought to do it.
+- Oh.
+
+169
+00:13:55,125 --> 00:13:56,625
+- Grab a water.
+- Thank you.
+
+170
+00:13:56,708 --> 00:13:57,916
+I've got Kate as well.
+
+171
+00:13:58,000 --> 00:13:59,250
+- Perfect.
+- Thank you.
+
+172
+00:13:59,333 --> 00:14:01,000
+- Here's a 20.
+- Oh.
+
+173
+00:14:03,416 --> 00:14:05,333
+- You got change?
+- No.
+
+174
+00:14:08,375 --> 00:14:11,208
+- I mean, I could ask the Marine.
+- Yeah…
+
+175
+00:14:12,916 --> 00:14:14,625
+Uh, it's a Xanax.
+
+176
+00:14:14,708 --> 00:14:17,750
+- I only take a quarter. Otherwise I get…
+- Ah…
+
+177
+00:14:17,833 --> 00:14:19,958
+- Kate.
+- Thank you.
+
+178
+00:14:20,708 --> 00:14:23,083
+You know, you should be
+careful with that much.
+
+179
+00:14:42,333 --> 00:14:43,208
+Oh!
+
+180
+00:14:43,958 --> 00:14:46,958
+I'm very sorry. I have to be
+in Okinawa by two o'clock tomorrow.
+
+181
+00:14:47,041 --> 00:14:49,375
+- What?
+- What? Are you serious?
+
+182
+00:14:49,458 --> 00:14:52,166
+- This is very important.
+- I have to go quell the natives.
+
+183
+00:14:52,250 --> 00:14:53,875
+Tell your daughter I said hello.
+
+184
+00:14:54,416 --> 00:14:58,333
+Isn't it important that he was
+in the room with us? I mean, what…
+
+185
+00:15:05,500 --> 00:15:06,833
+Where do I pay for these?
+
+186
+00:15:06,916 --> 00:15:07,958
+It's free.
+
+187
+00:15:10,666 --> 00:15:11,791
+Really?
+
+188
+00:15:11,875 --> 00:15:13,375
+Yes, it's the White House.
+
+189
+00:15:19,708 --> 00:15:21,916
+The snacks are free.
+
+190
+00:15:22,708 --> 00:15:23,583
+What?
+
+191
+00:15:24,208 --> 00:15:25,291
+The general.
+
+192
+00:15:25,375 --> 00:15:28,166
+He charged us
+for the snacks, but they're free.
+
+193
+00:15:28,250 --> 00:15:29,416
+Oh, gosh.
+
+194
+00:15:29,500 --> 00:15:31,541
+Why on earth would he do that?
+
+195
+00:15:32,125 --> 00:15:35,291
+Hey, peeps, uh, it's not looking
+like it's gonna happen tonight,
+
+196
+00:15:35,375 --> 00:15:37,291
+and I feel horrible.
+
+197
+00:15:37,375 --> 00:15:39,291
+We're gonna put you up
+in a hotel somewhere.
+
+198
+00:15:39,375 --> 00:15:41,541
+Excuse me, does the president
+know why we're here?
+
+199
+00:15:41,625 --> 00:15:43,916
+You gotta be fucking kidding me.
+
+200
+00:15:44,000 --> 00:15:46,166
+They must not know
+why we're here, right?
+
+201
+00:15:46,250 --> 00:15:47,875
+They know. Uh, but you heard 'em.
+
+202
+00:15:47,958 --> 00:15:50,291
+- Do they even realize…
+- Be ready for tomorrow.
+
+203
+00:15:50,375 --> 00:15:51,708
+…how long it took for us to get…
+
+204
+00:15:55,166 --> 00:15:57,708
+And then they made us wait
+for over seven hours,
+
+205
+00:15:57,791 --> 00:15:59,916
+but they never called us in.
+I couldn't believe it.
+
+206
+00:16:00,000 --> 00:16:03,500
+Of course they didn't call you in.
+Kate, have you watched any news today?
+
+207
+00:16:03,583 --> 00:16:06,958
+No, I've been pretty wrapped up
+in our… project.
+
+208
+00:16:07,041 --> 00:16:08,500
+Turn on your TV right now.
+
+209
+00:16:08,583 --> 00:16:11,250
+President Orlean is in
+the middle of an all-time shit storm.
+
+210
+00:16:11,875 --> 00:16:15,166
+<i>Sheriff Wade Conlon</i>
+<i>was already a controversial nominee,</i>
+
+211
+00:16:15,250 --> 00:16:19,958
+<i>with no law degree and a record
+of "shoot first and ask questions later."</i>
+
+212
+00:16:20,041 --> 00:16:21,125
+You watching?
+
+213
+00:16:21,208 --> 00:16:23,250
+<i>With his background as a nude life model…</i>
+
+214
+00:16:23,333 --> 00:16:25,750
+Yeah, I'm watching it right now.
+
+215
+00:16:25,833 --> 00:16:28,250
+<i>…the White House is in full crisis mode.</i>
+
+216
+00:16:28,333 --> 00:16:29,500
+<i>And, get this.</i>
+
+217
+00:16:29,583 --> 00:16:32,750
+I found five former students
+
+218
+00:16:32,833 --> 00:16:37,666
+who are willing to go on record
+that Conlon got noticeably aroused
+
+219
+00:16:37,750 --> 00:16:39,375
+when he posed for their drawing class.
+
+220
+00:16:39,458 --> 00:16:40,916
+<i>I have no shame in what I did.</i>
+
+221
+00:16:41,000 --> 00:16:43,916
+Now, should I say "noticeably aroused"?
+
+222
+00:16:44,666 --> 00:16:47,916
+Or "engorged"? Because
+I don't want this to read like clickbait.
+
+223
+00:16:48,000 --> 00:16:49,708
+<i>You know, this is a real article.</i>
+
+224
+00:16:51,000 --> 00:16:54,291
+I just… Kate, can I get
+something from you, please?
+
+225
+00:16:55,083 --> 00:16:56,250
+Sorry.
+
+226
+00:16:57,083 --> 00:17:00,083
+- Out of sorts tonight.
+<i>- Can we have this conversation?</i>
+
+227
+00:17:00,166 --> 00:17:02,083
+I feel like we're skirting around this.
+
+228
+00:17:02,166 --> 00:17:05,000
+Do you have an issue with my mom?
+Is that what this is all about?
+
+229
+00:17:06,083 --> 00:17:07,791
+<i>You can't tell me what's going on?</i>
+
+230
+00:17:07,875 --> 00:17:10,458
+It's just the protocol.
+Please, don't worry.
+
+231
+00:17:10,541 --> 00:17:15,208
+Oh, Marshall got a 172
+on his LSATs and we're celebrating.
+
+232
+00:17:15,291 --> 00:17:18,666
+Way to go, Marshall.
+I'm proud of you, buddy.
+
+233
+00:17:18,750 --> 00:17:21,083
+Whoo! Thank you, Dad. Miss you.
+
+234
+00:17:21,166 --> 00:17:24,708
+Hey, how's Evan feeling?
+Are the new meds working out?
+
+235
+00:17:24,791 --> 00:17:26,666
+- I'm a solid four.
+- Ooh!
+
+236
+00:17:26,750 --> 00:17:28,083
+<i>He's a solid four.</i>
+
+237
+00:17:28,166 --> 00:17:30,750
+Well, that's better
+than last month, right?
+
+238
+00:17:30,833 --> 00:17:34,083
+You know, just remember to speak up
+in the meeting tomorrow. Okay?
+
+239
+00:17:34,166 --> 00:17:35,750
+- Yeah. I will.
+<i>- You get so quiet.</i>
+
+240
+00:17:35,833 --> 00:17:38,416
+When it's time to take credit,
+you kind of…
+
+241
+00:17:38,500 --> 00:17:43,000
+She <i>asked</i> you if you were a lesbian.
+She did not say that you <i>were</i> a lesbian.
+
+242
+00:17:43,083 --> 00:17:44,916
+- It was a question.
+- Hey, look, I'm…
+
+243
+00:17:45,000 --> 00:17:48,208
+Can I sit down with your mom
+to have lunch in, like, seven months?
+
+244
+00:17:48,291 --> 00:17:52,583
+Seven… That's weirdly
+specific and distant.
+
+245
+00:17:53,083 --> 00:17:54,625
+<i>What is… This is my mom.</i>
+
+246
+00:18:00,208 --> 00:18:02,541
+So… Oh!
+
+247
+00:18:02,625 --> 00:18:06,041
+I heard there's an asteroid
+or a comet or something
+
+248
+00:18:06,125 --> 00:18:07,958
+that you don't like the looks of.
+
+249
+00:18:08,791 --> 00:18:12,416
+Tell me about it and then
+tell me why you're telling me about it.
+
+250
+00:18:12,500 --> 00:18:14,208
+You got 20 minutes.
+
+251
+00:18:14,291 --> 00:18:16,208
+- Twenty minutes?
+- That's you, Doc.
+
+252
+00:18:16,291 --> 00:18:18,375
+Go. Now. Go.
+
+253
+00:18:18,458 --> 00:18:20,000
+Uh…
+
+254
+00:18:20,083 --> 00:18:22,125
+Madam President.
+
+255
+00:18:22,208 --> 00:18:23,666
+Uh…
+
+256
+00:18:23,750 --> 00:18:27,125
+Approximately 36 hours ago,
+
+257
+00:18:27,208 --> 00:18:31,791
+uh, PhD candidate
+Kate Dibiasky here discovered
+
+258
+00:18:32,458 --> 00:18:34,000
+a very large comet.
+
+259
+00:18:34,083 --> 00:18:34,916
+Oh.
+
+260
+00:18:35,000 --> 00:18:36,791
+- Yeah.
+- Good for you.
+
+261
+00:18:36,875 --> 00:18:39,541
+A comet between
+five to ten kilometers across,
+
+262
+00:18:39,625 --> 00:18:41,875
+that we estimate came from the, uh…
+
+263
+00:18:41,958 --> 00:18:44,250
+From the… from the Oort cloud.
+
+264
+00:18:44,333 --> 00:18:45,208
+Wow.
+
+265
+00:18:45,291 --> 00:18:47,791
+Which is the outermost part
+of the solar system.
+
+266
+00:18:48,416 --> 00:18:49,458
+And, um…
+
+267
+00:18:50,708 --> 00:18:53,416
+And using Gauss's method
+of orbital determination
+
+268
+00:18:53,500 --> 00:18:58,625
+and the average astrometric uncertainty
+of 0.04 arcseconds, we then asked...
+
+269
+00:18:58,708 --> 00:19:03,000
+- Whoa! What the hell is… What?
+- I'm so bored. Just tell us what it is.
+
+270
+00:19:03,083 --> 00:19:05,291
+- What? Stop what?
+- Seriously, stop.
+
+271
+00:19:05,375 --> 00:19:08,416
+What Dr. Mindy is trying to say is
+there's a comet headed towards Earth,
+
+272
+00:19:08,500 --> 00:19:10,708
+and according to NASA's computers,
+
+273
+00:19:10,791 --> 00:19:12,916
+that object is gonna hit the Pacific Ocean
+
+274
+00:19:13,000 --> 00:19:15,166
+at 62 miles due west
+off the coast of Chile.
+
+275
+00:19:15,250 --> 00:19:17,166
+Then what happens? Like, a tidal wave?
+
+276
+00:19:17,250 --> 00:19:20,666
+No. It will be far more catastrophic.
+
+277
+00:19:20,750 --> 00:19:25,250
+There'll be mile-high tsunamis
+fanning out all across the globe.
+
+278
+00:19:26,291 --> 00:19:32,333
+If this comet makes impact, it will have
+the power of a billion Hiroshima bombs.
+
+279
+00:19:32,958 --> 00:19:36,375
+There'll be
+magnitude 10 or 11 earthquakes...
+
+280
+00:19:36,458 --> 00:19:39,375
+You're breathing weird.
+It's, uh, making me uncomfortable.
+
+281
+00:19:39,458 --> 00:19:42,000
+I'm sorry, I'm just trying
+to articulate the science.
+
+282
+00:19:42,083 --> 00:19:45,125
+I know. But it's so stressful.
+I'm trying to, like, listen...
+
+283
+00:19:45,208 --> 00:19:47,916
+I don't think you understand
+the gravity of the situation.
+
+284
+00:19:48,000 --> 00:19:49,875
+I'm trying to articulate it
+the best I can...
+
+285
+00:19:49,958 --> 00:19:54,791
+Madam President, this comet
+is what we call a planet-killer.
+
+286
+00:19:54,875 --> 00:19:56,333
+That is correct.
+
+287
+00:19:58,791 --> 00:19:59,875
+Mmm-hmm.
+
+288
+00:20:00,791 --> 00:20:02,333
+So how certain is this?
+
+289
+00:20:02,416 --> 00:20:05,541
+There's 100% certainty of impact.
+
+290
+00:20:05,625 --> 00:20:07,666
+Please, don't say 100%.
+
+291
+00:20:07,750 --> 00:20:10,333
+Can we just call it
+a potentially significant event?
+
+292
+00:20:10,416 --> 00:20:11,458
+- Yeah.
+- Yes.
+
+293
+00:20:11,541 --> 00:20:14,250
+But it isn't<i> potentially</i> going to happen.
+
+294
+00:20:14,791 --> 00:20:16,500
+It <i>is</i> going to happen.
+
+295
+00:20:16,583 --> 00:20:20,083
+Exactly. 99.78% to be exact.
+
+296
+00:20:20,166 --> 00:20:22,291
+Oh, great. Okay, so it's not 100%.
+
+297
+00:20:22,375 --> 00:20:25,250
+Well, scientists never like to say 100%.
+
+298
+00:20:25,333 --> 00:20:27,791
+Call it 70% and let's just move on.
+
+299
+00:20:27,875 --> 00:20:29,541
+But it's not even close to 70%.
+
+300
+00:20:29,625 --> 00:20:31,958
+You cannot go around saying to people
+
+301
+00:20:32,041 --> 00:20:34,791
+that there's 100% chance
+that they're gonna die.
+
+302
+00:20:34,875 --> 00:20:37,791
+You know? It's just nuts.
+
+303
+00:20:37,875 --> 00:20:40,458
+We should get some of
+our scientists on this, you know.
+
+304
+00:20:40,541 --> 00:20:44,250
+No offense, but you're just two people
+that walked in here with...
+
+305
+00:20:44,333 --> 00:20:45,541
+Dr. Oglethorpe.
+
+306
+00:20:45,625 --> 00:20:47,166
+Dr. Ov… Ogilvy. Yeah.
+
+307
+00:20:47,250 --> 00:20:50,791
+I've been head of planetary defense
+at NASA for 15 years.
+
+308
+00:20:50,875 --> 00:20:55,333
+And Dr. Mindy is a tenured professor
+of astronomy at Michigan State,
+
+309
+00:20:55,416 --> 00:20:58,375
+where Miss Dibiasky
+is a doctoral candidate.
+
+310
+00:20:58,458 --> 00:21:01,083
+- Good.
+- I'm sorry. Did you say Michigan State?
+
+311
+00:21:01,166 --> 00:21:03,750
+Exactly. They have
+an excellent astronomy department.
+
+312
+00:21:03,833 --> 00:21:05,250
+- Yes.
+- Come on, bro.
+
+313
+00:21:05,333 --> 00:21:07,625
+You kidding?
+You wanna see my fucking SAT scores?
+
+314
+00:21:07,708 --> 00:21:09,708
+Okay, let's bottom line this.
+
+315
+00:21:09,791 --> 00:21:11,666
+What is this gonna cost me?
+
+316
+00:21:11,750 --> 00:21:13,875
+You know, what's the ask here?
+
+317
+00:21:13,958 --> 00:21:17,041
+There are government plans in place.
+
+318
+00:21:17,125 --> 00:21:19,541
+Um, actions we can take through NASA.
+
+319
+00:21:19,625 --> 00:21:22,583
+Drones that can be outfitted with nukes
+
+320
+00:21:22,666 --> 00:21:27,083
+to deflect and hopefully
+change the orbit of this comet.
+
+321
+00:21:27,166 --> 00:21:28,916
+We must act now.
+
+322
+00:21:29,000 --> 00:21:31,583
+Oh, hey.
+All right, all right, all right.
+
+323
+00:21:31,666 --> 00:21:34,000
+- When are the midterms? Three weeks.
+- Three weeks.
+
+324
+00:21:34,083 --> 00:21:36,791
+So, if this breaks before then,
+we lose Congress.
+
+325
+00:21:36,875 --> 00:21:38,833
+Then there's nothing we can do about it.
+
+326
+00:21:38,916 --> 00:21:39,833
+It'll be gridlocked.
+
+327
+00:21:39,916 --> 00:21:43,916
+The timing is just… It's atrocious.
+
+328
+00:21:45,000 --> 00:21:51,125
+Okay, at this very moment,
+I say we sit tight and assess.
+
+329
+00:21:51,208 --> 00:21:52,458
+Sit tight and assess.
+
+330
+00:21:52,541 --> 00:21:55,625
+Let's get some other people
+on this. Some Ivy Leaguers.
+
+331
+00:21:55,708 --> 00:21:58,458
+And you and I will review the NASA plans.
+
+332
+00:21:58,541 --> 00:22:00,291
+- Okay?
+- I'd greatly appreciate that.
+
+333
+00:22:00,375 --> 00:22:03,583
+Am I to understand correctly that,
+
+334
+00:22:03,666 --> 00:22:07,333
+after all of the information
+you've received today,
+
+335
+00:22:08,041 --> 00:22:12,291
+the decision you're making
+is to "sit tight and assess"?
+
+336
+00:22:12,375 --> 00:22:15,625
+- I'm sorry, who is she?
+- Who the fuck are you? Aren't you her son?
+
+337
+00:22:15,708 --> 00:22:18,416
+I'm the fucking Chief of Staff,
+Boy with the Dragon Tattoo.
+
+338
+00:22:18,500 --> 00:22:19,791
+So I'm doing fine.
+
+339
+00:22:19,875 --> 00:22:22,541
+We gotta get out of here.
+This place is a freak show.
+
+340
+00:22:22,625 --> 00:22:25,208
+I think what Miss Dibiasky
+is trying to say
+
+341
+00:22:25,291 --> 00:22:30,375
+is that the idea of sitting tight
+is an extremely, extremely dangerous...
+
+342
+00:22:30,458 --> 00:22:32,125
+Oh, oh!
+
+343
+00:22:33,500 --> 00:22:36,750
+Thank you.
+One good thing happened today.
+
+344
+00:22:36,833 --> 00:22:38,916
+Okay, funny story.
+
+345
+00:22:39,000 --> 00:22:40,666
+When I was running for president,
+
+346
+00:22:40,750 --> 00:22:43,958
+I had to sneak cigarettes for
+the whole first month of the campaign
+
+347
+00:22:44,041 --> 00:22:46,291
+because, you know,
+photographs of me smoking
+
+348
+00:22:46,375 --> 00:22:48,333
+went for, what, a hundred grand a pop?
+
+349
+00:22:49,583 --> 00:22:52,541
+So, I'm always hiding, but,
+you know, I just got sick of it.
+
+350
+00:22:53,166 --> 00:22:56,208
+And I just said, "You know what,
+I'm gonna smoke whenever I want to."
+
+351
+00:22:56,291 --> 00:22:58,416
+Mmm…
+
+352
+00:23:00,666 --> 00:23:01,791
+Guess what happened?
+
+353
+00:23:02,666 --> 00:23:06,500
+- I went up three points in the polls.
+- They loved that she kept it real.
+
+354
+00:23:06,583 --> 00:23:08,458
+They love watching a smokeshow smoke.
+
+355
+00:23:08,541 --> 00:23:11,583
+I can't think of another president
+that I'd ever wanna see in <i>Playboy.</i>
+
+356
+00:23:11,666 --> 00:23:15,000
+Do you know how many, uh,
+"the world is ending" meetings
+
+357
+00:23:15,083 --> 00:23:16,708
+that we've had over the years?
+
+358
+00:23:16,791 --> 00:23:20,833
+Economic collapse, loose nukes,
+car exhaust killing the atmosphere.
+
+359
+00:23:20,916 --> 00:23:23,666
+- Rogue AI.
+- Drought, famine, plague…
+
+360
+00:23:23,750 --> 00:23:24,958
+- Uh…
+- Everything.
+
+361
+00:23:25,041 --> 00:23:28,833
+Alien invasion,
+population growth, hole in the ozone...
+
+362
+00:23:28,916 --> 00:23:29,916
+Jason, hey.
+
+363
+00:23:30,000 --> 00:23:32,166
+- Read the room for once in your life.
+- Sorry, Mom.
+
+364
+00:23:32,750 --> 00:23:35,000
+Point is, I have a job to do.
+
+365
+00:23:35,083 --> 00:23:37,833
+You do understand
+that this is an apocalyptic event.
+
+366
+00:23:37,916 --> 00:23:43,250
+This is a large celestial body
+heading towards our planet at speeds...
+
+367
+00:23:43,333 --> 00:23:45,333
+Dr. Mindy, I hear you.
+
+368
+00:23:46,458 --> 00:23:47,625
+I hear you.
+
+369
+00:23:48,625 --> 00:23:51,208
+- You should be proud.
+- Thank you.
+
+370
+00:23:51,291 --> 00:23:54,666
+I'm taking it very seriously.
+I'm taking it straight in the heart.
+
+371
+00:23:54,750 --> 00:23:57,875
+I'm so glad to hear that.
+You have no idea.
+
+372
+00:23:57,958 --> 00:24:03,000
+Hey, gang, obviously everything we talked
+about in here, super classified, right?
+
+373
+00:24:03,083 --> 00:24:04,500
+- Yeah.
+- Cool.
+
+374
+00:24:04,583 --> 00:24:05,750
+Thanks for dressing up.
+
+375
+00:24:14,375 --> 00:24:17,041
+You're saying
+we're just gonna leak it to the press?
+
+376
+00:24:17,125 --> 00:24:19,625
+- Isn't that illegal?
+- Hell yeah, we're going to leak it.
+
+377
+00:24:19,708 --> 00:24:22,333
+In case you didn't notice,
+the White House just blew us off.
+
+378
+00:24:22,416 --> 00:24:24,375
+My boyfriend, Phillip,
+says he knows a reporter
+
+379
+00:24:24,458 --> 00:24:26,458
+from the <i>New York Herald</i>
+who will talk to us.
+
+380
+00:24:26,541 --> 00:24:29,250
+- Adul Grelio.
+- Good. He's a heavy hitter.
+
+381
+00:24:29,333 --> 00:24:32,541
+And I'll reach out to more of
+the scientific community on the down-low.
+
+382
+00:24:33,875 --> 00:24:38,416
+- I just feel like this isn't what I do.
+- You're just telling a story.
+
+383
+00:24:38,500 --> 00:24:39,750
+Keep it simple.
+
+384
+00:24:40,458 --> 00:24:41,583
+No math.
+
+385
+00:24:42,791 --> 00:24:44,166
+But it's <i>all</i> math.
+
+386
+00:24:56,583 --> 00:24:59,333
+<i>It all started</i>
+<i>with a connection.</i>
+
+387
+00:24:59,416 --> 00:25:03,041
+<i>A simple gesture that created so much.</i>
+
+388
+00:25:03,875 --> 00:25:05,000
+<i>So many choices.</i>
+
+389
+00:25:06,208 --> 00:25:08,541
+<i>Sometimes, it can even feel like too much.</i>
+
+390
+00:25:09,375 --> 00:25:10,875
+<i>Until now.</i>
+
+391
+00:25:10,958 --> 00:25:13,291
+<i>Introducing BASH LiiF.</i>
+
+392
+00:25:14,083 --> 00:25:16,791
+<i>Life, without the stress of living.</i>
+
+393
+00:25:18,583 --> 00:25:21,416
+<i>Before we introduce</i>
+<i>the founder and CEO of BASH,</i>
+
+394
+00:25:21,500 --> 00:25:23,791
+<i>please remember
+to avoid direct eye contact,</i>
+
+395
+00:25:23,875 --> 00:25:27,458
+<i>sudden movements,
+coughing or negative facial expressions.</i>
+
+396
+00:25:27,541 --> 00:25:30,916
+<i>And now, please welcome
+Sir Peter Isherwell.</i>
+
+397
+00:25:34,000 --> 00:25:35,791
+We love you, Peter!
+
+398
+00:25:46,083 --> 00:25:48,125
+We love you, Peter!
+
+399
+00:25:48,208 --> 00:25:49,375
+Hello, everyone.
+
+400
+00:25:49,458 --> 00:25:51,833
+All of my life's work,
+
+401
+00:25:52,458 --> 00:25:57,416
+really, I see has been driven
+by an inexpressible need for a friend
+
+402
+00:25:58,000 --> 00:26:00,416
+who would understand and soothe me.
+
+403
+00:26:00,500 --> 00:26:05,791
+And you know, now all those years of work
+have come to fruition with BASH LiiF,
+
+404
+00:26:05,875 --> 00:26:10,375
+our new BASH 14.3, uh, phone
+
+405
+00:26:10,458 --> 00:26:14,750
+is fully integrated
+into your every feeling and desire
+
+406
+00:26:14,833 --> 00:26:17,333
+without you needing
+to say one single word.
+
+407
+00:26:17,416 --> 00:26:18,291
+If I feel…
+
+408
+00:26:19,000 --> 00:26:20,291
+- Sad.
+- Afraid.
+
+409
+00:26:20,375 --> 00:26:21,458
+Or alone.
+
+410
+00:26:21,541 --> 00:26:25,750
+The BASH 14.3 phone,
+when set to the life setting,
+
+411
+00:26:25,833 --> 00:26:28,958
+instantly senses my mood
+through blood pressure…
+
+412
+00:26:29,041 --> 00:26:31,541
+Uh, heartbeats and...
+
+413
+00:26:31,625 --> 00:26:34,000
+<i>Your vitals</i>
+<i>show that you are sad.</i>
+
+414
+00:26:34,083 --> 00:26:35,833
+<i>This will cheer you up, Peter.</i>
+
+415
+00:26:43,625 --> 00:26:46,416
+Oh, that's wonderful.
+
+416
+00:26:46,500 --> 00:26:48,666
+That video. Um…
+
+417
+00:26:48,750 --> 00:26:52,083
+It also, seriously, uh, schedules
+
+418
+00:26:52,166 --> 00:26:55,375
+a therapy session
+with a nearby professional,
+
+419
+00:26:55,458 --> 00:27:00,208
+so we can make sure that
+these sad feelings never ever ever return.
+
+420
+00:27:00,291 --> 00:27:02,958
+- May I say something, Mr. Isherwell?
+- No.
+
+421
+00:27:03,041 --> 00:27:07,541
+And to support, uh, BASH LiiF,
+uh, I wanna officially announce…
+
+422
+00:27:07,625 --> 00:27:10,041
+Oh, give me the phones. They're not yours.
+
+423
+00:27:12,916 --> 00:27:15,125
+- Say bye.
+- Bye, Mr. Isherwell.
+
+424
+00:27:15,208 --> 00:27:16,458
+Bye, Peter.
+
+425
+00:27:16,541 --> 00:27:18,458
+Um, I love you, Peter.
+
+426
+00:27:18,541 --> 00:27:21,333
+Are you sure the video
+of the puppy on the rooster
+
+427
+00:27:21,416 --> 00:27:25,416
+is optimizing our prepubescent
+sense memory consumer sector?
+
+428
+00:27:25,500 --> 00:27:27,166
+I find the bird quite threatening.
+
+429
+00:27:27,250 --> 00:27:30,291
+We will cross-check
+the data on that, for sure.
+
+430
+00:27:30,375 --> 00:27:32,958
+Mr. Isherwell, Paul Debent
+wanted me to give this to you.
+
+431
+00:27:33,041 --> 00:27:35,791
+He got it from
+an astronomer friend of his in Mexico.
+
+432
+00:27:38,166 --> 00:27:39,000
+Oh, my.
+
+433
+00:27:40,375 --> 00:27:43,000
+What other confirmation
+do we have on this, Adul?
+
+434
+00:27:43,083 --> 00:27:46,416
+I've spoken to Dr. Oglethorpe in DC
+and he confirmed it and all the math.
+
+435
+00:27:46,500 --> 00:27:48,500
+Then I showed it
+to Dr. Franks at Columbia,
+
+436
+00:27:48,583 --> 00:27:50,833
+and he almost fell out of his chair.
+
+437
+00:27:50,916 --> 00:27:54,875
+So, look, I have to admit.
+I was very skeptical at first,
+
+438
+00:27:54,958 --> 00:27:56,583
+but this is all quite credible.
+
+439
+00:27:56,666 --> 00:27:58,916
+The calculations are credible.
+
+440
+00:27:59,416 --> 00:28:00,250
+Jesus.
+
+441
+00:28:00,750 --> 00:28:02,750
+And the president
+really said to sit tight?
+
+442
+00:28:02,833 --> 00:28:05,583
+- Yes. That's correct.
+- "Sit tight and assess."
+
+443
+00:28:05,666 --> 00:28:07,708
+She's probably worried about the midterms.
+
+444
+00:28:07,791 --> 00:28:09,375
+We need to move fast.
+
+445
+00:28:09,458 --> 00:28:11,333
+The feds will claim breach of security,
+
+446
+00:28:11,416 --> 00:28:13,375
+so make sure these two
+get a pro bono attorney.
+
+447
+00:28:13,458 --> 00:28:16,458
+- You can use my attorney.
+- You can certainly afford it now.
+
+448
+00:28:16,541 --> 00:28:17,833
+We're gonna hire a lawyer?
+
+449
+00:28:17,916 --> 00:28:20,166
+- That wasn't necessary.
+- It was.
+
+450
+00:28:20,250 --> 00:28:21,791
+I'm sorry. I'm sorry. Sorry.
+
+451
+00:28:21,875 --> 00:28:23,166
+That was not called for.
+
+452
+00:28:23,250 --> 00:28:25,083
+I just have a question here.
+
+453
+00:28:25,166 --> 00:28:27,625
+How is it criminal if we just tell people,
+
+454
+00:28:27,708 --> 00:28:31,000
+like the public, you know,
+what we saw, and tell them the truth?
+
+455
+00:28:31,083 --> 00:28:34,166
+Make sure this one gets media training
+before he hits the shows.
+
+456
+00:28:34,250 --> 00:28:35,875
+He seems a step slow.
+
+457
+00:28:35,958 --> 00:28:38,083
+What does that mean,
+I need media training?
+
+458
+00:28:39,041 --> 00:28:41,791
+They want us on a show
+called <i>The Daily Rip</i>
+
+459
+00:28:41,875 --> 00:28:44,500
+first thing in the morning
+before the article comes out.
+
+460
+00:28:44,583 --> 00:28:46,416
+You guys know what <i>The Daily Rip</i> is?
+
+461
+00:28:46,500 --> 00:28:49,000
+It's like the best show.
+Everyone wants to be on it.
+
+462
+00:28:49,083 --> 00:28:50,916
+Brie and Jack have legendary chemistry.
+
+463
+00:28:51,000 --> 00:28:52,250
+They asked me to go on once.
+
+464
+00:28:52,333 --> 00:28:54,500
+I was so excited
+I couldn't sleep for two nights,
+
+465
+00:28:54,583 --> 00:28:55,916
+but then they cut me for time.
+
+466
+00:28:56,000 --> 00:28:57,750
+Still hurts me to think about that.
+
+467
+00:28:57,833 --> 00:29:01,583
+I know what show you're talking about.
+My wife loves that show.
+
+468
+00:29:01,666 --> 00:29:04,458
+Okay, can you just tell me
+what this is all about? Okay?
+
+469
+00:29:04,541 --> 00:29:07,916
+'Cause you haven't read my article
+on Conlon getting hard in the art class.
+
+470
+00:29:08,000 --> 00:29:10,791
+Now Adul Grelio has come down
+from his mountaintop for your thing.
+
+471
+00:29:10,875 --> 00:29:13,625
+You won't even give me
+a lousy pronoun? Come on.
+
+472
+00:29:13,708 --> 00:29:16,708
+A comet, bigger than the asteroid
+that destroyed the dinosaurs,
+
+473
+00:29:16,791 --> 00:29:18,166
+is headed directly at Earth.
+
+474
+00:29:18,250 --> 00:29:20,541
+If it isn't deflected,
+the entire planet dies.
+
+475
+00:29:21,083 --> 00:29:22,625
+Wait, what did you just say?
+
+476
+00:29:22,708 --> 00:29:24,000
+It's for a video game.
+
+477
+00:29:27,458 --> 00:29:28,791
+Are you being serious?
+
+478
+00:29:29,541 --> 00:29:30,541
+Yes.
+
+479
+00:29:32,791 --> 00:29:34,083
+Oh, my God.
+
+480
+00:29:44,333 --> 00:29:47,041
+Oh, my God! What the fuck, man?
+
+481
+00:29:47,125 --> 00:29:49,916
+I love you too. All right. Yeah.
+
+482
+00:29:50,541 --> 00:29:52,958
+Hey, guys,
+we gotta keep walking, all right?
+
+483
+00:29:53,041 --> 00:29:54,208
+Come on.
+
+484
+00:30:30,791 --> 00:30:33,458
+- You must be Dr. Mindy and Miss Dibiasky?
+- Yes.
+
+485
+00:30:33,541 --> 00:30:35,833
+Jack and Brie are so excited
+to have you on the show.
+
+486
+00:30:35,916 --> 00:30:37,750
+Really? They know who we are?
+
+487
+00:30:37,833 --> 00:30:40,166
+White House is denying
+they even met with them.
+
+488
+00:30:40,250 --> 00:30:43,791
+Well, assholes will always be assholes.
+
+489
+00:30:52,750 --> 00:30:54,625
+Hi, I'm Thalia.
+
+490
+00:30:54,708 --> 00:30:57,000
+The <i>Herald</i> sent me
+to help with your wardrobe.
+
+491
+00:30:58,416 --> 00:30:59,833
+Oh, I'm not wearing that.
+
+492
+00:31:01,583 --> 00:31:05,416
+Yeah, you actually have
+really great facial structure.
+
+493
+00:31:05,500 --> 00:31:08,333
+How 'bout if we trim
+this beard down a little bit and...
+
+494
+00:31:08,416 --> 00:31:09,833
+I love your hair.
+
+495
+00:31:10,625 --> 00:31:11,541
+Thank you.
+
+496
+00:31:12,375 --> 00:31:15,958
+How are we gonna do this?
+I talk about the discovery and you…
+
+497
+00:31:16,666 --> 00:31:19,083
+Talk about how urgent it is
+that we take action.
+
+498
+00:31:19,166 --> 00:31:21,416
+How do we say it? I mean…
+
+499
+00:31:22,708 --> 00:31:26,125
+- Shouldn't we practice it or write it out?
+- Can I get you some water?
+
+500
+00:31:26,208 --> 00:31:28,458
+Yeah, water. Yeah, water would be nice.
+
+501
+00:31:29,625 --> 00:31:32,416
+You are here now.
+You are here now. You are here now.
+
+502
+00:31:32,500 --> 00:31:37,375
+Eleven benevolent elephants.
+Eleven benevolent elephants.
+
+503
+00:31:38,125 --> 00:31:40,041
+- Just gonna take some Xanax.
+- Hmm.
+
+504
+00:31:41,125 --> 00:31:42,833
+I take it sometimes when I…
+
+505
+00:31:44,458 --> 00:31:46,625
+Kate, not this time. Not this time.
+
+506
+00:31:51,416 --> 00:31:56,291
+He just needs to breathe
+and speak up. You know?
+
+507
+00:31:56,375 --> 00:31:57,875
+He's got this. I know he does.
+
+508
+00:32:03,208 --> 00:32:04,458
+Oh, God. Come on.
+
+509
+00:32:09,041 --> 00:32:12,208
+You are here now.
+You are here now. You are here now.
+
+510
+00:32:12,291 --> 00:32:13,333
+You're here now.
+
+511
+00:32:17,541 --> 00:32:18,458
+Oh, God!
+
+512
+00:32:18,541 --> 00:32:20,375
+You gotta
+stop drinking the cheap shit.
+
+513
+00:32:21,750 --> 00:32:23,750
+- It's only two glasses.
+- Yeah, two and a half.
+
+514
+00:32:23,833 --> 00:32:25,541
+- We're 20 out.
+- Always running late.
+
+515
+00:32:25,625 --> 00:32:27,541
+Let's make sure that our eye lines,
+
+516
+00:32:27,625 --> 00:32:30,250
+that we're not looking
+at Jack and Brie, please, all right?
+
+517
+00:32:30,333 --> 00:32:31,708
+And cue the package.
+
+518
+00:32:31,791 --> 00:32:33,333
+Two glasses. Here we go again.
+
+519
+00:32:52,041 --> 00:32:54,708
+- Ladies okay?
+- Yes. And we're live.
+
+520
+00:32:54,791 --> 00:32:58,083
+<i>Brie, I've got something for you today.
+Listen to this.</i>
+
+521
+00:32:58,166 --> 00:33:01,041
+<i>President Orlean's Supreme Court nominee,
+Sheriff Conlon,</i>
+
+522
+00:33:01,125 --> 00:33:06,208
+<i>has now been identified
+as appearing in a softcore porn cable show</i>
+
+523
+00:33:06,291 --> 00:33:07,791
+<i>- from the early '90s…</i>
+- Ridiculous.
+
+524
+00:33:07,875 --> 00:33:10,833
+<i>…called</i> Satin Sheet Nights.
+
+525
+00:33:10,916 --> 00:33:13,750
+<i>- This story just keeps going and going…</i>
+<i>- Oh, my gosh.</i>
+
+526
+00:33:13,833 --> 00:33:15,125
+Is that Riley Bina?
+
+527
+00:33:15,208 --> 00:33:17,166
+- <i>Yes, well, it's a…</i>
+- Really?
+
+528
+00:33:19,375 --> 00:33:22,208
+She looks a lot smaller
+in person, doesn't she?
+
+529
+00:33:22,791 --> 00:33:24,750
+<i>Ride 'em, cowboy.</i>
+
+530
+00:33:26,000 --> 00:33:27,333
+- <i>Good.</i>
+<i>- Hee-haw!</i>
+
+531
+00:33:27,416 --> 00:33:30,083
+Hey, everyone. I'm Sean from the show.
+
+532
+00:33:30,166 --> 00:33:33,875
+Uh, we're gonna do… Jack and Brie
+are gonna do ten on the SCOTUS nominee.
+
+533
+00:33:33,958 --> 00:33:37,250
+- Riley Bina, you'll come on and...
+- I get to talk about my single, right?
+
+534
+00:33:37,333 --> 00:33:40,291
+A portion of the profits
+goes to the manatee sanctuaries.
+
+535
+00:33:40,375 --> 00:33:42,375
+Yes, but the, uh, breakup first.
+
+536
+00:33:42,458 --> 00:33:45,083
+And then Dr. Mindy and Miss Dibiasky,
+
+537
+00:33:45,166 --> 00:33:47,583
+you'll come on and talk about
+that planet you discovered.
+
+538
+00:33:47,666 --> 00:33:49,458
+Uh… Comet. We found a comet.
+
+539
+00:33:49,541 --> 00:33:51,666
+They know what we're here
+to talk about, right?
+
+540
+00:33:51,750 --> 00:33:54,458
+Of course. Jack and Brie
+love doing science segments.
+
+541
+00:33:54,541 --> 00:33:56,375
+Just remember, keep it light, fun.
+
+542
+00:33:56,458 --> 00:33:58,875
+Jack and Brie love having a good time.
+
+543
+00:33:58,958 --> 00:34:00,500
+That's not promising.
+
+544
+00:34:00,583 --> 00:34:03,708
+You guys discovered a comet?
+That's so dope.
+
+545
+00:34:03,791 --> 00:34:05,916
+I have a tattoo
+of a shooting star on my back.
+
+546
+00:34:06,000 --> 00:34:07,833
+- Oh.
+- That's terrific.
+
+547
+00:34:13,375 --> 00:34:17,750
+We heard about your breakup too,
+so we just wanna say…
+
+548
+00:34:18,708 --> 00:34:20,333
+We're very sorry, right?
+
+549
+00:34:20,416 --> 00:34:23,291
+We're real sorry.
+You seem like a… great person.
+
+550
+00:34:24,083 --> 00:34:26,583
+Why don't you mind
+your own business, you old fuck?
+
+551
+00:34:29,500 --> 00:34:30,500
+Okay.
+
+552
+00:34:33,125 --> 00:34:35,291
+Not gonna lie, but, um, my friends
+
+553
+00:34:35,375 --> 00:34:38,750
+and my Vroom Vroom Army
+have been so amazing.
+
+554
+00:34:38,833 --> 00:34:42,500
+So, I'm really grateful for that.
+But, yeah, I can't lie. It's been hard.
+
+555
+00:34:42,583 --> 00:34:45,291
+- You're an inspiration. It's incredible.
+- To so many.
+
+556
+00:34:45,375 --> 00:34:47,250
+You're really owning that pain.
+
+557
+00:34:47,333 --> 00:34:51,041
+You know, Jack, I feel like
+there's some kind of conversation
+
+558
+00:34:51,125 --> 00:34:54,500
+that we need to be having here.
+Is there any message
+
+559
+00:34:54,583 --> 00:34:58,750
+that you would like
+to send to your, uh, ex, DJ Chello?
+
+560
+00:34:59,791 --> 00:35:01,083
+You know, um…
+
+561
+00:35:01,166 --> 00:35:02,625
+If there's something...
+
+562
+00:35:02,708 --> 00:35:04,291
+- Yeah.
+- Right here in this camera.
+
+563
+00:35:04,375 --> 00:35:07,666
+Tell him. As if that was him.
+You tell him exactly what you're thinking.
+
+564
+00:35:07,750 --> 00:35:09,208
+Okay, um…
+
+565
+00:35:11,583 --> 00:35:12,666
+Chell.
+
+566
+00:35:13,500 --> 00:35:19,250
+I still love you,
+and, um, after many sleepless nights,
+
+567
+00:35:20,750 --> 00:35:21,833
+three,
+
+568
+00:35:22,541 --> 00:35:23,875
+I wanna take you back.
+
+569
+00:35:23,958 --> 00:35:25,708
+I'm sorry. Whoa, uh…
+
+570
+00:35:25,791 --> 00:35:26,875
+- Is that okay?
+- Yeah.
+
+571
+00:35:26,958 --> 00:35:29,875
+- <i>He cheated on you.</i>
+- Oh, my God. You guys…
+
+572
+00:35:29,958 --> 00:35:31,666
+Yeah. I do.
+
+573
+00:35:31,750 --> 00:35:34,000
+- Diddly just exploded.
+- So did Vroom Vroom.
+
+574
+00:35:34,083 --> 00:35:36,250
+BASH News just sent me
+eight push notifications.
+
+575
+00:35:36,333 --> 00:35:38,166
+- About this?
+- Yeah, look.
+
+576
+00:35:38,250 --> 00:35:40,708
+My phone just purchased
+DJ Chello's latest single.
+
+577
+00:35:40,791 --> 00:35:42,875
+What the… It just did that without asking.
+
+578
+00:35:42,958 --> 00:35:45,791
+I'm being told that
+we have DJ Chello live on a Mugg link.
+
+579
+00:35:45,875 --> 00:35:48,791
+- What's he got to say for himself?
+- I love the producers here.
+
+580
+00:35:48,875 --> 00:35:50,125
+<i>Hey, baby doll. Hey.</i>
+
+581
+00:35:50,208 --> 00:35:52,083
+- Hi. Hi, baby.
+- He's in tears.
+
+582
+00:35:52,166 --> 00:35:54,083
+<i>- Your kid messed up bad.</i>
+- I know.
+
+583
+00:35:54,166 --> 00:35:56,666
+<i>Lady Baroque wasn't wearing
+any panties in the club that night.</i>
+
+584
+00:35:56,750 --> 00:35:58,416
+- It's fine.
+<i>- I just got all crazy.</i>
+
+585
+00:35:58,500 --> 00:36:00,416
+<i>I wasn't thinking straight.
+I made a mistake.</i>
+
+586
+00:36:00,500 --> 00:36:02,375
+<i>But, look, it's always been you.</i>
+
+587
+00:36:02,458 --> 00:36:04,791
+Oh! I get it. It's okay.
+
+588
+00:36:04,875 --> 00:36:07,583
+<i>I hooked up with her too,
+last year at the Music Globes</i>
+
+589
+00:36:07,666 --> 00:36:10,000
+<i>right before I ran off
+with that power forward from the Nuggets,</i>
+
+590
+00:36:10,083 --> 00:36:12,250
+and none of that matters.
+
+591
+00:36:12,333 --> 00:36:15,916
+What about "Forget breakup sex.
+Try breakup relationship"?
+
+592
+00:36:16,000 --> 00:36:17,166
+- That's good.
+- Come on.
+
+593
+00:36:17,250 --> 00:36:20,166
+"Ten famous second chances
+for two-timers," guys.
+
+594
+00:36:20,250 --> 00:36:21,166
+It's on a plate.
+
+595
+00:36:21,250 --> 00:36:25,125
+<i>I've been scared, but, honestly,
+I'm not scared anymore.</i>
+
+596
+00:36:25,208 --> 00:36:26,041
+Okay.
+
+597
+00:36:26,125 --> 00:36:28,958
+<i>My little bumblebee, will you marry me?</i>
+
+598
+00:36:29,041 --> 00:36:31,625
+- Oh, my God. Of course.
+- Oh, wow.
+
+599
+00:36:31,708 --> 00:36:33,208
+<i>- Chell, of course.</i>
+<i>- Yes!</i>
+
+600
+00:36:33,291 --> 00:36:35,416
+<i>- Yes!</i>
+- That's sick.
+
+601
+00:36:35,500 --> 00:36:36,333
+<i>Yes!</i>
+
+602
+00:36:36,416 --> 00:36:38,791
+All right, DJ Chello.
+
+603
+00:36:38,875 --> 00:36:40,875
+What is happening?
+
+604
+00:36:40,958 --> 00:36:41,916
+Just bought another.
+
+605
+00:36:42,000 --> 00:36:44,916
+- Who are these people again?
+- They're like the biggest names…
+
+606
+00:36:46,583 --> 00:36:49,625
+Well, the fireworks
+have certainly gone off today.
+
+607
+00:36:49,708 --> 00:36:50,875
+- They have.
+- What a zinger!
+
+608
+00:36:50,958 --> 00:36:52,458
+Yes, they have.
+
+609
+00:36:52,541 --> 00:36:55,250
+From a wedding proposal
+to a little science experiment.
+
+610
+00:36:55,333 --> 00:36:57,250
+I'll need a temple rub
+and a martini later on.
+
+611
+00:36:57,333 --> 00:37:02,041
+Our last guests today have made
+a pretty big discovery in space.
+
+612
+00:37:02,125 --> 00:37:04,041
+Astronomer Dr. Randall Mindy
+
+613
+00:37:04,125 --> 00:37:07,208
+and PhD candidate
+Miss Kate Dibiasky are here.
+
+614
+00:37:07,291 --> 00:37:08,333
+Welcome to the show.
+
+615
+00:37:08,416 --> 00:37:11,583
+Can I ask you one thing before we go
+any further? I have to know this.
+
+616
+00:37:11,666 --> 00:37:14,208
+Is there life out there?
+
+617
+00:37:14,291 --> 00:37:17,708
+- Can you tell us? Yes or no, final answer.
+- We don't have the data.
+
+618
+00:37:17,791 --> 00:37:19,958
+But sure, in the vastness
+of space, why not?
+
+619
+00:37:20,041 --> 00:37:21,541
+Yes, aliens are real.
+
+620
+00:37:21,625 --> 00:37:24,166
+I knew I'd like this guy.
+Didn't I tell? You owe me 50 bucks.
+
+621
+00:37:24,250 --> 00:37:27,000
+I'm not saying there's
+little green men in flying saucers...
+
+622
+00:37:27,083 --> 00:37:30,208
+- Please don't encourage him, Dr. Mindy.
+- That's what he's saying.
+
+623
+00:37:30,291 --> 00:37:31,708
+We'll never get out of here.
+
+624
+00:37:31,791 --> 00:37:33,541
+Now, Jack was having some fun here.
+
+625
+00:37:33,625 --> 00:37:35,166
+- Dad looks great.
+- What did…
+
+626
+00:37:35,250 --> 00:37:37,583
+- Doesn't he look good?
+- They did something with his beard.
+
+627
+00:37:37,666 --> 00:37:39,583
+With the aliens…
+
+628
+00:37:39,666 --> 00:37:41,458
+Really… He really does.
+
+629
+00:37:41,541 --> 00:37:43,625
+- So much.
+- Dr. Randall…
+
+630
+00:37:43,708 --> 00:37:47,125
+You'll regret it. Now, look,
+Jack's just having some fun here
+
+631
+00:37:47,208 --> 00:37:48,875
+with the aliens or whatever,
+
+632
+00:37:48,958 --> 00:37:53,250
+but there's a <i>New York Herald</i> story
+that's just come out that talks about…
+
+633
+00:37:53,333 --> 00:37:55,375
+Keep it right there. You're doing good.
+
+634
+00:37:55,458 --> 00:37:57,833
+- …the two of you have made.
+- That's right, Brie.
+
+635
+00:37:57,916 --> 00:38:00,958
+Kate was, um, observing supernovas…
+
+636
+00:38:01,041 --> 00:38:02,583
+Yo, that's your girl?
+
+637
+00:38:02,666 --> 00:38:05,083
+- Yeah.
+- Not bad.
+
+638
+00:38:05,166 --> 00:38:09,625
+…an absolutely shocking
+and once-in-a-lifetime discovery.
+
+639
+00:38:09,708 --> 00:38:13,000
+I had no idea that Subaru made telescopes.
+
+640
+00:38:13,083 --> 00:38:16,166
+This has to be exciting.
+Tell us what you found, Miss Diabasky.
+
+641
+00:38:16,250 --> 00:38:20,250
+Um, I was monitoring exploding stars
+
+642
+00:38:20,333 --> 00:38:26,750
+to help measure
+the expansion of the universe and...
+
+643
+00:38:26,833 --> 00:38:28,875
+- For your PhD, right?
+- Yeah.
+
+644
+00:38:28,958 --> 00:38:33,125
+I saw something I didn't recognize.
+
+645
+00:38:34,541 --> 00:38:36,041
+<i>It was a comet.</i>
+
+646
+00:38:37,041 --> 00:38:38,166
+<i>A big one.</i>
+
+647
+00:38:40,708 --> 00:38:44,583
+It's headed directly at Earth,
+and it really likely will hit.
+
+648
+00:38:45,916 --> 00:38:47,791
+This sounds very, very exciting.
+
+649
+00:38:47,875 --> 00:38:50,458
+Exploding stars, like,
+stars actually explode.
+
+650
+00:38:50,541 --> 00:38:51,708
+Um, how big is this thing?
+
+651
+00:38:51,791 --> 00:38:54,083
+Can it destroy someone's house?
+Is that possible?
+
+652
+00:38:54,166 --> 00:38:57,333
+Well, Comet Dibiasky, which is
+what it will officially be named...
+
+653
+00:38:57,416 --> 00:38:58,833
+- After her?
+- Yeah, after her.
+
+654
+00:38:58,916 --> 00:39:01,583
+- Congratulations.
+- What an honor. Congratulations.
+
+655
+00:39:01,666 --> 00:39:04,166
+It's somewhere between
+six and nine kilometers across.
+
+656
+00:39:04,250 --> 00:39:05,583
+- So...
+- It's big.
+
+657
+00:39:05,666 --> 00:39:08,875
+It would damage the entire planet.
+
+658
+00:39:08,958 --> 00:39:10,583
+Not just a house, you know?
+
+659
+00:39:10,666 --> 00:39:11,708
+The entire planet.
+
+660
+00:39:11,791 --> 00:39:14,708
+Okay, as it's damaging,
+will it hit this one house in particular
+
+661
+00:39:14,791 --> 00:39:17,875
+that's right on the coast of New Jersey?
+It's my ex-wife's house.
+
+662
+00:39:17,958 --> 00:39:19,208
+Can we make that happen?
+
+663
+00:39:19,291 --> 00:39:21,708
+You and Shelly have
+a great relationship. Stop.
+
+664
+00:39:21,791 --> 00:39:23,125
+You need to stop.
+
+665
+00:39:23,208 --> 00:39:26,125
+I will, but in all fairness,
+I actually paid for the house.
+
+666
+00:39:26,208 --> 00:39:27,500
+I'm so sorry.
+
+667
+00:39:27,583 --> 00:39:30,583
+I'm sorry, are we not being clear?
+
+668
+00:39:31,916 --> 00:39:33,791
+We're trying to tell you
+
+669
+00:39:33,875 --> 00:39:37,291
+that the entire planet
+is about to be destroyed.
+
+670
+00:39:37,958 --> 00:39:40,291
+- Okay, um…
+- Well, it's, you know…
+
+671
+00:39:40,375 --> 00:39:43,625
+It's something we do around here.
+We just keep the bad news light.
+
+672
+00:39:43,708 --> 00:39:45,625
+Right. It helps the medicine go down.
+
+673
+00:39:45,708 --> 00:39:47,666
+Speaking of medicine, tomorrow we've got...
+
+674
+00:39:47,750 --> 00:39:51,541
+Well, maybe the destruction
+of the entire planet
+
+675
+00:39:52,458 --> 00:39:53,833
+isn't supposed to be fun.
+
+676
+00:39:54,625 --> 00:39:58,250
+Maybe it's supposed to be terrifying.
+
+677
+00:39:58,333 --> 00:39:59,333
+<i>And unsettling.</i>
+
+678
+00:39:59,416 --> 00:40:01,125
+No, please don't do that.
+
+679
+00:40:01,208 --> 00:40:03,333
+<i>- And you should stay up all night…</i>
+- Please.
+
+680
+00:40:03,416 --> 00:40:05,250
+…every night crying,
+
+681
+00:40:05,333 --> 00:40:09,750
+when we're all 100%
+for sure gonna fucking die!
+
+682
+00:40:10,500 --> 00:40:12,416
+Hey, Kate.
+
+683
+00:40:12,500 --> 00:40:13,500
+<i>I'm sorry.</i>
+
+684
+00:40:14,875 --> 00:40:15,708
+Hey, man.
+
+685
+00:40:16,375 --> 00:40:19,708
+My brother has bipolar disorder.
+So if you ever need anyone to talk…
+
+686
+00:40:20,708 --> 00:40:22,583
+- Uh…
+- Okay.
+
+687
+00:40:22,666 --> 00:40:25,583
+Is she always like that?
+
+688
+00:40:26,291 --> 00:40:28,083
+- I...
+- Something I said?
+
+689
+00:40:28,166 --> 00:40:30,083
+Right?
+
+690
+00:40:30,166 --> 00:40:33,625
+Maybe I should have given her
+that extra Xanax that I had.
+
+691
+00:40:34,791 --> 00:40:38,208
+Listen, if you don't have enough,
+we all have enough around here for her.
+
+692
+00:40:38,291 --> 00:40:41,166
+A spoonful of Xanax
+makes the medicine go down, right?
+
+693
+00:40:41,250 --> 00:40:42,916
+That's right. That's good.
+
+694
+00:40:43,916 --> 00:40:47,166
+- We're gonna have to get you back.
+- I knew I'd like this guy.
+
+695
+00:40:47,250 --> 00:40:49,333
+- Is he a plant?
+- I knew it.
+
+696
+00:40:49,416 --> 00:40:50,333
+Okay.
+
+697
+00:40:50,416 --> 00:40:52,791
+Well, the handsome astronomer
+
+698
+00:40:52,875 --> 00:40:56,375
+can come back anytime,
+but the yelling lady, not so much.
+
+699
+00:40:56,458 --> 00:40:59,416
+Not so much. Join us tomorrow
+when our guest will be the man
+
+700
+00:40:59,500 --> 00:41:03,083
+that many say will challenge
+President Orlean in two years.
+
+701
+00:41:03,166 --> 00:41:05,166
+Senator Jeff Lerner will be here.
+
+702
+00:41:05,250 --> 00:41:08,000
+And wrongly-convicted murderer,
+Michelle Weems,
+
+703
+00:41:08,083 --> 00:41:12,375
+talks to us about her controversial
+third-place finish on <i>Celebrity Dance Off.</i>
+
+704
+00:41:12,458 --> 00:41:15,833
+- I thought she would've won.
+- Yes. I still think she's guilty.
+
+705
+00:41:15,916 --> 00:41:18,083
+- That's <i>The Daily Rip,</i> guys.
+- Have a great day.
+
+706
+00:41:18,666 --> 00:41:20,583
+- And we're out!
+- The show's over?
+
+707
+00:41:20,666 --> 00:41:21,958
+- I mean, didn't…
+- Yeah.
+
+708
+00:41:22,041 --> 00:41:24,500
+- Did what we wanted to say come across?
+- No, it's over.
+
+709
+00:41:24,583 --> 00:41:28,500
+You were great, but I think mullet girl,
+she probably needs some media training.
+
+710
+00:41:29,625 --> 00:41:31,291
+- Really?
+- Yeah, no, terrible, buddy.
+
+711
+00:41:31,375 --> 00:41:33,916
+Oh… Thanks. Thanks, Billy.
+
+712
+00:41:34,000 --> 00:41:39,500
+Uh, we usually get drinks at Aundrine's
+after our five o'clock staff meeting.
+
+713
+00:41:39,583 --> 00:41:42,041
+You know, it's fun. You should come.
+
+714
+00:41:42,125 --> 00:41:45,041
+Oh, I'll have to see.
+Thank you for the invitation. Thank you.
+
+715
+00:41:45,583 --> 00:41:46,583
+Mmm-hmm.
+
+716
+00:41:47,916 --> 00:41:49,291
+Kate? Kate?
+
+717
+00:41:49,375 --> 00:41:52,250
+- Hey. You were awesome.
+- Oh, thanks.
+
+718
+00:41:52,333 --> 00:41:54,291
+Can I get a photo of you for my portfolio?
+
+719
+00:41:54,375 --> 00:41:55,666
+- Yeah, sure.
+- Thanks.
+
+720
+00:41:55,750 --> 00:41:57,083
+Thank you.
+
+721
+00:41:57,666 --> 00:41:59,166
+You can see this spike here
+
+722
+00:41:59,250 --> 00:42:01,375
+is when Riley Bina
+asked to take DJ Chello back
+
+723
+00:42:01,458 --> 00:42:02,750
+on the segment before you.
+
+724
+00:42:02,833 --> 00:42:06,041
+We saw engagement across
+all social media platforms.
+
+725
+00:42:06,125 --> 00:42:08,916
+Hmm. And what about our story?
+
+726
+00:42:09,000 --> 00:42:11,958
+Randall and Kate,
+
+727
+00:42:12,041 --> 00:42:15,750
+{\an8}your TV appearance got some nice traffic
+when Miss Dibiasky cursed.
+
+728
+00:42:15,833 --> 00:42:19,041
+{\an8}But, unfortunately,
+there was an immediate backlash
+
+729
+00:42:19,125 --> 00:42:20,833
+{\an8}that quickly became a meme.
+
+730
+00:42:20,916 --> 00:42:22,208
+Oh, Jesus.
+
+731
+00:42:22,875 --> 00:42:26,250
+- Oh, that's terrible.
+- They just think I'm crazy.
+
+732
+00:42:26,333 --> 00:42:29,333
+I mean, look at that.
+That's so unnecessary.
+
+733
+00:42:30,708 --> 00:42:33,125
+- You can move on, Erin.
+- Yeah.
+
+734
+00:42:33,208 --> 00:42:35,916
+That is just so…
+Is that even allowed on the Internet or…
+
+735
+00:42:36,000 --> 00:42:37,625
+I think that's Photoshop, Kate.
+
+736
+00:42:37,708 --> 00:42:40,083
+The trick is
+to not take it personal…
+
+737
+00:42:40,166 --> 00:42:44,458
+Dr. Mindy, on the other hand,
+had some very high favorables.
+
+738
+00:42:44,541 --> 00:42:49,125
+Vegan♪Babe wrote,
+"Meow! Me likey hunky Star Man."
+
+739
+00:42:49,208 --> 00:42:52,208
+Uh, some accounts called him
+"The Bedroom Eyes Doomsday Prophet"
+
+740
+00:42:52,291 --> 00:42:55,083
+or A-I-L-F, which means
+"astronomer I'd like to fuck."
+
+741
+00:42:55,166 --> 00:42:56,041
+Oh…
+
+742
+00:42:56,125 --> 00:42:58,666
+I don't see what that has
+to do with anything, do you?
+
+743
+00:42:59,375 --> 00:43:02,500
+And that's everything.
+
+744
+00:43:02,583 --> 00:43:05,666
+We did not feature or push on any sites,
+
+745
+00:43:05,750 --> 00:43:09,083
+and clicks overall were below
+basic weather and traffic stories.
+
+746
+00:43:10,500 --> 00:43:12,500
+So that… That… That's it?
+
+747
+00:43:12,583 --> 00:43:14,333
+- I knew it.
+- That's it.
+
+748
+00:43:15,250 --> 00:43:17,833
+- Thank you, Erin.
+- Yeah, no problem.
+
+749
+00:43:18,500 --> 00:43:20,750
+I don't… I don't understand.
+
+750
+00:43:20,833 --> 00:43:22,666
+I don't understand. There's no response.
+
+751
+00:43:22,750 --> 00:43:27,375
+There's absolutely no…
+Why aren't people terrified?
+
+752
+00:43:27,458 --> 00:43:29,458
+What do we have to say?
+What do we have to do?
+
+753
+00:43:29,541 --> 00:43:32,916
+There are scientists in Mexico and Spain
+who are currently going through the data,
+
+754
+00:43:33,000 --> 00:43:34,708
+and, uh, South Korea has expressed...
+
+755
+00:43:34,791 --> 00:43:36,500
+- That's great. South Korea.
+- Hey.
+
+756
+00:43:36,583 --> 00:43:39,041
+Let us not bullshit each other.
+
+757
+00:43:39,125 --> 00:43:42,791
+The bottom line is,
+you guys told us the science was 100%.
+
+758
+00:43:42,875 --> 00:43:44,625
+It's not. Now we look like idiots.
+
+759
+00:43:44,708 --> 00:43:47,291
+- No. Who said the science is not 100%?
+- Excuse me?
+
+760
+00:43:47,375 --> 00:43:50,250
+I wanna talk to this person.
+You tell me who said the science...
+
+761
+00:43:50,333 --> 00:43:53,333
+Dr. Jocelyn Calder, the head of NASA,
+
+762
+00:43:53,416 --> 00:43:56,625
+just came out calling it
+"more near-miss hysteria."
+
+763
+00:43:56,708 --> 00:43:58,625
+She's the one
+who told us not to say anything.
+
+764
+00:43:58,708 --> 00:44:00,083
+"More near-miss hysteria."
+
+765
+00:44:00,166 --> 00:44:01,291
+Is she even an astronomer?
+
+766
+00:44:01,375 --> 00:44:04,458
+She's the head of NASA, but maybe
+she doesn't know what she's talking about.
+
+767
+00:44:04,541 --> 00:44:05,958
+She's the head of NASA, but look,
+
+768
+00:44:06,041 --> 00:44:09,875
+she's a "former anesthesiologist
+and a President Orlean super donor."
+
+769
+00:44:09,958 --> 00:44:11,583
+Let's not be dramatic here.
+
+770
+00:44:11,666 --> 00:44:12,666
+It's all corrupt.
+
+771
+00:44:12,750 --> 00:44:16,416
+Yes, but the point is that Adul's right.
+There's still serious debate.
+
+772
+00:44:16,500 --> 00:44:18,708
+And now the <i>Herald</i> has egg on its face.
+
+773
+00:44:18,791 --> 00:44:20,916
+We've taken that story as far as it goes.
+
+774
+00:44:21,666 --> 00:44:25,625
+Ladies, gentlemen,
+I wish you a very pleasant end of times.
+
+775
+00:44:25,708 --> 00:44:27,708
+It's not a goddamn story, okay?
+
+776
+00:44:30,208 --> 00:44:32,916
+We have precisely six months, ten days,
+
+777
+00:44:33,000 --> 00:44:36,250
+two hours, 11 minutes and 41 seconds,
+
+778
+00:44:36,333 --> 00:44:39,000
+until a comet twice the size of Chicxulub
+
+779
+00:44:39,083 --> 00:44:41,833
+tears through our atmosphere
+and extincts all life on Earth.
+
+780
+00:44:41,916 --> 00:44:44,833
+When did you
+do those calculations?
+
+781
+00:44:45,666 --> 00:44:48,250
+I put the moment of impact on a diet app.
+
+782
+00:44:48,333 --> 00:44:51,958
+So, impact is when my diet ends.
+
+783
+00:44:52,041 --> 00:44:56,125
+Only I'm not on a diet.
+I'm just crying five times a day.
+
+784
+00:44:56,208 --> 00:44:58,125
+- I'm scared.
+- Hey, come on. Come on.
+
+785
+00:44:58,833 --> 00:45:01,416
+Everyone should be
+panicking right now, okay?
+
+786
+00:45:01,500 --> 00:45:03,416
+- Don't cry. Come on.
+- I know.
+
+787
+00:45:06,833 --> 00:45:08,291
+That prick!
+
+788
+00:45:16,500 --> 00:45:17,666
+What happened?
+
+789
+00:45:17,750 --> 00:45:20,083
+Guess my boyfriend just broke up with me.
+
+790
+00:45:20,166 --> 00:45:24,500
+God, what a day. What a day…
+
+791
+00:45:32,666 --> 00:45:35,958
+You're gonna die!
+You're gonna die! You're…
+
+792
+00:45:46,291 --> 00:45:49,708
+<i>It started with</i>
+<i>a photo many thought was an armpit</i>
+
+793
+00:45:49,791 --> 00:45:52,458
+<i>or the chin of a man with a strange beard.</i>
+
+794
+00:45:52,541 --> 00:45:54,833
+<i>But what's emerging now is a scandal…</i>
+
+795
+00:45:54,916 --> 00:45:57,833
+{\an8}<i>President Orlean sent
+her Supreme Court nominee</i>
+
+796
+00:45:57,916 --> 00:46:00,583
+{\an8}<i>a cell phone picture of her private parts.</i>
+
+797
+00:46:00,666 --> 00:46:02,708
+<i>- Holy crap!</i>
+<i>- It's clickbait material.</i>
+
+798
+00:46:02,791 --> 00:46:05,250
+<i>Is this what you want
+in your country as a leader?</i>
+
+799
+00:46:05,333 --> 00:46:07,708
+<i>Isn't she the same person
+who told poor people</i>
+
+800
+00:46:07,791 --> 00:46:11,833
+<i>that if they don't wanna be poor,
+they should pick better lottery numbers?</i>
+
+801
+00:46:11,916 --> 00:46:12,958
+<i>She actually said that.</i>
+
+802
+00:46:13,041 --> 00:46:14,541
+{\an8}<i>A source also confirmed to me that</i>
+
+803
+00:46:14,625 --> 00:46:16,750
+{\an8}<i>the two have been
+having an affair for years.</i>
+
+804
+00:46:16,833 --> 00:46:18,416
+<i>And as recently as yesterday…</i>
+
+805
+00:46:18,500 --> 00:46:22,583
+Members of my party
+are currently drawing up a formal censure
+
+806
+00:46:22,666 --> 00:46:23,625
+<i>of the president,</i>
+
+807
+00:46:24,583 --> 00:46:25,500
+<i>Janie Orlean…</i>
+
+808
+00:46:25,583 --> 00:46:26,916
+Oh, my God, honey.
+
+809
+00:46:27,000 --> 00:46:29,791
+This guy doesn't even know
+what a heliocentric orbit is,
+
+810
+00:46:29,875 --> 00:46:32,625
+and he's calling me a crackpot.
+
+811
+00:46:32,708 --> 00:46:33,708
+He says that,
+
+812
+00:46:34,541 --> 00:46:38,166
+"Jewish billionaires
+invented this comet threat
+
+813
+00:46:38,250 --> 00:46:42,125
+so the government
+can confiscate our liberty and our guns."
+
+814
+00:46:42,208 --> 00:46:45,500
+"#DontBeScared." Unbelievable.
+
+815
+00:46:46,208 --> 00:46:47,041
+My God.
+
+816
+00:46:47,125 --> 00:46:49,041
+You've been on that site a lot lately.
+
+817
+00:46:49,625 --> 00:46:54,833
+Yeah. I mean, I… I have, like,
+a quarter million subscribers, honey.
+
+818
+00:46:54,916 --> 00:46:57,875
+I gotta use my voice
+to get the truth out there, right?
+
+819
+00:46:58,833 --> 00:47:01,916
+I'm, uh, going for a walk
+if you wanna come.
+
+820
+00:47:05,208 --> 00:47:07,750
+It is called
+the scientific method…
+
+821
+00:47:08,750 --> 00:47:11,666
+…and it is what created the computer
+
+822
+00:47:11,750 --> 00:47:16,666
+that you are typing
+your half-witted conspiracy theories on.
+
+823
+00:47:18,125 --> 00:47:19,708
+What do you think about that?
+
+824
+00:47:20,750 --> 00:47:21,958
+Randall?
+
+825
+00:47:22,750 --> 00:47:25,250
+- Yeah, honey?
+- Someone's here to see you.
+
+826
+00:47:25,916 --> 00:47:28,083
+Who? Oh, boy.
+
+827
+00:47:31,416 --> 00:47:32,500
+Oh, my gosh.
+
+828
+00:47:33,541 --> 00:47:35,458
+Oh, God, right. Okay.
+
+829
+00:47:36,541 --> 00:47:37,375
+Right.
+
+830
+00:47:37,875 --> 00:47:39,166
+Are you Dr. Randall Mindy?
+
+831
+00:47:39,250 --> 00:47:40,416
+<i>Yes, sir. I am.</i>
+
+832
+00:47:41,791 --> 00:47:43,833
+"We're all gonna die."
+
+833
+00:47:43,916 --> 00:47:45,708
+Fuck off, please.
+
+834
+00:47:48,750 --> 00:47:51,958
+FBI! Freeze! Get on your knees right now!
+Get on your knees!
+
+835
+00:47:52,708 --> 00:47:55,500
+You're under arrest
+for breach of national security secrets.
+
+836
+00:47:55,583 --> 00:47:56,458
+Jesus Christ!
+
+837
+00:47:56,541 --> 00:48:00,125
+You could've just called me
+or showed up to my apartment.
+
+838
+00:48:01,208 --> 00:48:03,208
+What are you, dressed up as a blind guy?
+
+839
+00:48:05,666 --> 00:48:08,583
+- Get on the ground!
+- Okay. Now be cool.
+
+840
+00:48:09,541 --> 00:48:12,083
+I just have
+more skin pigmentation than you.
+
+841
+00:48:12,166 --> 00:48:15,083
+'Cause your ancestors
+migrated to Northern Europe
+
+842
+00:48:15,166 --> 00:48:17,250
+and developed lighter skin
+so as to not get…
+
+843
+00:48:19,500 --> 00:48:22,958
+Unless you assholes
+are taking me to the Batcave,
+
+844
+00:48:23,041 --> 00:48:24,791
+fuck you for putting this hood on me.
+
+845
+00:48:27,000 --> 00:48:29,541
+Watch out for him.
+He'll charge you for free shit.
+
+846
+00:48:30,208 --> 00:48:32,583
+What's he doing here?
+Is he here for us?
+
+847
+00:48:33,250 --> 00:48:34,625
+Gentlemen, you can come in.
+
+848
+00:48:39,208 --> 00:48:41,541
+I think
+it was Winston Churchill who…
+
+849
+00:48:41,625 --> 00:48:47,500
+Or maybe it was Bobby Knight
+who said, "The great labor of leadership
+
+850
+00:48:47,583 --> 00:48:51,083
+is to lay down one's yoke of pride
+
+851
+00:48:51,833 --> 00:48:54,791
+and admit that mistakes were made."
+
+852
+00:48:54,875 --> 00:48:58,041
+You were deceived,
+as was I, but the end result was,
+
+853
+00:48:58,125 --> 00:49:01,791
+we had our scientists who went to,
+uh, the prestigious schools of Harvard,
+
+854
+00:49:01,875 --> 00:49:03,000
+Princeton, et cetera.
+
+855
+00:49:03,500 --> 00:49:08,416
+They confirmed the data.
+So we would like to offer you a…
+
+856
+00:49:09,916 --> 00:49:12,000
+Presidential apology.
+
+857
+00:49:12,083 --> 00:49:13,000
+Really?
+
+858
+00:49:13,750 --> 00:49:16,625
+And we are fully prepared to mobilize
+
+859
+00:49:16,708 --> 00:49:19,583
+in historic fashion
+in order to save this planet.
+
+860
+00:49:21,666 --> 00:49:23,875
+The best news
+we've heard in a long time.
+
+861
+00:49:23,958 --> 00:49:27,541
+So, basically, what you're saying is
+
+862
+00:49:27,625 --> 00:49:31,458
+you're about to lose the midterms
+'cause you got caught
+
+863
+00:49:31,541 --> 00:49:35,625
+sending pictures of your cooch
+to your porn-star sheriff boyfriend.
+
+864
+00:49:35,708 --> 00:49:39,625
+So now it's to your advantage
+to act on the comet?
+
+865
+00:49:41,541 --> 00:49:42,708
+Right.
+
+866
+00:49:42,791 --> 00:49:44,041
+Okay.
+
+867
+00:49:44,666 --> 00:49:46,000
+Okay. I'm just…
+
+868
+00:49:47,791 --> 00:49:51,041
+God, I'm so relieved
+that you guys are doing something.
+
+869
+00:49:51,125 --> 00:49:54,708
+- Hey, come on. Hey.
+- This has been really…
+
+870
+00:49:54,791 --> 00:49:56,958
+- Really, really hard.
+- Come here.
+
+871
+00:49:57,041 --> 00:50:00,166
+This has been really, really,
+really stressful on all of us.
+
+872
+00:50:00,250 --> 00:50:01,291
+Yes, I will agree.
+
+873
+00:50:01,375 --> 00:50:03,583
+This will take some
+heavy weight off all of us...
+
+874
+00:50:03,666 --> 00:50:06,583
+Sorry, you just look
+so bad when you cry.
+
+875
+00:50:06,666 --> 00:50:08,458
+Maybe, possibly.
+
+876
+00:50:08,541 --> 00:50:10,458
+People are gonna ask
+why we didn't act earlier.
+
+877
+00:50:10,541 --> 00:50:12,958
+So you're gonna have
+to take the hit on this one.
+
+878
+00:50:13,041 --> 00:50:16,083
+Yeah, but we'll take care
+of you down the road, Jocelyn.
+
+879
+00:50:16,750 --> 00:50:18,375
+- We will.
+- Of course, Janie.
+
+880
+00:50:19,000 --> 00:50:21,500
+I will resign in disgrace
+first thing tomorrow.
+
+881
+00:50:21,583 --> 00:50:24,291
+- Good. Yeah, good.
+- That's weird as hell.
+
+882
+00:50:24,375 --> 00:50:26,458
+She's an anesthesiologist.
+
+883
+00:50:26,541 --> 00:50:29,541
+I'm going to make a statement,
+
+884
+00:50:29,625 --> 00:50:32,166
+presidential statement
+to the American people.
+
+885
+00:50:32,250 --> 00:50:35,041
+And we're not gonna tell
+the press about it ahead of time
+
+886
+00:50:35,125 --> 00:50:37,916
+because that way
+it will have the appearance
+
+887
+00:50:38,000 --> 00:50:39,666
+of a breaking emergency sort of…
+
+888
+00:50:39,750 --> 00:50:42,166
+<i>Good things</i>
+<i>come to those who wait.</i>
+
+889
+00:50:42,250 --> 00:50:44,166
+<i>See?</i>
+
+890
+00:50:44,250 --> 00:50:45,375
+<i>Whoo!</i>
+
+891
+00:50:45,458 --> 00:50:47,125
+<i>Oh, my God!</i>
+
+892
+00:50:50,125 --> 00:50:53,166
+<i>We interrupt this broadcast</i>
+<i>of</i> Jackpot Fiancé
+
+893
+00:50:53,250 --> 00:50:56,500
+<i>for an emergency message
+from the president of the United States.</i>
+
+894
+00:50:59,916 --> 00:51:02,875
+<i>Citizens of the United States
+and peoples of the world,</i>
+
+895
+00:51:03,458 --> 00:51:04,791
+<i>I have just been handed</i>
+
+896
+00:51:04,875 --> 00:51:09,000
+scientific findings that
+confirm a worst-case scenario.
+
+897
+00:51:10,625 --> 00:51:14,833
+An unprecedented comet,
+nine kilometers wide,
+
+898
+00:51:14,916 --> 00:51:21,333
+is now on a direct collision course
+with our cherished home, planet Earth.
+
+899
+00:51:21,416 --> 00:51:24,666
+{\an8}<i>Estimated time of arrival
+is approximately five months from now.</i>
+
+900
+00:51:24,750 --> 00:51:25,666
+{\an8}<i>So we have…</i>
+
+901
+00:51:25,750 --> 00:51:27,958
+We've drawn up a massive
+Congressional spending bill…
+
+902
+00:51:28,041 --> 00:51:31,791
+I have already put together an emergency
+spending package for Congress…
+
+903
+00:51:31,875 --> 00:51:34,083
+…that the Senate
+and the House have agreed upon.
+
+904
+00:51:34,166 --> 00:51:35,000
+That's good to hear.
+
+905
+00:51:35,083 --> 00:51:39,166
+<i>And that will enable NASA
+and our great military</i>
+
+906
+00:51:39,250 --> 00:51:41,083
+<i>to launch a preemptive strike,</i>
+
+907
+00:51:42,541 --> 00:51:46,250
+using decommissioned
+space shuttles and satellites
+
+908
+00:51:46,333 --> 00:51:49,041
+loaded with nuclear explosives.
+
+909
+00:51:49,125 --> 00:51:53,333
+We will blow Comet Dibiasky
+off her course…
+
+910
+00:51:53,416 --> 00:51:55,458
+But we're gonna need a hero.
+
+911
+00:51:55,541 --> 00:51:58,791
+We're gonna need a pilot, real guns and…
+
+912
+00:51:58,875 --> 00:52:02,250
+Shouldn't this mission be accomplished
+using remote technology?
+
+913
+00:52:02,333 --> 00:52:04,541
+Washington's always gotta have a hero.
+
+914
+00:52:04,625 --> 00:52:06,000
+I have asked
+
+915
+00:52:07,000 --> 00:52:13,000
+Medal of Freedom recipient
+and outspoken patriot, Benedict Drask,
+
+916
+00:52:13,083 --> 00:52:16,250
+<i>to undertake this difficult and…</i>
+
+917
+00:52:16,333 --> 00:52:18,958
+I'm sorry.
+Isn't he the mercenary gentleman
+
+918
+00:52:19,041 --> 00:52:22,416
+that was screaming at all those children
+on the White House lawn?
+
+919
+00:52:22,500 --> 00:52:25,916
+Yeah.
+He was given the honor of leading
+
+920
+00:52:26,000 --> 00:52:29,333
+the presidential initiative
+in getting kids to exercise.
+
+921
+00:52:29,416 --> 00:52:31,250
+Get a little air into it, you lard-ass…
+
+922
+00:52:32,000 --> 00:52:34,333
+You look like a goddamn bunch of pussies.
+
+923
+00:52:34,416 --> 00:52:36,666
+- I'm sorry.
+- He's just of another generation.
+
+924
+00:52:36,750 --> 00:52:38,083
+You know, I used to date him.
+
+925
+00:52:38,166 --> 00:52:41,375
+Know what happened to the last pussy
+I worked with in combat?
+
+926
+00:52:41,458 --> 00:52:43,250
+You ever see inside a man's torso?
+
+927
+00:52:47,416 --> 00:52:49,541
+Benedict Drask reporting for duty.
+
+928
+00:52:51,708 --> 00:52:53,791
+<i>- Thank you for the…</i>
+- He's gonna be fantastic.
+
+929
+00:52:53,875 --> 00:52:55,458
+{\an8}He's got a great voice.
+
+930
+00:52:55,541 --> 00:52:58,166
+{\an8}- We're gonna let him make a statement.
+<i>- Some are saying this is a…</i>
+
+931
+00:52:58,250 --> 00:52:59,625
+He's got a great body too.
+
+932
+00:52:59,708 --> 00:53:01,250
+- <i>He does.</i>
+<i>- Yeah.</i>
+
+933
+00:53:01,333 --> 00:53:02,958
+<i>…suicide mission.</i>
+
+934
+00:53:03,041 --> 00:53:04,458
+Well, all I ask is,
+
+935
+00:53:05,541 --> 00:53:06,875
+if I get snuffed,
+
+936
+00:53:08,041 --> 00:53:11,458
+that you all earn
+the extra living my sacrifice gives you.
+
+937
+00:53:11,541 --> 00:53:14,000
+The extra living
+my sacrifice gives them.
+
+938
+00:53:14,625 --> 00:53:16,500
+{\an8}- Right?
+- I wrote that.
+
+939
+00:53:16,583 --> 00:53:18,708
+Isn't that from <i>Saving Private Ryan?</i>
+
+940
+00:53:18,791 --> 00:53:21,708
+- Yes.
+- No, that's something totally different.
+
+941
+00:53:21,791 --> 00:53:25,500
+And special thanks should also go
+to this team of scientists behind me…
+
+942
+00:53:25,583 --> 00:53:28,250
+<i>We're gonna need</i>
+<i>everybody's help on this.</i>
+
+943
+00:53:28,333 --> 00:53:30,208
+Everybody.
+
+944
+00:53:30,291 --> 00:53:33,916
+All have to pitch in
+and push out this message.
+
+945
+00:53:34,000 --> 00:53:35,458
+…African-American scientist.
+
+946
+00:53:35,541 --> 00:53:37,125
+Miss Dibiasky, she…
+
+947
+00:53:37,208 --> 00:53:40,583
+And we have Kate Dibiasky,
+who the comet is named after,
+
+948
+00:53:40,666 --> 00:53:42,458
+but don't blame her.
+
+949
+00:53:42,541 --> 00:53:46,166
+…connects with the disaffected youth
+and the mentally ill.
+
+950
+00:53:46,250 --> 00:53:48,125
+- And other marginal groups.
+- Thank you.
+
+951
+00:53:48,208 --> 00:53:51,500
+- We'll do whatever we can.
+- As long as you do the right thing.
+
+952
+00:53:51,583 --> 00:53:52,916
+We're there for you.
+
+953
+00:53:53,000 --> 00:53:56,250
+Especially you, Dr. Mindy,
+because you poll so much higher
+
+954
+00:53:56,333 --> 00:53:58,666
+than your colleagues.
+It's wild.
+
+955
+00:53:58,750 --> 00:54:04,250
+He will help us destroy
+our common enemy, Dibiasky.
+
+956
+00:54:04,875 --> 00:54:07,041
+Wonderful. Well, I think we're done.
+
+957
+00:54:07,125 --> 00:54:08,666
+Yep, okay. Let's go.
+
+958
+00:54:08,750 --> 00:54:10,291
+Can I say something?
+
+959
+00:54:10,375 --> 00:54:12,583
+We've been dying to hear
+what you gotta say.
+
+960
+00:54:13,250 --> 00:54:14,375
+I didn't vote for you.
+
+961
+00:54:16,541 --> 00:54:22,708
+But this is obviously
+much bigger than my misgivings.
+
+962
+00:54:22,791 --> 00:54:27,125
+So I will be 100% behind this effort.
+
+963
+00:54:28,000 --> 00:54:31,791
+No matter how offensive I may find you.
+
+964
+00:54:31,875 --> 00:54:34,375
+Hmm. Wow. That's great.
+
+965
+00:54:34,458 --> 00:54:36,291
+Yeah. That's really nice.
+
+966
+00:54:36,375 --> 00:54:39,208
+You know, I did have the FBI
+put that bag over your head.
+
+967
+00:54:39,291 --> 00:54:42,291
+They don't do that.
+The CIA does, but I made them do it.
+
+968
+00:54:42,375 --> 00:54:45,083
+You know, I had a feeling. I really did.
+
+969
+00:54:45,958 --> 00:54:48,416
+It's a good feeling
+'cause that is what I did.
+
+970
+00:54:48,500 --> 00:54:51,291
+- And it was very funny and cool.
+- Okay.
+
+971
+00:54:51,375 --> 00:54:55,458
+May Jesus Christ
+bless every single one of you,
+
+972
+00:54:56,208 --> 00:54:59,333
+especially the honorable members
+of my own party.
+
+973
+00:55:00,000 --> 00:55:01,125
+We will prevail.
+
+974
+00:55:31,708 --> 00:55:35,208
+<i>We're all gonna die!</i>
+
+975
+00:55:35,291 --> 00:55:38,083
+<i>Guys, this comet
+is seriously stressing me out.</i>
+
+976
+00:55:38,166 --> 00:55:40,250
+<i>Well, it's coming. People gotta dig in.</i>
+
+977
+00:55:40,333 --> 00:55:42,708
+<i>I already got buyers
+for these shovels on e-market.</i>
+
+978
+00:55:42,791 --> 00:55:46,833
+<i>Clean sweep for President Orlean
+in these midterm elections.</i>
+
+979
+00:55:46,916 --> 00:55:49,250
+- <i>…how hot he is.</i>
+<i>- Thousand bucks a pop.</i>
+
+980
+00:55:53,375 --> 00:55:56,916
+…discharge the duties
+on which I am about to enter.
+
+981
+00:55:57,000 --> 00:55:58,083
+"So help you God."
+
+982
+00:55:58,166 --> 00:56:00,416
+- So help me God.
+- Congratulations.
+
+983
+00:56:01,708 --> 00:56:05,458
+{\an8}<i>We have talk of</i>
+<i>a Nobel Peace Prize in the offing.</i>
+
+984
+00:56:05,541 --> 00:56:08,833
+<i>He's not hot.</i>
+
+985
+00:56:23,750 --> 00:56:25,041
+<i>Hello, Sammy.</i>
+
+986
+00:56:25,125 --> 00:56:28,416
+<i>Are you really a doctor?</i>
+
+987
+00:56:28,500 --> 00:56:31,750
+<i>Well, sort of. I'm an astronomer.</i>
+
+988
+00:56:31,833 --> 00:56:35,833
+<i>Oh. What is an astronomer?</i>
+
+989
+00:56:35,916 --> 00:56:38,708
+Dr. Mindy, there is
+a lot of fear out there,
+
+990
+00:56:38,791 --> 00:56:40,541
+uh, in America, around the world.
+
+991
+00:56:40,625 --> 00:56:42,708
+Parents don't know
+what to say to their kids.
+
+992
+00:56:42,791 --> 00:56:45,291
+What would you say to them
+to help them understand?
+
+993
+00:56:45,375 --> 00:56:48,791
+Well, I'm sure many of us
+are frightened right now.
+
+994
+00:56:49,458 --> 00:56:55,708
+But I can assure you, our best
+and our brightest, they're on the job.
+
+995
+00:56:56,250 --> 00:57:00,458
+I've seen the science
+on this plan and it is sound.
+
+996
+00:57:00,541 --> 00:57:05,208
+I know your words are a great comfort
+to all our viewers, Dr. Randall,
+
+997
+00:57:05,291 --> 00:57:09,416
+<i>and we thank you
+for your courage and your service.</i>
+
+998
+00:57:09,500 --> 00:57:11,166
+<i>I'd just like to say</i>
+
+999
+00:57:11,791 --> 00:57:16,541
+that whenever
+I feel afraid or alone in this, I…
+
+1000
+00:57:17,833 --> 00:57:21,000
+<i>I think of you and I just… I feel better.</i>
+
+1001
+00:57:21,083 --> 00:57:22,375
+<i>So thank you.</i>
+
+1002
+00:57:23,000 --> 00:57:24,375
+<i>That's my job.</i>
+
+1003
+00:57:35,458 --> 00:57:37,583
+- Tell me we're all gonna die.
+- What?
+
+1004
+00:57:40,000 --> 00:57:42,500
+- Tell me we're all gonna die, do it.
+- We're all gonna die.
+
+1005
+00:57:42,583 --> 00:57:43,708
+Oh, boy.
+
+1006
+00:57:43,791 --> 00:57:47,375
+<i>So, these two Marxists</i>
+<i>wave around the word "science"</i>
+
+1007
+00:57:47,458 --> 00:57:49,583
+<i>and we're all supposed
+to do whatever they say?</i>
+
+1008
+00:57:49,666 --> 00:57:52,291
+<i>Yeah, how do we know
+there even is a comet?</i>
+
+1009
+00:57:52,375 --> 00:57:56,125
+Mr. Pawketty, Congressman,
+this data has been proven
+
+1010
+00:57:56,208 --> 00:58:00,458
+and has been peer-reviewed
+by hundreds of world-renowned scientists.
+
+1011
+00:58:00,541 --> 00:58:04,541
+And we're supposed to trust you?
+The comet's got your name.
+
+1012
+00:58:05,958 --> 00:58:07,916
+I don't… I don't see the relevancy.
+
+1013
+00:58:08,000 --> 00:58:09,791
+Why won't you
+answer the question?
+
+1014
+00:58:09,875 --> 00:58:11,916
+- Answer the question.
+- What's the question?
+
+1015
+00:58:12,000 --> 00:58:13,125
+Grow up here, okay?
+
+1016
+00:58:13,208 --> 00:58:14,416
+<i>This is ridiculous.</i>
+
+1017
+00:58:16,416 --> 00:58:20,416
+I've just realized, we don't really know
+anything about each other. Do we?
+
+1018
+00:58:22,125 --> 00:58:23,083
+True.
+
+1019
+00:58:24,291 --> 00:58:27,666
+Well, every time I try
+to ask you about your life,
+
+1020
+00:58:27,750 --> 00:58:31,416
+you seem to just tell me
+about your favorite restaurants.
+
+1021
+00:58:32,375 --> 00:58:33,541
+Well, I… You know…
+
+1022
+00:58:34,250 --> 00:58:36,041
+I just despise the, you know,
+
+1023
+00:58:36,125 --> 00:58:38,291
+getting-to-know-you part
+of relationships, so…
+
+1024
+00:58:38,958 --> 00:58:41,000
+Oh, okay. I understand.
+
+1025
+00:58:43,000 --> 00:58:45,208
+Okay, let's just
+get it over and done with.
+
+1026
+00:58:47,708 --> 00:58:48,916
+Okay, uh…
+
+1027
+00:58:49,958 --> 00:58:51,708
+Right, so, uh…
+
+1028
+00:58:52,375 --> 00:58:56,833
+My grandfather invented
+the flash-freezing process.
+
+1029
+00:58:56,916 --> 00:58:59,166
+So I come from grotesque money,
+
+1030
+00:58:59,250 --> 00:59:03,500
+but I got away from it
+by getting three masters degrees.
+
+1031
+00:59:04,291 --> 00:59:07,125
+Uh, I've been divorced twice.
+
+1032
+00:59:07,208 --> 00:59:13,708
+Uh, one was a Secretary of State,
+and the other one was a sport fisherman.
+
+1033
+00:59:13,791 --> 00:59:19,666
+Uh, I have slept
+with two former presidents.
+
+1034
+00:59:19,750 --> 00:59:24,583
+I speak four languages,
+and I own two Monets.
+
+1035
+00:59:26,291 --> 00:59:27,125
+Wow.
+
+1036
+00:59:27,750 --> 00:59:29,958
+Two former presidents. Wow.
+
+1037
+00:59:31,958 --> 00:59:33,875
+- What, my turn?
+- Yeah.
+
+1038
+00:59:33,958 --> 00:59:40,250
+Oh. All right. My father was
+a middle school geography teacher.
+
+1039
+00:59:40,333 --> 00:59:43,583
+My mother,
+she cut hair out of the kitchen.
+
+1040
+00:59:43,666 --> 00:59:47,500
+Uh, about two years ago,
+our family dog, JoJo, died,
+
+1041
+00:59:47,583 --> 00:59:49,583
+which was really, really emotional.
+
+1042
+00:59:49,666 --> 00:59:53,041
+I can't remember crying that much ever.
+
+1043
+00:59:54,583 --> 00:59:55,541
+And, um…
+
+1044
+00:59:57,250 --> 01:00:02,541
+I finally got my, uh, <i>Star Wars</i> poster
+signed by Mark Hamill.
+
+1045
+01:00:02,625 --> 01:00:04,708
+It's in the garage. It's… So, yeah.
+
+1046
+01:00:05,583 --> 01:00:07,666
+Okay, good.
+
+1047
+01:00:09,958 --> 01:00:10,958
+That's done.
+
+1048
+01:00:11,458 --> 01:00:12,416
+Ah…
+
+1049
+01:00:15,666 --> 01:00:17,958
+Where are we gonna go for dinner tonight?
+
+1050
+01:00:26,333 --> 01:00:28,916
+<i>The Lord is my shepherd. I shall not want.</i>
+
+1051
+01:00:29,000 --> 01:00:31,750
+{\an8}<i>He makes me to lie down in green pastures.</i>
+
+1052
+01:00:31,833 --> 01:00:36,083
+{\an8}<i>He leads me beside the quiet waters.
+He restores my soul.</i>
+
+1053
+01:00:36,166 --> 01:00:39,583
+Not since D-Day have we seen
+such a mass mobilization
+
+1054
+01:00:39,666 --> 01:00:43,416
+of unions and resources
+for such a noble task.
+
+1055
+01:00:44,041 --> 01:00:46,916
+One cannot help but be moved
+by the bravery, ingenuity,
+
+1056
+01:00:47,000 --> 01:00:49,083
+and sacrifice on display here.
+
+1057
+01:01:09,541 --> 01:01:12,125
+Okay, here we go, everyone.
+Let's stay sharp.
+
+1058
+01:01:14,041 --> 01:01:17,416
+I just want you to know,
+this is the most propulsive thing
+
+1059
+01:01:17,500 --> 01:01:20,041
+that's ever happened to me. Thank you.
+
+1060
+01:01:33,333 --> 01:01:36,541
+<i>What's the holdup, you guys?
+What are you waiting on?</i>
+
+1061
+01:01:37,500 --> 01:01:40,625
+<i>Come on, motherfuckers,
+let's light this fucking firecracker, huh?</i>
+
+1062
+01:01:41,166 --> 01:01:42,541
+<i>Think I got all day?</i>
+
+1063
+01:01:42,625 --> 01:01:47,208
+Commander Drask,
+this is your president speaking.
+
+1064
+01:01:48,458 --> 01:01:50,333
+Your nation thanks you.
+
+1065
+01:01:51,083 --> 01:01:52,708
+Your planet thanks you.
+
+1066
+01:01:53,416 --> 01:01:55,875
+And God and I thank you.
+
+1067
+01:01:56,583 --> 01:01:59,208
+<i>Listen, the only thanks I need</i>
+<i>is a shot of Jack Daniels</i>.
+
+1068
+01:01:59,291 --> 01:02:03,208
+<i>And a couple DUIs to magically go away.</i>
+
+1069
+01:02:05,083 --> 01:02:08,916
+This is Mission Control.
+All indicators are coming up green.
+
+1070
+01:02:09,000 --> 01:02:11,416
+<i>This is a final warning
+to control the launchpad.</i>
+
+1071
+01:02:11,500 --> 01:02:17,208
+Your discovery led to this mission
+and our chance to save Earth.
+
+1072
+01:02:18,375 --> 01:02:19,666
+I give you…
+
+1073
+01:02:22,041 --> 01:02:23,041
+The honor.
+
+1074
+01:02:28,458 --> 01:02:29,458
+Thank you.
+
+1075
+01:02:31,666 --> 01:02:34,958
+Thank you,
+Madam President.
+
+1076
+01:02:36,458 --> 01:02:38,833
+Citizens of planet Earth,
+
+1077
+01:02:39,875 --> 01:02:43,041
+<i>everything is theoretically impossible</i>
+
+1078
+01:02:43,708 --> 01:02:45,125
+<i>until it is done.</i>
+
+1079
+01:02:46,250 --> 01:02:47,541
+<i>And with that,</i>
+
+1080
+01:02:47,625 --> 01:02:49,750
+we are go for launch.
+
+1081
+01:02:49,833 --> 01:02:50,708
+Yes.
+
+1082
+01:02:50,791 --> 01:02:52,458
+- That's fire.
+- Thank you.
+
+1083
+01:02:52,541 --> 01:02:53,541
+It was lit.
+
+1084
+01:02:55,833 --> 01:02:58,083
+Hey, everyone, mind if I join?
+
+1085
+01:02:59,125 --> 01:03:01,000
+- Hello.
+- Hello, Peter. Hi.
+
+1086
+01:03:01,083 --> 01:03:04,708
+Hi. Oh, Brie, you look fabulous.
+
+1087
+01:03:04,791 --> 01:03:05,791
+As always.
+
+1088
+01:03:06,958 --> 01:03:08,333
+Is he allowed to be in here?
+
+1089
+01:03:08,416 --> 01:03:12,291
+Yeah, he's a Platinum Eagle level donor
+to the campaign. He has full clearance.
+
+1090
+01:03:12,375 --> 01:03:14,000
+<i>Launch mission array.</i>
+
+1091
+01:03:14,083 --> 01:03:17,625
+Molly kicking in right now.
+Timed that shit perfect.
+
+1092
+01:03:17,708 --> 01:03:20,666
+Ten, nine, eight…
+
+1093
+01:03:20,750 --> 01:03:24,791
+<i>Seven, six, five, four…</i>
+
+1094
+01:03:24,875 --> 01:03:26,125
+Three…
+
+1095
+01:03:26,208 --> 01:03:27,583
+Ah…
+
+1096
+01:03:40,541 --> 01:03:41,750
+Thank God!
+
+1097
+01:04:09,625 --> 01:04:11,583
+We didn't lose
+any satellites.
+
+1098
+01:04:11,666 --> 01:04:14,916
+Margin of error
+was for two to malfunction.
+
+1099
+01:04:15,000 --> 01:04:19,166
+Hey, Madam President, may I have a word
+with you outside for a moment, please?
+
+1100
+01:04:19,791 --> 01:04:20,916
+Oh, my God.
+
+1101
+01:04:21,000 --> 01:04:23,791
+Mission success probability
+is already increased to 81%.
+
+1102
+01:04:23,875 --> 01:04:25,875
+Outstanding.
+
+1103
+01:04:26,583 --> 01:04:27,750
+Janie, now!
+
+1104
+01:04:27,833 --> 01:04:30,583
+I'm so sorry. I'm so sorry.
+
+1105
+01:04:30,666 --> 01:04:32,250
+Peter, I didn't mean…
+
+1106
+01:04:36,500 --> 01:04:41,708
+<i>And a big hello to that beautiful</i>
+<i>blue ball down there we all call home.</i>
+
+1107
+01:04:42,208 --> 01:04:45,625
+<i>All those proud white folks working hard.</i>
+
+1108
+01:04:46,125 --> 01:04:47,083
+<i>God bless you.</i>
+
+1109
+01:04:47,875 --> 01:04:50,125
+Just a different generation. Yeah.
+
+1110
+01:04:50,791 --> 01:04:53,666
+I also wanna say hello
+to all the Indians out there.
+
+1111
+01:04:53,750 --> 01:04:54,833
+Both kinds.
+
+1112
+01:04:54,916 --> 01:04:59,041
+<i>You know, the ones with the elephants
+and the ones with the bow and arrows.</i>
+
+1113
+01:04:59,708 --> 01:05:01,500
+<i>Hey, why haven't you guys ever teamed up?</i>
+
+1114
+01:05:01,583 --> 01:05:03,458
+<i>How cool would that be, huh?</i>
+
+1115
+01:05:03,541 --> 01:05:05,458
+<i>I wanna say hello
+to all the gays out there.</i>
+
+1116
+01:05:05,541 --> 01:05:07,875
+- Commander, booster ejection is imminent.
+<i>- Huh?</i>
+
+1117
+01:05:07,958 --> 01:05:10,208
+- Let's keep comm on mission.
+<i>- Oh. Roger that.</i>
+
+1118
+01:05:20,750 --> 01:05:22,666
+<i>Separation confirmed.</i>
+
+1119
+01:05:22,750 --> 01:05:24,500
+<i>- Separation confirmed.</i>
+- Whoo!
+
+1120
+01:05:29,083 --> 01:05:30,166
+Was that French?
+
+1121
+01:05:31,458 --> 01:05:37,000
+Yes, it is. It means, "the angels soar
+to the heavens." It's, um…
+
+1122
+01:05:38,333 --> 01:05:42,458
+It's from a 14th-century poem
+I studied in Dartmouth.
+
+1123
+01:05:42,541 --> 01:05:45,875
+And just watching this,
+it just made me think of it,
+
+1124
+01:05:47,000 --> 01:05:48,416
+and think of you.
+
+1125
+01:05:49,500 --> 01:05:50,500
+God, I can't…
+
+1126
+01:05:51,375 --> 01:05:52,333
+Can't…
+
+1127
+01:06:01,583 --> 01:06:04,125
+{\an8}<i>Go! Go! Go!</i>
+
+1128
+01:06:05,791 --> 01:06:08,666
+{\an8}<i>I think I probably should go</i>
+<i>to the</i> <i>hospital and see what they…</i>
+
+1129
+01:06:08,750 --> 01:06:10,708
+{\an8}<i>Launch challenge!</i>
+
+1130
+01:06:10,791 --> 01:06:13,666
+{\an8}<i>Go! Go! Go!</i>
+
+1131
+01:06:17,458 --> 01:06:19,583
+Everyone, I have just received
+
+1132
+01:06:19,666 --> 01:06:23,416
+some critical information
+concerning our mission.
+
+1133
+01:06:32,625 --> 01:06:34,291
+Looks like it's turning around.
+
+1134
+01:06:37,125 --> 01:06:40,250
+No, it's not. It's a course correction.
+
+1135
+01:06:40,333 --> 01:06:41,875
+It's pretty standard.
+
+1136
+01:06:41,958 --> 01:06:43,416
+I was in the Navy.
+
+1137
+01:06:45,083 --> 01:06:47,375
+Nope. It's turning around.
+
+1138
+01:06:47,458 --> 01:06:51,166
+Seems to be
+some confusion here amongst the crowd,
+
+1139
+01:06:51,250 --> 01:06:52,875
+but I'm not gonna lie to you.
+
+1140
+01:06:52,958 --> 01:06:55,916
+This reporter
+is at a loss for words right now.
+
+1141
+01:06:56,000 --> 01:06:59,208
+It's definitely turning around.
+
+1142
+01:06:59,291 --> 01:07:01,416
+I'm looking straight at it.
+
+1143
+01:07:01,500 --> 01:07:05,500
+Drask's ship is definitely turning around.
+
+1144
+01:07:07,916 --> 01:07:10,291
+Does anyone know
+what the fuck just happened?
+
+1145
+01:07:16,208 --> 01:07:17,583
+It's still locked.
+
+1146
+01:07:17,666 --> 01:07:20,375
+I just don't… I don't understand
+what could've happened.
+
+1147
+01:07:20,458 --> 01:07:23,250
+I mean, the mission was working, right?
+Everything was on track.
+
+1148
+01:07:23,333 --> 01:07:26,166
+Yeah. I mean,
+it could've been anything, uh…
+
+1149
+01:07:26,250 --> 01:07:31,958
+Guidance system could've malfunctioned,
+uh, nuke destabilized, myriad of things.
+
+1150
+01:07:32,583 --> 01:07:35,625
+Who was that guy that walked into
+the Situation Room? He looked familiar.
+
+1151
+01:07:35,708 --> 01:07:42,083
+That was Peter Isherwell, CEO of BASH,
+and the third richest human ever.
+
+1152
+01:07:42,166 --> 01:07:46,125
+He's the guy that, uh, bought
+the Gutenberg Bible and lost it.
+
+1153
+01:07:47,416 --> 01:07:48,916
+Sorry to keep you waiting.
+
+1154
+01:07:49,000 --> 01:07:51,833
+Things are, uh, extremely fluid.
+
+1155
+01:07:53,291 --> 01:07:56,916
+Dr. Randall, you are now the Chief
+Science Advisor to the White House.
+
+1156
+01:07:57,000 --> 01:07:57,833
+What?
+
+1157
+01:07:57,916 --> 01:08:00,666
+As such, you need to attend
+an emergency Cabinet meeting
+
+1158
+01:08:00,750 --> 01:08:02,000
+where you will be debriefed.
+
+1159
+01:08:02,083 --> 01:08:03,083
+What about us?
+
+1160
+01:08:03,666 --> 01:08:06,166
+You do not have clearance
+for this, sweetheart. Don't trip.
+
+1161
+01:08:06,250 --> 01:08:09,000
+Got you some crackers, some waters.
+
+1162
+01:08:09,083 --> 01:08:10,750
+You don't need to throw it on the floor.
+
+1163
+01:08:10,833 --> 01:08:12,375
+Gonna be three, four hours, tops.
+
+1164
+01:08:12,458 --> 01:08:15,583
+Here, Kate. I don't know
+why he threw 'em down. Here.
+
+1165
+01:08:15,666 --> 01:08:17,750
+What if we have to go to the bathroom?
+
+1166
+01:08:17,833 --> 01:08:21,250
+We'll lay out some newspaper for you.
+Grab you a can of Febreze.
+
+1167
+01:08:21,333 --> 01:08:23,208
+Short, sweet
+and simple science.
+
+1168
+01:08:23,291 --> 01:08:24,958
+I'll be back. All right. Come on.
+
+1169
+01:08:25,041 --> 01:08:27,083
+Science tells the truth, Randall.
+
+1170
+01:08:28,875 --> 01:08:30,500
+Fuck. Do you wanna come?
+
+1171
+01:08:30,583 --> 01:08:31,500
+Yeah.
+
+1172
+01:08:33,625 --> 01:08:35,625
+Ladies and gentlemen,
+what we thought,
+
+1173
+01:08:35,708 --> 01:08:40,708
+what the world thought
+was an impending and terrifying danger,
+
+1174
+01:08:41,916 --> 01:08:44,625
+turns out to be
+an astonishing opportunity.
+
+1175
+01:08:44,708 --> 01:08:47,166
+Our allies are very confused
+and demanding answers...
+
+1176
+01:08:47,250 --> 01:08:48,541
+Well, tell 'em to wait.
+
+1177
+01:08:49,583 --> 01:08:54,666
+According to the most recent
+spectrometer readings of Comet Dibiasky,
+
+1178
+01:08:54,750 --> 01:08:57,833
+made by the astrogeologists
+at BASH Cellular,
+
+1179
+01:08:59,583 --> 01:09:01,291
+we've discovered something.
+
+1180
+01:09:02,250 --> 01:09:05,000
+Something truly miraculous.
+
+1181
+01:09:06,458 --> 01:09:08,125
+Peter. Peter?
+
+1182
+01:09:08,208 --> 01:09:10,000
+Oh, thank you, Janie.
+
+1183
+01:09:12,208 --> 01:09:14,708
+As, uh… As some of you may know,
+
+1184
+01:09:14,791 --> 01:09:17,541
+the most valuable minerals in the world
+
+1185
+01:09:17,625 --> 01:09:19,750
+are fast becoming those that are deployed
+
+1186
+01:09:19,833 --> 01:09:24,000
+in the manufacture
+of cell phones and, uh, computers.
+
+1187
+01:09:24,083 --> 01:09:27,583
+Yttrium, terbium, osmium, dysprosium,
+on and on and on.
+
+1188
+01:09:27,666 --> 01:09:29,000
+We're running short.
+
+1189
+01:09:29,083 --> 01:09:31,916
+Uh, and the problem
+is exacerbated, of course,
+
+1190
+01:09:32,000 --> 01:09:37,916
+because China has her big panda paw
+firmly on almost all the mines
+
+1191
+01:09:38,000 --> 01:09:41,500
+that produce
+these valuable rare Earth assets.
+
+1192
+01:09:41,583 --> 01:09:43,625
+So you can imagine.
+
+1193
+01:09:43,708 --> 01:09:44,666
+Wow!
+
+1194
+01:09:44,750 --> 01:09:48,541
+Just how happy we were at BASH
+
+1195
+01:09:48,625 --> 01:09:52,250
+when our astrogeologists discovered
+
+1196
+01:09:52,333 --> 01:09:57,000
+and then determined that this comet,
+hurtling towards us from deep space,
+
+1197
+01:09:57,083 --> 01:10:02,833
+actually contains at least $32 trillion
+of these critical materials.
+
+1198
+01:10:02,916 --> 01:10:04,666
+Critical to technology.
+
+1199
+01:10:04,750 --> 01:10:05,958
+If we're to proceed...
+
+1200
+01:10:06,041 --> 01:10:08,541
+I'm sorry. Is that why
+you aborted this entire mission,
+
+1201
+01:10:08,625 --> 01:10:11,541
+is because you're trying to mine
+the comet for rare minerals?
+
+1202
+01:10:11,625 --> 01:10:13,708
+I think
+we should hold all questions
+
+1203
+01:10:13,791 --> 01:10:16,458
+until the end of the presentation,
+
+1204
+01:10:16,541 --> 01:10:20,125
+and you might find
+that your questions are answered.
+
+1205
+01:10:20,666 --> 01:10:21,750
+Yes, Madam President.
+
+1206
+01:10:21,833 --> 01:10:24,875
+When you…
+When the other metals are factored in,
+
+1207
+01:10:24,958 --> 01:10:27,333
+the comet actually contains
+
+1208
+01:10:27,416 --> 01:10:31,541
+almost $140 trillion worth of assets.
+
+1209
+01:10:31,625 --> 01:10:32,916
+Buck-forty trilli.
+
+1210
+01:10:33,416 --> 01:10:35,291
+Yeah…
+
+1211
+01:10:35,375 --> 01:10:40,000
+What do these trillions of dollars
+even matter if we're all gonna die...
+
+1212
+01:10:40,083 --> 01:10:42,458
+I was about to ask
+the same question, Janie.
+
+1213
+01:10:42,541 --> 01:10:43,666
+Why weren't we consulted?
+
+1214
+01:10:43,750 --> 01:10:45,250
+All due respect, Madam President…
+
+1215
+01:10:45,333 --> 01:10:47,833
+Oh, no! What if we're rich and we're safe?
+
+1216
+01:10:49,000 --> 01:10:53,125
+I've gone over it
+again and again and again in my head
+
+1217
+01:10:54,875 --> 01:10:56,791
+and I still can't make sense of it.
+
+1218
+01:10:58,750 --> 01:11:03,791
+He's a three-star general.
+He works at the Pentagon.
+
+1219
+01:11:05,916 --> 01:11:09,000
+Why would he charge us for free snacks?
+
+1220
+01:11:09,083 --> 01:11:12,750
+One time, I met Sting,
+
+1221
+01:11:13,708 --> 01:11:18,291
+and I swear to God,
+he farted right in front of me.
+
+1222
+01:11:19,333 --> 01:11:24,458
+Didn't break eye contact
+and didn't even say "excuse me."
+
+1223
+01:11:27,500 --> 01:11:31,083
+And the thing is,
+he actually pulled it off.
+
+1224
+01:11:32,375 --> 01:11:34,875
+'Cause I still found him
+to be quite charming.
+
+1225
+01:11:35,916 --> 01:11:40,333
+Guys, we have to talk.
+Come on, let's go. Come on, now.
+
+1226
+01:11:41,416 --> 01:11:44,625
+It's insane. Like, completely insane.
+
+1227
+01:11:44,708 --> 01:11:46,041
+It will never work.
+
+1228
+01:11:46,125 --> 01:11:48,291
+I had the exact same reaction.
+
+1229
+01:11:48,375 --> 01:11:51,500
+This is a nine-kilometer-wide
+planet-killer we're talking about,
+
+1230
+01:11:51,583 --> 01:11:53,041
+not roaming charges.
+
+1231
+01:11:53,125 --> 01:11:59,041
+Look, I… I was confused and outraged
+that they turned this mission around too,
+
+1232
+01:11:59,125 --> 01:12:01,708
+but they've got
+Gary Talcamont from Stanford
+
+1233
+01:12:01,791 --> 01:12:03,958
+and Lisa Inez from Princeton
+on their team.
+
+1234
+01:12:04,041 --> 01:12:07,750
+I mean, this is next-generation
+cutting-edge technology.
+
+1235
+01:12:07,833 --> 01:12:14,625
+Obviously, one giant comet is a major
+and existential, uh, threat to our planet,
+
+1236
+01:12:14,708 --> 01:12:20,000
+but 30 smaller meteoroids, we can handle.
+
+1237
+01:12:20,916 --> 01:12:26,625
+Our BEADS, that stands for
+BASH, uh, Explore and Acquire Drones,
+
+1238
+01:12:26,708 --> 01:12:28,083
+that you see here,
+
+1239
+01:12:28,166 --> 01:12:30,833
+attach themselves to the comet
+
+1240
+01:12:30,916 --> 01:12:33,375
+and scan it with nanotechnology
+
+1241
+01:12:33,458 --> 01:12:36,583
+developed by
+Nobel Prize-winning scientist,
+
+1242
+01:12:36,666 --> 01:12:37,666
+Dr. Gary Talcamont.
+
+1243
+01:12:37,750 --> 01:12:40,500
+And then we immediately deploy, don't we?
+
+1244
+01:12:40,583 --> 01:12:42,833
+Nobel and Polonsky prize-winning scientist
+
+1245
+01:12:42,916 --> 01:12:48,250
+Dr. Inez's micro-targeted,
+quantum fission, uh, explosives.
+
+1246
+01:12:48,333 --> 01:12:51,625
+You see, deep into the object…
+
+1247
+01:12:51,708 --> 01:12:54,458
+Dr. Inez, would you like
+to explain what's happening?
+
+1248
+01:12:54,541 --> 01:12:55,416
+Thank you, Peter.
+
+1249
+01:12:55,500 --> 01:12:58,250
+We've been developing
+phase-fission reactions
+
+1250
+01:12:58,333 --> 01:13:00,375
+in the CERN particle accelerator
+
+1251
+01:13:00,458 --> 01:13:03,125
+that can splinter the comet
+into smaller pieces
+
+1252
+01:13:03,208 --> 01:13:05,333
+with breathtaking accuracy.
+
+1253
+01:13:05,416 --> 01:13:08,791
+These segments are then steered
+and decelerated by each BEAD
+
+1254
+01:13:08,875 --> 01:13:13,625
+into the Pacific Ocean for reclamation
+by waiting US Navy ships.
+
+1255
+01:13:13,708 --> 01:13:15,666
+And when these… Thank you.
+
+1256
+01:13:15,750 --> 01:13:19,875
+And when these treasures
+from heaven are claimed,
+
+1257
+01:13:19,958 --> 01:13:23,916
+poverty as we know it,
+social injustice, loss of biodiversity,
+
+1258
+01:13:24,000 --> 01:13:26,708
+all these multitudes of problems
+
+1259
+01:13:26,791 --> 01:13:30,125
+are just gonna become relics of the past
+
+1260
+01:13:30,208 --> 01:13:35,625
+and humanity is gonna stride through
+the Pillars of Boaz and Jachin naked
+
+1261
+01:13:35,708 --> 01:13:38,250
+into the the glory of a golden age…
+
+1262
+01:13:38,333 --> 01:13:41,500
+And is this nanotech work peer-reviewed?
+
+1263
+01:13:41,583 --> 01:13:45,166
+Well, I haven't reviewed the data,
+but it's been modeled.
+
+1264
+01:13:45,250 --> 01:13:47,125
+Has any of this been peer-reviewed?
+
+1265
+01:13:48,000 --> 01:13:48,833
+Nope.
+
+1266
+01:13:48,916 --> 01:13:51,250
+Interplanetary, interstellar,
+
+1267
+01:13:51,333 --> 01:13:56,125
+intergalactic existence
+for the human race.
+
+1268
+01:13:59,125 --> 01:14:00,916
+Your mouth to God's ear.
+
+1269
+01:14:01,458 --> 01:14:05,041
+I understand the wealth
+that they can extract from this comet,
+
+1270
+01:14:05,125 --> 01:14:06,291
+it can end world hunger.
+
+1271
+01:14:06,375 --> 01:14:08,166
+Oh, I see.
+
+1272
+01:14:08,250 --> 01:14:10,833
+- Why are you laughing?
+- That's true. No, I see.
+
+1273
+01:14:10,916 --> 01:14:15,333
+So that's the pretty little bow they're
+putting around this line of bullshit.
+
+1274
+01:14:15,416 --> 01:14:17,250
+I bet they'll say freedom and puppies too.
+
+1275
+01:14:17,333 --> 01:14:18,166
+- All right.
+- Yeah.
+
+1276
+01:14:18,250 --> 01:14:21,916
+You want me to quit the mission?
+I'll quit the mission. That's fine.
+
+1277
+01:14:22,416 --> 01:14:25,708
+But you have to understand,
+this is now beyond our control.
+
+1278
+01:14:25,791 --> 01:14:27,208
+They have all the power.
+
+1279
+01:14:27,291 --> 01:14:29,958
+So who do you want
+in the actual room to make sure
+
+1280
+01:14:30,041 --> 01:14:33,000
+this whole thing doesn't turn out to be
+a complete goddamn disaster?
+
+1281
+01:14:33,083 --> 01:14:35,708
+Jason Orlean?
+You want Jason Orlean in that room? Huh?
+
+1282
+01:14:35,791 --> 01:14:40,125
+I have news for you.
+It's already a complete disaster.
+
+1283
+01:14:40,208 --> 01:14:43,750
+They're talking about letting
+a comet the size of a mountain
+
+1284
+01:14:43,833 --> 01:14:46,625
+hit the planet to jack up
+a cell phone company's stock!
+
+1285
+01:14:46,708 --> 01:14:49,916
+You better take that down
+about four or five notches now.
+
+1286
+01:14:50,000 --> 01:14:53,625
+Were you yelling about that mission?
+Why were you talking about cell phones?
+
+1287
+01:14:53,708 --> 01:14:56,750
+My friend was just theorizing
+as to what's going on.
+
+1288
+01:14:56,833 --> 01:14:58,291
+We're confused too.
+
+1289
+01:14:58,375 --> 01:15:01,458
+That's an awfully official-looking
+White House badge you got there.
+
+1290
+01:15:01,541 --> 01:15:03,291
+I don't know why I have this on.
+
+1291
+01:15:03,375 --> 01:15:05,125
+Listen, just tell us what's going on.
+
+1292
+01:15:05,208 --> 01:15:07,625
+I got three scared kids at home.
+Just tell us something.
+
+1293
+01:15:07,708 --> 01:15:10,333
+I understand.
+I wish I could share information, but...
+
+1294
+01:15:10,416 --> 01:15:12,958
+We're people just like you.
+We deserve to know!
+
+1295
+01:15:13,041 --> 01:15:13,916
+They're right.
+
+1296
+01:15:14,958 --> 01:15:16,083
+They deserve to know.
+
+1297
+01:15:17,000 --> 01:15:18,833
+Do you really wanna know what's going on?
+
+1298
+01:15:18,916 --> 01:15:20,041
+- Yeah.
+- Please.
+
+1299
+01:15:20,125 --> 01:15:22,583
+- Kate, don't. Kate.
+- Kate.
+
+1300
+01:15:23,541 --> 01:15:28,958
+They found a bunch of gold and diamonds
+and rare shit on the comet.
+
+1301
+01:15:29,958 --> 01:15:32,166
+So they're gonna let it hit the planet
+
+1302
+01:15:32,250 --> 01:15:36,416
+to make a bunch of rich people
+even more disgustingly rich!
+
+1303
+01:15:42,916 --> 01:15:44,000
+Fuck you!
+
+1304
+01:15:54,708 --> 01:15:56,500
+No camera!
+
+1305
+01:15:56,583 --> 01:15:58,541
+…everything I could, they won't listen.
+
+1306
+01:15:58,625 --> 01:15:59,958
+Surprise, surprise.
+
+1307
+01:16:00,041 --> 01:16:02,916
+Now, I'm starting to think
+you just like riling people up.
+
+1308
+01:16:03,000 --> 01:16:04,958
+I'm so sorry, Kate. Really, I am.
+
+1309
+01:16:05,041 --> 01:16:07,041
+Oh, Randall. God.
+
+1310
+01:16:07,875 --> 01:16:09,875
+Where's Brie Evantee?
+
+1311
+01:16:09,958 --> 01:16:12,375
+Shouldn't you two
+be playing footsie in a restaurant
+
+1312
+01:16:12,458 --> 01:16:14,583
+that only serves cubes and foam?
+
+1313
+01:16:14,666 --> 01:16:18,083
+Well, she ain't wrong.
+You did lose the thread in a big way.
+
+1314
+01:16:18,166 --> 01:16:21,375
+And what do you suggest we do?
+An online petition, huh?
+
+1315
+01:16:21,458 --> 01:16:24,416
+You want to hold…
+Get a mob and hold up picket signs?
+
+1316
+01:16:24,500 --> 01:16:26,958
+You wanna overthrow the government?
+I mean, look at this.
+
+1317
+01:16:27,041 --> 01:16:28,875
+I can't! My head is in a bag!
+
+1318
+01:16:28,958 --> 01:16:31,583
+Sorry, Dr. Mindy.
+White House wants her off the grid.
+
+1319
+01:16:31,666 --> 01:16:33,166
+- Come on, now. Look...
+- Now.
+
+1320
+01:16:33,250 --> 01:16:35,958
+Wait. What does that mean?
+What the hell does that mean?
+
+1321
+01:16:36,041 --> 01:16:38,416
+- What does "off the grid" mean?
+- Hey, Kate.
+
+1322
+01:16:39,291 --> 01:16:42,416
+Oh, gosh. Kate! Are you okay?
+
+1323
+01:16:45,541 --> 01:16:48,833
+Teddy, come on!
+What choice do I have here?
+
+1324
+01:16:51,166 --> 01:16:53,541
+A man's always got choices, Randall!
+
+1325
+01:16:53,625 --> 01:16:56,458
+Sometimes you just gotta
+choose the good one!
+
+1326
+01:17:03,083 --> 01:17:04,708
+Miss Katelyn Dibiasky,
+
+1327
+01:17:04,791 --> 01:17:08,208
+the charges against you are
+violation of national security secrets,
+
+1328
+01:17:08,291 --> 01:17:11,083
+inciting a riot,
+and destruction of private property
+
+1329
+01:17:11,166 --> 01:17:13,666
+owned by Bojo Mambo's Shrimp LLC.
+
+1330
+01:17:13,750 --> 01:17:14,583
+What? I didn't...
+
+1331
+01:17:14,666 --> 01:17:17,583
+However, the Attorney General
+is willing to not pursue prosecution
+
+1332
+01:17:17,666 --> 01:17:19,208
+if you will agree to the following:
+
+1333
+01:17:19,291 --> 01:17:21,958
+"The suspension
+of all public media appearances
+
+1334
+01:17:22,041 --> 01:17:26,708
+and incendiary language relating to
+Comet Dibiasky and BASH Cellular."
+
+1335
+01:17:28,916 --> 01:17:32,333
+Fine. Give it to me.
+I don't give a shit anymore.
+
+1336
+01:17:47,875 --> 01:17:49,416
+Mom. Dad.
+
+1337
+01:17:49,916 --> 01:17:52,166
+I'm so glad to be home.
+
+1338
+01:17:54,875 --> 01:17:55,875
+Unlock the door.
+
+1339
+01:17:55,958 --> 01:17:57,750
+No politics. None.
+
+1340
+01:17:58,208 --> 01:17:59,583
+What are you talking about?
+
+1341
+01:18:00,083 --> 01:18:02,791
+Your dad and I are for the jobs
+the comet will provide.
+
+1342
+01:18:05,708 --> 01:18:07,916
+The divisions in this country
+are bad enough.
+
+1343
+01:18:08,625 --> 01:18:10,458
+We don't want more of that in our house.
+
+1344
+01:18:11,916 --> 01:18:14,208
+<i>Whoa!</i>
+
+1345
+01:18:14,291 --> 01:18:16,125
+<i>- Slow down, kids.</i>
+<i>- Sorry, Mom.</i>
+
+1346
+01:18:17,291 --> 01:18:19,333
+<i>I worry about my kids and their future.</i>
+
+1347
+01:18:19,875 --> 01:18:22,500
+<i>Sure, the jobs
+the comet's gonna create sound great.</i>
+
+1348
+01:18:23,041 --> 01:18:24,291
+<i>What if it's not safe?</i>
+
+1349
+01:18:24,875 --> 01:18:29,250
+{\an8}<i>Right now, millions of you are having
+these same doubts and questions</i>
+
+1350
+01:18:29,333 --> 01:18:31,208
+{\an8}<i>about the approaching comet.</i>
+
+1351
+01:18:31,291 --> 01:18:32,708
+{\an8}<i>That is why BASH Cellular</i>
+
+1352
+01:18:32,791 --> 01:18:35,166
+<i>in conjunction with
+the United States Government</i>
+
+1353
+01:18:35,250 --> 01:18:40,041
+<i>is creating a new hotline, free of charge,
+to answer all of your questions.</i>
+
+1354
+01:18:40,750 --> 01:18:46,125
+<i>And who knows? Maybe,
+just maybe, one of our scientists…</i>
+
+1355
+01:18:46,208 --> 01:18:49,541
+<i>Thank you, Sharon.
+Makes me feel so much better.</i>
+
+1356
+01:18:49,625 --> 01:18:53,833
+<i>…can be that friend we all need
+to lean on during uncertain times.</i>
+
+1357
+01:18:55,208 --> 01:18:58,750
+<i>Call 1-800-532-4500 for peace of mind.</i>
+
+1358
+01:18:58,833 --> 01:19:00,458
+{\an8}<i>Offer only available to BASH customers.</i>
+
+1359
+01:19:00,541 --> 01:19:02,916
+{\an8}<i>Details of your call may be shared
+with other subsidiaries</i>
+
+1360
+01:19:03,000 --> 01:19:05,916
+{\an8}<i>to enhance your customer experience.
+Data and roaming charges apply.</i>
+
+1361
+01:19:06,000 --> 01:19:09,416
+So, I thought he was
+the ambassador. I was just flattering him.
+
+1362
+01:19:09,500 --> 01:19:13,541
+Well, he was a waiter.
+Now he's got an ego the size of Texas.
+
+1363
+01:19:16,916 --> 01:19:18,125
+Oh, my God.
+
+1364
+01:19:19,250 --> 01:19:22,875
+June, what, uh…
+What are you doing here, sweetie?
+
+1365
+01:19:24,708 --> 01:19:27,458
+Had a feeling
+something was going on and just…
+
+1366
+01:19:28,333 --> 01:19:31,958
+Well, you know,
+we're discussing important business.
+
+1367
+01:19:32,041 --> 01:19:35,458
+- That's what we're doing.
+- Oh, yeah, that's really very important.
+
+1368
+01:19:35,541 --> 01:19:37,750
+Oh, can we just
+skip past this part, please?
+
+1369
+01:19:37,833 --> 01:19:39,500
+Where you get to feel self-righteous
+
+1370
+01:19:39,583 --> 01:19:43,041
+and we put our tails between our legs.
+It is just so boring.
+
+1371
+01:19:43,125 --> 01:19:44,791
+Oh, it's "so boring"?
+
+1372
+01:19:44,875 --> 01:19:49,291
+You wanna skip the part where
+you feel bad for screwing my husband?
+
+1373
+01:19:49,875 --> 01:19:52,583
+Oh… No, I don't feel bad.
+
+1374
+01:19:52,666 --> 01:19:56,416
+Randall and I are having a wonderful time.
+So, I think the question is,
+
+1375
+01:19:56,500 --> 01:20:01,791
+do we keep having a wonderful time
+or does he go back with you to Wisconsin?
+
+1376
+01:20:01,875 --> 01:20:02,750
+Or Montana.
+
+1377
+01:20:02,833 --> 01:20:04,875
+- Michigan?
+- Michigan.
+
+1378
+01:20:08,125 --> 01:20:12,500
+You know, um… she is actually right.
+
+1379
+01:20:13,291 --> 01:20:16,333
+That's the only question. So…
+
+1380
+01:20:18,958 --> 01:20:20,750
+Well, June, sweetie…
+
+1381
+01:20:20,833 --> 01:20:23,875
+Sometimes in life things are, you know,
+
+1382
+01:20:23,958 --> 01:20:26,458
+they're complicated and they just...
+
+1383
+01:20:26,541 --> 01:20:27,666
+Oh, okay.
+
+1384
+01:20:29,958 --> 01:20:31,666
+Oh, that was fast, um…
+
+1385
+01:20:35,250 --> 01:20:38,375
+Well, before I go, um,
+
+1386
+01:20:38,458 --> 01:20:41,375
+let me just give you some instructions
+
+1387
+01:20:42,333 --> 01:20:45,458
+on how to take care of Randall.
+
+1388
+01:20:46,083 --> 01:20:47,041
+Uh…
+
+1389
+01:20:47,125 --> 01:20:50,541
+Yeah, here's the Xanax
+he takes for his panic attacks.
+
+1390
+01:20:50,625 --> 01:20:51,458
+Oh, gosh.
+
+1391
+01:20:51,541 --> 01:20:54,458
+Here's the Zoloft he takes
+for the crashing depressions.
+
+1392
+01:20:54,541 --> 01:20:58,250
+- Not so much recently. Okay, you know...
+- Oh! Oh, good for you. Great.
+
+1393
+01:20:58,333 --> 01:21:02,000
+- Uh, this is for his blood pressure.
+- Ow.
+
+1394
+01:21:02,083 --> 01:21:04,708
+- Restless leg syndrome, that's a fun one.
+- God.
+
+1395
+01:21:06,708 --> 01:21:10,875
+Oh. Appetite suppressant to counteract
+the weight gain from his other meds.
+
+1396
+01:21:10,958 --> 01:21:15,875
+And, uh, for America's sexiest scientist,
+a bottle of goddamn Cialis!
+
+1397
+01:21:15,958 --> 01:21:17,375
+Ow! Gosh.
+
+1398
+01:21:26,583 --> 01:21:28,041
+Goodbye. Goodbye, Randall.
+
+1399
+01:21:28,125 --> 01:21:29,916
+I guess I'll just tell your sons
+
+1400
+01:21:30,000 --> 01:21:32,375
+that Dad's fucking
+the lady on our television.
+
+1401
+01:21:33,416 --> 01:21:34,791
+June, I…
+
+1402
+01:21:36,250 --> 01:21:38,458
+I really thought for a second
+that was gonna work out.
+
+1403
+01:21:40,333 --> 01:21:43,666
+<i>People, they wanna
+manage the comet to create jobs.</i>
+
+1404
+01:21:43,750 --> 01:21:45,791
+<i>Thirty-seven percent
+don't want the comet to hit.</i>
+
+1405
+01:21:45,875 --> 01:21:47,583
+<i>That's actually down by three points.</i>
+
+1406
+01:21:47,666 --> 01:21:50,791
+<i>And 23%, they don't think
+there's a comet at all,</i>
+
+1407
+01:21:50,875 --> 01:21:52,666
+<i>and that number is way up.</i>
+
+1408
+01:21:53,500 --> 01:21:56,791
+Not Bitcoin, RatCoin. RatCoin.
+
+1409
+01:21:59,583 --> 01:22:01,833
+I'd like to buy these sunglasses.
+
+1410
+01:22:10,166 --> 01:22:12,458
+You that girl from live TV
+who said we're all gonna die?
+
+1411
+01:22:13,041 --> 01:22:14,958
+No. What's your purchase?
+
+1412
+01:22:19,291 --> 01:22:20,250
+What the fuck?
+
+1413
+01:22:20,333 --> 01:22:23,041
+- Yeah, that's you. It's definitely you.
+- Yep, that's me.
+
+1414
+01:22:23,125 --> 01:22:26,833
+Holy shit. You're a stone-cold legend.
+Word is bond.
+
+1415
+01:22:28,125 --> 01:22:29,583
+I got a picture of you on my board.
+
+1416
+01:22:29,666 --> 01:22:31,041
+Picture on his fucking board.
+
+1417
+01:22:31,125 --> 01:22:33,125
+That's great. What's your purchase?
+
+1418
+01:22:33,208 --> 01:22:36,416
+If you don't have one, get out of line
+and make room for other customers.
+
+1419
+01:22:36,500 --> 01:22:38,791
+Can I touch your hair in a non-sexual way?
+
+1420
+01:22:38,875 --> 01:22:41,541
+- Get the fuck away from me.
+- Oh, dude, have some… Um…
+
+1421
+01:22:42,583 --> 01:22:45,041
+Call Diogo, he'll freak out.
+Will you say hi to my friend?
+
+1422
+01:22:45,125 --> 01:22:47,750
+Dude, he's obsessed with you.
+We love you. We don't like…
+
+1423
+01:22:47,833 --> 01:22:49,250
+Can't stand Orlean, either.
+
+1424
+01:22:49,333 --> 01:22:53,416
+- Yo, yo, yo!
+<i>- Yo!</i>
+
+1425
+01:22:53,500 --> 01:22:54,583
+What's up? Yo, check out…
+
+1426
+01:22:54,666 --> 01:22:57,083
+Yo, shut the fuck up.
+Check out who we're with.
+
+1427
+01:22:57,166 --> 01:22:59,833
+- Yo, bro! What up?
+<i>- What up?</i>
+
+1428
+01:23:01,250 --> 01:23:03,958
+I mean, we have a purchase,
+but we don't have payment,
+
+1429
+01:23:04,041 --> 01:23:05,583
+which is a metaphor on…
+
+1430
+01:23:07,208 --> 01:23:09,291
+- Cash?
+<i>- Also, Phillip, I've been told…</i>
+
+1431
+01:23:09,375 --> 01:23:10,666
+- Right.
+<i>- …That you wrote a book</i>
+
+1432
+01:23:10,750 --> 01:23:13,458
+<i>about your past relationship
+with Kate Dibiasky.</i>
+
+1433
+01:23:13,541 --> 01:23:15,958
+<i>Funny you should say that,
+I'm working on that now.</i>
+
+1434
+01:23:16,041 --> 01:23:18,583
+<i>It's gonna be called</i>
+A Brush With The Devil, <i>and it's, uh…</i>
+
+1435
+01:23:18,666 --> 01:23:20,791
+You calling security
+or something, with your eyes?
+
+1436
+01:23:20,875 --> 01:23:22,125
+No. You're free to go.
+
+1437
+01:23:22,208 --> 01:23:24,333
+- <i>That sounds terrible.</i>
+- Just like that?
+
+1438
+01:23:25,625 --> 01:23:27,125
+You don't give a shit, do you?
+
+1439
+01:23:28,958 --> 01:23:29,958
+Sure, I do.
+
+1440
+01:23:30,041 --> 01:23:33,041
+I care about DrinkMo's guarantee
+of quality service.
+
+1441
+01:23:33,666 --> 01:23:35,500
+Well, we don't give a shit either.
+
+1442
+01:23:35,583 --> 01:23:37,208
+Not one single shit.
+
+1443
+01:23:37,291 --> 01:23:40,291
+We hang and board behind the abandoned
+Burger Crown from 7:00 to whenever.
+
+1444
+01:23:40,375 --> 01:23:41,208
+Yeah, we do.
+
+1445
+01:23:41,291 --> 01:23:43,750
+You should come hang.
+If you're not a fucking pussy.
+
+1446
+01:23:46,666 --> 01:23:48,333
+<i>Oh, you know, it's me…</i>
+
+1447
+01:23:48,416 --> 01:23:50,958
+- Fuck. Okay. Thanks.
+<i>- …And a bottle of scotch.</i>
+
+1448
+01:23:51,958 --> 01:23:54,500
+<i>It's a joke. But also…</i>
+
+1449
+01:24:06,541 --> 01:24:09,083
+Okay, let me introduce you
+
+1450
+01:24:09,958 --> 01:24:16,333
+uh, to mankind's savior,
+BASH Explore and Acquire Drone.
+
+1451
+01:24:16,416 --> 01:24:17,500
+It's incredible.
+
+1452
+01:24:17,583 --> 01:24:19,125
+It's incredible, isn't it?
+
+1453
+01:24:19,208 --> 01:24:22,833
+I call this one Primo,
+the first.
+
+1454
+01:24:22,916 --> 01:24:24,416
+It's like my first child.
+
+1455
+01:24:25,083 --> 01:24:31,291
+Primo, my boy.
+It's your father, Cronos.
+
+1456
+01:24:31,375 --> 01:24:35,041
+Don't be shy. Come on.
+You're gonna be a god in the sky.
+
+1457
+01:24:41,416 --> 01:24:46,583
+Are you at all concerned about
+the sync on the BEAD explosions?
+
+1458
+01:24:46,666 --> 01:24:50,583
+Oh, Doctor.
+There are always questions and fears, and…
+
+1459
+01:24:51,250 --> 01:24:54,500
+I have a report here from a Dr. Inez.
+
+1460
+01:24:54,583 --> 01:24:57,041
+- If you'd just take a look at this study.
+- Oh, thanks.
+
+1461
+01:24:57,125 --> 01:24:59,333
+Listen, a lot of my colleagues,
+
+1462
+01:24:59,416 --> 01:25:01,875
+they've either been removed
+or resigned from this project,
+
+1463
+01:25:01,958 --> 01:25:06,083
+apparently for asking too many questions
+about this mission here.
+
+1464
+01:25:06,166 --> 01:25:08,750
+So I just wanna make sure that you're…
+
+1465
+01:25:09,333 --> 01:25:11,875
+That you're open
+to the scientific peer-review process
+
+1466
+01:25:11,958 --> 01:25:14,583
+and you're not approaching
+this mission like a businessman.
+
+1467
+01:25:14,666 --> 01:25:16,416
+- You know? That...
+- What did you say?
+
+1468
+01:25:16,916 --> 01:25:20,208
+- I wanna know if you're...
+- Did you call me a businessman?
+
+1469
+01:25:20,875 --> 01:25:23,916
+- You do own a corporate...
+- You think I'm just a businessman?
+
+1470
+01:25:25,500 --> 01:25:27,791
+Do you think you know me, Doctor?
+
+1471
+01:25:29,375 --> 01:25:30,291
+Business?
+
+1472
+01:25:31,250 --> 01:25:35,125
+This is evolution.
+This is evolution of the human species.
+
+1473
+01:25:36,125 --> 01:25:38,125
+- What are you doing bringing this…
+- Well...
+
+1474
+01:25:38,208 --> 01:25:41,375
+You know that BASH has
+over 40 million data points on you,
+
+1475
+01:25:41,458 --> 01:25:45,458
+on every decision you have made
+since 1994, Doctor?
+
+1476
+01:25:45,541 --> 01:25:50,041
+I… I know when you have colon polyps
+
+1477
+01:25:50,125 --> 01:25:51,833
+months before your doctor does.
+
+1478
+01:25:51,916 --> 01:25:53,750
+You got four or five
+at the moment actually.
+
+1479
+01:25:53,833 --> 01:25:57,375
+You know, they're not of concern,
+but I'd have a checkup as soon as you can.
+
+1480
+01:25:57,458 --> 01:26:01,916
+But much more importantly than that,
+I know what <i>you</i> are. I know who you are.
+
+1481
+01:26:02,000 --> 01:26:07,000
+My algorithms have determined
+eight fundamental consumer profile types.
+
+1482
+01:26:07,083 --> 01:26:10,791
+You are a lifestyle idealist.
+
+1483
+01:26:10,875 --> 01:26:15,125
+You think you're motivated
+by beliefs, high ethical beliefs.
+
+1484
+01:26:15,208 --> 01:26:20,125
+But you just run towards pleasure
+and away from pain.
+
+1485
+01:26:22,375 --> 01:26:25,000
+Like a… Like a field mouse.
+
+1486
+01:26:27,125 --> 01:26:28,500
+I'm just trying to…
+
+1487
+01:26:29,916 --> 01:26:32,875
+I just wanna make sure
+that the science is sound on this project.
+
+1488
+01:26:32,958 --> 01:26:34,041
+I hope you understand...
+
+1489
+01:26:34,125 --> 01:26:38,250
+Our algorithms
+can even predict how you'll die.
+
+1490
+01:26:39,125 --> 01:26:44,375
+To 96… 96.5% accuracy.
+
+1491
+01:26:44,458 --> 01:26:46,333
+I looked you up after we met.
+
+1492
+01:26:47,541 --> 01:26:52,000
+Your death was so unremarkable and boring.
+
+1493
+01:26:52,666 --> 01:26:56,750
+I can't remember the details,
+apart from one thing.
+
+1494
+01:26:59,000 --> 01:27:00,750
+You're gonna die alone.
+
+1495
+01:27:03,750 --> 01:27:04,791
+Alone.
+
+1496
+01:27:05,291 --> 01:27:09,958
+If you'll excuse me, Madam President.
+I've got some work to do.
+
+1497
+01:27:10,041 --> 01:27:11,708
+What the hell are you doing?
+
+1498
+01:27:11,791 --> 01:27:14,333
+- My God.
+- I was trying to do my job.
+
+1499
+01:27:14,416 --> 01:27:17,708
+You are just so lucky
+that Peter adores you.
+
+1500
+01:27:25,083 --> 01:27:27,375
+You're with the grown-ups now, Randall.
+
+1501
+01:27:27,458 --> 01:27:29,083
+I can't even follow this shit anymore!
+
+1502
+01:27:35,166 --> 01:27:40,375
+BASH got Orlean to pay
+the Chilean government, if I'm correct,
+
+1503
+01:27:40,458 --> 01:27:44,583
+$90 billion to let the tsunami
+hit off the coast of the country.
+
+1504
+01:27:44,666 --> 01:27:45,666
+That sound right to you?
+
+1505
+01:27:45,750 --> 01:27:47,666
+Isherwell built
+an underground bunker
+
+1506
+01:27:47,750 --> 01:27:49,333
+for him and all his executives.
+
+1507
+01:27:49,416 --> 01:27:51,791
+No, I heard that
+they built an escape ship.
+
+1508
+01:27:51,875 --> 01:27:55,250
+You guys,
+the truth is way more depressing.
+
+1509
+01:27:56,291 --> 01:28:00,208
+They're not even smart enough to be
+as evil as you're giving them credit for.
+
+1510
+01:28:05,958 --> 01:28:06,833
+Ugh!
+
+1511
+01:28:06,916 --> 01:28:08,541
+- What?
+- No.
+
+1512
+01:28:12,916 --> 01:28:16,125
+Fuck! You're driving me fucking
+crazy, Kate.
+
+1513
+01:28:16,208 --> 01:28:17,833
+Fuck it. We're all gonna die.
+
+1514
+01:28:35,333 --> 01:28:36,750
+<i>…movie will be released</i>
+
+1515
+01:28:36,833 --> 01:28:40,166
+<i>the day that some believe
+Comet Dibiasky will impact the planet.</i>
+
+1516
+01:28:40,250 --> 01:28:42,750
+<i>And the early word is
+it's already a classic, Brie.</i>
+
+1517
+01:28:42,833 --> 01:28:45,500
+<i>Oh, yes.</i>
+<i>Well, and what a stellar cast.</i>
+
+1518
+01:28:45,583 --> 01:28:48,041
+- Devin. Yeah.
+- I love Devin Peters.
+
+1519
+01:28:48,125 --> 01:28:49,625
+<i>He's great. Everything he does.</i>
+
+1520
+01:28:49,708 --> 01:28:52,708
+<i>- What's it called again?</i>
+<i>- It's called </i>Total Devastation.
+
+1521
+01:28:52,791 --> 01:28:56,208
+- It cost $300 million to make.
+- Whoo!
+
+1522
+01:28:56,291 --> 01:28:59,333
+- I mean, these movies...
+- It's more than you earn.
+
+1523
+01:28:59,416 --> 01:29:01,791
+Tell me about it.
+And my friend Farley, he saw it.
+
+1524
+01:29:01,875 --> 01:29:04,625
+- He said it's a ton of fun. That's right.
+- Well, Farley likes it.
+
+1525
+01:29:04,708 --> 01:29:07,250
+All right, well, what Farley says goes.
+
+1526
+01:29:07,333 --> 01:29:08,583
+<i>But, uh, first,</i>
+
+1527
+01:29:09,416 --> 01:29:12,458
+and yes, you can tell from my smile…
+
+1528
+01:29:12,541 --> 01:29:13,833
+Stop it.
+
+1529
+01:29:13,916 --> 01:29:18,916
+That America's sexiest scientist is here.
+Dr. Randall. Welcome.
+
+1530
+01:29:19,666 --> 01:29:21,375
+Dr. Randall, how are you, sir?
+
+1531
+01:29:21,458 --> 01:29:24,208
+I'm... I'm good.
+I'm gooder than good.
+
+1532
+01:29:25,666 --> 01:29:30,833
+All right. So, Randall, we're hearing
+that there is no comet,
+
+1533
+01:29:30,916 --> 01:29:34,375
+or that there is a comet but it's
+a good thing or maybe it's a bad thing.
+
+1534
+01:29:34,458 --> 01:29:36,750
+<i>We are so confused.</i>
+
+1535
+01:29:36,833 --> 01:29:41,166
+So, could you please help us out here,
+you know, oh, wise scientist?
+
+1536
+01:29:42,541 --> 01:29:45,416
+Well, first and foremost, Brie, um…
+
+1537
+01:29:45,500 --> 01:29:47,833
+…there most certainly
+is a comet.
+
+1538
+01:29:47,916 --> 01:29:48,791
+All right.
+
+1539
+01:29:48,875 --> 01:29:52,125
+And we know that there is a comet
+because we have the data.
+
+1540
+01:29:53,125 --> 01:29:54,416
+Um…
+
+1541
+01:29:54,500 --> 01:29:58,666
+There has been growing concern within
+the scientific community as of late.
+
+1542
+01:29:59,333 --> 01:30:02,875
+You see, the peer-review process
+is absolutely essential…
+
+1543
+01:30:02,958 --> 01:30:05,583
+- If BASH's stock…
+- …for us to get to the facts of… Yes?
+
+1544
+01:30:05,666 --> 01:30:07,333
+If BASH's stock is any indicator,
+
+1545
+01:30:07,416 --> 01:30:09,333
+we don't have to worry
+about the peer review.
+
+1546
+01:30:09,416 --> 01:30:10,583
+It is going gangbusters.
+
+1547
+01:30:10,666 --> 01:30:13,125
+And full disclosure.
+I bought as many shares as I could.
+
+1548
+01:30:13,208 --> 01:30:14,500
+I advise you to do the same.
+
+1549
+01:30:14,583 --> 01:30:16,333
+You are such a shameless capitalist.
+
+1550
+01:30:16,416 --> 01:30:19,458
+Said the woman who will be
+in the brand-new hot tub on my back deck
+
+1551
+01:30:19,541 --> 01:30:22,083
+- when I put it in from the stock.
+- You know me too well.
+
+1552
+01:30:22,166 --> 01:30:23,208
+That's right.
+
+1553
+01:30:23,291 --> 01:30:25,875
+Dr. Randall, you sure you're okay?
+You want a glass of water…
+
+1554
+01:30:25,958 --> 01:30:27,166
+I don't feel so good.
+
+1555
+01:30:27,250 --> 01:30:29,625
+So I think we'll go
+to commercial break...
+
+1556
+01:30:29,708 --> 01:30:33,291
+No, Please, Brie. Don't cut away.
+Let me say something.
+
+1557
+01:30:33,375 --> 01:30:34,916
+- Okay.
+- You came to the right place.
+
+1558
+01:30:35,000 --> 01:30:36,375
+We like to say things.
+
+1559
+01:30:36,458 --> 01:30:40,416
+Would you please
+just stop being so pleasant?
+
+1560
+01:30:41,833 --> 01:30:44,791
+I'm sorry, but not everything
+needs to sound so goddamn clever
+
+1561
+01:30:44,875 --> 01:30:47,083
+or charming or likeable all the time.
+
+1562
+01:30:47,166 --> 01:30:50,583
+Sometimes we need to just be able
+to say things to one another.
+
+1563
+01:30:50,666 --> 01:30:52,083
+We need to hear things.
+
+1564
+01:30:53,833 --> 01:30:57,125
+Look, let's establish, once again,
+
+1565
+01:30:57,791 --> 01:31:01,916
+that there is a huge comet
+headed towards Earth.
+
+1566
+01:31:02,666 --> 01:31:05,291
+And the reason we know
+that there is a comet
+
+1567
+01:31:05,375 --> 01:31:06,833
+is because we saw it.
+
+1568
+01:31:06,916 --> 01:31:10,208
+We saw it with our own eyes
+using a telescope.
+
+1569
+01:31:10,291 --> 01:31:13,500
+I mean, for God's sake,
+we took a fucking picture of it!
+
+1570
+01:31:13,583 --> 01:31:15,291
+What other proof do we need?
+
+1571
+01:31:15,791 --> 01:31:18,375
+And if we can't all agree
+at the bare minimum
+
+1572
+01:31:18,458 --> 01:31:22,875
+that a giant comet
+the size of Mount Everest
+
+1573
+01:31:22,958 --> 01:31:29,041
+hurtling its way towards planet Earth
+is not a fucking good thing,
+
+1574
+01:31:29,833 --> 01:31:32,125
+then what the hell happened to us?
+
+1575
+01:31:33,000 --> 01:31:37,333
+I mean, my God, how do...
+How do we even talk to each other?
+
+1576
+01:31:37,416 --> 01:31:41,208
+What've we… What've we done to ourselves?
+How do we fix it?
+
+1577
+01:31:41,291 --> 01:31:44,791
+We should have deflected this comet
+when we had the fucking chance,
+
+1578
+01:31:44,875 --> 01:31:48,083
+but we didn't do it.
+I don't know why we didn't do it.
+
+1579
+01:31:48,166 --> 01:31:51,958
+And now they're
+actually firing scientists like me
+
+1580
+01:31:52,041 --> 01:31:54,666
+for speaking out, for opposing them.
+
+1581
+01:31:55,416 --> 01:31:57,875
+And I'm sure many of the people out there
+
+1582
+01:31:57,958 --> 01:31:59,958
+aren't even
+gonna listen to what I just said
+
+1583
+01:32:00,041 --> 01:32:02,833
+'cause they have
+their own political ideology,
+
+1584
+01:32:03,500 --> 01:32:05,916
+but I… assure you,
+
+1585
+01:32:06,583 --> 01:32:08,583
+I am not on one side or the other.
+
+1586
+01:32:08,666 --> 01:32:10,916
+I'm just telling you the fucking truth.
+
+1587
+01:32:11,000 --> 01:32:12,625
+This would be a good time to establish
+
+1588
+01:32:12,708 --> 01:32:15,250
+that Isherwell and the president
+have both said
+
+1589
+01:32:15,333 --> 01:32:16,958
+that there's benefits to be...
+
+1590
+01:32:17,041 --> 01:32:21,750
+Right, well, the president
+of the United States is fucking lying!
+
+1591
+01:32:23,125 --> 01:32:24,708
+Look, I'm just like all of you.
+
+1592
+01:32:24,791 --> 01:32:29,833
+I hope to God, I hope to <i>God</i> that
+this president knows what she's doing.
+
+1593
+01:32:29,916 --> 01:32:33,750
+I hope she's got us all taken care of,
+but the truth is,
+
+1594
+01:32:33,833 --> 01:32:36,875
+I think this whole administration
+
+1595
+01:32:36,958 --> 01:32:41,500
+has completely lost their fucking mind!
+
+1596
+01:32:41,583 --> 01:32:45,125
+And I think we're all gonna die!
+
+1597
+01:32:49,291 --> 01:32:51,125
+Look, I just wanna go home.
+
+1598
+01:32:51,791 --> 01:32:54,125
+I just wanna go home.
+
+1599
+01:32:54,208 --> 01:32:56,125
+I just wanna go home more than anything.
+
+1600
+01:33:00,875 --> 01:33:02,583
+But if there is one thing,
+
+1601
+01:33:03,208 --> 01:33:05,291
+one thing that I pray…
+
+1602
+01:33:05,375 --> 01:33:09,833
+That I pray that all of you hear
+from what I have just said,
+
+1603
+01:33:10,625 --> 01:33:13,583
+is that all of us, all of us…
+
+1604
+01:33:22,083 --> 01:33:23,625
+Why'd you do that?
+
+1605
+01:33:24,750 --> 01:33:28,250
+I really liked you
+and I despise most people.
+
+1606
+01:33:29,791 --> 01:33:33,000
+You know, I…
+I really thought I loved you.
+
+1607
+01:33:35,791 --> 01:33:36,958
+Really?
+
+1608
+01:33:37,875 --> 01:33:38,750
+Wow.
+
+1609
+01:33:40,375 --> 01:33:41,833
+That's wild.
+
+1610
+01:33:43,000 --> 01:33:44,625
+Yeah.
+
+1611
+01:33:44,708 --> 01:33:47,416
+Ma'am, you need to go.
+We gotta get this man off the grid.
+
+1612
+01:33:49,500 --> 01:33:50,708
+You still there?
+
+1613
+01:33:53,750 --> 01:33:54,791
+No.
+
+1614
+01:33:57,291 --> 01:34:01,041
+Well, maybe he just gets off
+on the power, you know,
+
+1615
+01:34:01,125 --> 01:34:02,791
+like any kind of power.
+
+1616
+01:34:02,875 --> 01:34:07,750
+It's like he knew eventually that I was
+gonna find out that the snacks were free.
+
+1617
+01:34:07,833 --> 01:34:09,291
+- Right.
+- You know what I mean?
+
+1618
+01:34:09,375 --> 01:34:11,833
+- Yeah.
+- So it was just like a power play.
+
+1619
+01:34:12,541 --> 01:34:13,625
+Yeah, guys are weird.
+
+1620
+01:34:16,250 --> 01:34:20,000
+I'm starting to think that all this
+"end of the world" stuff is bullshit.
+
+1621
+01:34:21,625 --> 01:34:22,833
+It's not.
+
+1622
+01:34:22,916 --> 01:34:26,833
+It's definitely happening. I've seen it.
+
+1623
+01:34:27,416 --> 01:34:31,041
+I feel like if God wanted to destroy
+the Earth, He would destroy the Earth.
+
+1624
+01:34:33,333 --> 01:34:34,583
+You believe in God?
+
+1625
+01:34:36,541 --> 01:34:39,166
+Yeah, I mean,
+my parents raised me Evangelical,
+
+1626
+01:34:39,250 --> 01:34:41,583
+and I hate them,
+but I found my own way to it.
+
+1627
+01:34:41,666 --> 01:34:42,916
+My own relationship.
+
+1628
+01:34:44,333 --> 01:34:45,458
+Hmm.
+
+1629
+01:34:46,416 --> 01:34:48,708
+I'd appreciate it
+if you didn't advertise it, though.
+
+1630
+01:34:52,041 --> 01:34:55,166
+I won't tell anybody.
+I think it's kind of sweet.
+
+1631
+01:34:58,750 --> 01:35:01,333
+- Wanna make out?
+- Yeah, why not?
+
+1632
+01:35:02,458 --> 01:35:05,458
+Can you not say "why not"?
+It makes me feel like you don't want it.
+
+1633
+01:35:06,458 --> 01:35:07,458
+It's shitty.
+
+1634
+01:35:09,541 --> 01:35:12,166
+- Sure, whatever.
+- That's better.
+
+1635
+01:35:42,708 --> 01:35:44,833
+- Oh, my God, that's it.
+- What? What?
+
+1636
+01:35:44,916 --> 01:35:47,166
+- That's the comet.
+- What? Where?
+
+1637
+01:35:48,833 --> 01:35:51,916
+- Where? Uh-huh.
+- Well, that's the Big Dipper.
+
+1638
+01:35:52,000 --> 01:35:54,916
+- That's Venus. That's the North Star.
+- Uh-huh.
+
+1639
+01:35:55,500 --> 01:35:57,958
+- Well, what is that?
+- Oh, shit.
+
+1640
+01:36:06,458 --> 01:36:07,708
+What the hell?
+
+1641
+01:36:10,500 --> 01:36:11,500
+What?
+
+1642
+01:36:13,750 --> 01:36:14,583
+Come on.
+
+1643
+01:36:22,208 --> 01:36:23,208
+There it is.
+
+1644
+01:36:25,958 --> 01:36:27,125
+There you are.
+
+1645
+01:36:30,166 --> 01:36:31,166
+There you are.
+
+1646
+01:36:32,083 --> 01:36:34,250
+Is anyone else seeing this? That's it.
+
+1647
+01:36:35,041 --> 01:36:38,833
+That's it. That's the comet.
+Look! It's right there.
+
+1648
+01:37:16,333 --> 01:37:19,291
+- That's, you know, kinda scary.
+- Oh! Exactly.
+
+1649
+01:37:23,791 --> 01:37:25,625
+- Dr. Mindy.
+<i>- Kate.</i>
+
+1650
+01:37:25,708 --> 01:37:27,875
+Doc, you can see it.
+
+1651
+01:37:27,958 --> 01:37:32,166
+I… I'm looking at it right now too.
+It's unbelievable. It's…
+
+1652
+01:37:32,666 --> 01:37:36,250
+It's horrific and it's…
+And it's beautiful at the same time.
+
+1653
+01:37:36,333 --> 01:37:38,041
+Oh, my God.
+
+1654
+01:37:43,208 --> 01:37:45,125
+We've been trying to tell you.
+
+1655
+01:37:45,750 --> 01:37:49,041
+We tried to tell you this whole time.
+It's right there. It's…
+
+1656
+01:37:49,875 --> 01:37:51,458
+It's right there, Kate.
+
+1657
+01:37:54,291 --> 01:37:55,375
+<i>Where are you?</i>
+
+1658
+01:37:55,458 --> 01:37:56,875
+I'm in Lansing, Michigan
+
+1659
+01:37:56,958 --> 01:38:00,125
+<i>trying to fix things with June,
+but she won't talk to me.</i>
+
+1660
+01:38:00,208 --> 01:38:02,083
+<i>- Where are you?</i>
+- What the fuck?
+
+1661
+01:38:03,041 --> 01:38:04,166
+I…
+
+1662
+01:38:04,250 --> 01:38:06,291
+<i>I'm gonna come find you, okay?</i>
+
+1663
+01:38:07,375 --> 01:38:10,708
+Well, I'm in Illinois.
+I could be ready by tomorrow.
+
+1664
+01:38:12,083 --> 01:38:13,375
+- Dearest Father…
+- Yeah, I'm...
+
+1665
+01:38:13,458 --> 01:38:16,000
+…as a sinner I come to You
+for Your grace and guidance…
+
+1666
+01:38:16,083 --> 01:38:18,125
+<i>They're finally seeing it.</i>
+
+1667
+01:38:18,708 --> 01:38:20,250
+They're finally seeing it.
+
+1668
+01:38:26,083 --> 01:38:27,583
+There it is!
+
+1669
+01:38:41,625 --> 01:38:45,208
+Go outside into your yard,
+onto a roof, onto your sidewalk,
+
+1670
+01:38:45,291 --> 01:38:46,708
+and just look up into the sky.
+
+1671
+01:38:46,791 --> 01:38:50,125
+The star's gonna appear fuzzy.
+It's got a long streak coming off of it.
+
+1672
+01:38:50,208 --> 01:38:51,708
+That's the comet's tail.
+
+1673
+01:38:51,791 --> 01:38:53,375
+<i>It's real and it's coming.</i>
+
+1674
+01:38:53,458 --> 01:38:56,041
+<i>If anyone tells you any different,
+they're full of shit.</i>
+
+1675
+01:38:56,125 --> 01:38:57,625
+<i>Just look up into the sky.</i>
+
+1676
+01:38:57,708 --> 01:38:59,166
+<i>It's a fucking fact.</i>
+
+1677
+01:38:59,250 --> 01:39:00,708
+<i>- We have proof.
+- Just look up.</i>
+
+1678
+01:39:00,791 --> 01:39:04,416
+<i>Guys, please just look up, okay?
+Screw the manatees and just look up.</i>
+
+1679
+01:39:04,500 --> 01:39:05,458
+<i>Just look up.</i>
+
+1680
+01:39:05,541 --> 01:39:07,625
+- <i>Just look up!</i>
+<i>- Just look up! Just look up!</i>
+
+1681
+01:39:07,708 --> 01:39:08,708
+<i>Just look up!</i>
+
+1682
+01:39:08,791 --> 01:39:13,083
+<i>Dr. Mindy, the president's
+plan to save Earth</i>
+
+1683
+01:39:13,166 --> 01:39:18,125
+<i>and make it so we can all have a home
+is going to work, right?</i>
+
+1684
+01:39:18,208 --> 01:39:22,250
+<i>Every single man, woman and child
+on this planet is going to die.</i>
+
+1685
+01:39:22,333 --> 01:39:25,541
+<i>- I don't like him. He makes me sad.
+- I'm sorry about that.</i>
+
+1686
+01:39:25,625 --> 01:39:27,625
+<i>- This is not what we rehearsed.
+- Kids, listen.</i>
+
+1687
+01:39:27,708 --> 01:39:30,875
+You tell your parents
+that President Orlean and Isherwell
+
+1688
+01:39:30,958 --> 01:39:32,625
+are sociopaths and fascists!
+
+1689
+01:39:39,791 --> 01:39:42,708
+And do you know why
+they want you to look up?
+
+1690
+01:39:43,666 --> 01:39:45,416
+Do you know why?
+
+1691
+01:39:45,500 --> 01:39:48,041
+'Cause they want you to be afraid.
+
+1692
+01:39:49,500 --> 01:39:51,958
+They want you to look up
+
+1693
+01:39:52,041 --> 01:39:54,708
+because they are
+looking down their noses at you.
+
+1694
+01:39:56,041 --> 01:39:57,916
+<i>They think they're better than you.</i>
+
+1695
+01:39:58,000 --> 01:40:00,500
+<i>Don't look up!</i>
+
+1696
+01:40:00,583 --> 01:40:02,833
+<i>They wanna rob you of your freedom,
+and that's a fact!</i>
+
+1697
+01:40:02,916 --> 01:40:05,000
+<i>Don't look up!</i>
+
+1698
+01:40:05,083 --> 01:40:06,833
+<i>The US president, Orlean…</i>
+
+1699
+01:40:06,916 --> 01:40:09,250
+<i>Just look up!</i>
+
+1700
+01:40:09,333 --> 01:40:12,625
+<i>…has not included India
+or any other nation in the world</i>
+
+1701
+01:40:12,708 --> 01:40:14,041
+<i>to be a part of this mission.</i>
+
+1702
+01:40:14,750 --> 01:40:17,375
+<i>This dude is a known pornographer
+named Kip…</i>
+
+1703
+01:40:17,458 --> 01:40:18,708
+<i>Don't listen to that dumbfuck.</i>
+
+1704
+01:40:18,791 --> 01:40:24,791
+<i>The United Nations have been
+considering its own deflective mission.</i>
+
+1705
+01:40:24,875 --> 01:40:27,125
+<i>Just look up, for fuck's sake!</i>
+
+1706
+01:40:27,208 --> 01:40:30,958
+Now I know a lot of Hollywood
+is supporting the Just Look Up movement,
+
+1707
+01:40:31,041 --> 01:40:32,875
+but I haven't seen a pin like that.
+
+1708
+01:40:32,958 --> 01:40:37,708
+Yeah, this pin points both up and down.
+
+1709
+01:40:38,291 --> 01:40:42,916
+Because I think, as a country,
+we need to stop arguing
+
+1710
+01:40:43,000 --> 01:40:45,500
+and virtue signaling. Just get along.
+
+1711
+01:40:46,125 --> 01:40:48,500
+- That is so refreshing.
+- Hmm.
+
+1712
+01:40:48,583 --> 01:40:51,208
+I think
+we're all tired of the politics.
+
+1713
+01:40:51,291 --> 01:40:53,458
+Yeah, yeah. Well…
+
+1714
+01:40:54,458 --> 01:40:56,083
+That's why we made <i>Total Devastation.</i>
+
+1715
+01:40:56,166 --> 01:40:58,291
+It's for everyone. You know?
+It's a popcorn movie.
+
+1716
+01:40:58,375 --> 01:41:02,083
+You keep your eye on the road ahead,
+you put your head down.
+
+1717
+01:41:02,166 --> 01:41:04,583
+And you put
+one foot in front of the other,
+
+1718
+01:41:04,666 --> 01:41:05,708
+step by step.
+
+1719
+01:41:07,000 --> 01:41:08,083
+<i>Day by day.</i>
+
+1720
+01:41:08,166 --> 01:41:11,375
+- Don't look up!
+- Don't!
+
+1721
+01:41:17,458 --> 01:41:20,500
+So we wanna say something loud and clear.
+
+1722
+01:41:20,583 --> 01:41:24,208
+There is no safe way
+to bring this comet back to Earth
+
+1723
+01:41:24,291 --> 01:41:27,000
+and exploit it for profit.
+It cannot be done!
+
+1724
+01:41:27,583 --> 01:41:31,458
+Nations of the world,
+defy Orlean and BASH!
+
+1725
+01:41:31,541 --> 01:41:36,083
+Launch your own nuclear deflection mission
+now and save this planet!
+
+1726
+01:41:37,541 --> 01:41:43,375
+And now, uh, there's Riley Bina
+with her special guest.
+
+1727
+01:41:43,458 --> 01:41:45,708
+I forgot the name. Thank you.
+
+1728
+01:43:00,000 --> 01:43:03,666
+Is that a rock-solid ten smokeshow
+of a president or what?
+
+1729
+01:43:04,750 --> 01:43:06,583
+If she wasn't my mother…
+
+1730
+01:43:08,291 --> 01:43:10,041
+There's three types of American people.
+
+1731
+01:43:11,000 --> 01:43:13,166
+There are you, the working class.
+
+1732
+01:43:13,250 --> 01:43:17,083
+Us, the cool rich, and then them.
+
+1733
+01:43:19,583 --> 01:43:21,625
+I'm sorry, but we need them.
+
+1734
+01:43:22,166 --> 01:43:26,291
+We need them because
+you build us up to fight them.
+
+1735
+01:43:26,375 --> 01:43:28,541
+The working class, the lower.
+
+1736
+01:43:28,625 --> 01:43:30,750
+- You understand?
+- No, I don't get it.
+
+1737
+01:43:30,833 --> 01:43:33,041
+Do you understand? I'm talking about…
+
+1738
+01:43:33,125 --> 01:43:35,000
+I'm talking about nutritionists.
+
+1739
+01:43:35,541 --> 01:43:37,666
+I'm talking about personal trainers,
+
+1740
+01:43:38,500 --> 01:43:40,125
+people at the spa,
+
+1741
+01:43:40,208 --> 01:43:43,125
+but not the ones that check you in
+and they're not the masseuses,
+
+1742
+01:43:43,208 --> 01:43:45,750
+but they walk you down the corridor.
+
+1743
+01:43:45,833 --> 01:43:46,750
+They're there…
+
+1744
+01:44:01,291 --> 01:44:04,083
+- Divest from BASH when?
+- Divest now!
+
+1745
+01:44:04,166 --> 01:44:05,833
+Divest from BASH when?
+
+1746
+01:44:08,958 --> 01:44:10,541
+We will not be quiet!
+
+1747
+01:45:18,500 --> 01:45:19,583
+Oh.
+
+1748
+01:45:20,541 --> 01:45:23,833
+Hey, good afternoon, Adam.
+What do I owe the pleasure of this call?
+
+1749
+01:45:30,041 --> 01:45:31,041
+What time?
+
+1750
+01:45:38,791 --> 01:45:41,708
+Well, uh… Well, thank you for calling.
+
+1751
+01:45:41,791 --> 01:45:42,708
+Um…
+
+1752
+01:45:44,125 --> 01:45:45,125
+Yeah.
+
+1753
+01:46:01,583 --> 01:46:02,541
+What?
+
+1754
+01:46:05,958 --> 01:46:06,958
+What?
+
+1755
+01:46:09,916 --> 01:46:14,708
+Orlean and BASH
+cut Russia, India, and China
+
+1756
+01:46:15,958 --> 01:46:17,375
+out of the rights for the minerals.
+
+1757
+01:46:17,458 --> 01:46:20,916
+So they tried their own
+joint deflection mission,
+
+1758
+01:46:21,000 --> 01:46:25,708
+but, uh… approximately 40 minutes ago,
+
+1759
+01:46:26,583 --> 01:46:33,000
+there was a massive explosion detected
+at the Russian's Baikonur launch complex.
+
+1760
+01:46:35,458 --> 01:46:37,666
+So it looks like the mission failed.
+
+1761
+01:46:42,791 --> 01:46:44,000
+That's it?
+
+1762
+01:46:47,083 --> 01:46:48,666
+What do you mean, "that's it?"
+
+1763
+01:46:52,083 --> 01:46:53,125
+Teddy?
+
+1764
+01:46:56,458 --> 01:46:57,333
+Right?
+
+1765
+01:47:03,166 --> 01:47:07,000
+There is still the BASH mission.
+It's all we have now.
+
+1766
+01:47:14,083 --> 01:47:15,083
+Fuck!
+
+1767
+01:47:27,291 --> 01:47:30,083
+These Just Look Uppers
+
+1768
+01:47:30,166 --> 01:47:35,833
+want millions of illegal Chileans
+to come across the border.
+
+1769
+01:47:36,875 --> 01:47:40,291
+Don't look up.
+
+1770
+01:47:44,541 --> 01:47:46,291
+The hell is that?
+
+1771
+01:47:52,416 --> 01:47:54,583
+Fucking lied to us.
+
+1772
+01:47:56,125 --> 01:47:59,041
+The president just texted me.
+
+1773
+01:47:59,125 --> 01:48:02,583
+"Don't trip. It's all good. Don't trip."
+
+1774
+01:48:05,000 --> 01:48:06,000
+Hey, now.
+
+1775
+01:48:06,583 --> 01:48:09,250
+You cut my face, you fucking rednecks!
+
+1776
+01:48:22,041 --> 01:48:24,375
+Man, there hasn't been
+a car in, like, an hour.
+
+1777
+01:48:25,875 --> 01:48:28,541
+Yep.
+Everyone's watching the BASH launch.
+
+1778
+01:48:31,041 --> 01:48:32,333
+What are we doing again?
+
+1779
+01:48:35,000 --> 01:48:39,416
+I told you. We're, uh…
+We're gonna go buy some groceries.
+
+1780
+01:48:48,041 --> 01:48:53,250
+The Mills Brothers. Great band.
+You know, Duke Ellington found this band.
+
+1781
+01:48:55,958 --> 01:49:00,000
+I think they were originally called
+the Four Kings of Harmony.
+
+1782
+01:49:05,750 --> 01:49:08,208
+"Till Then," this is the song.
+It's about, uh…
+
+1783
+01:49:09,208 --> 01:49:11,458
+It's about soldiers
+going off to World War II
+
+1784
+01:49:11,541 --> 01:49:13,375
+and thinking about home.
+
+1785
+01:49:16,625 --> 01:49:17,708
+Listen to this part.
+
+1786
+01:49:21,041 --> 01:49:27,041
+"Although there are oceans we must cross
+and mountains that we must climb…"
+
+1787
+01:49:31,625 --> 01:49:34,708
+"I know that every gain must have a loss."
+
+1788
+01:49:36,708 --> 01:49:40,708
+"So pray that our loss
+is nothing but time."
+
+1789
+01:49:46,541 --> 01:49:49,083
+- Okay, I gotta ask you something.
+- What?
+
+1790
+01:49:51,666 --> 01:49:53,666
+Dr. Mindy, can I be vulnerable
+in your car?
+
+1791
+01:49:53,750 --> 01:49:55,125
+Yeah, go ahead.
+
+1792
+01:49:57,083 --> 01:49:58,875
+I've never met anyone like you
+
+1793
+01:49:58,958 --> 01:50:01,166
+and I feel a connection to you
+on a level that…
+
+1794
+01:50:04,333 --> 01:50:06,250
+I don't know,
+I haven't felt with anyone else,
+
+1795
+01:50:06,333 --> 01:50:08,375
+and going out on a limb,
+
+1796
+01:50:08,458 --> 01:50:10,458
+but would you want to spend
+more time together?
+
+1797
+01:50:10,541 --> 01:50:14,958
+Maybe even get engaged or something?
+
+1798
+01:50:16,166 --> 01:50:18,000
+- Wow.
+- Are you laughing?
+
+1799
+01:50:18,875 --> 01:50:20,125
+- No?
+- I'm smiling.
+
+1800
+01:50:21,541 --> 01:50:23,541
+- Well, sure.
+- This is sweet.
+
+1801
+01:50:23,625 --> 01:50:26,875
+- Why not?
+- This is pretty sweet.
+
+1802
+01:50:37,291 --> 01:50:41,791
+And you read
+the tea leaves for Dr. Mindy.
+
+1803
+01:50:41,875 --> 01:50:43,875
+- You showed him the algorithm.
+- Oh, yeah.
+
+1804
+01:50:43,958 --> 01:50:46,041
+You really shook him
+with that information.
+
+1805
+01:50:46,125 --> 01:50:48,916
+- How he was gonna die.
+- Yeah, it is shaking.
+
+1806
+01:50:49,625 --> 01:50:51,916
+It got me so excited
+to know about my own death.
+
+1807
+01:50:54,583 --> 01:50:57,208
+I don't think I wanna know.
+Yes, I do. I wanna to know.
+
+1808
+01:50:57,291 --> 01:51:01,541
+You're gonna be eaten by a Bronteroc.
+We don't know what it means.
+
+1809
+01:51:01,625 --> 01:51:03,583
+- A what?
+- A Bronteroc.
+
+1810
+01:51:05,208 --> 01:51:07,708
+- Oh.
+- Okay, people, we have clear skies.
+
+1811
+01:51:09,541 --> 01:51:12,750
+And we are a go for the BEAD launch.
+
+1812
+01:51:12,833 --> 01:51:13,958
+Madam President?
+
+1813
+01:51:14,041 --> 01:51:18,583
+Citizens of planet Earth. Now…
+
+1814
+01:51:19,541 --> 01:51:23,250
+Look at this, Kate. They have wild salmon.
+
+1815
+01:51:23,333 --> 01:51:26,416
+Look at the difference between that
+and the farm-raised stuff.
+
+1816
+01:51:26,500 --> 01:51:29,708
+You see how that looks just…
+I don't know. Looks fake, right?
+
+1817
+01:51:30,833 --> 01:51:33,375
+Hey, why don't you go find some, uh…
+
+1818
+01:51:33,458 --> 01:51:35,958
+What are the little potatoes called,
+the tiny ones?
+
+1819
+01:51:36,041 --> 01:51:37,166
+- Fingerling potatoes?
+- Yeah.
+
+1820
+01:51:37,250 --> 01:51:39,750
+- I fucking love fingerling potatoes.
+- Let's get finger…
+
+1821
+01:51:39,833 --> 01:51:41,333
+Do you wanna say something too?
+
+1822
+01:51:41,416 --> 01:51:42,708
+That was beautiful. Yeah.
+
+1823
+01:51:43,666 --> 01:51:47,791
+What up, world? Jason Orlean,
+uh, Chief of Staff, United States.
+
+1824
+01:51:47,875 --> 01:51:48,833
+Um…
+
+1825
+01:51:49,875 --> 01:51:53,458
+I've been noticing a lot of prayers
+recently for people during this time
+
+1826
+01:51:54,291 --> 01:51:55,750
+and I commend that, um,
+
+1827
+01:51:55,833 --> 01:52:02,125
+but I also wanna give a prayer for stuff.
+
+1828
+01:52:03,625 --> 01:52:08,916
+There's dope stuff, like material stuff,
+like sick apartments and watches,
+
+1829
+01:52:09,000 --> 01:52:11,750
+<i>and cars, um, and clothes and shit</i>
+
+1830
+01:52:11,833 --> 01:52:16,416
+<i>that could all go away
+and I don't wanna see that stuff go away.</i>
+
+1831
+01:52:16,500 --> 01:52:18,833
+So I'm gonna say a prayer
+for that stuff. Amen.
+
+1832
+01:52:21,958 --> 01:52:25,041
+<i>Just a quiet trepidation</i>
+<i>among this much smaller crowd.</i>
+
+1833
+01:52:25,125 --> 01:52:27,000
+<i>I can hear the sounds
+of some people praying.</i>
+
+1834
+01:52:27,083 --> 01:52:29,166
+Okay, Anderson, let's go get it.
+
+1835
+01:52:29,250 --> 01:52:32,500
+Yes, sir. Here we go, people.
+
+1836
+01:52:33,291 --> 01:52:34,125
+Ten.
+
+1837
+01:52:34,208 --> 01:52:41,125
+<i>Ten, nine, eight, seven, six,</i>
+
+1838
+01:52:41,833 --> 01:52:43,875
+<i>five, four…</i>
+
+1839
+01:53:02,666 --> 01:53:03,500
+Hey.
+
+1840
+01:53:04,958 --> 01:53:05,791
+Hi.
+
+1841
+01:53:16,583 --> 01:53:19,541
+We, uh, got some groceries.
+
+1842
+01:53:28,916 --> 01:53:30,291
+Yo, what was that?
+
+1843
+01:53:30,375 --> 01:53:32,291
+We lost BEAD number 12.
+
+1844
+01:53:35,208 --> 01:53:36,833
+BEAD number 22 failed to launch.
+
+1845
+01:53:37,708 --> 01:53:40,541
+It's fine. It's fine.
+
+1846
+01:53:40,625 --> 01:53:44,666
+We had anticipated a margin for error.
+
+1847
+01:53:44,750 --> 01:53:46,250
+Everything is fine.
+
+1848
+01:53:46,333 --> 01:53:50,833
+I was hoping
+we could, um, have a family dinner.
+
+1849
+01:53:50,916 --> 01:53:52,291
+Hey, Dad.
+
+1850
+01:53:52,375 --> 01:53:54,458
+- Hey, guys. Hey.
+- Hey.
+
+1851
+01:54:00,833 --> 01:54:01,750
+What do you say?
+
+1852
+01:54:04,166 --> 01:54:05,000
+Yeah.
+
+1853
+01:54:05,916 --> 01:54:07,291
+- Thank you.
+- Yeah.
+
+1854
+01:54:07,791 --> 01:54:10,000
+- This is, uh… This is Kate.
+- Oh, hi.
+
+1855
+01:54:10,083 --> 01:54:11,916
+- Hello. Hi, Kate.
+- Let me grab those bags.
+
+1856
+01:54:12,000 --> 01:54:13,750
+- Nice to meet you. I'm Yule.
+- Yule.
+
+1857
+01:54:13,833 --> 01:54:16,000
+I'm FirePuma142 on Twitch. You game?
+
+1858
+01:54:16,625 --> 01:54:18,125
+It's really doubtful she knows.
+
+1859
+01:54:18,208 --> 01:54:19,833
+- You're right.
+- Who said I game?
+
+1860
+01:54:21,000 --> 01:54:23,333
+I… I got these for you.
+
+1861
+01:54:25,208 --> 01:54:27,166
+Thank you. That's really sweet, honey.
+
+1862
+01:54:33,375 --> 01:54:35,375
+I'm so sorry. You have no idea.
+
+1863
+01:54:37,208 --> 01:54:39,916
+- I really am.
+- I know. I know.
+
+1864
+01:54:40,750 --> 01:54:43,875
+- I've missed you.
+- I missed you so much.
+
+1865
+01:54:50,875 --> 01:54:53,625
+When we dated in college,
+I fucked Aaron Tran.
+
+1866
+01:54:55,875 --> 01:54:56,708
+Oh?
+
+1867
+01:54:57,333 --> 01:54:58,708
+Yeah, so, uh…
+
+1868
+01:55:14,541 --> 01:55:16,833
+- That is really good.
+- Really good, right?
+
+1869
+01:55:27,708 --> 01:55:30,000
+- Hey, everybody.
+- Hey!
+
+1870
+01:55:30,083 --> 01:55:32,791
+- Sorry I'm late, but not empty-handed.
+- Hey, my friend.
+
+1871
+01:55:33,875 --> 01:55:37,375
+Evan, Marshall, June,
+this is Dr. Oglethorpe.
+
+1872
+01:55:52,000 --> 01:55:54,875
+BEADs have approached
+optimal escape velocity
+
+1873
+01:55:54,958 --> 01:55:59,625
+and now approaching Comet Dibiasky
+and are ready for attachment mode.
+
+1874
+01:56:15,000 --> 01:56:17,625
+Uh… Okay. All right.
+
+1875
+01:56:17,708 --> 01:56:20,833
+Eight and 27 are lost
+due to lateral control malfunction.
+
+1876
+01:56:21,750 --> 01:56:24,666
+Okay, so, now… Now, Peter…
+
+1877
+01:56:24,750 --> 01:56:28,958
+Peter, we're six drones down.
+Is this thing still gonna work?
+
+1878
+01:56:29,041 --> 01:56:34,875
+Well, the engineer's assured me
+that yes, 24 drones is enough.
+
+1879
+01:56:35,958 --> 01:56:38,958
+Well, how many can we lose?
+
+1880
+01:56:41,583 --> 01:56:43,083
+How many more?
+
+1881
+01:56:46,625 --> 01:56:50,250
+{\an8}<i>We're being told that several
+of the BEADS have exploded on launch.</i>
+
+1882
+01:56:51,291 --> 01:56:54,125
+Got the head seat right there.
+
+1883
+01:56:54,208 --> 01:56:56,791
+You're way too kind, Randall. Thank you.
+
+1884
+01:56:56,875 --> 01:56:57,875
+Big Doctor.
+
+1885
+01:56:57,958 --> 01:56:59,166
+Do you want more wine?
+
+1886
+01:57:00,291 --> 01:57:02,291
+- Hey, cheers, everyone. Huh?
+- Cheers.
+
+1887
+01:57:02,375 --> 01:57:03,416
+- Cheers.
+- Love you.
+
+1888
+01:57:03,500 --> 01:57:05,250
+- Love you.
+- Thank you so much for having us.
+
+1889
+01:57:05,333 --> 01:57:06,583
+Thank you for being here.
+
+1890
+01:57:06,666 --> 01:57:08,208
+- It's so special.
+- Thank you.
+
+1891
+01:57:20,958 --> 01:57:24,166
+Commence simultaneous
+explosive separation stage now.
+
+1892
+01:57:27,541 --> 01:57:29,708
+Yo. Yo. Mom.
+
+1893
+01:57:39,708 --> 01:57:40,750
+Beautiful.
+
+1894
+01:57:41,333 --> 01:57:43,250
+- Thank you, pal.
+- Yeah.
+
+1895
+01:57:43,333 --> 01:57:48,083
+Yeah, it really is.
+And it's really good to have you home.
+
+1896
+01:57:49,750 --> 01:57:51,500
+Dr. Mindy got really famous.
+
+1897
+01:57:51,583 --> 01:57:54,125
+Oh. Oh, yeah, I forgot about that.
+
+1898
+01:57:54,208 --> 01:57:55,791
+That's right. Okay.
+
+1899
+01:57:56,708 --> 01:58:00,625
+Yep, I was on, uh, magazine covers
+and everything. I know.
+
+1900
+01:58:01,291 --> 01:58:03,375
+- You looked great.
+- I'll take your shots.
+
+1901
+01:58:07,833 --> 01:58:09,458
+- I love you.
+- Love you too.
+
+1902
+01:58:10,875 --> 01:58:13,500
+All right. We need a report.
+
+1903
+01:58:13,583 --> 01:58:16,166
+Need a full status report
+on the explosive devices.
+
+1904
+01:58:16,250 --> 01:58:19,416
+Get on it.
+Still waiting for a full status report.
+
+1905
+01:58:21,416 --> 01:58:22,458
+All right.
+
+1906
+01:58:22,541 --> 01:58:27,625
+President Qi of China
+says that the comet is still whole.
+
+1907
+01:58:27,708 --> 01:58:29,791
+We got four misfires and sync was off.
+
+1908
+01:58:30,625 --> 01:58:31,625
+It's still intact.
+
+1909
+01:58:31,708 --> 01:58:32,875
+What was that?
+
+1910
+01:58:33,541 --> 01:58:35,958
+We've got four misfires
+and the sync was off.
+
+1911
+01:58:36,791 --> 01:58:40,958
+Okay. We're all fine. Everyone's fine.
+
+1912
+01:58:41,708 --> 01:58:44,791
+It's gonna be all right.
+If you'll excuse me.
+
+1913
+01:58:44,875 --> 01:58:46,125
+Nature calls.
+
+1914
+01:58:46,208 --> 01:58:49,208
+I'm just gonna go to the restroom
+for a moment.
+
+1915
+01:58:52,666 --> 01:58:55,541
+Yes, uh, I think
+that I should also step out
+
+1916
+01:58:55,625 --> 01:58:57,333
+to the restroom for a moment.
+
+1917
+01:59:03,583 --> 01:59:05,583
+- Should I…
+- No, I'll be fine.
+
+1918
+01:59:06,625 --> 01:59:08,125
+Sir, the president.
+
+1919
+01:59:08,875 --> 01:59:11,000
+We need to know
+what the mission status is.
+
+1920
+01:59:13,166 --> 01:59:14,750
+She's coming right back.
+
+1921
+01:59:15,416 --> 01:59:18,041
+Screw this. I'm going to see my husband.
+
+1922
+01:59:21,333 --> 01:59:24,625
+I'm sorry. I've got a 20-year-old
+daughter. I've got to go see her.
+
+1923
+01:59:25,291 --> 01:59:26,625
+I'm doin' an 8-ball.
+
+1924
+01:59:27,791 --> 01:59:28,833
+Oh, shit!
+
+1925
+01:59:28,916 --> 01:59:30,625
+She's coming. She's coming back.
+
+1926
+01:59:37,041 --> 01:59:39,250
+Hello, there's a ship.
+
+1927
+01:59:39,791 --> 01:59:43,916
+In case we were wrong,
+and clearly, we were wrong.
+
+1928
+01:59:44,000 --> 01:59:46,458
+Of course you've got a ship.
+
+1929
+01:59:46,541 --> 01:59:48,125
+<i>It holds 2,000.</i>
+
+1930
+01:59:48,208 --> 01:59:51,458
+It's state-of-the-art cryo-chambers,
+and it's set to find
+
+1931
+01:59:51,541 --> 01:59:54,666
+the nearest Earth-like planet
+in a Goldilocks Zone so…
+
+1932
+01:59:54,750 --> 01:59:55,625
+Hmm.
+
+1933
+01:59:55,708 --> 01:59:57,125
+<i>There's room for you and one other.</i>
+
+1934
+01:59:58,166 --> 02:00:00,250
+Brie, your wife, your call.
+
+1935
+02:00:02,708 --> 02:00:09,500
+I'm good, but thank you for the offer.
+You, uh… You have fun with Jason.
+
+1936
+02:00:11,541 --> 02:00:12,500
+Jason?
+
+1937
+02:00:15,250 --> 02:00:16,375
+Oh, shit.
+
+1938
+02:00:20,083 --> 02:00:21,083
+She's coming back.
+
+1939
+02:00:30,125 --> 02:00:33,041
+I'm thankful for that night
+I fell asleep out in the backyard.
+
+1940
+02:00:33,791 --> 02:00:36,166
+- Woke up face-to-face with a baby deer.
+- I remember that.
+
+1941
+02:00:36,250 --> 02:00:38,708
+- Yeah.
+- Yep. It was the best day of my life.
+
+1942
+02:00:50,166 --> 02:00:51,375
+I'm grateful…
+
+1943
+02:00:58,750 --> 02:01:00,666
+I'm grateful we tried.
+
+1944
+02:01:03,541 --> 02:01:06,000
+Man, oh, man, did we try.
+
+1945
+02:01:08,458 --> 02:01:13,791
+Well, we're not the most religious here
+in the Mindy household,
+
+1946
+02:01:13,875 --> 02:01:17,500
+but, um, maybe we should say "amen"?
+Should we do that?
+
+1947
+02:01:17,583 --> 02:01:19,041
+Don't look at me.
+
+1948
+02:01:19,875 --> 02:01:23,833
+I don't know how to…
+What, you just say, "Amen"? I don't…
+
+1949
+02:01:24,541 --> 02:01:25,750
+- I got this.
+- Wrap it up?
+
+1950
+02:01:26,416 --> 02:01:27,250
+I got it.
+
+1951
+02:01:38,750 --> 02:01:41,000
+Dearest Father and Almighty Creator…
+
+1952
+02:01:44,875 --> 02:01:48,708
+…we ask for Your grace tonight,
+despite our pride.
+
+1953
+02:01:50,416 --> 02:01:54,291
+Your forgiveness, despite our doubt.
+
+1954
+02:01:57,625 --> 02:01:59,125
+Most of all, Lord…
+
+1955
+02:02:01,125 --> 02:02:05,791
+We ask for Your love
+to soothe us through these dark times.
+
+1956
+02:02:08,291 --> 02:02:10,500
+May we face whatever is to come…
+
+1957
+02:02:12,791 --> 02:02:18,583
+<i>…in Your divine will with courage
+and open hearts of acceptance.</i>
+
+1958
+02:02:21,833 --> 02:02:24,291
+- Amen.
+- Amen.
+
+1959
+02:02:25,541 --> 02:02:27,708
+Wow. Youse got some church game.
+
+1960
+02:02:29,625 --> 02:02:30,750
+That was beautiful.
+
+1961
+02:02:34,166 --> 02:02:36,125
+{\an8}The comet remains intact.
+
+1962
+02:02:42,875 --> 02:02:44,541
+We just never…
+
+1963
+02:02:46,750 --> 02:02:50,208
+Of course, there's only one story
+everyone's talking about tonight.
+
+1964
+02:02:50,791 --> 02:02:52,791
+<i>Topless urgent care centers.</i>
+
+1965
+02:03:03,000 --> 02:03:04,458
+Sit.
+
+1966
+02:03:06,458 --> 02:03:10,791
+Or… we can fuck…
+
+1967
+02:03:12,833 --> 02:03:14,666
+…or pray, or…
+
+1968
+02:03:18,791 --> 02:03:22,291
+Honestly, I think
+I'd just rather drink and…
+
+1969
+02:03:24,250 --> 02:03:25,916
+Talk shit about people.
+
+1970
+02:03:32,208 --> 02:03:33,833
+You'll never take me alive!
+
+1971
+02:03:37,041 --> 02:03:37,958
+Look out!
+
+1972
+02:04:30,083 --> 02:04:32,916
+I'm definitely gonna have
+some more of this apple pie. It's so good.
+
+1973
+02:04:33,000 --> 02:04:35,791
+It's actually store-bought,
+but you really can't tell.
+
+1974
+02:04:37,666 --> 02:04:42,208
+If I'm to be completely honest,
+which at this moment, why not?
+
+1975
+02:04:43,208 --> 02:04:46,916
+I actually like the junky taste
+of store-bought better than homemade.
+
+1976
+02:04:47,666 --> 02:04:48,666
+You gotta be kidding me.
+
+1977
+02:04:48,750 --> 02:04:52,166
+No, I'm not kidding.
+
+1978
+02:04:53,458 --> 02:04:56,666
+You know what? I know what he means.
+It's like a childhood memory thing.
+
+1979
+02:05:31,666 --> 02:05:33,583
+Nothing is better than homemade, right?
+
+1980
+02:05:33,666 --> 02:05:37,208
+This coffee doesn't taste
+store-bought. Is it?
+
+1981
+02:05:37,291 --> 02:05:39,666
+I grind my own beans. Yeah.
+
+1982
+02:05:39,750 --> 02:05:41,375
+Yeah, Dad's kind of a coffee nut.
+
+1983
+02:05:41,458 --> 02:05:43,708
+Every time you have coffee,
+you have to grind your beans?
+
+1984
+02:05:44,708 --> 02:05:48,666
+Randall is very particular
+about his coffee.
+
+1985
+02:05:48,750 --> 02:05:50,375
+I can get that way about tea.
+
+1986
+02:05:53,208 --> 02:05:55,541
+Thing of it is, we really…
+
+1987
+02:05:57,625 --> 02:05:59,833
+We really did have everything, didn't we?
+
+1988
+02:06:02,083 --> 02:06:04,500
+I mean, when you think about it.
+
+1989
+02:09:36,750 --> 02:09:39,916
+Hey, oxygen is
+actually higher than on Earth
+
+1990
+02:09:40,000 --> 02:09:41,166
+by nine percent,
+
+1991
+02:09:41,250 --> 02:09:43,833
+so you might feel a bit light-headed.
+
+1992
+02:09:44,666 --> 02:09:48,208
+And cryo-chambers were 58% successful,
+
+1993
+02:09:48,291 --> 02:09:50,583
+which is much better than anticipated.
+
+1994
+02:09:50,666 --> 02:09:53,791
+Yeah, we only had 47 dead
+in our section, so…
+
+1995
+02:09:54,583 --> 02:09:59,000
+I think this is gonna work out quite well.
+Quite well, indeed.
+
+1996
+02:09:59,083 --> 02:09:59,916
+Goodness.
+
+1997
+02:10:00,000 --> 02:10:05,625
+Look at that beautiful animal.
+
+1998
+02:10:05,708 --> 02:10:09,708
+I wonder, are those feathers
+or are they scale...
+
+1999
+02:10:12,708 --> 02:10:14,958
+- That's disgusting.
+- What is that thing?
+
+2000
+02:10:15,666 --> 02:10:18,125
+I believe that's called a Bronteroc.
+
+2001
+02:10:20,916 --> 02:10:24,125
+Uh… Whatever you do, don't pet them.
+
+2002
+02:17:28,166 --> 02:17:29,166
+Fuck.
+
+2003
+02:17:43,500 --> 02:17:44,458
+Mom?
+
+2004
+02:17:47,458 --> 02:17:48,541
+Mom!
+
+2005
+02:17:54,125 --> 02:17:55,333
+What's up, y'all?
+
+2006
+02:17:56,000 --> 02:17:57,458
+I'm the last man on Earth.
+
+2007
+02:17:58,750 --> 02:18:00,125
+Shit's all fucked up.
+
+2008
+02:18:00,875 --> 02:18:02,666
+Don't forget to like and subscribe.
+
+2009
+02:18:03,458 --> 02:18:04,375
+We out here.
+
+2010
+02:18:07,250 --> 02:18:08,208
+Mom!
