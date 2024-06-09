@@ -1,0 +1,7943 @@
+1
+00:03:48,854 --> 00:03:51,063
+Admiral Yamamoto, please.
+
+2
+00:03:51,148 --> 00:03:53,065
+He asked not
+to be disturbed.
+
+3
+00:03:53,150 --> 00:03:54,817
+It is most urgent.
+
+4
+00:04:15,923 --> 00:04:17,632
+Admiral Yamamoto?
+
+5
+00:04:18,717 --> 00:04:20,343
+Tokyo has been bombed.
+
+6
+00:04:20,427 --> 00:04:21,469
+When?
+
+7
+00:04:21,553 --> 00:04:23,054
+Ten minutes ago, Admiral.
+
+8
+00:04:23,138 --> 00:04:25,514
+Yokohama, Kawasaki
+and Yokosuka were also bombed.
+
+9
+00:04:26,016 --> 00:04:28,351
+His Imperial Majesty
+is unharmed, sir.
+
+10
+00:04:28,435 --> 00:04:30,937
+I personally
+phoned the palace. The Emperor is safe.
+
+11
+00:04:32,230 --> 00:04:33,272
+Damage?
+
+12
+00:04:33,357 --> 00:04:34,565
+Very little to Tokyo.
+
+13
+00:04:34,650 --> 00:04:36,317
+The other cities
+haven't reported in yet,
+
+14
+00:04:36,401 --> 00:04:40,196
+but it seems probable
+that they too were barely scratched.
+
+15
+00:04:41,323 --> 00:04:43,282
+How did they
+do it, Watanabe?
+
+16
+00:04:43,367 --> 00:04:45,159
+They launched
+long-range land-based bombers
+
+17
+00:04:45,243 --> 00:04:47,370
+from their carriers,
+B-25s.
+
+18
+00:04:47,746 --> 00:04:49,330
+They came in
+at treetop level,
+
+19
+00:04:49,414 --> 00:04:52,041
+they weren't even
+seen until they were over the city.
+
+20
+00:04:52,125 --> 00:04:54,293
+Tokyo... Bombed!
+
+21
+00:04:54,378 --> 00:04:56,504
+Sir, I understand
+your deep concern
+
+22
+00:04:56,588 --> 00:04:58,714
+for the Emperor's
+safety, but...
+
+23
+00:04:58,799 --> 00:05:00,883
+You may speak freely,
+Commander.
+
+24
+00:05:00,968 --> 00:05:03,886
+Sir, this raid
+is a blessing in disguise.
+
+25
+00:05:03,971 --> 00:05:06,180
+The Americans have done us
+an invaluable service.
+
+26
+00:05:06,264 --> 00:05:07,598
+They have
+proven you correct.
+
+27
+00:05:07,683 --> 00:05:10,017
+Our homeland is not
+invulnerable to attack.
+
+28
+00:05:10,102 --> 00:05:11,727
+After today,
+there will be no more
+
+29
+00:05:11,812 --> 00:05:13,521
+foot-dragging
+by the general staff.
+
+30
+00:05:13,730 --> 00:05:17,149
+Now they will
+certainly approve your Operation M-I.
+
+31
+00:05:22,364 --> 00:05:24,782
+ANNOUNCER ON RADIO:
+Lieutenant Colonel James H. Doolittle
+
+32
+00:05:24,866 --> 00:05:28,077
+led the raid with
+a force of 16 B-25s
+
+33
+00:05:28,161 --> 00:05:30,663
+and an all-volunteer
+crew of airmen.
+
+34
+00:05:30,747 --> 00:05:34,834
+Most of the planes
+carried three 500-pound demolition bombs
+
+35
+00:05:34,918 --> 00:05:37,003
+and single
+incendiary clusters,
+
+36
+00:05:37,087 --> 00:05:38,838
+which were
+dropped on oil stores,
+
+37
+00:05:38,922 --> 00:05:43,092
+factory areas
+and on some of the military installations of Tokyo.
+
+38
+00:05:43,176 --> 00:05:47,888
+A few planes went on to
+make minor strikes on Kobe, Yokohama and Nagoya,
+
+39
+00:05:47,973 --> 00:05:52,059
+with one bomb
+hitting the Japanese aircraft carrier Ryujo.
+
+40
+00:05:52,144 --> 00:05:55,312
+News of the raid has had
+a most heartening effect on American morale
+
+41
+00:05:55,397 --> 00:05:57,273
+and the morale
+of our allies,
+
+42
+00:05:57,357 --> 00:06:00,026
+while at the same time
+constituting a blow
+
+43
+00:06:00,110 --> 00:06:02,361
+to the prestige
+of the Japanese.
+
+44
+00:06:10,829 --> 00:06:12,246
+Yes, sir.
+
+45
+00:06:16,126 --> 00:06:18,169
+ANNOUNCER ON RADIO:
+At his press conference today,
+
+46
+00:06:18,253 --> 00:06:20,963
+President Roosevelt was asked
+the following questions,
+
+47
+00:06:21,048 --> 00:06:25,051
+quote, "Mr. President,
+couldn't you tell us about that bombing?
+
+48
+00:06:25,135 --> 00:06:27,762
+"Where did those
+planes start from and go to?"
+
+49
+00:06:27,846 --> 00:06:31,307
+He replied,
+"Yes, the time has now come to tell you.
+
+50
+00:06:31,391 --> 00:06:35,311
+"They came from
+our new secret base at Shangri-La." Unquote.
+
+51
+00:06:36,521 --> 00:06:38,981
+Well, my God,
+it's Captain Garth!
+
+52
+00:06:39,066 --> 00:06:42,401
+I was expecting some
+junior intelligence officer. Not air ops himself.
+
+53
+00:06:42,486 --> 00:06:43,736
+Well, this is
+an unexpected honor.
+
+54
+00:06:43,820 --> 00:06:45,571
+Yeah, like hell
+it is, Joe!
+
+55
+00:06:45,655 --> 00:06:47,490
+Admiral Nimitz
+sent me over here...
+
+56
+00:06:47,574 --> 00:06:49,617
+To chew out
+my ass, huh?
+
+57
+00:06:51,203 --> 00:06:53,788
+Officially, Joe,
+I'm supposed to question that estimate
+
+58
+00:06:53,872 --> 00:06:56,040
+of Japanese intentions
+you sent over.
+
+59
+00:06:56,124 --> 00:06:57,583
+Why so grim, Matt?
+
+60
+00:06:57,667 --> 00:06:59,251
+My God, I should think
+that Doolittle attack
+
+61
+00:06:59,336 --> 00:07:02,088
+would have you CINCPAC people
+dancing in the streets.
+
+62
+00:07:02,172 --> 00:07:05,591
+Not by a long shot.
+That damn raid could boomerang on us.
+
+63
+00:07:05,675 --> 00:07:06,634
+The fleet's
+still crippled.
+
+64
+00:07:06,718 --> 00:07:08,761
+We only got four carriers
+in the whole Pacific.
+
+65
+00:07:08,845 --> 00:07:10,513
+We need time
+to rebuild.
+
+66
+00:07:10,597 --> 00:07:13,933
+Now the boss is afraid
+Yamamoto's going to jump right back at us.
+
+67
+00:07:14,017 --> 00:07:15,184
+Question is, "Where?"
+
+68
+00:07:16,228 --> 00:07:19,188
+Well, we got
+all the latest intercepts right over here.
+
+69
+00:07:22,526 --> 00:07:24,610
+Here's a list
+of Japanese ships
+
+70
+00:07:24,694 --> 00:07:28,322
+that we suspect
+are gonna be assigned
+
+71
+00:07:28,406 --> 00:07:32,159
+to amphib operations
+south of Rabaul.
+
+72
+00:07:32,327 --> 00:07:33,869
+The Coral Sea!
+
+73
+00:07:34,746 --> 00:07:37,790
+That's where we think
+they'll strike next.
+
+74
+00:07:38,125 --> 00:07:41,836
+But something else
+is stirring, something out our way.
+
+75
+00:07:41,920 --> 00:07:44,296
+Joe, we need facts,
+not guesswork.
+
+76
+00:07:44,381 --> 00:07:46,090
+Matt, we've cracked
+Yamamoto's staff level code.
+
+77
+00:07:46,174 --> 00:07:47,174
+I know.
+
+78
+00:07:47,259 --> 00:07:49,718
+But that don't mean
+we just reel it off word for word like a song.
+
+79
+00:07:49,803 --> 00:07:51,929
+We get a flicker here
+and a glimmer there.
+
+80
+00:07:52,013 --> 00:07:53,430
+Missing pieces
+fall into place. These interceptions...
+
+81
+00:07:53,515 --> 00:07:54,723
+How much
+can you decipher?
+
+82
+00:07:54,808 --> 00:07:56,642
+Hell, 15 maybe...
+
+83
+00:07:56,726 --> 00:07:58,060
+Really decipher.
+
+84
+00:07:58,603 --> 00:08:00,563
+10%.
+10...
+
+85
+00:08:01,273 --> 00:08:05,192
+That's one word in ten.
+For Christ's sakes, Joe, you're guessing!
+
+86
+00:08:08,655 --> 00:08:10,156
+We like to
+call it "analysis."
+
+87
+00:08:11,074 --> 00:08:12,158
+All right.
+
+88
+00:08:12,242 --> 00:08:14,285
+What are these
+indications you got
+
+89
+00:08:14,369 --> 00:08:16,412
+of something brewing
+back our way?
+
+90
+00:08:16,496 --> 00:08:18,164
+Got no
+hard clues yet.
+
+91
+00:08:18,248 --> 00:08:19,915
+What do
+you have, Joe?
+
+92
+00:08:20,000 --> 00:08:23,627
+An increase in radio traffic
+between Yamamoto's staff commanders.
+
+93
+00:08:23,712 --> 00:08:24,837
+And that's all?
+
+94
+00:08:24,921 --> 00:08:26,255
+Could be
+significant.
+
+95
+00:08:26,798 --> 00:08:30,092
+At least I feel that
+something is stirring.
+
+96
+00:08:30,177 --> 00:08:31,594
+All right.
+
+97
+00:08:32,137 --> 00:08:34,013
+I'll take that list
+of Jap warships
+
+98
+00:08:34,097 --> 00:08:36,098
+you feel are heading
+for Coral Sea.
+
+99
+00:08:36,183 --> 00:08:38,767
+Nimitz may wanna send
+Jack Fletcher's task force down there
+
+100
+00:08:38,852 --> 00:08:41,687
+to find out what
+the hell is going on.
+
+101
+00:08:41,771 --> 00:08:44,940
+We'll see how
+your 10% guesswork pays off, huh?
+
+102
+00:08:45,901 --> 00:08:50,070
+As for the Black
+Chamber code-crackers, I thank you, Matt.
+
+103
+00:08:50,155 --> 00:08:53,365
+Hey, Joe, could I ask you
+something personal, very personal?
+
+104
+00:08:53,450 --> 00:08:54,867
+Certainly.
+
+105
+00:08:55,869 --> 00:08:58,162
+You know, it really
+stinks down here.
+
+106
+00:08:58,246 --> 00:09:00,831
+How often do
+some of your people take a bath?
+
+107
+00:09:00,916 --> 00:09:04,376
+Bath? My God,
+I don't know... What day is it?
+
+108
+00:09:05,462 --> 00:09:07,046
+Forget it, Joe.
+
+109
+00:09:12,677 --> 00:09:14,929
+Any new
+Yamamoto intercepts?
+
+110
+00:09:15,472 --> 00:09:18,557
+Here's a first mention
+of something they're calling "AF,"
+
+111
+00:09:18,642 --> 00:09:20,142
+whatever that means.
+
+112
+00:09:20,852 --> 00:09:22,436
+AF?
+
+113
+00:09:51,007 --> 00:09:52,341
+MAN: Captain!
+
+114
+00:09:55,971 --> 00:09:57,721
+Tom?
+Dad.
+
+115
+00:10:00,225 --> 00:10:01,684
+My God, Tom.
+
+116
+00:10:02,227 --> 00:10:04,937
+When did you get in?
+I didn't know...
+
+117
+00:10:05,355 --> 00:10:06,814
+Last night.
+
+118
+00:10:07,524 --> 00:10:09,233
+This is beautiful.
+
+119
+00:10:09,317 --> 00:10:12,194
+Why didn't
+you write me you were coming?
+
+120
+00:10:12,612 --> 00:10:14,071
+I've been assigned
+to Kaneohe.
+
+121
+00:10:14,948 --> 00:10:18,200
+Well, I'll finally get
+to see something of you.
+
+122
+00:10:18,410 --> 00:10:21,954
+Three years!
+You look great, Tom.
+
+123
+00:10:22,998 --> 00:10:24,081
+Really great.
+
+124
+00:10:24,165 --> 00:10:25,749
+So do you, Dad.
+
+125
+00:10:31,673 --> 00:10:33,048
+Kaneohe, huh?
+What squadron?
+
+126
+00:10:33,466 --> 00:10:34,466
+VF-8.
+
+127
+00:10:35,635 --> 00:10:37,928
+You'll like it
+out there.
+
+128
+00:10:38,263 --> 00:10:41,765
+Your CO used to be
+my wingman when we were flying off the old Langley.
+
+129
+00:10:43,768 --> 00:10:45,352
+Could we talk somewhere?
+
+130
+00:10:45,729 --> 00:10:47,604
+Sure. Here.
+
+131
+00:10:55,196 --> 00:10:58,324
+I phoned you from Guam,
+the day you graduated.
+
+132
+00:10:58,408 --> 00:11:00,492
+Yeah, I heard later.
+
+133
+00:11:00,577 --> 00:11:02,619
+Sorry I missed
+the call.
+
+134
+00:11:03,788 --> 00:11:06,123
+I guess
+your mother was there.
+
+135
+00:11:06,958 --> 00:11:08,083
+Yeah.
+
+136
+00:11:08,168 --> 00:11:09,543
+How is she?
+
+137
+00:11:11,713 --> 00:11:14,173
+Recovered from
+the divorce, I guess.
+
+138
+00:11:14,257 --> 00:11:15,758
+Oh, that's good.
+
+139
+00:11:16,801 --> 00:11:19,053
+I was hoping
+maybe we could...
+
+140
+00:11:19,137 --> 00:11:20,346
+Dad...
+
+141
+00:11:25,518 --> 00:11:28,395
+I've fallen in love
+with a Japanese girl.
+
+142
+00:11:30,231 --> 00:11:32,066
+I want to marry her.
+
+143
+00:11:35,528 --> 00:11:37,237
+I need your help.
+
+144
+00:11:40,075 --> 00:11:42,159
+I damn well guess
+you do, tiger.
+
+145
+00:11:44,120 --> 00:11:45,954
+She's been arrested
+here in Honolulu.
+
+146
+00:11:47,082 --> 00:11:48,874
+How the hell
+did you manage that?
+
+147
+00:11:48,958 --> 00:11:51,210
+Training in San Diego
+and getting mixed up
+
+148
+00:11:51,294 --> 00:11:53,420
+with a Japanese girl
+here in Honolulu?
+
+149
+00:11:54,005 --> 00:11:56,090
+She was a student
+at San Diego State. I met her there.
+
+150
+00:11:56,299 --> 00:11:59,259
+Wait a minute.
+She was arrested here in Honolulu?
+
+151
+00:11:59,511 --> 00:12:00,719
+Her parents live here.
+
+152
+00:12:00,804 --> 00:12:04,098
+She wouldn't marry me
+without their consent, so she came out to see them.
+
+153
+00:12:04,891 --> 00:12:07,851
+Apparently,
+the FBI has some sort of information on her folks,
+
+154
+00:12:07,936 --> 00:12:09,978
+so the Army
+picked her up, too.
+
+155
+00:12:10,063 --> 00:12:11,313
+Well, that figures.
+
+156
+00:12:11,815 --> 00:12:13,607
+Haruko was born here.
+
+157
+00:12:13,691 --> 00:12:15,609
+She's as loyal
+as either you or me.
+
+158
+00:12:17,320 --> 00:12:18,570
+Anyway,
+
+159
+00:12:18,905 --> 00:12:22,825
+the minute I got in,
+I went off to see where they're being held.
+
+160
+00:12:23,243 --> 00:12:25,119
+She wouldn't see me.
+
+161
+00:12:25,412 --> 00:12:26,495
+Why not?
+
+162
+00:12:26,579 --> 00:12:27,621
+I don't know.
+
+163
+00:12:29,707 --> 00:12:32,167
+But I did find out
+that she and her parents are gonna be sent back
+
+164
+00:12:32,252 --> 00:12:34,628
+to the mainland
+in a few days.
+
+165
+00:12:38,425 --> 00:12:40,426
+Sticks in your throat,
+doesn't it,
+
+166
+00:12:40,510 --> 00:12:42,010
+my wanting to marry
+a Japanese girl?
+
+167
+00:12:42,095 --> 00:12:46,598
+Sticks in your...
+Look, don't give me any of that racial bigot crap.
+
+168
+00:12:47,058 --> 00:12:48,934
+I don't care
+what color your girl is.
+
+169
+00:12:49,018 --> 00:12:50,018
+That's not the point...
+
+170
+00:12:50,270 --> 00:12:52,062
+Christ Almighty!
+
+171
+00:12:52,647 --> 00:12:56,692
+Six months after Pearl Harbor.
+Boy, you have one lousy sense of timing.
+
+172
+00:13:02,782 --> 00:13:04,491
+What's her name?
+
+173
+00:13:04,576 --> 00:13:06,994
+I'll see if I can
+get hold of the FBI report on her.
+
+174
+00:13:07,078 --> 00:13:09,997
+I wrote it down for you.
+Haruko Sakura.
+
+175
+00:13:13,126 --> 00:13:14,960
+But promise me
+one thing,
+
+176
+00:13:15,044 --> 00:13:16,295
+just don't do
+anything stupid
+
+177
+00:13:16,379 --> 00:13:19,381
+till I see
+what I can get hold of on this, huh?
+
+178
+00:13:19,632 --> 00:13:21,258
+That's a deal.
+
+179
+00:13:53,041 --> 00:13:57,794
+In my opinion,
+this entire plan is not only unnecessary,
+
+180
+00:13:57,879 --> 00:13:59,922
+but doomed to fail.
+
+181
+00:14:00,006 --> 00:14:02,841
+Admiral Kondo,
+Operation M-I has been conceived
+
+182
+00:14:02,926 --> 00:14:05,552
+by our most
+brilliant strategist.
+
+183
+00:14:05,637 --> 00:14:08,138
+We are all aware of
+Captain Kuroshima's
+
+184
+00:14:08,223 --> 00:14:11,475
+authorship, Commander,
+and his reputation.
+
+185
+00:14:12,143 --> 00:14:16,104
+But this time,
+the God of operations has conceived a monster.
+
+186
+00:14:18,274 --> 00:14:19,650
+Would you please
+explain, sir?
+
+187
+00:14:20,151 --> 00:14:23,987
+How am I expected to land
+my invasion forces on Midway,
+
+188
+00:14:24,072 --> 00:14:28,283
+unless the enemy airfields
+and shore batteries have been neutralized?
+
+189
+00:14:28,535 --> 00:14:31,703
+Sir, you've heard
+Admiral Nagumo say that his carriers
+
+190
+00:14:31,788 --> 00:14:34,206
+will obliterate
+the American defenses at Midway.
+
+191
+00:14:34,332 --> 00:14:36,750
+The enemy's
+land-based bombers
+
+192
+00:14:36,834 --> 00:14:39,670
+have a range
+of at least 400 miles more
+
+193
+00:14:39,754 --> 00:14:41,838
+than Nagumo's carrier planes.
+
+194
+00:14:42,006 --> 00:14:44,049
+His ships would be
+blown out of the sea
+
+195
+00:14:44,133 --> 00:14:46,343
+before he could
+launch his attack.
+
+196
+00:14:46,427 --> 00:14:49,763
+I took my carriers to Hawaii,
+where the risk was far greater
+
+197
+00:14:49,847 --> 00:14:52,349
+and destroyed
+the American fleet.
+
+198
+00:14:52,433 --> 00:14:55,143
+Where were the enemy
+land-based bombers then?
+
+199
+00:14:55,228 --> 00:14:58,021
+That was then,
+Nagumo, not now.
+
+200
+00:14:58,106 --> 00:15:01,608
+A surprise attack
+with a carrier task force is one thing.
+
+201
+00:15:01,693 --> 00:15:05,153
+But this,
+a strike against Midway and the Aleutians
+
+202
+00:15:05,238 --> 00:15:08,615
+with 200 ships
+and 100,000 men.
+
+203
+00:15:12,495 --> 00:15:15,872
+Does the idea of
+taking the Aleutians
+
+204
+00:15:15,957 --> 00:15:18,000
+cause you any
+concern, Hosogaya?
+
+205
+00:15:18,876 --> 00:15:20,085
+No, sir.
+
+206
+00:15:20,336 --> 00:15:24,381
+But an operation
+so large, so complex,
+
+207
+00:15:24,841 --> 00:15:26,925
+I'd like more time
+to study it.
+
+208
+00:15:27,010 --> 00:15:29,261
+After all,
+in a matter of hours,
+
+209
+00:15:29,345 --> 00:15:31,179
+our Coral Sea operation
+will be starting.
+
+210
+00:15:31,681 --> 00:15:34,141
+We have sufficient
+forces for both.
+
+211
+00:15:34,809 --> 00:15:38,478
+I tend to agree
+with Admirals Kondo and Hosogaya, sir.
+
+212
+00:15:40,773 --> 00:15:44,568
+May I suggest we meet again
+after the Coral Sea campaign?
+
+213
+00:15:46,195 --> 00:15:47,571
+Very well.
+
+214
+00:15:48,114 --> 00:15:50,324
+Meanwhile, gentlemen,
+please consider this,
+
+215
+00:15:50,450 --> 00:15:53,660
+the Americans
+are still unprepared and outnumbered.
+
+216
+00:15:53,786 --> 00:15:56,872
+If their fleet,
+particularly their aircraft carriers,
+
+217
+00:15:56,956 --> 00:15:58,832
+can be lured into
+battle and defeated,
+
+218
+00:15:59,292 --> 00:16:03,128
+they will then have
+no significant naval force left in the Pacific.
+
+219
+00:16:03,212 --> 00:16:05,380
+They will be compelled
+to sue for peace.
+
+220
+00:16:06,299 --> 00:16:09,885
+I have traveled widely
+in America, my friends.
+
+221
+00:16:10,511 --> 00:16:13,722
+Their industrial
+might is awesome.
+
+222
+00:16:14,641 --> 00:16:17,768
+I'm convinced
+our only hope for victory
+
+223
+00:16:18,186 --> 00:16:21,104
+is one massive strike
+at Midway.
+
+224
+00:16:52,136 --> 00:16:55,055
+Say, Joe, what about
+this hot information of yours?
+
+225
+00:16:55,139 --> 00:16:56,390
+You sure
+it can't wait?
+
+226
+00:16:56,474 --> 00:16:58,809
+I already got
+one headache for the boss.
+
+227
+00:16:58,893 --> 00:17:00,936
+I consider
+this urgent.
+
+228
+00:17:01,270 --> 00:17:03,063
+And you were right
+about Coral Sea.
+
+229
+00:17:03,147 --> 00:17:05,023
+That's where
+the Japs were, all right.
+
+230
+00:17:05,191 --> 00:17:07,025
+Every ship
+on your list was there.
+
+231
+00:17:07,110 --> 00:17:08,777
+Did we get hurt?
+
+232
+00:17:09,153 --> 00:17:10,654
+We got hurt.
+
+233
+00:17:18,913 --> 00:17:21,707
+Welcome home, Admiral.
+How was your flight?
+
+234
+00:17:21,791 --> 00:17:24,209
+Long and strewn
+with potholes.
+
+235
+00:17:24,293 --> 00:17:25,669
+Got Fletcher's
+Coral Sea report?
+
+236
+00:17:25,753 --> 00:17:26,753
+Right here, sir.
+
+237
+00:17:26,838 --> 00:17:27,879
+Right.
+
+238
+00:17:35,430 --> 00:17:38,724
+Get in the back, Joe.
+But wait till I cue you in.
+
+239
+00:17:45,773 --> 00:17:48,567
+Here's Admiral Fletcher's
+preliminary report, sir.
+
+240
+00:17:48,651 --> 00:17:50,944
+We lost
+the Lexington.
+
+241
+00:17:52,780 --> 00:17:54,823
+What did we do
+to the enemy?
+
+242
+00:17:54,907 --> 00:17:56,742
+We sank one of
+their light carriers,
+
+243
+00:17:56,826 --> 00:17:58,368
+one of their big
+first-line jobs
+
+244
+00:17:58,453 --> 00:18:00,203
+and some of
+their smaller ships.
+
+245
+00:18:00,288 --> 00:18:03,331
+Looks like
+we just about broke even, Admiral.
+
+246
+00:18:04,125 --> 00:18:07,711
+We can't trade
+the Japanese carrier for carrier, Matt.
+
+247
+00:18:08,504 --> 00:18:11,506
+We started out
+with a three-to-one superiority.
+
+248
+00:18:12,508 --> 00:18:15,844
+With the Lexington gone,
+the Saratoga laid up,
+
+249
+00:18:15,928 --> 00:18:19,389
+all we've got
+is Hornet, Enterprise and the Yorktown
+
+250
+00:18:19,474 --> 00:18:21,183
+to counter
+Yamamoto's next move.
+
+251
+00:18:21,267 --> 00:18:25,479
+Sir, Yorktown
+was heavily damaged at Coral Sea.
+
+252
+00:18:25,563 --> 00:18:27,856
+There's the
+follow-up report.
+
+253
+00:18:31,235 --> 00:18:34,654
+Admiral, Commander Rochefort
+has something urgent, he says.
+
+254
+00:18:34,781 --> 00:18:38,116
+It's about
+Objective AF, sir, the meaning of AF.
+
+255
+00:18:38,534 --> 00:18:42,037
+Now, our listening posts
+have been picking up lot of traffic
+
+256
+00:18:42,121 --> 00:18:44,331
+between Yamamoto's
+flag commanders.
+
+257
+00:18:44,415 --> 00:18:46,708
+There has been
+a very heavy volume of traffic, sir,
+
+258
+00:18:46,793 --> 00:18:50,420
+with recurrent references
+to Objective AF and... What was it?
+
+259
+00:18:50,505 --> 00:18:51,963
+AO.
+AO. Yeah.
+
+260
+00:18:52,048 --> 00:18:54,800
+AO is still
+a mystery, Admiral, maybe a diversion.
+
+261
+00:18:54,884 --> 00:18:57,135
+But I think
+we've identified Objective AF.
+
+262
+00:18:57,220 --> 00:18:58,595
+It's Midway.
+
+263
+00:18:58,679 --> 00:19:01,097
+Now, it had us
+really stymied there,
+
+264
+00:19:01,182 --> 00:19:04,017
+until one of my men
+remembered an enemy intercept
+
+265
+00:19:04,101 --> 00:19:05,769
+we decoded
+last March.
+
+266
+00:19:05,853 --> 00:19:07,479
+Now, a Jap
+reconnaissance pilot
+
+267
+00:19:07,563 --> 00:19:10,190
+radioed his base that
+he's passing close to AF.
+
+268
+00:19:10,274 --> 00:19:13,735
+Now, we've plotted
+every possible course his plane might have taken,
+
+269
+00:19:13,820 --> 00:19:15,904
+and the only
+appreciable landmass
+
+270
+00:19:15,988 --> 00:19:18,031
+he could have overflown
+at the time was Midway.
+
+271
+00:19:18,115 --> 00:19:19,157
+Joe!
+
+272
+00:19:19,242 --> 00:19:20,325
+I know it's thin.
+
+273
+00:19:20,409 --> 00:19:22,994
+Thin?
+Damn near invisible!
+
+274
+00:19:23,204 --> 00:19:26,206
+But I figured out
+a way to confirm it, sir.
+
+275
+00:19:26,916 --> 00:19:29,417
+If you'll have this
+flown to Midway.
+
+276
+00:19:30,253 --> 00:19:32,128
+It's a fake
+message, Admiral,
+
+277
+00:19:32,213 --> 00:19:36,132
+reporting that Midway's
+freshwater condenser's broken down.
+
+278
+00:19:36,801 --> 00:19:38,844
+Now, it should be
+transmitted in the clear,
+
+279
+00:19:38,928 --> 00:19:40,178
+so there can't be
+any question about
+
+280
+00:19:40,263 --> 00:19:42,764
+Japanese operators
+getting every word of it.
+
+281
+00:19:44,433 --> 00:19:46,017
+Instruct Midway
+to include that
+
+282
+00:19:46,102 --> 00:19:48,520
+in their housekeeping
+traffic tomorrow.
+
+283
+00:19:49,480 --> 00:19:51,022
+Aye-aye, sir.
+
+284
+00:20:16,966 --> 00:20:18,717
+Send this right away.
+
+285
+00:20:19,886 --> 00:20:22,429
+Hey, Chief!
+What's this?
+
+286
+00:20:23,556 --> 00:20:26,057
+There ain't nothing wrong
+with our freshwater condenser!
+
+287
+00:20:26,142 --> 00:20:27,309
+I was just over there.
+
+288
+00:20:27,602 --> 00:20:29,436
+Dombrowski, send it.
+
+289
+00:20:33,941 --> 00:20:37,527
+Christ,
+I think the goddamn heat's getting to everybody here.
+
+290
+00:20:55,671 --> 00:20:59,549
+Have this intercept
+coded and transmitted to fleet headquarters!
+
+291
+00:21:29,372 --> 00:21:31,873
+They took
+the bait, Admiral.
+
+292
+00:21:31,958 --> 00:21:35,502
+Rochefort's just decoded
+a transmission from Kwajalein
+
+293
+00:21:35,586 --> 00:21:36,962
+to Yamamoto's
+fleet headquarters.
+
+294
+00:21:37,421 --> 00:21:41,424
+Reads,
+"AF is having trouble with its freshwater condenser."
+
+295
+00:21:41,509 --> 00:21:43,051
+AF has to be
+Midway Island.
+
+296
+00:21:46,263 --> 00:21:48,556
+Be at my office
+at 0500, Matt.
+
+297
+00:21:48,641 --> 00:21:50,016
+I'm calling in
+the whole staff.
+
+298
+00:21:50,101 --> 00:21:51,685
+Aye-aye, sir.
+
+299
+00:21:52,728 --> 00:21:55,730
+This is how I expect
+the battle to develop.
+
+300
+00:21:56,440 --> 00:21:59,567
+The northern force,
+under Admiral Hosogaya, will strike here
+
+301
+00:21:59,652 --> 00:22:01,569
+in the Aleutians
+as a diversion.
+
+302
+00:22:01,779 --> 00:22:05,824
+To keep Nimitz's
+attention away from our main objective.
+
+303
+00:22:06,492 --> 00:22:09,494
+He will not realize
+our objective is Midway
+
+304
+00:22:09,578 --> 00:22:14,249
+until 24 hours later,
+when Admiral Nagumo's carriers strike the island
+
+305
+00:22:14,333 --> 00:22:16,876
+and destroy
+the American planes and shore batteries.
+
+306
+00:22:16,961 --> 00:22:21,673
+At that hour
+you move in, Kondo, with your invasion forces.
+
+307
+00:22:21,924 --> 00:22:24,134
+Nimitz will be
+forced to respond.
+
+308
+00:22:24,218 --> 00:22:26,553
+He will have to commit
+the balance of his fleet,
+
+309
+00:22:26,637 --> 00:22:29,389
+most certainly
+his carriers, to repel the invasion.
+
+310
+00:22:29,473 --> 00:22:33,268
+His carrier commander
+will undoubtedly be Admiral Halsey.
+
+311
+00:22:35,980 --> 00:22:39,607
+I have studied his tactics
+and I have studied the man.
+
+312
+00:22:39,692 --> 00:22:41,860
+Halsey is courageous,
+tough-minded
+
+313
+00:22:41,944 --> 00:22:43,403
+and not afraid
+to take risks,
+
+314
+00:22:43,487 --> 00:22:46,239
+but these strengths,
+we will turn against him.
+
+315
+00:22:46,323 --> 00:22:47,907
+It will take
+Halsey's task force
+
+316
+00:22:47,992 --> 00:22:50,326
+at least 48 hours
+to reach Midway.
+
+317
+00:22:50,411 --> 00:22:51,828
+By that time,
+Admiral Nagumo,
+
+318
+00:22:51,912 --> 00:22:54,581
+you'll have crushed Midway
+and be waiting for him.
+
+319
+00:22:55,875 --> 00:22:58,710
+YAMAMOTO: You'll have
+the advantage of position,
+
+320
+00:22:58,794 --> 00:23:02,630
+and at least
+a two-to-one superiority in carriers,
+
+321
+00:23:02,882 --> 00:23:07,135
+and four to five times
+the number of screening vessels.
+
+322
+00:23:07,303 --> 00:23:10,180
+All of this
+is based on the assumption that the American fleet
+
+323
+00:23:10,264 --> 00:23:13,516
+will still be guarding
+the Hawaiian Islands when we make our strike.
+
+324
+00:23:13,601 --> 00:23:16,269
+Nimitz is crippled
+and on the defensive.
+
+325
+00:23:16,353 --> 00:23:18,271
+He must deploy his
+remaining strength
+
+326
+00:23:18,355 --> 00:23:20,440
+around his most
+valuable Pacific base.
+
+327
+00:23:20,733 --> 00:23:23,026
+I agree with
+Admiral Nagumo, sir.
+
+328
+00:23:23,194 --> 00:23:26,362
+We must make certain
+where the enemy fleet is.
+
+329
+00:23:26,489 --> 00:23:30,533
+May I propose
+that on the 29th, we send two flying boats
+
+330
+00:23:30,618 --> 00:23:33,495
+from Kwajalein to
+French Frigate Shoals.
+
+331
+00:23:34,413 --> 00:23:36,623
+We fuel them
+by tanker submarine
+
+332
+00:23:36,707 --> 00:23:39,167
+and fly them
+to Pearl Harbor on the 30th.
+
+333
+00:23:39,502 --> 00:23:43,838
+Let them report whether
+or not the American fleet is actually there.
+
+334
+00:23:44,215 --> 00:23:46,758
+A very wise
+precaution indeed.
+
+335
+00:23:46,842 --> 00:23:48,510
+We will call it
+Operation K.
+
+336
+00:23:49,220 --> 00:23:51,137
+Does anyone have
+any other thoughts?
+
+337
+00:23:51,931 --> 00:23:53,098
+NAGUMO: Yes.
+
+338
+00:23:55,184 --> 00:23:57,936
+We can achieve
+a great victory,
+
+339
+00:23:58,020 --> 00:24:01,564
+providing Nimitz and Halsey
+do exactly what you expect.
+
+340
+00:24:06,320 --> 00:24:07,779
+The Enterprise
+and the Hornet
+
+341
+00:24:07,863 --> 00:24:09,697
+are due in the harbor
+by sundown, sir.
+
+342
+00:24:09,782 --> 00:24:11,324
+The rest of
+Admiral Halsey's task force
+
+343
+00:24:11,408 --> 00:24:12,700
+should be in sometime
+by the morning.
+
+344
+00:24:12,993 --> 00:24:15,203
+It's the Yorktown
+we're worried about.
+
+345
+00:24:15,287 --> 00:24:16,871
+She's more severely damaged
+than we thought.
+
+346
+00:24:17,164 --> 00:24:18,957
+How soon can we expect
+to dry-dock her?
+
+347
+00:24:19,125 --> 00:24:20,125
+By the 17th,
+
+348
+00:24:20,209 --> 00:24:24,045
+if a Jap sub doesn't spot
+the oil she's trailing and track her down.
+
+349
+00:24:24,588 --> 00:24:27,882
+Admiral Fletcher
+just radioed in his repair list.
+
+350
+00:24:30,553 --> 00:24:31,594
+Call the yard commander,
+
+351
+00:24:31,679 --> 00:24:35,348
+tell him I want
+every workman he can muster standing by to board her.
+
+352
+00:24:35,933 --> 00:24:38,226
+That sharpshooter
+from Washington has just landed, sir.
+
+353
+00:24:38,310 --> 00:24:39,477
+Be here
+in 30 minutes.
+
+354
+00:24:39,562 --> 00:24:40,603
+Who did
+they send?
+
+355
+00:24:40,688 --> 00:24:42,021
+Captain Vinton Maddox.
+
+356
+00:24:42,439 --> 00:24:43,523
+Maddox.
+
+357
+00:24:43,607 --> 00:24:45,233
+He's a goddamn
+scalp hunter.
+
+358
+00:24:45,317 --> 00:24:47,819
+See that he's
+thoroughly briefed, get Captain Garth over here.
+
+359
+00:24:47,903 --> 00:24:49,404
+Aye-aye, sir.
+
+360
+00:24:50,281 --> 00:24:53,158
+Admiral, why don't
+you let me handle it?
+
+361
+00:24:53,617 --> 00:24:56,953
+No, he's entitled
+to a crack at me. Phone that in.
+
+362
+00:25:00,916 --> 00:25:03,042
+You tested those
+electric arming switches?
+
+363
+00:25:03,127 --> 00:25:06,045
+No, we still got
+some damn snafu in the circuitry.
+
+364
+00:25:06,130 --> 00:25:09,215
+You get them
+all working and I mean 100%, Commander,
+
+365
+00:25:09,300 --> 00:25:11,926
+or I want them
+ripped out of every SBD in the squadron.
+
+366
+00:25:12,011 --> 00:25:13,011
+Is that clear?
+
+367
+00:25:13,095 --> 00:25:14,095
+Yes, sir.
+
+368
+00:25:14,263 --> 00:25:15,638
+Get to it.
+
+369
+00:25:21,896 --> 00:25:23,855
+Sorry to drag you
+out of bed at this hour, Tom,
+
+370
+00:25:23,939 --> 00:25:26,316
+but it may be
+the only chance we'll get to talk for a few days.
+
+371
+00:25:26,400 --> 00:25:28,234
+It's okay.
+Did you get the reports?
+
+372
+00:25:28,319 --> 00:25:29,444
+Yup.
+
+373
+00:25:29,528 --> 00:25:31,404
+I've already read it.
+
+374
+00:25:35,951 --> 00:25:37,285
+Did you know
+your girl belonged
+
+375
+00:25:37,369 --> 00:25:40,371
+to those Japanese
+patriotic organizations?
+
+376
+00:25:44,710 --> 00:25:46,502
+I saw some magazines
+around the apartment,
+
+377
+00:25:46,587 --> 00:25:48,296
+but I thought
+it was propaganda.
+
+378
+00:25:48,380 --> 00:25:51,841
+Well, the Attorney General's
+office says it's subversive.
+
+379
+00:25:51,926 --> 00:25:54,135
+And the FBI doesn't think
+she's telling the truth
+
+380
+00:25:54,220 --> 00:25:57,180
+about why
+she suddenly showed up here in Pearl either.
+
+381
+00:25:57,264 --> 00:25:59,057
+I guess you can't
+blame them for that.
+
+382
+00:25:59,141 --> 00:26:02,227
+Sure I can!
+And I can sure as hell straighten them out, too.
+
+383
+00:26:02,311 --> 00:26:05,146
+Look, mister,
+why don't you cool down and let me handle this?
+
+384
+00:26:07,024 --> 00:26:09,275
+Tom, I don't have
+a lot of time to fool around here.
+
+385
+00:26:09,360 --> 00:26:11,319
+You asked me to help you.
+Do you want me to or not?
+
+386
+00:26:12,696 --> 00:26:15,406
+Well, I guess,
+I don't really have any alternative, do I, sir?
+
+387
+00:26:15,866 --> 00:26:17,283
+I guess you don't.
+
+388
+00:26:23,457 --> 00:26:25,667
+Captain Maddox,
+Admiral Nimitz.
+
+389
+00:26:26,043 --> 00:26:27,335
+Great pleasure, sir.
+
+390
+00:26:27,419 --> 00:26:29,170
+Shall we get
+right to it, Captain?
+
+391
+00:26:29,546 --> 00:26:31,089
+Certainly,
+Admiral.
+
+392
+00:26:31,590 --> 00:26:33,174
+I'm sure you're aware
+of Washington's opinion
+
+393
+00:26:33,259 --> 00:26:35,593
+about this Midway
+invasion business.
+
+394
+00:26:35,678 --> 00:26:38,263
+Yes. They think
+it's an enemy ruse.
+
+395
+00:26:38,555 --> 00:26:40,723
+An elaborate
+phoney, sir.
+
+396
+00:26:40,975 --> 00:26:42,225
+Go on.
+
+397
+00:26:42,643 --> 00:26:44,936
+Could we speak
+in private?
+
+398
+00:26:45,020 --> 00:26:46,312
+If you'd feel
+more comfortable.
+
+399
+00:26:46,397 --> 00:26:47,522
+Thank you.
+
+400
+00:26:56,991 --> 00:26:59,993
+Admiral, these
+enemy radio intercepts
+
+401
+00:27:00,077 --> 00:27:02,370
+that your intelligence unit
+has been accumulating...
+
+402
+00:27:02,454 --> 00:27:04,205
+Very detailed,
+aren't they?
+
+403
+00:27:04,290 --> 00:27:06,165
+Too damn detailed, Admiral.
+
+404
+00:27:06,250 --> 00:27:08,584
+Do you remember
+what happened just before December 7th?
+
+405
+00:27:08,669 --> 00:27:11,462
+The Japanese
+flooded the airways with fake messages.
+
+406
+00:27:11,547 --> 00:27:13,214
+Yes, these could be
+carbon copies.
+
+407
+00:27:13,299 --> 00:27:16,634
+Washington's convinced
+that Yamamoto's feeding this stuff to you
+
+408
+00:27:16,719 --> 00:27:18,469
+in order to cover
+his real intentions.
+
+409
+00:27:18,554 --> 00:27:20,722
+Very definite
+possibility.
+
+410
+00:27:21,390 --> 00:27:22,932
+Well, then, sir,
+how can you still insist...
+
+411
+00:27:23,017 --> 00:27:25,852
+Because it's my judgment
+this information is factual.
+
+412
+00:27:26,061 --> 00:27:28,730
+I am convinced
+Yamamoto's target is Midway.
+
+413
+00:27:29,356 --> 00:27:31,524
+But if you're
+wrong, Admiral,
+
+414
+00:27:31,608 --> 00:27:35,069
+if you send our carriers
+into a Japanese ambush,
+
+415
+00:27:35,154 --> 00:27:37,905
+the entire West Coast
+and Hawaiian Islands will be wide open for invasion.
+
+416
+00:27:38,240 --> 00:27:40,241
+I'm fully aware
+of that, Captain.
+
+417
+00:27:40,659 --> 00:27:44,329
+You're saying
+the safe play is to defend the home folks first.
+
+418
+00:27:45,581 --> 00:27:49,250
+With respects, Admiral,
+it's the smart play.
+
+419
+00:27:55,924 --> 00:27:58,176
+Captain, if we surprise
+the enemy,
+
+420
+00:27:58,260 --> 00:28:01,012
+catch him
+where he doesn't think we'll be,
+
+421
+00:28:01,096 --> 00:28:03,681
+we can drive him
+back 3,000 miles.
+
+422
+00:28:04,558 --> 00:28:06,309
+And keep him pinned
+till we're ready
+
+423
+00:28:06,393 --> 00:28:08,770
+to take him on
+in his own front yard.
+
+424
+00:28:09,521 --> 00:28:13,483
+Sir, my instructions
+were to convey Washington's deep concern
+
+425
+00:28:13,567 --> 00:28:14,901
+for the safety
+of the West Coast
+
+426
+00:28:14,985 --> 00:28:17,153
+and the Hawaiian Islands.
+That is if you...
+
+427
+00:28:17,237 --> 00:28:19,072
+Captain Maddox,
+is Washington ordering me
+
+428
+00:28:19,156 --> 00:28:21,532
+to defend against
+an attack here or the West Coast?
+
+429
+00:28:22,534 --> 00:28:25,787
+No, sir. My orders
+were simply to consult.
+
+430
+00:28:26,789 --> 00:28:29,624
+No, sir, I have
+no such orders for you.
+
+431
+00:28:31,418 --> 00:28:35,171
+Commander Blake,
+declare a state of fleet-opposed invasion.
+
+432
+00:28:35,255 --> 00:28:36,714
+Target: Midway Island.
+
+433
+00:28:36,799 --> 00:28:38,007
+Issue the order
+immediately.
+
+434
+00:28:38,133 --> 00:28:39,384
+Aye-aye, sir.
+
+435
+00:28:39,593 --> 00:28:41,928
+Admiral, may I see you
+alone a moment, sir?
+
+436
+00:28:42,012 --> 00:28:43,888
+Excuse me, Captain.
+
+437
+00:28:53,857 --> 00:28:57,902
+Damn. You know
+how much Bill Halsey hates hospitals.
+
+438
+00:28:57,986 --> 00:28:59,904
+Well, maybe it's not
+that serious, sir.
+
+439
+00:28:59,988 --> 00:29:02,824
+If he scheduled himself
+to go anywhere near one,
+
+440
+00:29:02,908 --> 00:29:06,661
+I'm sure it's not
+only damn serious, it's probably critical.
+
+441
+00:29:06,745 --> 00:29:10,123
+Admiral, I got some
+really bad news.
+
+442
+00:29:10,207 --> 00:29:11,749
+Today is the day
+for it.
+
+443
+00:29:11,834 --> 00:29:14,085
+The Japanese changed
+the J-N25 code,
+
+444
+00:29:14,169 --> 00:29:16,671
+that's the one
+that's been giving us Yamamoto's plans.
+
+445
+00:29:16,755 --> 00:29:19,006
+How long will it
+take you to unravel their new system?
+
+446
+00:29:19,091 --> 00:29:20,883
+A month, maybe two.
+
+447
+00:29:22,136 --> 00:29:25,304
+Sir, do you still
+want that fleet order issued?
+
+448
+00:29:27,766 --> 00:29:29,600
+Yes. Target: Midway.
+
+449
+00:29:55,752 --> 00:29:58,421
+Welcome aboard
+your flagship, Admiral.
+
+450
+00:29:59,131 --> 00:30:00,882
+Thank you, Captain.
+
+451
+00:30:01,675 --> 00:30:05,511
+Rear Admiral Kusaka,
+meet my Chief of Staff, Captain Aoki.
+
+452
+00:30:07,055 --> 00:30:09,307
+And where's
+Commander Genda?
+
+453
+00:30:09,933 --> 00:30:12,435
+He's in sick bay, sir.
+Influenza.
+
+454
+00:30:14,146 --> 00:30:16,564
+When does the doctor
+think he'll be able resume his duties?
+
+455
+00:30:16,732 --> 00:30:18,024
+In two
+or three days, sir.
+
+456
+00:30:19,067 --> 00:30:21,277
+I don't like this idea
+of beginning this operation
+
+457
+00:30:21,361 --> 00:30:23,321
+without my best
+air commander.
+
+458
+00:30:23,405 --> 00:30:26,699
+Sir, we have one other
+sickbay casualty, Commander Fuchida.
+
+459
+00:30:26,783 --> 00:30:28,826
+He came down
+with appendicitis this morning.
+
+460
+00:30:29,161 --> 00:30:30,620
+Fuchida, too?
+
+461
+00:30:32,831 --> 00:30:34,457
+We'll need
+a replacement.
+
+462
+00:30:34,625 --> 00:30:36,667
+Genda suggests
+a veteran torpedo pilot
+
+463
+00:30:36,752 --> 00:30:39,337
+aboard the Hiryu,
+Lieutenant Tomonaga.
+
+464
+00:30:40,881 --> 00:30:44,759
+If Genda says so,
+I want to see Tomonaga as soon as possible.
+
+465
+00:30:45,302 --> 00:30:46,636
+Yes, sir.
+
+466
+00:30:52,476 --> 00:30:56,938
+Fuchida, the man who led
+my first air strike at Pearl Harbor, out.
+
+467
+00:30:57,397 --> 00:30:59,815
+Genda, who planned it,
+both ill.
+
+468
+00:31:02,486 --> 00:31:05,613
+Very bad luck, Kusaka,
+very bad luck.
+
+469
+00:31:06,573 --> 00:31:09,825
+Only an inconvenience,
+sir. We'll manage.
+
+470
+00:31:51,618 --> 00:31:53,119
+Good morning, sir.
+Lieutenant.
+
+471
+00:31:53,203 --> 00:31:55,079
+Follow me, please.
+
+472
+00:32:12,431 --> 00:32:14,932
+Here we are, sir.
+The Sakura family.
+
+473
+00:32:15,142 --> 00:32:16,517
+Yes. Thank you,
+Lieutenant.
+
+474
+00:32:16,602 --> 00:32:18,227
+I can find
+my own way out.
+
+475
+00:32:18,562 --> 00:32:19,854
+Yes, sir.
+
+476
+00:32:29,281 --> 00:32:32,617
+Miss Sakura,
+I'm Captain Garth, Tom's father.
+
+477
+00:32:33,076 --> 00:32:34,660
+Please come in.
+
+478
+00:32:37,497 --> 00:32:40,708
+My parents,
+Tetsuro and Sada Sakura.
+
+479
+00:32:40,917 --> 00:32:42,627
+This is Captain Garth.
+
+480
+00:32:42,711 --> 00:32:44,211
+How do you do?
+
+481
+00:32:44,296 --> 00:32:46,964
+You want to speak to me
+in private, Captain.
+
+482
+00:32:47,049 --> 00:32:48,883
+My parents
+understand.
+
+483
+00:32:48,967 --> 00:32:51,761
+Yes. Well, thank you.
+
+484
+00:33:00,103 --> 00:33:03,064
+If I embarrassed you
+in there, forgive me,
+
+485
+00:33:03,482 --> 00:33:06,150
+but I wanted you
+to meet my parents so you could see for yourself
+
+486
+00:33:06,234 --> 00:33:08,944
+that they're not
+much of a threat to national security.
+
+487
+00:33:09,029 --> 00:33:11,989
+I never really thought
+they would be, Miss Sakura.
+
+488
+00:33:12,074 --> 00:33:14,617
+I suppose it goes
+with the times.
+
+489
+00:33:15,577 --> 00:33:17,703
+And I shouldn't
+be bitter?
+
+490
+00:33:19,122 --> 00:33:20,831
+I never said that.
+
+491
+00:33:21,500 --> 00:33:23,334
+Damn it,
+I'm an American!
+
+492
+00:33:24,044 --> 00:33:28,339
+What makes us different
+from German-Americans or Italian-Americans?
+
+493
+00:33:29,216 --> 00:33:30,841
+Pearl Harbor, I guess.
+
+494
+00:33:35,430 --> 00:33:38,933
+Look, I've read
+that FBI report.
+
+495
+00:33:39,017 --> 00:33:40,935
+Ask me anything
+you want to.
+
+496
+00:33:41,895 --> 00:33:43,270
+All right.
+
+497
+00:33:43,939 --> 00:33:45,898
+Your father was seen
+
+498
+00:33:45,982 --> 00:33:48,734
+frequently going into
+the Japanese consulate.
+
+499
+00:33:49,152 --> 00:33:50,945
+He has
+old friends there.
+
+500
+00:33:52,531 --> 00:33:53,572
+I see.
+
+501
+00:33:54,950 --> 00:33:59,453
+What about these
+Japanese patriotic organizations you belong to?
+
+502
+00:33:59,538 --> 00:34:02,707
+My father enrolled me
+in those when I was born.
+
+503
+00:34:02,791 --> 00:34:06,752
+Out of respect for him
+I never resigned, but I wasn't active.
+
+504
+00:34:07,379 --> 00:34:08,587
+I see.
+
+505
+00:34:09,506 --> 00:34:15,136
+Those magazines they found
+in your parents' apartment. What about them?
+
+506
+00:34:15,220 --> 00:34:18,347
+The Prairie Shimbun?
+Published in Wyoming.
+
+507
+00:34:19,057 --> 00:34:21,767
+My father
+has deep emotional ties for Japan,
+
+508
+00:34:21,852 --> 00:34:23,686
+but even so
+
+509
+00:34:23,770 --> 00:34:26,814
+he thought
+it was a ridiculous propaganda sheet.
+
+510
+00:34:27,649 --> 00:34:29,442
+Why did he subscribe?
+
+511
+00:34:31,069 --> 00:34:33,863
+He's a traditional
+and honorable man.
+
+512
+00:34:34,156 --> 00:34:37,533
+He was once indebted
+to the man who publishes the Prairie Shimbun.
+
+513
+00:34:40,120 --> 00:34:43,581
+Look, Miss Sakura,
+I understand you came to Hawaii
+
+514
+00:34:43,665 --> 00:34:47,710
+to ask your
+parents' permission to marry my son.
+
+515
+00:34:49,171 --> 00:34:50,254
+Yes, I did.
+
+516
+00:34:50,338 --> 00:34:52,298
+Why didn't you tell
+that to the FBI?
+
+517
+00:34:52,507 --> 00:34:54,049
+I didn't want to
+implicate Tom.
+
+518
+00:34:54,843 --> 00:34:56,302
+Well, why won't
+you see him?
+
+519
+00:34:56,386 --> 00:34:59,472
+He's in love with you,
+so he tells me. You won't even talk to him.
+
+520
+00:34:59,556 --> 00:35:01,724
+He doesn't understand.
+I don't understand.
+
+521
+00:35:03,101 --> 00:35:06,896
+Because my parents
+have forbidden me to marry outside my race.
+
+522
+00:35:13,570 --> 00:35:15,738
+I want you
+to tell him for me.
+
+523
+00:35:18,492 --> 00:35:22,953
+I can't tell him that.
+He wouldn't believe me in the first place.
+
+524
+00:35:23,997 --> 00:35:26,916
+Besides, I'd just as soon
+he didn't know we'd talked together.
+
+525
+00:35:28,084 --> 00:35:35,090
+Look, Miss Sakura, Haruko,
+Tom's based at Kaneohe Naval Air Station.
+
+526
+00:35:36,885 --> 00:35:39,512
+Send for him, please.
+
+527
+00:35:40,388 --> 00:35:42,515
+You have to tell him this.
+
+528
+00:35:43,558 --> 00:35:44,975
+You have to tell him.
+
+529
+00:36:23,849 --> 00:36:26,559
+Damn itching is
+driving me crazy!
+
+530
+00:36:26,643 --> 00:36:30,771
+All those medics can do
+is smear this God-awful paste all over it.
+
+531
+00:36:30,856 --> 00:36:32,982
+When they get up
+enough nerve to come in here, you mean.
+
+532
+00:36:33,066 --> 00:36:35,693
+I know, I know,
+I'm a son of a bitch of a patient.
+
+533
+00:36:35,777 --> 00:36:37,027
+But a skin disease!
+
+534
+00:36:37,112 --> 00:36:40,739
+Of all the stupid,
+useless things to get laid up with!
+
+535
+00:36:40,991 --> 00:36:43,033
+It's driving me nuts.
+I can't even think right.
+
+536
+00:36:43,118 --> 00:36:45,494
+Bill, I haven't much time.
+
+537
+00:36:45,579 --> 00:36:47,204
+Fletcher's docking
+the Yorktown right now,
+
+538
+00:36:47,289 --> 00:36:49,790
+and I gotta make
+some hard decisions.
+
+539
+00:36:50,500 --> 00:36:52,418
+I'd like you to recommend
+your own replacement.
+
+540
+00:36:52,669 --> 00:36:53,836
+Ray Spruance.
+
+541
+00:36:56,506 --> 00:37:00,342
+I know. I know
+he's junior to a lot of other flag officers
+
+542
+00:37:00,427 --> 00:37:02,386
+and he never served
+a day on a carrier.
+
+543
+00:37:02,470 --> 00:37:04,805
+But, Chet,
+he knows carrier tactics.
+
+544
+00:37:08,101 --> 00:37:11,061
+Well, you asked
+for my recommendation.
+
+545
+00:37:14,649 --> 00:37:16,650
+I can just picture
+Washington's reaction
+
+546
+00:37:16,735 --> 00:37:20,738
+if I hand over
+the Enterprise and Hornet to a cruiser skipper.
+
+547
+00:37:21,531 --> 00:37:23,532
+Especially
+after all the static I've been getting
+
+548
+00:37:23,617 --> 00:37:26,160
+about going out
+looking for the Japanese at Midway.
+
+549
+00:37:27,329 --> 00:37:31,540
+You told me once, Chet,
+"When you're in command, command."
+
+550
+00:37:33,919 --> 00:37:35,836
+Admiral Fletcher, sir.
+
+551
+00:37:35,921 --> 00:37:37,922
+Reporting as ordered, sir.
+
+552
+00:37:38,089 --> 00:37:42,051
+Welcome home, Jack.
+And congratulations on bringing your cripple in.
+
+553
+00:37:42,135 --> 00:37:43,928
+Well, we got lucky.
+
+554
+00:37:44,012 --> 00:37:47,222
+We haven't much time,
+so I'll give it to you fast.
+
+555
+00:37:47,307 --> 00:37:49,850
+Halsey's beached,
+in the hospital.
+
+556
+00:37:50,727 --> 00:37:53,020
+Won't be leaving
+for a while.
+
+557
+00:37:53,104 --> 00:37:56,231
+I'm sending you
+out again, Jack, in 72 hours.
+
+558
+00:37:56,608 --> 00:37:58,943
+Back to sea,
+full combat readiness.
+
+559
+00:37:59,027 --> 00:38:00,611
+But, Chet,
+that's impossible!
+
+560
+00:38:00,695 --> 00:38:02,196
+It'll be at least
+three months
+
+561
+00:38:02,280 --> 00:38:04,114
+before the Yorktown's
+back in full commission.
+
+562
+00:38:04,199 --> 00:38:06,283
+I'm giving Ray Spruance
+Halsey's command.
+
+563
+00:38:06,368 --> 00:38:08,953
+He'll be taking
+the Enterprise and Hornet to sea tomorrow.
+
+564
+00:38:09,037 --> 00:38:10,621
+You'll follow him
+48 hours later.
+
+565
+00:38:11,581 --> 00:38:13,332
+Ray Spruance is
+a cruiser commander.
+
+566
+00:38:13,416 --> 00:38:15,084
+He knows carrier tactics.
+
+567
+00:38:15,168 --> 00:38:16,377
+Yeah, but he can't fly.
+
+568
+00:38:16,711 --> 00:38:17,878
+Neither can you.
+
+569
+00:38:19,714 --> 00:38:22,549
+And he sure as hell
+can't learn by tomorrow, can he, Jack?
+
+570
+00:38:23,802 --> 00:38:24,927
+No.
+
+571
+00:38:26,888 --> 00:38:28,764
+Congratulations, Ray.
+
+572
+00:38:29,391 --> 00:38:32,101
+Well, I'm still
+in a state of shock.
+
+573
+00:38:32,352 --> 00:38:33,852
+Nice seeing you
+again, Matt. How's the hand?
+
+574
+00:38:33,937 --> 00:38:35,437
+Coming fine, now, sir.
+Good.
+
+575
+00:38:35,563 --> 00:38:37,314
+We could have
+used you at Coral Sea. Thank you, sir.
+
+576
+00:38:37,399 --> 00:38:39,149
+You've got him
+for this one, Jack.
+
+577
+00:38:39,234 --> 00:38:40,401
+He's going out with you
+on the Yorktown
+
+578
+00:38:40,485 --> 00:38:41,860
+to join your
+air operation staff.
+
+579
+00:38:41,945 --> 00:38:43,070
+Good.
+
+580
+00:38:44,990 --> 00:38:48,200
+This time, we're up against
+the biggest force the enemy has ever sortied,
+
+581
+00:38:48,284 --> 00:38:50,119
+more than 200 ships.
+
+582
+00:38:51,079 --> 00:38:53,497
+Got a four-to-one
+supremacy over us.
+
+583
+00:38:53,581 --> 00:38:55,833
+Yamamoto himself
+is commanding.
+
+584
+00:38:56,751 --> 00:39:00,629
+We know when
+and from where each unit sailed.
+
+585
+00:39:01,464 --> 00:39:03,674
+We know their
+original courses,
+
+586
+00:39:03,758 --> 00:39:06,135
+but we don't know
+where they'll rendezvous
+
+587
+00:39:06,219 --> 00:39:09,680
+or what changes
+they will make or when they'll strike.
+
+588
+00:39:09,764 --> 00:39:12,808
+My best guess is
+they'll hit Midway from the northwest,
+
+589
+00:39:12,892 --> 00:39:15,728
+but there's
+no intelligence to support that.
+
+590
+00:39:16,021 --> 00:39:19,982
+Ray, assuming
+what you see here isn't just an elaborate ruse,
+
+591
+00:39:20,942 --> 00:39:24,236
+Washington thinks it is,
+but assuming they're wrong,
+
+592
+00:39:24,320 --> 00:39:26,822
+what counter moves
+do you suggest?
+
+593
+00:39:32,037 --> 00:39:36,331
+I'd take my carriers
+up here to a point northeast of Midway,
+
+594
+00:39:37,042 --> 00:39:39,710
+lie there and wait
+for Nagumo's carriers.
+
+595
+00:39:39,794 --> 00:39:42,671
+Why not head northwest,
+hit them head-on?
+
+596
+00:39:43,465 --> 00:39:46,008
+You know,
+there's just a chance that Washington may be right.
+
+597
+00:39:46,718 --> 00:39:49,762
+You think Hawaii
+and the West Coast could be the real target?
+
+598
+00:39:49,846 --> 00:39:51,013
+Well, it really
+doesn't matter,
+
+599
+00:39:51,097 --> 00:39:53,015
+provided
+I'm in a position to cut them off,
+
+600
+00:39:53,099 --> 00:39:55,017
+if they
+do move east.
+
+601
+00:39:56,644 --> 00:39:59,146
+If it's Midway,
+I'll bushwhack them.
+
+602
+00:39:59,564 --> 00:40:01,565
+All right.
+Jack, you're senior.
+
+603
+00:40:01,649 --> 00:40:03,817
+You'll take
+overall command when you two join up.
+
+604
+00:40:03,902 --> 00:40:05,235
+Yes, sir.
+
+605
+00:40:05,320 --> 00:40:09,156
+The Yorktown
+will be at sea in less than 72 hours.
+
+606
+00:40:09,949 --> 00:40:12,534
+I don't need to
+dwell on the fact that
+
+607
+00:40:12,994 --> 00:40:15,287
+Yamamoto outweighs us
+in every department.
+
+608
+00:40:15,371 --> 00:40:16,955
+Our three carriers
+and their escorts
+
+609
+00:40:17,040 --> 00:40:20,709
+are all that stands
+between the enemy fleet and the American coastline.
+
+610
+00:40:21,461 --> 00:40:24,963
+Now, about your
+point of rendezvous, what should we call it?
+
+611
+00:40:25,965 --> 00:40:27,007
+Point Luck.
+
+612
+00:40:28,676 --> 00:40:29,760
+Sir.
+
+613
+00:40:30,553 --> 00:40:34,264
+Sounds like a prayer,
+Mr. Wold, but it's damned appropriate.
+
+614
+00:40:34,849 --> 00:40:37,142
+Son of a bitch! Nurse!
+
+615
+00:40:38,812 --> 00:40:39,895
+Ray.
+
+616
+00:40:39,979 --> 00:40:41,313
+Hi, Bill.
+
+617
+00:40:41,940 --> 00:40:44,942
+Just about to call the nurse
+to try to get somebody to cut that tree down.
+
+618
+00:40:45,026 --> 00:40:47,444
+It spoils my view
+of the boatyard.
+
+619
+00:40:49,405 --> 00:40:51,115
+Well, how you feeling?
+
+620
+00:40:51,199 --> 00:40:53,158
+I can't sleep.
+I can't eat.
+
+621
+00:40:53,243 --> 00:40:56,620
+Just sit around
+scratching myself, 24 hours a day.
+
+622
+00:40:56,704 --> 00:40:59,039
+Did you ever try
+an oatmeal water bath?
+
+623
+00:40:59,124 --> 00:41:00,124
+Don't.
+
+624
+00:41:01,126 --> 00:41:03,252
+I want to thank you
+for recommending me
+
+625
+00:41:03,336 --> 00:41:05,170
+to take your task force
+to sea.
+
+626
+00:41:05,672 --> 00:41:06,964
+Now, I have
+a question for you.
+
+627
+00:41:07,549 --> 00:41:09,508
+Did that itch
+go to your head?
+
+628
+00:41:11,302 --> 00:41:13,720
+Stop underestimating
+yourself, Ray.
+
+629
+00:41:14,222 --> 00:41:17,933
+Any skipper who can keep
+his cruisers and destroyers alongside of my carriers
+
+630
+00:41:18,017 --> 00:41:20,477
+from one end of
+the Pacific to the other
+
+631
+00:41:20,562 --> 00:41:22,354
+is definitely
+the man for the job.
+
+632
+00:41:22,689 --> 00:41:26,567
+You know, you and I are...
+Well, you know, we're kind of...
+
+633
+00:41:27,735 --> 00:41:29,903
+Bill, we're
+kind of different.
+
+634
+00:41:31,156 --> 00:41:33,615
+Do you think
+I can pull it off the same way you could have?
+
+635
+00:41:34,993 --> 00:41:37,411
+I can only
+tell you this, Ray.
+
+636
+00:41:37,495 --> 00:41:38,745
+You play it
+the way you feel it,
+
+637
+00:41:38,830 --> 00:41:41,248
+not the way
+you think I'd play it.
+
+638
+00:41:41,332 --> 00:41:44,459
+You go to sea,
+find Yamamoto and chew his ass.
+
+639
+00:41:44,544 --> 00:41:45,919
+Now, that's all
+there is to it.
+
+640
+00:41:47,630 --> 00:41:48,672
+Right.
+
+641
+00:41:48,756 --> 00:41:50,174
+Christ, no!
+You want to catch this?
+
+642
+00:41:50,258 --> 00:41:51,925
+You want us to lose
+the goddamn war?
+
+643
+00:41:59,058 --> 00:42:00,601
+Oh, by the way,
+
+644
+00:42:01,769 --> 00:42:04,021
+I'll have somebody
+cut down that tree for you.
+
+645
+00:42:04,564 --> 00:42:05,772
+Yeah.
+
+646
+00:42:28,213 --> 00:42:32,382
+NIMITZ: In carrying out
+the task assigned in Op Plan 29-42,
+
+647
+00:42:32,800 --> 00:42:34,551
+the Enterprise and Hornet
+will be governed
+
+648
+00:42:34,636 --> 00:42:37,054
+by the principle
+of calculated risk,
+
+649
+00:42:37,305 --> 00:42:40,724
+which you'll interpret
+to mean the avoidance of exposure of your force
+
+650
+00:42:40,808 --> 00:42:43,477
+to attack
+by superior enemy forces
+
+651
+00:42:43,645 --> 00:42:47,314
+without good prospect
+of inflicting as a result of such exposure
+
+652
+00:42:47,440 --> 00:42:49,524
+greater damage
+to the enemy.
+
+653
+00:43:22,767 --> 00:43:25,227
+Sir, three of the boilers
+are out of commission.
+
+654
+00:43:25,311 --> 00:43:28,897
+The yard manager
+says he's gonna need another two days.
+
+655
+00:43:29,107 --> 00:43:32,943
+Delaney, I expect
+the yard to finish the job by 0600 tomorrow.
+
+656
+00:43:33,278 --> 00:43:34,861
+Aye-aye, sir.
+
+657
+00:43:35,863 --> 00:43:38,073
+Sorry about
+your boiler, Jack.
+
+658
+00:43:38,157 --> 00:43:40,492
+But if you clear
+Pearl by 0700
+
+659
+00:43:41,035 --> 00:43:43,120
+you make your rendezvous
+with Enterprise and Hornet
+
+660
+00:43:43,204 --> 00:43:44,413
+before Yamamoto
+hits Midway.
+
+661
+00:43:44,497 --> 00:43:45,580
+Agreed.
+
+662
+00:43:45,707 --> 00:43:46,832
+Good luck,
+good hunting.
+
+663
+00:43:46,916 --> 00:43:48,667
+Thank you, sir.
+
+664
+00:43:48,876 --> 00:43:50,961
+You too, Matt.
+See you back here soon.
+
+665
+00:43:51,045 --> 00:43:52,504
+Aye-aye, sir.
+
+666
+00:43:57,302 --> 00:43:59,720
+We just haven't
+any future, Tom.
+
+667
+00:44:01,222 --> 00:44:03,515
+I figured
+that's what it was.
+
+668
+00:44:05,018 --> 00:44:06,351
+We don't.
+
+669
+00:44:07,603 --> 00:44:10,772
+We really don't.
+I wish you'd go now.
+
+670
+00:44:12,817 --> 00:44:16,445
+I don't love you anymore.
+It was a mistake.
+
+671
+00:44:21,242 --> 00:44:22,909
+Say it to my face.
+
+672
+00:44:28,916 --> 00:44:31,168
+Say it to my face,
+God damn it!
+
+673
+00:44:45,850 --> 00:44:47,392
+It'll be okay.
+
+674
+00:44:51,731 --> 00:44:52,898
+Shit. Wait and see.
+
+675
+00:44:52,982 --> 00:44:56,777
+1919 the Marines were
+practicing dive-bombing off Haiti, right?
+
+676
+00:44:56,861 --> 00:44:59,613
+Everybody said,
+"Well, premature, better wait and see."
+
+677
+00:44:59,697 --> 00:45:03,450
+We waited, then
+the Germans showed us in '37 in Madrid.
+
+678
+00:45:03,534 --> 00:45:04,576
+You mean like
+at Pearl Harbor?
+
+679
+00:45:04,660 --> 00:45:05,660
+Pearl Harbor, shit!
+
+680
+00:45:05,745 --> 00:45:09,831
+Pearl Harbor in '32 and '33,
+Jocko Clark's squadrons proved
+
+681
+00:45:09,916 --> 00:45:12,542
+that Pearl Harbor
+could be attacked successfully from the air.
+
+682
+00:45:12,627 --> 00:45:17,047
+And Admiral Logan Ramsey
+said, predicted, it would happen in detail.
+
+683
+00:45:17,131 --> 00:45:18,173
+When was that?
+
+684
+00:45:18,257 --> 00:45:20,133
+In 1937, pal.
+
+685
+00:45:20,968 --> 00:45:25,138
+Wait and see. We waited.
+December the 7th, we saw.
+
+686
+00:45:26,891 --> 00:45:30,644
+The wait-and-seers
+will bust your ass every time.
+
+687
+00:45:31,437 --> 00:45:32,771
+I'll drink to that.
+
+688
+00:45:32,855 --> 00:45:34,022
+Bet your...
+
+689
+00:45:36,401 --> 00:45:38,026
+How long
+you been down here?
+
+690
+00:45:38,111 --> 00:45:42,489
+Long enough to hear
+your lecture, buddy. You ought to go on the radio.
+
+691
+00:45:42,573 --> 00:45:44,199
+How the hell are you?
+I'm all right.
+
+692
+00:45:44,283 --> 00:45:47,202
+Well, I'm celebrating
+my birthday. That's how I am.
+
+693
+00:45:47,286 --> 00:45:49,079
+That's a problem
+we all have once a year.
+
+694
+00:45:49,163 --> 00:45:50,163
+Yeah.
+
+695
+00:45:50,248 --> 00:45:53,041
+My God, now you got
+my kid flying for you.
+
+696
+00:45:54,085 --> 00:45:55,836
+Hey, how's the boy doing?
+
+697
+00:45:55,920 --> 00:45:56,920
+Just fine.
+
+698
+00:45:57,004 --> 00:45:59,256
+He's a good pilot.
+Got him checked out in the F4Fs.
+
+699
+00:45:59,340 --> 00:46:01,925
+He'll be shipping out
+any day now.
+
+700
+00:46:03,261 --> 00:46:05,929
+Coming from you
+that means a lot.
+
+701
+00:46:06,055 --> 00:46:08,390
+No, no. He's a good man,
+he's a natural pilot,
+
+702
+00:46:08,474 --> 00:46:10,892
+he's got good attitude,
+good marksman.
+
+703
+00:46:11,978 --> 00:46:16,106
+I would say that
+if Tom has any deficiency it would have to be in...
+
+704
+00:46:16,858 --> 00:46:18,525
+Enemy identification.
+
+705
+00:46:20,820 --> 00:46:22,279
+Boy's got to
+learn, Matt,
+
+706
+00:46:22,363 --> 00:46:24,239
+you do not win a war
+by kissing the enemy.
+
+707
+00:46:24,323 --> 00:46:25,449
+Oh, for Christ's sake...
+
+708
+00:46:25,533 --> 00:46:27,909
+Hell, everybody knows it.
+He told the whole goddamn squadron.
+
+709
+00:46:27,994 --> 00:46:30,287
+Yeah, I met her.
+She seems like a nice girl.
+
+710
+00:46:30,371 --> 00:46:32,414
+Well, so was
+Madame Butterfly a nice girl.
+
+711
+00:46:32,498 --> 00:46:34,291
+She's having
+a little trouble with it right now.
+
+712
+00:46:34,375 --> 00:46:36,877
+Well, we have
+a little problem forgetting December 7th, don't we?
+
+713
+00:46:38,254 --> 00:46:40,046
+I got to shove off.
+
+714
+00:46:41,549 --> 00:46:43,592
+Scuttlebutt says you're
+going out on the Yorktown. Is that right?
+
+715
+00:46:43,676 --> 00:46:45,510
+Yeah, that's right.
+
+716
+00:46:46,929 --> 00:46:50,474
+Listen, keep your
+dumb ass out of drafts.
+
+717
+00:46:50,558 --> 00:46:51,850
+Yeah, I'll try, buddy.
+
+718
+00:46:52,435 --> 00:46:55,729
+Hey, thanks for
+keeping an eye on my boy. I appreciate it.
+
+719
+00:46:57,190 --> 00:46:58,523
+He'll be fine, Matt.
+
+720
+00:47:09,994 --> 00:47:11,203
+Tom!
+
+721
+00:47:11,287 --> 00:47:13,413
+Nice of you
+to take the time to see me off, Dad.
+
+722
+00:47:13,498 --> 00:47:15,332
+But your squadron
+isn't due to ship out for a week.
+
+723
+00:47:15,416 --> 00:47:17,292
+What are you doing
+reporting aboard with this group?
+
+724
+00:47:17,793 --> 00:47:20,504
+Are you trying to tell me
+that you're surprised, sir?
+
+725
+00:47:20,588 --> 00:47:22,631
+Your old buddy
+Jessop couldn't wait to have me transferred.
+
+726
+00:47:22,757 --> 00:47:25,133
+Well, I didn't
+know anything... Like hell you didn't!
+
+727
+00:47:25,218 --> 00:47:28,470
+You wanted me shipped out,
+to stop me from doing something stupid.
+
+728
+00:47:28,554 --> 00:47:29,971
+Like try to keep my girl
+from going to a camp.
+
+729
+00:47:30,056 --> 00:47:31,097
+Tom...
+
+730
+00:47:31,182 --> 00:47:32,641
+So your old buddy
+Jessop obliged.
+
+731
+00:47:32,725 --> 00:47:34,643
+I knew absolutely
+nothing about this.
+
+732
+00:47:35,019 --> 00:47:37,312
+I have to report
+aboard now, sir.
+
+733
+00:47:58,376 --> 00:47:59,751
+Okay, sir.
+
+734
+00:48:06,217 --> 00:48:07,384
+Captain Garth
+is here, sir.
+
+735
+00:48:07,468 --> 00:48:08,927
+PEARSON:
+Oh, great. Matt.
+
+736
+00:48:09,011 --> 00:48:10,929
+Come on in here.
+How the hell are you? Huh?
+
+737
+00:48:11,013 --> 00:48:12,514
+Harry.
+
+738
+00:48:12,598 --> 00:48:15,058
+I'm gonna do something
+I do not do,
+
+739
+00:48:15,142 --> 00:48:17,561
+at least not since
+we were in Annapolis.
+
+740
+00:48:18,062 --> 00:48:19,479
+I'm gonna ask you
+to do me a favor.
+
+741
+00:48:19,564 --> 00:48:23,483
+Oh, hell, ask away!
+Lord knows I owe you a few.
+
+742
+00:48:24,277 --> 00:48:28,154
+This is one of
+the Bureau's enemy alien reports.
+
+743
+00:48:29,615 --> 00:48:30,824
+Where did
+you get this?
+
+744
+00:48:30,992 --> 00:48:32,200
+Don't ask.
+
+745
+00:48:32,368 --> 00:48:34,286
+Matt, I could find out.
+
+746
+00:48:34,370 --> 00:48:35,662
+Don't, Harry.
+
+747
+00:48:40,376 --> 00:48:44,170
+I've read the report.
+It's everything the Bureau's got...
+
+748
+00:48:44,255 --> 00:48:45,297
+A Japanese?
+
+749
+00:48:45,798 --> 00:48:50,552
+...on an American citizen
+named Haruko Sakura and her parents.
+
+750
+00:48:52,096 --> 00:48:56,224
+They look okay to me,
+but, of course, I'm not in your business.
+
+751
+00:48:56,309 --> 00:48:58,184
+Well, it sounds
+as though you are.
+
+752
+00:49:00,313 --> 00:49:04,024
+Harry, I'd like you
+to investigate this personally.
+
+753
+00:49:05,151 --> 00:49:07,527
+These people
+are being sent back to the mainland next week.
+
+754
+00:49:08,154 --> 00:49:11,197
+If they're clean,
+and I'm betting they are,
+
+755
+00:49:11,449 --> 00:49:13,783
+I want that
+shipment canceled.
+
+756
+00:49:13,868 --> 00:49:16,578
+Matt, come on,
+you're way out of line with this.
+
+757
+00:49:16,662 --> 00:49:20,248
+This is not your department!
+This is tampering!
+
+758
+00:49:26,005 --> 00:49:28,381
+All right,
+what have we got here?
+
+759
+00:49:28,466 --> 00:49:30,592
+What are these people
+to you?
+
+760
+00:49:32,720 --> 00:49:35,722
+Someday, the girl may be
+my daughter-in-law.
+
+761
+00:49:38,517 --> 00:49:40,310
+Look, this is
+not only tampering.
+
+762
+00:49:40,394 --> 00:49:42,354
+You are pressuring
+a superior officer
+
+763
+00:49:42,438 --> 00:49:45,023
+to take improper action
+because of personal reasons.
+
+764
+00:49:45,107 --> 00:49:47,484
+Improper action,
+hell! Harry.
+
+765
+00:49:47,735 --> 00:49:48,943
+I read
+what's in there.
+
+766
+00:49:49,028 --> 00:49:51,279
+These people
+are no more a threat to national security
+
+767
+00:49:51,489 --> 00:49:53,406
+than your pet Airedale.
+
+768
+00:49:56,118 --> 00:49:59,621
+All right,
+I'll have to report this request of yours.
+
+769
+00:49:59,955 --> 00:50:01,247
+It'll go into your record.
+
+770
+00:50:01,332 --> 00:50:02,540
+It's not for me.
+
+771
+00:50:03,793 --> 00:50:06,711
+Wouldn't ask you
+for myself, you know that.
+
+772
+00:50:06,921 --> 00:50:09,089
+For my kid,
+I'm asking you.
+
+773
+00:50:09,423 --> 00:50:13,468
+Jesus Christ, Harry!
+I'm begging you!
+
+774
+00:50:23,646 --> 00:50:26,022
+All right,
+I'll investigate it.
+
+775
+00:50:30,111 --> 00:50:31,653
+Thanks, Harry.
+
+776
+00:50:36,409 --> 00:50:37,951
+And, Captain...
+
+777
+00:50:40,621 --> 00:50:42,664
+This'll wash it
+with us.
+
+778
+00:50:45,668 --> 00:50:46,960
+We're even.
+
+779
+00:50:48,003 --> 00:50:49,295
+Aye-aye, sir.
+
+780
+00:51:01,684 --> 00:51:02,976
+OFFICER: Captain?
+
+781
+00:51:04,979 --> 00:51:06,855
+Thank you, Corporal.
+
+782
+00:51:08,482 --> 00:51:10,608
+Reporting
+as ordered, sir.
+
+783
+00:51:10,693 --> 00:51:13,653
+I'm sorry to send
+the Marines after you, Tom,
+
+784
+00:51:13,738 --> 00:51:15,613
+but you didn't answer
+any of my messages.
+
+785
+00:51:15,698 --> 00:51:17,949
+I didn't feel we had anything
+to talk about, Captain.
+
+786
+00:51:18,284 --> 00:51:20,493
+You can cut out that
+midshipman crap, too.
+
+787
+00:51:20,578 --> 00:51:21,995
+You're talking
+to your old man.
+
+788
+00:51:22,705 --> 00:51:24,164
+I'll try to remember that.
+
+789
+00:51:25,374 --> 00:51:26,583
+Look,
+for whatever it's worth,
+
+790
+00:51:26,667 --> 00:51:28,084
+I'd like to set
+the record straight.
+
+791
+00:51:28,169 --> 00:51:30,044
+Before we left Pearl,
+
+792
+00:51:30,963 --> 00:51:34,340
+I personally vouched
+for both Haruko and her parents.
+
+793
+00:51:34,425 --> 00:51:37,886
+I went out on a limb
+for them, way out.
+
+794
+00:51:38,387 --> 00:51:41,514
+'Course, I don't know
+what weight it'll carry, but...
+
+795
+00:51:41,599 --> 00:51:43,308
+Well, there it is.
+
+796
+00:51:44,310 --> 00:51:45,602
+Thanks.
+
+797
+00:51:47,521 --> 00:51:49,105
+Oh, one thing more.
+
+798
+00:51:51,400 --> 00:51:54,027
+I didn't ask your CO
+to have you shipped out.
+
+799
+00:51:54,111 --> 00:51:55,445
+You spoke to him,
+didn't you?
+
+800
+00:51:55,529 --> 00:51:56,529
+Yes, I did.
+
+801
+00:51:56,614 --> 00:51:59,532
+He asked me
+how I felt about...
+
+802
+00:51:59,617 --> 00:52:01,409
+Haruko and me, right?
+
+803
+00:52:01,494 --> 00:52:04,037
+Look, I only had
+a few days left to help her.
+
+804
+00:52:04,121 --> 00:52:05,163
+If you couldn't
+do anything,
+
+805
+00:52:05,247 --> 00:52:06,289
+why couldn't
+you leave it alone?
+
+806
+00:52:06,373 --> 00:52:09,709
+Look, Jessop thought
+he was doing both of us a favor.
+
+807
+00:52:09,794 --> 00:52:13,087
+I did all I could,
+and a hell of a lot more than I should've.
+
+808
+00:52:13,547 --> 00:52:15,924
+You know, you're being paid
+to fly fighter planes,
+
+809
+00:52:16,008 --> 00:52:17,300
+not to sit down
+in your cabin
+
+810
+00:52:17,384 --> 00:52:19,302
+and cry over
+your girl's picture.
+
+811
+00:52:19,553 --> 00:52:20,970
+You better shape up, tiger,
+
+812
+00:52:21,055 --> 00:52:24,057
+or some hot-shot Jap pilot's
+gonna flame your ass!
+
+813
+00:52:39,198 --> 00:52:41,616
+Just received
+this message, sir.
+
+814
+00:52:42,284 --> 00:52:44,661
+Operation K,
+the reconnaissance flight to Pearl Harbor,
+
+815
+00:52:44,745 --> 00:52:46,371
+has been canceled.
+
+816
+00:52:46,455 --> 00:52:48,832
+Canceled? Why?
+
+817
+00:52:49,208 --> 00:52:51,417
+Our scout planes
+could not be refueled.
+
+818
+00:52:51,669 --> 00:52:53,878
+There was an enemy vessel
+at the rendezvous point.
+
+819
+00:52:55,881 --> 00:52:59,676
+Sir, Admiral Nagumo's
+carrier force should be warned immediately.
+
+820
+00:53:00,135 --> 00:53:02,846
+Admiral Nagumo
+must have picked up the transmission
+
+821
+00:53:02,930 --> 00:53:04,472
+at the same time
+we did.
+
+822
+00:53:04,557 --> 00:53:05,723
+Suppose he didn't.
+
+823
+00:53:06,141 --> 00:53:07,767
+He will assume
+Operation K went forward
+
+824
+00:53:07,852 --> 00:53:09,769
+and that
+the American carriers are at Pearl Harbor.
+
+825
+00:53:09,854 --> 00:53:13,481
+And that is where
+our latest intelligence reports place them.
+
+826
+00:53:13,566 --> 00:53:16,442
+What latest
+intelligence reports, Captain?
+
+827
+00:53:16,527 --> 00:53:18,361
+Have any of our
+submarines sighted
+
+828
+00:53:18,445 --> 00:53:21,197
+the American fleet
+in the last 20 hours?
+
+829
+00:53:21,699 --> 00:53:24,117
+No, sir. But there is
+no logical reason
+
+830
+00:53:24,201 --> 00:53:28,454
+for the Americans to have
+moved their carriers away from Pearl Harbor.
+
+831
+00:53:28,664 --> 00:53:31,165
+At any rate
+we must not break radio silence
+
+832
+00:53:31,250 --> 00:53:33,877
+and risk
+letting them know where we are.
+
+833
+00:53:34,003 --> 00:53:35,879
+Sir, the element
+of surprise
+
+834
+00:53:35,963 --> 00:53:39,173
+is one of the most
+important aspects of our attack.
+
+835
+00:53:57,526 --> 00:53:59,319
+BLAKE:
+Admiral, this is our search plan.
+
+836
+00:54:00,029 --> 00:54:03,072
+An air search
+involving 22 PBYs,
+
+837
+00:54:03,157 --> 00:54:05,950
+each plane to fly
+a spoke 700 miles out,
+
+838
+00:54:06,035 --> 00:54:07,952
+covering
+an eight-degree sector.
+
+839
+00:54:08,037 --> 00:54:09,454
+That'll give us
+a 180-degree look
+
+840
+00:54:09,538 --> 00:54:10,830
+at anything
+coming in from the west,
+
+841
+00:54:11,290 --> 00:54:13,833
+and still leave us
+an excellent flanking area northeast of Midway
+
+842
+00:54:13,918 --> 00:54:15,001
+for our carriers.
+
+843
+00:54:15,085 --> 00:54:17,128
+Have it put into
+operation immediately.
+
+844
+00:54:17,212 --> 00:54:18,671
+Aye-aye, sir.
+
+845
+00:55:32,705 --> 00:55:35,456
+Jesus, how many
+of those can you eat?
+
+846
+00:56:06,238 --> 00:56:08,865
+Admiral,
+air search report.
+
+847
+00:56:12,619 --> 00:56:14,120
+No sightings.
+
+848
+00:56:16,165 --> 00:56:19,042
+Is there
+any defense measure we've overlooked?
+
+849
+00:56:19,126 --> 00:56:20,460
+Anything Midway needs.
+
+850
+00:56:20,544 --> 00:56:22,879
+They've had
+top priority, Admiral.
+
+851
+00:56:22,963 --> 00:56:24,505
+We've sent them
+everything we can scrape up.
+
+852
+00:56:24,590 --> 00:56:27,925
+Tanks, PT boats,
+barb wire, anti-aircraft guns...
+
+853
+00:56:29,136 --> 00:56:32,263
+Yeah, and it's miserable
+waiting here for an attack on your own people,
+
+854
+00:56:32,347 --> 00:56:34,390
+hoping to hell
+it happens.
+
+855
+00:56:34,475 --> 00:56:36,142
+More pressure
+from Washington, sir?
+
+856
+00:56:36,226 --> 00:56:37,810
+Not a whisper.
+
+857
+00:56:37,895 --> 00:56:40,730
+Frankly, I'd rather
+have them raising hell.
+
+858
+00:57:01,502 --> 00:57:03,336
+Captain.
+What's the count, Red?
+
+859
+00:57:03,504 --> 00:57:06,005
+I can put up
+half a dozen F4Fs and 15 Buffaloes.
+
+860
+00:57:06,673 --> 00:57:07,673
+Damned relics.
+
+861
+00:57:07,841 --> 00:57:09,550
+We'll let the Japs know
+we're up there, sir.
+
+862
+00:57:09,635 --> 00:57:10,760
+Maybe we'll get lucky.
+
+863
+00:57:11,303 --> 00:57:12,720
+Okay, Red.
+
+864
+00:57:29,696 --> 00:57:32,949
+In less than five hours,
+Hosogaya will attack the Aleutians,
+
+865
+00:57:33,033 --> 00:57:36,994
+and we will still be
+groping toward Midway in this filthy squall.
+
+866
+00:57:37,579 --> 00:57:41,874
+We're not due to launch
+our first air strike for another 36 hours, sir.
+
+867
+00:57:41,959 --> 00:57:44,877
+Our predictions are
+for clear weather before then, Admiral.
+
+868
+00:57:45,546 --> 00:57:49,841
+I keep wondering, Kusaka,
+what did Operation K uncover at Pearl Harbor?
+
+869
+00:57:50,092 --> 00:57:52,260
+Were the American
+carriers there?
+
+870
+00:57:52,678 --> 00:57:54,929
+We've heard nothing
+from Admiral Yamamoto.
+
+871
+00:57:55,013 --> 00:57:58,724
+That could only mean
+the American carriers are still in Hawaiian waters.
+
+872
+00:58:01,186 --> 00:58:03,521
+Damned
+communications blackout!
+
+873
+00:58:14,324 --> 00:58:17,410
+Hey, you guys!
+The Japs are bombing Dutch Harbor!
+
+874
+00:58:18,328 --> 00:58:19,745
+Here we go.
+
+875
+00:58:23,417 --> 00:58:25,042
+Welcome aboard.
+
+876
+00:58:31,091 --> 00:58:34,260
+Well, gentlemen,
+it's started. Signal Spruance.
+
+877
+00:58:41,602 --> 00:58:44,729
+The Aleutian Islands
+are being invaded, Admiral.
+
+878
+00:58:51,445 --> 00:58:53,863
+Washington could
+still be right.
+
+879
+00:58:54,865 --> 00:58:56,949
+This could be just
+a feint for attack on the West Coast
+
+880
+00:58:57,034 --> 00:58:58,951
+or right here
+in Hawaii.
+
+881
+00:59:00,162 --> 00:59:02,121
+Or what we've
+defended against.
+
+882
+00:59:02,706 --> 00:59:04,165
+Today.
+
+883
+00:59:04,583 --> 00:59:06,876
+Our PBY
+should tell us today.
+
+884
+00:59:26,897 --> 00:59:27,980
+Hey.
+
+885
+00:59:29,816 --> 00:59:31,609
+Do you see
+what I see?
+
+886
+00:59:34,488 --> 00:59:36,322
+You're damn right
+I do!
+
+887
+00:59:37,866 --> 00:59:43,079
+Sparks, raise Midway.
+Radio, "Main body."
+
+888
+00:59:43,622 --> 00:59:45,206
+That's all?
+Just "main body"?
+
+889
+00:59:45,290 --> 00:59:46,916
+Send it!
+Yes, sir.
+
+890
+00:59:51,296 --> 00:59:53,089
+An American PBY, sir.
+
+891
+00:59:53,423 --> 00:59:55,424
+A reconnaissance
+seaplane!
+
+892
+00:59:55,634 --> 00:59:58,469
+Sir, radio's
+picked up transmission from the enemy plane.
+
+893
+00:59:58,553 --> 01:00:00,346
+It's alerting Midway.
+
+894
+01:00:00,889 --> 01:00:02,682
+Break radio silence.
+
+895
+01:00:02,891 --> 01:00:06,394
+Advise Admiral Yamamoto
+that the invasion force has been discovered.
+
+896
+01:00:06,478 --> 01:00:07,478
+Yes, sir.
+
+897
+01:00:09,022 --> 01:00:15,528
+Six large ships in a column,
+bearing 262 degrees, distance 700 miles.
+
+898
+01:00:18,448 --> 01:00:19,657
+Admiral.
+
+899
+01:00:19,741 --> 01:00:21,409
+I wanted to tell you
+myself, Joe.
+
+900
+01:00:21,493 --> 01:00:23,577
+You were right,
+it's Midway.
+
+901
+01:00:23,787 --> 01:00:27,832
+Hot damn! You know
+what I mean, Admiral.
+
+902
+01:00:28,000 --> 01:00:30,793
+Thank God
+Fletcher joined Spruance in time.
+
+903
+01:00:33,672 --> 01:00:36,257
+Another one from
+Strawberry 9, sir.
+
+904
+01:00:36,967 --> 01:00:40,886
+11 ships, course 090,
+speed 19 knots.
+
+905
+01:00:41,430 --> 01:00:43,472
+But what kind
+of ships?
+
+906
+01:00:44,057 --> 01:00:45,933
+First transmission
+said "main body,"
+
+907
+01:00:46,018 --> 01:00:48,728
+but there was
+no mention of any carriers.
+
+908
+01:00:48,979 --> 01:00:53,149
+BLAKE: That PBY,
+Strawberry 9, was at the end of his 700-mile leg
+
+909
+01:00:53,233 --> 01:00:55,192
+when he sent that
+message "main body."
+
+910
+01:00:55,819 --> 01:00:57,528
+It could be
+Nagumo's carriers
+
+911
+01:00:57,612 --> 01:00:59,322
+are following
+the large ships he reported.
+
+912
+01:00:59,406 --> 01:01:01,657
+Well, they may be
+just beyond his horizon, Admiral.
+
+913
+01:01:01,742 --> 01:01:05,578
+If they are, Fletcher's
+in the wrong place. He's too far north.
+
+914
+01:01:05,662 --> 01:01:07,413
+He'd have to
+move right now at flank speed
+
+915
+01:01:07,497 --> 01:01:10,416
+to get within
+striking distance before sunset.
+
+916
+01:01:10,667 --> 01:01:12,918
+But if Nagumo's carriers
+are where we figured
+
+917
+01:01:13,003 --> 01:01:14,420
+coming in behind
+this storm front...
+
+918
+01:01:14,671 --> 01:01:17,048
+Fletcher'd be caught
+between two forces.
+
+919
+01:01:17,132 --> 01:01:20,593
+NIMITZ: Yes, if we let him
+head for that main body sighting.
+
+920
+01:01:24,931 --> 01:01:27,016
+Send a flash message
+to Admiral Fletcher.
+
+921
+01:01:27,100 --> 01:01:29,435
+This is not, repeat,
+not main body.
+
+922
+01:01:30,312 --> 01:01:33,606
+Expect enemy carrier forces
+strike tomorrow from behind storm front...
+
+923
+01:01:33,857 --> 01:01:38,486
+"...via northwest,
+as previously anticipated." Signed, Nimitz.
+
+924
+01:01:40,030 --> 01:01:41,280
+Well, that settles that.
+
+925
+01:01:41,365 --> 01:01:45,201
+CINCPAC must think
+the PBY sighted only Kondo's invasion force.
+
+926
+01:01:45,410 --> 01:01:48,788
+But if it's Nagumo's
+attack force with his carriers,
+
+927
+01:01:48,872 --> 01:01:51,791
+and his scouts find us
+before we find them...
+
+928
+01:01:57,798 --> 01:01:59,673
+Captain Buckmaster,
+sound general quarters.
+
+929
+01:02:13,522 --> 01:02:17,233
+Weather is clearing, sir.
+We could not have timed it better.
+
+930
+01:02:17,401 --> 01:02:20,569
+Look, we've intercepted
+a radio transmission from Tokyo
+
+931
+01:02:20,654 --> 01:02:22,488
+to Admiral Yamamoto.
+
+932
+01:02:23,407 --> 01:02:24,532
+So?
+
+933
+01:02:25,075 --> 01:02:26,617
+Intelligence still
+does not report
+
+934
+01:02:26,701 --> 01:02:29,161
+any movement
+of the American fleet.
+
+935
+01:02:29,913 --> 01:02:31,831
+Well, whatever doubts
+we may have had...
+
+936
+01:02:31,915 --> 01:02:33,416
+Are still
+with me, Kusaka.
+
+937
+01:02:33,875 --> 01:02:38,212
+We have no definitive
+intelligence reports, only opinions and estimates.
+
+938
+01:02:38,338 --> 01:02:41,841
+And continued silence
+from Yamamoto does not make them a fact.
+
+939
+01:02:41,925 --> 01:02:43,342
+GENDA: Admiral.
+
+940
+01:02:43,885 --> 01:02:45,052
+Genda.
+
+941
+01:02:49,933 --> 01:02:51,434
+My apologies.
+
+942
+01:02:51,518 --> 01:02:54,145
+I've been away
+from my duties much too long.
+
+943
+01:02:55,230 --> 01:02:57,398
+Genda, how are you?
+
+944
+01:02:57,774 --> 01:03:01,277
+I'm well enough now
+to take charge of air operations.
+
+945
+01:03:03,363 --> 01:03:06,574
+And so you shall,
+my friend. And so you shall.
+
+946
+01:03:07,826 --> 01:03:10,953
+I want you to prepare
+an air search plan immediately.
+
+947
+01:03:11,037 --> 01:03:12,621
+For what area,
+Admiral?
+
+948
+01:03:12,706 --> 01:03:14,623
+Where I would deploy
+my aircraft carriers
+
+949
+01:03:14,708 --> 01:03:17,042
+if I were
+the American commander.
+
+950
+01:03:18,170 --> 01:03:21,338
+There, northeast
+of Midway.
+
+951
+01:03:28,305 --> 01:03:31,515
+Times like this, Joe,
+I miss the flatlands.
+
+952
+01:03:34,269 --> 01:03:37,021
+It's a big body
+of water out there.
+
+953
+01:03:37,105 --> 01:03:40,566
+I'm just a fellow
+who came out of a Texas prairie town.
+
+954
+01:03:40,817 --> 01:03:43,486
+The nearest lake
+was 120 miles away.
+
+955
+01:03:44,321 --> 01:03:47,615
+You could wade across it
+at the height of the rainy season.
+
+956
+01:03:47,699 --> 01:03:50,409
+During the summer
+we made clay pots out of its bottom.
+
+957
+01:03:55,916 --> 01:03:57,750
+No matter what happens, Joe,
+I want you to know,
+
+958
+01:03:57,834 --> 01:04:00,211
+you've sure as hell
+earned your salary this month.
+
+959
+01:04:02,255 --> 01:04:04,173
+Well, thank you, sir.
+
+960
+01:04:05,091 --> 01:04:07,009
+GENDA: To cover
+the area in question,
+
+961
+01:04:07,093 --> 01:04:10,721
+we will launch
+scout planes from the Akagi and the Kaga,
+
+962
+01:04:10,805 --> 01:04:14,099
+and our cruiser escorts
+will launch five seaplanes.
+
+963
+01:04:14,935 --> 01:04:16,393
+Very good.
+
+964
+01:04:16,478 --> 01:04:18,854
+But until our scouts
+have searched the area
+
+965
+01:04:18,939 --> 01:04:21,315
+we'll hold
+our most experienced pilots in reserve
+
+966
+01:04:21,399 --> 01:04:23,025
+and half our aircraft.
+
+967
+01:04:23,109 --> 01:04:27,863
+But, sir,
+the American fleet cannot be anywhere near Midway.
+
+968
+01:04:27,948 --> 01:04:29,782
+We shouldn't
+hold back our best pilots.
+
+969
+01:04:30,116 --> 01:04:32,284
+We've been over this
+ground before, Kusaka.
+
+970
+01:04:32,702 --> 01:04:36,121
+Admiral, our first strike
+must be decisive.
+
+971
+01:04:36,706 --> 01:04:40,125
+Midway's airstrip and planes
+must be destroyed in one massive blow.
+
+972
+01:04:40,210 --> 01:04:42,294
+Otherwise, we invite
+a counterstrike.
+
+973
+01:04:44,005 --> 01:04:45,548
+Commander Genda?
+
+974
+01:04:48,802 --> 01:04:50,719
+I agree with you, sir.
+
+975
+01:04:51,221 --> 01:04:53,806
+Let our younger pilots
+fly the first strike.
+
+976
+01:04:53,974 --> 01:04:55,724
+I am sure
+they can do the job.
+
+977
+01:04:55,809 --> 01:04:58,727
+If not, we can
+always launch a second strike.
+
+978
+01:04:59,437 --> 01:05:01,564
+That is how
+we shall have it.
+
+979
+01:05:07,195 --> 01:05:09,947
+Suddenly, the man
+who led us to victory at Pearl Harbor
+
+980
+01:05:10,031 --> 01:05:11,824
+is choked by caution.
+
+981
+01:05:13,076 --> 01:05:15,244
+He senses danger
+out there.
+
+982
+01:05:16,580 --> 01:05:17,871
+So do I.
+
+983
+01:05:20,083 --> 01:05:22,793
+GARTH: Admiral, they wouldn't
+bring their transports in so close
+
+984
+01:05:22,877 --> 01:05:24,795
+if they didn't plan
+to invade damn soon.
+
+985
+01:05:24,879 --> 01:05:27,423
+CINCPAC's right.
+They're gonna hit Midway today.
+
+986
+01:05:27,507 --> 01:05:28,674
+FLETCHER:
+Yes, but from where?
+
+987
+01:05:28,758 --> 01:05:30,384
+He could pop out
+anywhere along the edge of that storm.
+
+988
+01:05:31,011 --> 01:05:33,637
+And when he does,
+he's gonna have his own scout planes out.
+
+989
+01:05:33,722 --> 01:05:36,307
+We have to find him
+before he finds us, sir.
+
+990
+01:05:36,391 --> 01:05:38,309
+If we're wrong,
+if he hits us from the blind side...
+
+991
+01:05:38,393 --> 01:05:40,811
+Why don't you
+get some eyes out there, too, sir?
+
+992
+01:05:40,895 --> 01:05:43,981
+About 10 SBDs
+would cover our northern flank.
+
+993
+01:05:44,858 --> 01:05:45,941
+Okay, get them in the air.
+Aye-aye.
+
+994
+01:05:46,026 --> 01:05:47,443
+But no more
+than 100 miles out.
+
+995
+01:05:47,527 --> 01:05:49,486
+I want to be able
+to recover them fast,
+
+996
+01:05:49,571 --> 01:05:50,738
+in case the PBYs
+make contact first.
+
+997
+01:05:50,822 --> 01:05:52,072
+Yes, sir.
+
+998
+01:06:19,100 --> 01:06:20,476
+You okay?
+
+999
+01:06:20,560 --> 01:06:22,102
+Yeah.
+Here.
+
+1000
+01:06:24,189 --> 01:06:26,440
+Those poor bastards are
+gonna miss all the fun.
+
+1001
+01:06:26,524 --> 01:06:29,526
+There's nothing
+north of us but empty ocean.
+
+1002
+01:06:29,694 --> 01:06:33,113
+He gets his dope
+straight from Tokyo Rose. Right, Chili Bean?
+
+1003
+01:06:33,198 --> 01:06:34,406
+Wrong, caballo.
+I get it from here.
+
+1004
+01:06:34,491 --> 01:06:35,532
+Yeah.
+
+1005
+01:06:35,617 --> 01:06:37,493
+When it bristles
+there's Japs around.
+
+1006
+01:06:37,577 --> 01:06:39,453
+You crazy airdale!
+
+1007
+01:06:40,830 --> 01:06:41,914
+Morning, Captain.
+
+1008
+01:06:42,248 --> 01:06:43,791
+You guy are supposed
+to be sacked out.
+
+1009
+01:06:43,875 --> 01:06:45,209
+What the hell
+are you doing here?
+
+1010
+01:06:46,503 --> 01:06:48,253
+We tried, Captain,
+we couldn't sleep.
+
+1011
+01:06:49,381 --> 01:06:54,510
+Yeah, I know,
+but let's get below and try. We got a heavy day ahead.
+
+1012
+01:06:56,971 --> 01:06:58,305
+Yes, sir.
+
+1013
+01:07:27,502 --> 01:07:29,420
+Excellent
+weather forecast, sir.
+
+1014
+01:07:29,504 --> 01:07:31,839
+We've got
+broken cloud cover up to 2,000 feet
+
+1015
+01:07:31,923 --> 01:07:33,841
+to conceal us
+from enemy scout planes,
+
+1016
+01:07:33,925 --> 01:07:36,552
+and above 2,000,
+unlimited visibility
+
+1017
+01:07:36,636 --> 01:07:39,138
+straight into Midway
+for our flyers.
+
+1018
+01:07:40,598 --> 01:07:42,391
+Commence launching.
+
+1019
+01:08:21,097 --> 01:08:25,976
+Sir, all scout planes
+from our cruisers are in the air, except one.
+
+1020
+01:08:26,728 --> 01:08:29,313
+The Tone is having
+catapult problems, Admiral.
+
+1021
+01:08:29,981 --> 01:08:32,316
+They'll be delayed
+in getting Scout 4 launched.
+
+1022
+01:08:32,400 --> 01:08:33,400
+How long?
+
+1023
+01:08:33,777 --> 01:08:35,360
+Half an hour, sir.
+
+1024
+01:08:35,445 --> 01:08:39,281
+Sir, in case the Americans
+should suddenly appear,
+
+1025
+01:08:39,365 --> 01:08:42,201
+I suggest
+the second flight wave be brought on deck
+
+1026
+01:08:42,285 --> 01:08:43,702
+as soon as
+the first wave is clear.
+
+1027
+01:08:44,245 --> 01:08:45,454
+Armed with torpedoes
+
+1028
+01:08:45,538 --> 01:08:48,165
+to deal with
+the enemy carriers, Commander?
+
+1029
+01:08:48,249 --> 01:08:51,168
+Yes. Our planes
+and the Kaga's.
+
+1030
+01:08:51,252 --> 01:08:53,796
+Soryu and Hiryu's planes
+can stand by with bombs
+
+1031
+01:08:53,880 --> 01:08:55,547
+in case they're needed
+over Midway.
+
+1032
+01:08:58,468 --> 01:08:59,676
+Give the order.
+
+1033
+01:09:00,261 --> 01:09:01,553
+Yes, sir.
+
+1034
+01:09:32,001 --> 01:09:34,628
+Well, now it's up
+to our strike leader.
+
+1035
+01:09:35,713 --> 01:09:37,923
+Tomonaga is the best
+we've got.
+
+1036
+01:10:09,497 --> 01:10:10,622
+Howie?
+
+1037
+01:10:21,175 --> 01:10:22,926
+It's the whole damn
+Jap navy!
+
+1038
+01:10:24,888 --> 01:10:26,930
+Radio, raise Midway.
+
+1039
+01:10:27,390 --> 01:10:29,391
+Send, "Enemy carriers."
+
+1040
+01:10:29,767 --> 01:10:31,268
+OPERATOR ON RADIO:
+Bandits three o'clock, Lieutenant.
+
+1041
+01:10:32,812 --> 01:10:35,022
+Yeah, we got them.
+It's Jap fighter cover.
+
+1042
+01:10:35,106 --> 01:10:36,273
+Okay, let's duck
+into the clouds
+
+1043
+01:10:36,357 --> 01:10:37,691
+and come in behind
+for a closer look.
+
+1044
+01:10:45,450 --> 01:10:46,658
+Admiral.
+
+1045
+01:10:50,455 --> 01:10:53,165
+Enemy carriers?
+You mean that's all?
+
+1046
+01:10:53,458 --> 01:10:55,250
+That's all he said, sir.
+It's Strawberry 5.
+
+1047
+01:10:55,335 --> 01:10:57,127
+We haven't heard
+from him since.
+
+1048
+01:10:57,211 --> 01:10:58,587
+Admiral.
+
+1049
+01:10:58,671 --> 01:11:00,923
+If he was on course
+and on schedule,
+
+1050
+01:11:01,007 --> 01:11:06,011
+he made the contact
+about here, 250 miles out.
+
+1051
+01:11:07,221 --> 01:11:08,764
+You better signal
+that to Spruance.
+
+1052
+01:11:08,848 --> 01:11:10,307
+Aye-aye, sir.
+
+1053
+01:11:24,030 --> 01:11:25,781
+You damn certain that was
+Strawberry 5 you heard?
+
+1054
+01:11:26,991 --> 01:11:28,825
+Positive, Skipper,
+it was their call letters.
+
+1055
+01:11:29,744 --> 01:11:32,579
+Well, how far are we
+from that contact point?
+
+1056
+01:11:32,664 --> 01:11:34,498
+We're about 15 minutes
+behind schedule.
+
+1057
+01:11:34,582 --> 01:11:37,584
+OPERATOR: Bandits! Bandits!
+Sweet mother of God, hundreds of them!
+
+1058
+01:11:37,669 --> 01:11:38,710
+Where, damn it?
+Where?
+
+1059
+01:11:39,963 --> 01:11:42,547
+Four... No, no.
+Five, five o'clock!
+
+1060
+01:11:44,801 --> 01:11:46,385
+Jesus!
+
+1061
+01:11:51,140 --> 01:11:53,475
+Billy, send in the clear.
+"Many planes heading Midway."
+
+1062
+01:11:56,062 --> 01:11:57,646
+Are you certain?
+
+1063
+01:11:57,730 --> 01:12:01,066
+All right,
+just let us know the second you get anything else.
+
+1064
+01:12:01,150 --> 01:12:02,442
+Nothing more, Admiral.
+
+1065
+01:12:02,527 --> 01:12:03,902
+Not a word
+from any of our scouts
+
+1066
+01:12:03,987 --> 01:12:05,320
+since that
+"many planes" flash.
+
+1067
+01:12:05,405 --> 01:12:07,531
+Yes, but was that
+from Strawberry 5 or one of the other scouts?
+
+1068
+01:12:07,949 --> 01:12:11,159
+No call letters were sent.
+The operator must have been too excited.
+
+1069
+01:12:11,244 --> 01:12:13,954
+Or else he was jumped
+by enemy fighters.
+
+1070
+01:12:14,122 --> 01:12:17,916
+Damn it! How many carriers?
+What course? What speed?
+
+1071
+01:12:19,836 --> 01:12:22,504
+Those Jap fighters
+will never find us in this soup.
+
+1072
+01:12:22,588 --> 01:12:24,923
+Yeah, and we'll never
+find their carriers again,
+
+1073
+01:12:25,008 --> 01:12:27,676
+unless we break
+into the clear and soon.
+
+1074
+01:12:28,970 --> 01:12:32,264
+Damn it!
+I should've gone straight in and risked it.
+
+1075
+01:12:41,232 --> 01:12:43,859
+Nothing.
+We've lost them!
+
+1076
+01:12:45,445 --> 01:12:47,612
+Lieutenant Addy,
+they're behind us!
+
+1077
+01:12:47,697 --> 01:12:50,449
+I can see two carriers
+and a battleship.
+
+1078
+01:12:50,783 --> 01:12:52,117
+Send it!
+
+1079
+01:12:52,368 --> 01:12:53,869
+Aye-aye, sir.
+
+1080
+01:13:03,671 --> 01:13:05,380
+BROWNING:
+"Fletcher to Spruance.
+
+1081
+01:13:05,465 --> 01:13:08,216
+"Second sighting reported,
+Strawberry 5.
+
+1082
+01:13:08,301 --> 01:13:12,596
+"Two enemy carriers,
+battleship. Bearing Midway, 320 degrees.
+
+1083
+01:13:12,930 --> 01:13:17,601
+"Distance, 180 miles.
+Course, 135 degrees.
+
+1084
+01:13:18,019 --> 01:13:20,145
+"Speed, 25 knots."
+
+1085
+01:13:20,605 --> 01:13:22,814
+Right out of the slot
+where Nimitz figured they'd come.
+
+1086
+01:13:23,274 --> 01:13:26,985
+"Proceed southwesterly,
+attack enemy carriers.
+
+1087
+01:13:27,320 --> 01:13:30,697
+"Will follow as soon as
+search planes recovered. Fletcher."
+
+1088
+01:13:30,907 --> 01:13:33,408
+Signal the Hornet,
+Captain Browning.
+
+1089
+01:13:34,786 --> 01:13:36,703
+Let's get to
+battle stations.
+
+1090
+01:14:10,238 --> 01:14:12,823
+Get the control tower officer
+for Captain Simard.
+
+1091
+01:14:16,869 --> 01:14:18,203
+Andy?
+Yes, sir.
+
+1092
+01:14:18,287 --> 01:14:19,621
+Major Parks get
+his fighters up?
+
+1093
+01:14:19,789 --> 01:14:23,375
+All 23 of them.
+The SBDs are on the line now, ready to go.
+
+1094
+01:14:23,543 --> 01:14:25,043
+Get them airborne.
+Yes, sir.
+
+1095
+01:14:25,670 --> 01:14:28,130
+Captain, we've got
+Major Parks' frequency.
+
+1096
+01:14:31,008 --> 01:14:35,178
+Rainbow Leader.
+Rainbow Leader. Below us, ten o'clock.
+
+1097
+01:14:38,224 --> 01:14:39,850
+I see them, Kirk.
+
+1098
+01:14:40,434 --> 01:14:41,726
+All right, everybody.
+
+1099
+01:14:41,811 --> 01:14:44,771
+Let's see
+how many we can drop on the first pass.
+
+1100
+01:14:53,698 --> 01:14:56,158
+PILOT: Bertha 3, Bertha 3.
+Under you, two bogies.
+
+1101
+01:14:59,996 --> 01:15:03,540
+Got one! Got one!
+Look at that Jap bastard!
+
+1102
+01:15:06,252 --> 01:15:08,295
+Bail out, Bertha 3.
+Bail out!
+
+1103
+01:15:08,546 --> 01:15:10,922
+Get him off me!
+Somebody get him off me!
+
+1104
+01:15:11,632 --> 01:15:13,425
+Bail out! Bail out!
+
+1105
+01:15:14,343 --> 01:15:18,013
+Bertha 4, on your tail.
+Coming in on you! Three of them!
+
+1106
+01:15:19,557 --> 01:15:23,977
+I'm hit, Rainbow Leader!
+Oh, my God! Mayday, mayday!
+
+1107
+01:15:25,104 --> 01:15:27,606
+Look out, Rainbow!
+On your tail!
+
+1108
+01:15:28,482 --> 01:15:30,275
+Billy, Billy!
+Four o'clock low.
+
+1109
+01:15:30,401 --> 01:15:32,194
+Coming in on you!
+Three of them!
+
+1110
+01:15:39,327 --> 01:15:40,994
+Coming at you at three.
+
+1111
+01:15:41,621 --> 01:15:44,164
+Geez, look at that
+Jap bastard climb!
+
+1112
+01:15:44,874 --> 01:15:47,918
+My God, they got Major Parks!
+Look out, on your tail!
+
+1113
+01:15:48,169 --> 01:15:50,545
+Four o'clock low.
+Two bogies.
+
+1114
+01:15:51,297 --> 01:15:54,591
+Rainbow Leader,
+come in, Rainbow Leader. This is Noah's Ark.
+
+1115
+01:15:54,675 --> 01:15:58,136
+Report, please!
+What is your condition? Report, please!
+
+1116
+01:15:59,639 --> 01:16:01,890
+Good God!
+Give me the tower.
+
+1117
+01:16:06,395 --> 01:16:08,939
+Andy, they blew right through
+Red Park's fighters.
+
+1118
+01:16:09,023 --> 01:16:10,148
+Get your people
+to the shelters.
+
+1119
+01:16:10,316 --> 01:16:11,441
+Yes, sir.
+
+1120
+01:16:27,708 --> 01:16:28,917
+Jesus!
+
+1121
+01:16:29,877 --> 01:16:31,253
+Come on!
+
+1122
+01:16:38,219 --> 01:16:40,345
+Attack in squadron order!
+
+1123
+01:18:04,472 --> 01:18:05,847
+God, they creamed us.
+
+1124
+01:18:05,931 --> 01:18:07,265
+But we're not
+out of action yet.
+
+1125
+01:18:07,767 --> 01:18:10,560
+Our landing strip
+is still operational.
+
+1126
+01:18:36,087 --> 01:18:37,504
+Admiral?
+Hmm?
+
+1127
+01:18:41,217 --> 01:18:43,843
+Tomonaga is asking
+for a second strike.
+
+1128
+01:18:44,762 --> 01:18:48,223
+Sir, this report
+is a great victory.
+
+1129
+01:18:48,307 --> 01:18:49,891
+We've lost only
+seven planes
+
+1130
+01:18:49,975 --> 01:18:52,602
+and we've destroyed
+more than 40 enemy aircraft,
+
+1131
+01:18:52,686 --> 01:18:54,312
+in the air
+and on the ground.
+
+1132
+01:18:54,605 --> 01:18:56,773
+But apparently
+the pilots that you chose
+
+1133
+01:18:56,857 --> 01:18:58,983
+did not destroy the airstrip,
+Commander Genda.
+
+1134
+01:18:59,610 --> 01:19:04,406
+Sir, we have 93 planes
+and our best pilots waiting on our flight decks.
+
+1135
+01:19:04,490 --> 01:19:07,075
+The entire force
+should be sent out without delay.
+
+1136
+01:19:07,159 --> 01:19:08,827
+The entire force?
+
+1137
+01:19:09,328 --> 01:19:13,206
+Our planes are armed
+with torpedoes on Commander Genda's advice.
+
+1138
+01:19:13,290 --> 01:19:16,334
+Hardly suitable
+for bombing an airstrip. Correct, Commander?
+
+1139
+01:19:16,919 --> 01:19:20,547
+They should all
+be taken below immediately and rearmed with bombs, sir.
+
+1140
+01:19:20,631 --> 01:19:24,008
+We must make certain
+that no air attacks against us
+
+1141
+01:19:24,093 --> 01:19:25,510
+can be mounted
+from Midway.
+
+1142
+01:19:26,053 --> 01:19:29,431
+Sir, Lieutenant Tomonaga's
+request is also a warning.
+
+1143
+01:19:30,057 --> 01:19:32,308
+Midway is still
+a threat to us.
+
+1144
+01:19:32,685 --> 01:19:34,853
+So are the American
+carriers, Kusaka.
+
+1145
+01:19:35,354 --> 01:19:37,522
+If they are nearby,
+yes, sir.
+
+1146
+01:19:37,690 --> 01:19:40,942
+But our scouts have been gone
+for over two hours now, they've reported nothing.
+
+1147
+01:19:41,235 --> 01:19:45,029
+You're forgetting
+Scout Number 4 was a half-hour late taking off.
+
+1148
+01:19:45,114 --> 01:19:48,992
+It will not reach
+it's maximum search range for another hour yet.
+
+1149
+01:19:59,253 --> 01:20:02,005
+Tomonaga's planes
+will be returning soon.
+
+1150
+01:20:02,214 --> 01:20:06,718
+When they recover,
+they can be quickly refueled and rearmed for sea action,
+
+1151
+01:20:06,927 --> 01:20:09,679
+in case our scouts
+sight any enemy ships.
+
+1152
+01:20:11,765 --> 01:20:13,099
+Admiral?
+
+1153
+01:20:17,062 --> 01:20:18,438
+Very well.
+
+1154
+01:20:18,981 --> 01:20:22,108
+Order our torpedo bombers
+to be rearmed with contact bombs.
+
+1155
+01:20:22,193 --> 01:20:23,401
+As soon as
+they're ready,
+
+1156
+01:20:23,486 --> 01:20:26,070
+we'll launch
+a second strike against Midway.
+
+1157
+01:20:26,155 --> 01:20:27,405
+Yes, sir.
+
+1158
+01:21:00,606 --> 01:21:02,815
+Fifty-seven planes
+on the line, sir.
+
+1159
+01:21:02,900 --> 01:21:06,402
+The Hornet
+will probably launch about the same number.
+
+1160
+01:21:07,196 --> 01:21:09,280
+What's the position
+of the enemy carriers?
+
+1161
+01:21:09,406 --> 01:21:11,491
+135 miles, sir.
+
+1162
+01:21:12,785 --> 01:21:13,868
+If we launch immediately,
+
+1163
+01:21:13,953 --> 01:21:16,412
+do our pilots
+have enough fuel to make the attack and return?
+
+1164
+01:21:16,664 --> 01:21:18,957
+Yes, sir.
+If this weather holds,
+
+1165
+01:21:19,416 --> 01:21:21,084
+if their navigation
+is perfect,
+
+1166
+01:21:21,168 --> 01:21:23,294
+and if they don't
+take too much time over the target.
+
+1167
+01:21:23,462 --> 01:21:25,046
+If we launch now,
+
+1168
+01:21:25,130 --> 01:21:28,383
+we just might catch Nagumo,
+like a sitting duck.
+
+1169
+01:21:29,009 --> 01:21:32,053
+But if we take time
+to move in close,
+
+1170
+01:21:32,137 --> 01:21:34,430
+that'll give him time
+to refuel and reload.
+
+1171
+01:21:35,099 --> 01:21:37,725
+Sir, that PBY reported
+only two carriers.
+
+1172
+01:21:37,810 --> 01:21:38,810
+I know.
+
+1173
+01:21:38,894 --> 01:21:41,145
+Intelligence says
+he has four on his strike force.
+
+1174
+01:21:41,564 --> 01:21:43,731
+Those other two
+suddenly pop up out of nowhere...
+
+1175
+01:21:44,149 --> 01:21:45,692
+Then we'd be
+sitting ducks.
+
+1176
+01:21:49,613 --> 01:21:51,739
+But there are
+two certain targets
+
+1177
+01:21:51,824 --> 01:21:54,325
+135 miles from here
+that don't expect us.
+
+1178
+01:21:57,538 --> 01:21:59,956
+Let's get
+Enterprise and Hornet turned into the wind.
+
+1179
+01:22:00,040 --> 01:22:01,374
+Yes, sir.
+
+1180
+01:22:03,919 --> 01:22:06,671
+GARTH: Admiral?
+Admiral?
+
+1181
+01:22:07,298 --> 01:22:09,048
+It's from
+Admiral Spruance, sir.
+
+1182
+01:22:09,133 --> 01:22:11,926
+Enterprise and Hornet
+are launching every aircraft they've got
+
+1183
+01:22:12,011 --> 01:22:14,137
+from maximum range.
+
+1184
+01:22:23,105 --> 01:22:25,648
+The air controller reports
+our Midway strike force
+
+1185
+01:22:25,733 --> 01:22:27,650
+will be over the deck
+in one hour, sir.
+
+1186
+01:22:27,735 --> 01:22:29,986
+Just the time
+we need to finish arming our bombers
+
+1187
+01:22:30,070 --> 01:22:31,696
+for the second strike
+on Midway.
+
+1188
+01:22:31,780 --> 01:22:34,782
+Your confidence is
+most reassuring, Kusaka.
+
+1189
+01:22:35,618 --> 01:22:38,870
+Our scout planes
+still haven't reported enemy carriers nearby.
+
+1190
+01:22:38,954 --> 01:22:41,039
+They should be starting
+their homeward leg now.
+
+1191
+01:22:41,749 --> 01:22:44,125
+All except
+Scout Number 4.
+
+1192
+01:23:05,731 --> 01:23:07,607
+Ten enemy ships
+sighted.
+
+1193
+01:23:07,691 --> 01:23:11,986
+Bearing 010 degrees.
+Distance, 240 miles from Midway.
+
+1194
+01:23:12,071 --> 01:23:14,947
+Course, 150 degrees.
+Speed, 20 knots.
+
+1195
+01:23:15,366 --> 01:23:17,033
+Which scout radioed
+the contact?
+
+1196
+01:23:17,826 --> 01:23:18,910
+Number 4, sir.
+
+1197
+01:23:22,456 --> 01:23:24,248
+How far along are we
+on the rearming?
+
+1198
+01:23:24,333 --> 01:23:25,541
+Almost half way, sir.
+
+1199
+01:23:25,626 --> 01:23:27,377
+Order it halted.
+But, sir.
+
+1200
+01:23:27,461 --> 01:23:31,130
+Radio Scout 4
+to ascertain ship types and maintain contact.
+
+1201
+01:23:31,382 --> 01:23:32,465
+RADIOMAN: Yes, sir.
+
+1202
+01:23:42,101 --> 01:23:45,061
+Friendlies, sir.
+Our search planes returning.
+
+1203
+01:23:45,145 --> 01:23:48,856
+They'll be back aboard
+in less than 15 minutes, sir.
+
+1204
+01:23:48,941 --> 01:23:51,526
+Ask Captain Buckmaster
+to see to it, Murr.
+
+1205
+01:23:51,610 --> 01:23:53,319
+Our planes
+from Enterprise and Hornet
+
+1206
+01:23:53,404 --> 01:23:56,864
+should hit the Jap carriers
+in just under an hour, sir.
+
+1207
+01:23:57,533 --> 01:23:59,659
+Well, not on
+the same course?
+
+1208
+01:24:01,036 --> 01:24:03,454
+Now we're counting
+on it, Admiral.
+
+1209
+01:24:04,039 --> 01:24:06,582
+Nagumo has to
+hold course until he recovers his planes
+
+1210
+01:24:06,667 --> 01:24:09,168
+coming back from
+that Midway strike.
+
+1211
+01:24:09,753 --> 01:24:12,797
+240 degrees ought to
+put our people right smack on top of him
+
+1212
+01:24:12,881 --> 01:24:14,340
+with his flight decks
+full of unfueled aircraft.
+
+1213
+01:24:29,523 --> 01:24:31,899
+I don't see our fighters
+anywhere, sir.
+
+1214
+01:24:31,984 --> 01:24:33,651
+They should've
+caught up to us by now.
+
+1215
+01:24:33,736 --> 01:24:35,319
+And where's
+Bombing 8, Skipper?
+
+1216
+01:24:36,113 --> 01:24:38,531
+With Fighting 8, Dobbs.
+They took off together.
+
+1217
+01:24:39,491 --> 01:24:42,201
+Ain't they supposed to be
+tagging along with us?
+
+1218
+01:24:44,538 --> 01:24:47,290
+GAY ON RADIO:
+Red Fox Leader from Kit 3.
+
+1219
+01:24:48,125 --> 01:24:50,084
+Red Fox Leader
+from Kit 3.
+
+1220
+01:24:50,169 --> 01:24:54,088
+Skipper, either my compass
+is all fouled up or we're now headed 240.
+
+1221
+01:24:55,841 --> 01:24:58,050
+There's nothing
+out there but empty ocean.
+
+1222
+01:24:58,135 --> 01:25:00,261
+I know where
+the Japs will be, Mr. Gay.
+
+1223
+01:25:02,347 --> 01:25:04,056
+Think you might
+let us in on it, sir?
+
+1224
+01:25:04,767 --> 01:25:07,226
+I figure they moved
+since we launched.
+
+1225
+01:25:07,311 --> 01:25:09,896
+East, heading out
+away from Midway.
+
+1226
+01:25:10,522 --> 01:25:11,647
+Out.
+
+1227
+01:25:12,983 --> 01:25:14,192
+Roger.
+
+1228
+01:25:14,359 --> 01:25:17,028
+What good's our orders
+if the skipper's gonna lead us off on his own?
+
+1229
+01:25:17,404 --> 01:25:18,696
+I don't like it, sir.
+
+1230
+01:25:19,490 --> 01:25:21,491
+Huntington,
+now you take it easy, hear?
+
+1231
+01:25:21,575 --> 01:25:23,951
+If anybody
+can find the Japs, Waldron can.
+
+1232
+01:25:24,036 --> 01:25:26,412
+He's part Sioux Indian,
+for Christ's sake.
+
+1233
+01:25:33,837 --> 01:25:36,672
+Sir, another message
+from Scout 4.
+
+1234
+01:25:39,218 --> 01:25:42,929
+Three additional
+enemy ships sighted, 250 miles from Midway.
+
+1235
+01:25:43,013 --> 01:25:44,555
+Speed, 20 knots.
+
+1236
+01:25:44,640 --> 01:25:49,185
+Apparently two cruisers,
+a carrier believed to be the Yorktown.
+
+1237
+01:25:49,645 --> 01:25:53,773
+Impossible. The Yorktown
+was virtually blown out of the water at Coral Sea.
+
+1238
+01:25:53,857 --> 01:25:55,274
+They can't have
+repaired her
+
+1239
+01:25:55,359 --> 01:25:57,693
+and brought her
+this far west in less than 10 days.
+
+1240
+01:25:58,153 --> 01:26:00,071
+We must assume
+that they have!
+
+1241
+01:26:00,489 --> 01:26:02,990
+If it is the Yorktown,
+we must destroy her at once, sir.
+
+1242
+01:26:03,867 --> 01:26:05,076
+I see.
+
+1243
+01:26:05,953 --> 01:26:08,871
+Now, suddenly,
+the threat of Midway's bombers
+
+1244
+01:26:08,956 --> 01:26:10,623
+seems less to you
+than it did
+
+1245
+01:26:10,707 --> 01:26:14,752
+when you urged me
+to switch our planes from torpedoes to bombs!
+
+1246
+01:26:14,837 --> 01:26:17,922
+Admiral, Midway
+will have to wait, sir.
+
+1247
+01:26:18,006 --> 01:26:19,590
+We should
+rearm our bombers immediately
+
+1248
+01:26:19,675 --> 01:26:21,092
+and attack
+that enemy carrier.
+
+1249
+01:26:21,718 --> 01:26:24,011
+Back to torpedoes
+again, Kusaka?
+
+1250
+01:26:24,972 --> 01:26:26,180
+More wasted time!
+
+1251
+01:26:26,265 --> 01:26:29,016
+Lieutenant Tomonaga,
+this is Commander Genda.
+
+1252
+01:26:29,101 --> 01:26:30,184
+Do you read me?
+
+1253
+01:26:33,438 --> 01:26:36,691
+Lieutenant Tomonaga,
+this is Commander Genda.
+
+1254
+01:26:36,775 --> 01:26:38,276
+Do you read me?
+
+1255
+01:26:38,360 --> 01:26:40,278
+TOMONAGA: I read you, sir.
+Report, please.
+
+1256
+01:26:40,821 --> 01:26:42,905
+Request permission
+to land, sir.
+
+1257
+01:26:42,990 --> 01:26:46,158
+Many of my pilots reporting
+near-empty fuel tanks.
+
+1258
+01:26:46,243 --> 01:26:48,494
+Some have taken
+anti-aircraft hits.
+
+1259
+01:26:48,579 --> 01:26:50,538
+Urgent we land
+immediately, sir.
+
+1260
+01:26:51,456 --> 01:26:53,291
+Sir, do I have
+your permission?
+
+1261
+01:26:53,917 --> 01:26:56,419
+Admiral Yamaguchi advises
+that we launch an attack
+
+1262
+01:26:56,503 --> 01:26:58,504
+on the American carrier
+immediately.
+
+1263
+01:26:58,589 --> 01:27:01,257
+That we send
+our bombers out, however they're armed.
+
+1264
+01:27:01,341 --> 01:27:02,884
+And while we're
+launching, sir,
+
+1265
+01:27:02,968 --> 01:27:05,136
+Tomonaga's pilots
+will be crashing into the sea!
+
+1266
+01:27:05,888 --> 01:27:08,431
+They're running
+out of fuel, Admiral.
+
+1267
+01:27:16,398 --> 01:27:17,773
+All right.
+
+1268
+01:27:18,692 --> 01:27:22,069
+Wait until we've recovered
+all our airborne aircraft.
+
+1269
+01:27:22,321 --> 01:27:24,614
+While the flight deck
+is being used for the recovery,
+
+1270
+01:27:24,698 --> 01:27:27,116
+rearm our bombers
+with torpedoes.
+
+1271
+01:27:27,618 --> 01:27:30,119
+Then we'll launch the attack
+on the American carrier.
+
+1272
+01:27:30,412 --> 01:27:31,537
+Sir.
+
+1273
+01:27:32,873 --> 01:27:33,915
+Lieutenant Tomonaga.
+
+1274
+01:27:43,216 --> 01:27:46,344
+That's the last of our
+scout planes, Admiral.
+
+1275
+01:27:47,095 --> 01:27:49,847
+Tell Elliott to
+launch everything we've got.
+
+1276
+01:27:49,932 --> 01:27:51,390
+Aye-aye, sir.
+
+1277
+01:27:59,232 --> 01:28:01,275
+MAN ON PA:
+Pilots, man your planes!
+
+1278
+01:28:01,360 --> 01:28:03,069
+General quarters,
+general quarters,
+
+1279
+01:28:03,153 --> 01:28:05,571
+all units
+man your battle stations.
+
+1280
+01:29:33,035 --> 01:29:35,911
+Admiral, all aircraft
+now aboard, sir.
+
+1281
+01:29:36,455 --> 01:29:37,621
+Tomonaga?
+
+1282
+01:29:37,706 --> 01:29:39,915
+He was the last
+to touch down.
+
+1283
+01:29:41,084 --> 01:29:43,252
+I want to close the range
+on that enemy carrier.
+
+1284
+01:29:43,336 --> 01:29:45,421
+Steer northeast,
+battle speed!
+
+1285
+01:29:45,505 --> 01:29:46,714
+Yes, sir.
+
+1286
+01:29:58,602 --> 01:30:00,311
+From Admiral Nagumo, sir.
+
+1287
+01:30:00,395 --> 01:30:02,354
+"Enemy force
+composed of one carrier,
+
+1288
+01:30:02,439 --> 01:30:04,440
+"five cruisers,
+five destroyers.
+
+1289
+01:30:04,524 --> 01:30:07,818
+"Sighted 250 miles
+from Midway. We are headed for it."
+
+1290
+01:30:07,903 --> 01:30:09,445
+One carrier?
+
+1291
+01:30:11,031 --> 01:30:14,784
+Close to Midway.
+Not Pearl Harbor!
+
+1292
+01:30:15,577 --> 01:30:17,495
+Admiral Nagumo
+will simply destroy it
+
+1293
+01:30:17,579 --> 01:30:20,206
+a few days earlier
+than we had planned.
+
+1294
+01:30:26,671 --> 01:30:28,380
+Oh, thanks, Matt.
+
+1295
+01:30:28,882 --> 01:30:30,257
+Boy, I'd give
+my retirement pay
+
+1296
+01:30:30,342 --> 01:30:32,051
+to know what Nagumo's
+doing right now.
+
+1297
+01:30:32,135 --> 01:30:35,179
+The same thing
+we are, Admiral, sweating it out.
+
+1298
+01:30:48,276 --> 01:30:49,485
+Skipper!
+
+1299
+01:30:55,659 --> 01:30:56,992
+I see it.
+
+1300
+01:30:57,869 --> 01:30:59,078
+What'd I tell you,
+Huntington?
+
+1301
+01:30:59,538 --> 01:31:01,747
+The skipper
+can smell them out.
+
+1302
+01:31:06,753 --> 01:31:09,171
+Dobbs, see if you can raise
+Bombing 8 and Fighting 8.
+
+1303
+01:31:09,256 --> 01:31:10,548
+They can't be
+too far away.
+
+1304
+01:31:10,841 --> 01:31:12,341
+You better
+coordinate the attack.
+
+1305
+01:31:12,425 --> 01:31:13,717
+Yes, sir.
+
+1306
+01:31:13,802 --> 01:31:21,809
+Red Fox 8 Leader
+to Badger 8 Leader.
+
+1307
+01:31:21,893 --> 01:31:23,477
+Do you read me? Over.
+
+1308
+01:31:24,521 --> 01:31:28,065
+Okay, we can't wait all day.
+You better get ready, Dobbs.
+
+1309
+01:31:28,859 --> 01:31:31,485
+Red Fox Leader to Kits,
+we're going in!
+
+1310
+01:31:31,653 --> 01:31:34,155
+Divisions 2 and 4,
+take the carrier support.
+
+1311
+01:31:34,239 --> 01:31:36,740
+Divisions 1 and 3,
+ram it to the other two.
+
+1312
+01:31:37,117 --> 01:31:39,743
+And stay together
+as long as you can.
+
+1313
+01:31:39,828 --> 01:31:42,371
+I say again,
+stay in tight!
+
+1314
+01:31:57,804 --> 01:32:01,015
+Admiral,
+enemy torpedo bombers, off the port quarter!
+
+1315
+01:32:14,237 --> 01:32:17,156
+They're coming in
+without fighter protection.
+
+1316
+01:32:17,365 --> 01:32:19,742
+Suicide,
+mindless suicide!
+
+1317
+01:32:19,910 --> 01:32:20,951
+Perhaps.
+
+1318
+01:32:21,036 --> 01:32:23,120
+But is an effective
+technique.
+
+1319
+01:32:23,205 --> 01:32:25,206
+We can't launch our attack
+against their carrier
+
+1320
+01:32:25,290 --> 01:32:27,249
+while we're busy
+dodging them.
+
+1321
+01:32:27,334 --> 01:32:29,376
+They're using up
+all our fighters.
+
+1322
+01:32:29,544 --> 01:32:33,130
+WALDRON: Fox Leader
+to Kit 3, bandits, eleven o'clock! Look out!
+
+1323
+01:32:33,924 --> 01:32:36,800
+Dead ahead,
+Kit 4, two of them. Shoot, Andy, shoot!
+
+1324
+01:32:40,347 --> 01:32:42,681
+OFFICER 1: This is Kit 6,
+I got three of them on my tail.
+
+1325
+01:32:42,766 --> 01:32:44,308
+For Christ sake,
+somebody help me!
+
+1326
+01:32:54,945 --> 01:32:58,405
+OFFICER 2: Danny, below you,
+bandits! No, no!
+
+1327
+01:33:00,909 --> 01:33:03,702
+Oh, my God, Danny, bail out!
+Bail out!
+
+1328
+01:33:05,789 --> 01:33:08,457
+Bail out, Danny!
+Bail out!
+
+1329
+01:33:15,340 --> 01:33:17,383
+WALDRON:
+Fox Leader to Kit, stay in formation!
+
+1330
+01:33:17,467 --> 01:33:20,302
+Damn it, close up,
+you idiots! They'll chop us to pieces!
+
+1331
+01:33:20,387 --> 01:33:22,012
+Close in! Close in!
+
+1332
+01:33:22,097 --> 01:33:23,889
+PILOT:
+I'm hit, I'm hit! Oh, Jesus!
+
+1333
+01:33:30,021 --> 01:33:32,731
+WALDRON:
+Dobbs, behind you! Bandits behind you!
+
+1334
+01:33:33,650 --> 01:33:35,234
+Dobbs, look out!
+
+1335
+01:33:39,114 --> 01:33:42,992
+GAY: Huntington,
+three of them coming in at ten o'clock!
+
+1336
+01:33:51,251 --> 01:33:52,668
+Huntington!
+
+1337
+01:33:53,670 --> 01:33:55,671
+Huntington, Huntington!
+
+1338
+01:33:59,384 --> 01:34:00,968
+Close in, Mr. Gay.
+Follow me.
+
+1339
+01:34:21,156 --> 01:34:23,240
+GAY: Commander Waldron,
+get your nose up!
+
+1340
+01:34:25,243 --> 01:34:27,745
+Commander Waldron,
+pull up, pull up!
+
+1341
+01:35:25,428 --> 01:35:26,512
+What the hell happened?
+
+1342
+01:35:26,596 --> 01:35:28,722
+One of our
+torpedo groups attacked.
+
+1343
+01:35:28,807 --> 01:35:31,517
+Yeah, but which one?
+I mean, what the hell happened?
+
+1344
+01:35:35,897 --> 01:35:37,523
+Casualty report, sir.
+
+1345
+01:35:37,607 --> 01:35:39,650
+One of our fighters
+suffered a minor hit,
+
+1346
+01:35:39,734 --> 01:35:42,152
+no shipboard damage,
+no casualties.
+
+1347
+01:35:47,784 --> 01:35:49,493
+A whole squadron.
+
+1348
+01:35:50,995 --> 01:35:52,996
+Fifteen brave crews.
+
+1349
+01:36:13,476 --> 01:36:16,103
+Torpedo 3 going in
+at 1,500 feet, sir.
+
+1350
+01:36:16,187 --> 01:36:18,105
+Bombing 3
+and Fighting 3 at 19,000,
+
+1351
+01:36:18,189 --> 01:36:19,231
+and 15 minutes
+to target.
+
+1352
+01:36:19,315 --> 01:36:20,524
+Who's coordinating
+the attack?
+
+1353
+01:36:20,608 --> 01:36:23,485
+Max Leslie, sir.
+He's leading Bombing 3.
+
+1354
+01:36:37,625 --> 01:36:41,253
+Helen Leader to Helen Group,
+time to arm our bombs.
+
+1355
+01:36:41,337 --> 01:36:44,006
+I say again, arm bombs!
+
+1356
+01:36:49,137 --> 01:36:50,888
+God damn it!
+
+1357
+01:36:53,057 --> 01:36:54,641
+This is Helen Leader,
+keep your hands
+
+1358
+01:36:54,726 --> 01:36:56,226
+off that damned
+electric arming switch!
+
+1359
+01:36:56,311 --> 01:36:59,646
+Use manual control!
+Use manual control!
+
+1360
+01:36:59,731 --> 01:37:00,981
+PILOT 1:
+Too late, Commander.
+
+1361
+01:37:01,065 --> 01:37:02,691
+PILOT 2:
+Mine dropped, too, Commander Leslie.
+
+1362
+01:37:02,775 --> 01:37:04,902
+PILOT 3:
+Mine dropped, too. Rotten gadget!
+
+1363
+01:37:04,986 --> 01:37:07,196
+Who the hell invented
+the electric arming switch?
+
+1364
+01:37:07,280 --> 01:37:09,656
+PILOT 4: Yamamoto,
+who the hell do you think?
+
+1365
+01:37:09,741 --> 01:37:11,658
+Now what are we gonna do?
+Drop spitballs on the Japs?
+
+1366
+01:37:11,743 --> 01:37:15,871
+All right, knock it off.
+The rest of you, use manual control!
+
+1367
+01:37:17,123 --> 01:37:18,916
+Helen Leader, out.
+
+1368
+01:37:44,317 --> 01:37:47,653
+Skipper, take a look
+at Chili Bean over here.
+
+1369
+01:37:50,573 --> 01:37:51,823
+I can feel them!
+
+1370
+01:37:52,825 --> 01:37:54,451
+Sure hope he's right.
+
+1371
+01:38:07,799 --> 01:38:11,635
+Bertha 3 Leader
+to Mabel 3 Leader.
+
+1372
+01:38:11,719 --> 01:38:13,637
+Thach, on the horizon!
+
+1373
+01:38:14,138 --> 01:38:18,767
+I've got three...
+Sweet Jesus! I got four Jap carriers.
+
+1374
+01:38:20,019 --> 01:38:22,688
+Holy hell,
+we hit the jackpot!
+
+1375
+01:38:29,696 --> 01:38:30,737
+Yes, sky watch.
+
+1376
+01:38:30,822 --> 01:38:32,197
+Enemy torpedo planes, sir.
+
+1377
+01:38:32,282 --> 01:38:33,282
+How many?
+
+1378
+01:38:33,366 --> 01:38:34,825
+Two separate groups.
+
+1379
+01:38:41,499 --> 01:38:43,500
+Bertha 3 Leader,
+Mabel 3 Leader.
+
+1380
+01:38:43,751 --> 01:38:46,086
+How's about it, Thach.
+You boys ready up there?
+
+1381
+01:38:46,713 --> 01:38:50,674
+Damn right we're ready.
+Let's go, Lem, we're running out of fuel.
+
+1382
+01:38:50,758 --> 01:38:53,677
+Roger. Bertha 3 Leader
+to Small Fry.
+
+1383
+01:38:53,845 --> 01:38:56,305
+Concentrate
+on the closest flattop.
+
+1384
+01:38:56,431 --> 01:38:58,724
+Push in close
+and get hits.
+
+1385
+01:38:59,100 --> 01:39:01,977
+I count 12 coming in
+from starboard, Admiral.
+
+1386
+01:39:02,061 --> 01:39:04,229
+Fourteen from
+port side, sir.
+
+1387
+01:39:04,314 --> 01:39:07,399
+All these
+torpedo planes can't be coming from one carrier.
+
+1388
+01:39:07,483 --> 01:39:09,401
+Well, they must be
+coming from Midway.
+
+1389
+01:39:09,527 --> 01:39:11,278
+Or a second carrier.
+
+1390
+01:39:11,821 --> 01:39:14,531
+Sir, we've heard
+nothing from Scout 4
+
+1391
+01:39:14,616 --> 01:39:16,074
+since it sighted
+the one enemy carrier.
+
+1392
+01:39:16,451 --> 01:39:17,743
+I think the Soryu
+should send out
+
+1393
+01:39:17,827 --> 01:39:18,952
+its scout plane
+for another look.
+
+1394
+01:39:19,120 --> 01:39:22,289
+We must make certain
+of what we are up against.
+
+1395
+01:39:22,749 --> 01:39:24,333
+See to it immediately.
+
+1396
+01:39:24,417 --> 01:39:25,500
+Yes, sir.
+
+1397
+01:39:38,264 --> 01:39:41,308
+Lining up to jump us,
+Thach. About 12 Zekes.
+
+1398
+01:39:42,226 --> 01:39:43,894
+We're right
+above them, Lem.
+
+1399
+01:39:43,978 --> 01:39:46,271
+Mabel 3 to Hustlers,
+let's break them up!
+
+1400
+01:40:05,458 --> 01:40:07,876
+Score one
+for Commander Thach!
+
+1401
+01:40:07,960 --> 01:40:09,920
+Four o'clock low.
+Coming in on you! Three of them!
+
+1402
+01:40:13,508 --> 01:40:16,677
+Atta boy, Tom!
+Run that bastard right into the drink!
+
+1403
+01:40:16,761 --> 01:40:18,637
+Blow it to him, Tommy.
+
+1404
+01:40:21,683 --> 01:40:23,850
+Ramos, two o'clock!
+Two o'clock!
+
+1405
+01:40:31,567 --> 01:40:33,276
+Nice shooting, Ramos!
+
+1406
+01:40:33,820 --> 01:40:35,487
+Chalk up one
+for Chili Bean.
+
+1407
+01:40:38,783 --> 01:40:41,118
+One o'clock, Manson.
+One o'clock!
+
+1408
+01:40:47,041 --> 01:40:49,501
+You got him!
+Nice going, Manson.
+
+1409
+01:40:55,425 --> 01:40:56,883
+Mabel Leader
+to Hustler 2,
+
+1410
+01:40:57,093 --> 01:40:59,344
+three bandits
+at twelve o'clock diving on you!
+
+1411
+01:40:59,429 --> 01:41:02,931
+Roll out, Tom!
+Roll out! Climb, climb!
+
+1412
+01:41:28,624 --> 01:41:29,666
+Yes.
+
+1413
+01:41:29,751 --> 01:41:31,585
+We've crushed
+every one of their air attacks,
+
+1414
+01:41:31,669 --> 01:41:33,712
+and not one torpedo
+has even come close.
+
+1415
+01:41:34,881 --> 01:41:38,300
+Sacrifice themselves
+like samurai, these Americans.
+
+1416
+01:41:38,718 --> 01:41:41,678
+Sir, the fighter director
+reports that last attack
+
+1417
+01:41:41,763 --> 01:41:44,264
+pulled our entire
+fighter cover down to sea level.
+
+1418
+01:41:44,348 --> 01:41:46,933
+They're off now,
+wave-hopping after the survivors.
+
+1419
+01:41:47,894 --> 01:41:49,519
+We have no fighter
+umbrella over us?
+
+1420
+01:41:49,604 --> 01:41:50,687
+No, sir.
+
+1421
+01:41:50,772 --> 01:41:54,941
+We're trying to recall them,
+get them back up to the patrol altitude.
+
+1422
+01:41:55,026 --> 01:41:57,402
+How many fighters
+are standing by to cover our attack
+
+1423
+01:41:57,487 --> 01:41:59,863
+against the
+American carrier?
+
+1424
+01:41:59,989 --> 01:42:02,240
+Barely enough
+to do the job, sir.
+
+1425
+01:42:28,017 --> 01:42:31,645
+They're American carriers,
+no doubt about it, Yorktown class.
+
+1426
+01:42:31,729 --> 01:42:34,439
+Get through
+to Nagumo's flagship. Be quick about it!
+
+1427
+01:42:41,864 --> 01:42:43,198
+Why are you waiting for?
+
+1428
+01:42:43,324 --> 01:42:44,658
+The transmitter
+isn't working, sir.
+
+1429
+01:42:44,742 --> 01:42:46,576
+We're not sending out
+any signal!
+
+1430
+01:43:01,884 --> 01:43:03,635
+What's that look like
+to you down there?
+
+1431
+01:43:08,099 --> 01:43:09,432
+A Jap destroyer!
+
+1432
+01:43:10,601 --> 01:43:13,270
+Going someplace
+in one hell of a hurry.
+
+1433
+01:43:18,025 --> 01:43:20,360
+Okay, let's follow it.
+See where it leads us.
+
+1434
+01:43:21,571 --> 01:43:23,864
+Commander McClusky,
+look at your fuel gauge.
+
+1435
+01:43:23,948 --> 01:43:25,824
+We've gotta
+turn back now or...
+
+1436
+01:43:25,908 --> 01:43:27,492
+I know, I know.
+
+1437
+01:43:34,292 --> 01:43:37,627
+The last two attacks
+were made by more than 50 torpedo planes.
+
+1438
+01:43:37,712 --> 01:43:39,254
+Fifty, Kusaka.
+
+1439
+01:43:39,755 --> 01:43:43,550
+There is more than
+one enemy carrier nearby, there must be!
+
+1440
+01:43:43,759 --> 01:43:44,843
+Admiral.
+
+1441
+01:43:44,927 --> 01:43:47,387
+Genda, why hasn't
+Soryu's scout plane reported?
+
+1442
+01:43:47,471 --> 01:43:48,513
+We don't know, sir.
+
+1443
+01:43:48,598 --> 01:43:50,974
+It should have sighted
+the American ships 10 minutes ago.
+
+1444
+01:43:51,350 --> 01:43:54,311
+Sir, all the bombers
+are rearmed and ready.
+
+1445
+01:44:00,318 --> 01:44:03,987
+Signal all carriers,
+launch immediately!
+
+1446
+01:44:12,496 --> 01:44:16,666
+PILOT: Raven Leader,
+there they are, dead ahead. Sweet mother, look at them!
+
+1447
+01:44:17,001 --> 01:44:19,210
+The whole Jap navy!
+
+1448
+01:44:19,295 --> 01:44:20,378
+This is Raven Leader.
+
+1449
+01:44:20,463 --> 01:44:24,049
+Pipe down
+and stay off the air till I report contact!
+
+1450
+01:44:24,508 --> 01:44:27,510
+Raven Leader
+to Mother Goose.
+
+1451
+01:44:27,845 --> 01:44:31,473
+Have them in sight.
+Four enemy carriers.
+
+1452
+01:44:31,557 --> 01:44:34,893
+I say again,
+four enemy carriers.
+
+1453
+01:44:47,198 --> 01:44:48,823
+WILSON: Helen Leader
+to Bertha Leader!
+
+1454
+01:44:48,908 --> 01:44:50,367
+Helen Leader
+to Mabel Leader!
+
+1455
+01:44:50,618 --> 01:44:52,702
+Come in, Bertha!
+Come in, Mabel!
+
+1456
+01:44:53,746 --> 01:44:56,831
+This is Helen Leader.
+We have made contact.
+
+1457
+01:44:56,916 --> 01:44:59,209
+Come in, Bertha.
+Come in, Mabel.
+
+1458
+01:45:00,753 --> 01:45:02,629
+I'm sorry,
+Commander Leslie.
+
+1459
+01:45:02,713 --> 01:45:04,756
+Torpedo 3
+and Fighter 3 don't answer.
+
+1460
+01:45:05,758 --> 01:45:08,802
+Keep trying, Wilson.
+We're supposed to coordinate our attack.
+
+1461
+01:45:09,178 --> 01:45:11,262
+Maybe they got balled up
+on their navigation, sir,
+
+1462
+01:45:11,347 --> 01:45:14,140
+or maybe
+we're not at the right rendezvous point.
+
+1463
+01:45:14,517 --> 01:45:16,434
+Keep trying, damn it!
+
+1464
+01:45:17,186 --> 01:45:18,937
+Mabel Leader,
+come in, Mabel Leader!
+
+1465
+01:45:24,193 --> 01:45:26,903
+Raven Leader to flock,
+looks like they're turning into the wind,
+
+1466
+01:45:26,988 --> 01:45:28,363
+getting ready
+to launch.
+
+1467
+01:45:28,447 --> 01:45:29,990
+JACCARD: Where's
+their fighter patrol?
+
+1468
+01:45:30,074 --> 01:45:31,408
+I don't see
+any Jap fighters, sir.
+
+1469
+01:45:31,492 --> 01:45:34,411
+Well, let's not wait
+for them. Follow me.
+
+1470
+01:45:38,374 --> 01:45:39,624
+It's no use, sir.
+
+1471
+01:45:39,709 --> 01:45:42,752
+Commander Massey
+and Commander Thach still don't answer.
+
+1472
+01:45:42,837 --> 01:45:45,046
+Okay, Wilson, hang on.
+We're going in.
+
+1473
+01:45:45,423 --> 01:45:47,007
+Sir, we don't have a bomb!
+
+1474
+01:45:47,091 --> 01:45:50,218
+Well, we can draw some heat
+off the guys who do.
+
+1475
+01:45:50,553 --> 01:45:52,345
+This is Helen Leader.
+
+1476
+01:45:52,722 --> 01:45:56,057
+We'll concentrate
+on that big bastard up forward.
+
+1477
+01:46:54,825 --> 01:46:57,577
+Raven Leader
+to Raven One, Raven Two. You missed, damn it!
+
+1478
+01:46:57,661 --> 01:46:58,953
+Raven 1
+to Raven Leader.
+
+1479
+01:46:59,038 --> 01:47:00,705
+Commander McClusky,
+they've got bombs
+
+1480
+01:47:00,790 --> 01:47:02,874
+stacked all over
+their flight deck!
+
+1481
+01:47:03,459 --> 01:47:05,585
+Bull's eye! Bull's eye!
+
+1482
+01:47:10,925 --> 01:47:14,969
+Scratch one flattop!
+Sweet mother, we caught him cold!
+
+1483
+01:47:15,054 --> 01:47:18,598
+Raven Leader to Raven 6.
+I got a hit, Commander McClusky.
+
+1484
+01:47:20,476 --> 01:47:23,019
+PILOT 2: Ram it home,
+girls, ram it home!
+
+1485
+01:47:23,646 --> 01:47:25,438
+Cream the bastards!
+
+1486
+01:47:27,900 --> 01:47:30,443
+Bull's eye, Helen 5.
+Bull's eye!
+
+1487
+01:47:33,823 --> 01:47:37,242
+Commander Leslie,
+I got a hit right down their throat.
+
+1488
+01:47:37,326 --> 01:47:39,077
+Look at that
+bastard burn!
+
+1489
+01:47:39,161 --> 01:47:41,579
+LESLIE: Beautiful,
+Helen 3, dead center!
+
+1490
+01:47:56,178 --> 01:47:58,304
+My God, we caught
+them flat-footed!
+
+1491
+01:47:58,389 --> 01:48:00,515
+No fighters, cover decks
+loaded with bombs!
+
+1492
+01:48:00,599 --> 01:48:03,101
+Sweet Mary-Anne,
+how'd we get so lucky?
+
+1493
+01:48:30,838 --> 01:48:34,966
+Helen Leader to squadron,
+three enemy carriers burning.
+
+1494
+01:48:35,509 --> 01:48:37,177
+Time to go home.
+
+1495
+01:49:15,382 --> 01:49:18,843
+Admiral, you must
+transfer your flag.
+
+1496
+01:49:19,261 --> 01:49:21,137
+The cruiser Nagara
+is close by.
+
+1497
+01:49:23,057 --> 01:49:25,725
+Advise Admiral Yamaguchi.
+
+1498
+01:49:32,149 --> 01:49:35,693
+I can't tell you where
+to find the enemy carriers, Lieutenant Kobayashi.
+
+1499
+01:49:35,778 --> 01:49:39,822
+Their last position
+was radioed by Scout 4. It's several hours old.
+
+1500
+01:49:40,241 --> 01:49:42,367
+Hasn't the
+Soryu scout reported, sir?
+
+1501
+01:49:42,451 --> 01:49:44,535
+It hasn't been
+heard from since it was launched.
+
+1502
+01:49:44,620 --> 01:49:46,162
+Then how do I
+find him, sir?
+
+1503
+01:49:46,247 --> 01:49:50,708
+Lead your group toward
+the last reported position here northeast of us
+
+1504
+01:49:51,335 --> 01:49:55,255
+and then just trust
+your luck that somehow you'll find them.
+
+1505
+01:50:07,977 --> 01:50:09,769
+Do you
+hear anything?
+
+1506
+01:50:09,853 --> 01:50:10,853
+Nothing, sir.
+
+1507
+01:50:10,938 --> 01:50:14,148
+All enemy ship
+and aircraft frequencies are silent.
+
+1508
+01:50:20,656 --> 01:50:22,699
+Lieutenant, enemy planes!
+
+1509
+01:50:22,783 --> 01:50:23,866
+I see them.
+
+1510
+01:50:28,622 --> 01:50:30,665
+Our fighters
+are forming for an attack!
+
+1511
+01:50:32,960 --> 01:50:34,711
+Signal them
+to lay back with the rest of us.
+
+1512
+01:50:34,795 --> 01:50:36,754
+Use your light,
+stay off the radio!
+
+1513
+01:50:36,839 --> 01:50:37,797
+Yes, sir.
+
+1514
+01:50:37,881 --> 01:50:40,800
+We'll let them lead
+us to their carrier.
+
+1515
+01:50:52,187 --> 01:50:54,522
+I count
+all Max Leslie's bombers, sir.
+
+1516
+01:50:54,606 --> 01:50:57,066
+Well, where
+the hell are the rest of Thach's fighters?
+
+1517
+01:50:57,484 --> 01:50:58,901
+Off the port quarter, sir.
+
+1518
+01:51:05,951 --> 01:51:07,660
+I'll bring
+the fighters down first.
+
+1519
+01:51:07,745 --> 01:51:10,246
+They'll be the
+lowest on fuel.
+
+1520
+01:52:14,436 --> 01:52:15,603
+Jesus!
+
+1521
+01:52:32,496 --> 01:52:34,330
+He's alive, Captain.
+
+1522
+01:52:36,458 --> 01:52:37,750
+Flight Mission Combat.
+
+1523
+01:52:37,918 --> 01:52:38,960
+Go ahead, Combat.
+
+1524
+01:52:39,211 --> 01:52:42,130
+Radar has a third
+group of aircraft, definitely bandits.
+
+1525
+01:52:42,214 --> 01:52:44,799
+020, 30 miles
+and approaching, sir.
+
+1526
+01:52:45,008 --> 01:52:46,050
+Roger.
+
+1527
+01:52:46,135 --> 01:52:48,928
+Bandits, sir.
+020, approaching 30 miles.
+
+1528
+01:52:50,931 --> 01:52:52,098
+Sound general quarters.
+
+1529
+01:54:34,952 --> 01:54:38,454
+Sir, we took
+a bomb on our side. The boilers are out.
+
+1530
+01:54:40,123 --> 01:54:41,707
+Admiral,
+the radio's down.
+
+1531
+01:54:41,792 --> 01:54:44,210
+We can't send
+visual signals with all this smoke.
+
+1532
+01:54:44,503 --> 01:54:47,547
+You'll have to
+transfer the flag, sir. I suggest the Astoria.
+
+1533
+01:54:47,631 --> 01:54:49,882
+Matt, you better stay aboard,
+help Murray with flight ops.
+
+1534
+01:54:49,967 --> 01:54:51,259
+Aye, sir.
+
+1535
+01:54:54,054 --> 01:54:55,096
+Lower the barge.
+
+1536
+01:54:55,764 --> 01:54:57,014
+Order Admiral's
+barge lowered!
+
+1537
+01:54:57,349 --> 01:54:58,558
+Aye-aye, sir.
+
+1538
+01:55:03,814 --> 01:55:07,650
+This is Zephyr
+calling Whirlwind. Zephyr to Whirlwind.
+
+1539
+01:55:08,277 --> 01:55:09,819
+Enemy carrier on fire!
+
+1540
+01:55:10,112 --> 01:55:13,948
+I repeat,
+enemy carrier on fire. Returning to base.
+
+1541
+01:55:14,283 --> 01:55:15,741
+That wasn't
+Kobayashi's voice.
+
+1542
+01:55:15,867 --> 01:55:17,326
+It was Petty Officer
+Nakoda, sir.
+
+1543
+01:55:17,411 --> 01:55:20,079
+Apparently none
+of the senior officers survived.
+
+1544
+01:55:20,163 --> 01:55:22,915
+Captain, the scout plane
+from the Soryu is approaching.
+
+1545
+01:55:23,000 --> 01:55:24,333
+He signaled that
+his radio is out.
+
+1546
+01:55:29,423 --> 01:55:30,506
+He's gonna
+be okay, Captain.
+
+1547
+01:55:30,591 --> 01:55:33,384
+We're gonna transfer him
+in half an hour or so, sir.
+
+1548
+01:55:54,740 --> 01:55:56,282
+Hi, Dad.
+
+1549
+01:55:59,620 --> 01:56:02,079
+I'll see you back
+at Pearl, Tom.
+
+1550
+01:56:05,208 --> 01:56:08,210
+There's a picture
+of Haruko and me
+
+1551
+01:56:09,254 --> 01:56:11,088
+that I'd like you
+to bring ashore.
+
+1552
+01:56:13,175 --> 01:56:14,884
+Sure, I'll take
+care of it, tiger.
+
+1553
+01:56:21,224 --> 01:56:22,725
+Thanks, Dad.
+
+1554
+01:56:31,068 --> 01:56:33,694
+DELANEY: Only one
+boiler is lit, sir. The other five are out.
+
+1555
+01:56:33,779 --> 01:56:35,196
+Can you get them
+on the line again?
+
+1556
+01:56:35,572 --> 01:56:36,530
+Yes, sir.
+
+1557
+01:56:36,615 --> 01:56:39,241
+I think I can guarantee
+you about 15 knots in an hour or so.
+
+1558
+01:56:39,409 --> 01:56:40,534
+Very good.
+
+1559
+01:56:40,619 --> 01:56:43,496
+Now, Delaney,
+pass the word along to your black gang.
+
+1560
+01:56:43,580 --> 01:56:45,581
+We've got
+the topside fires under control.
+
+1561
+01:56:45,791 --> 01:56:47,208
+Aye-aye, sir.
+
+1562
+01:56:49,419 --> 01:56:51,504
+Matt, we have
+more planes than pilots now.
+
+1563
+01:56:51,588 --> 01:56:53,756
+Can you fly one off
+for me when we go?
+
+1564
+01:56:53,840 --> 01:56:55,257
+Sure, Murr.
+
+1565
+01:57:03,183 --> 01:57:04,767
+Did you confirm it?
+Yes, sir.
+
+1566
+01:57:04,851 --> 01:57:06,811
+Admiral Fletcher's
+reply just came in.
+
+1567
+01:57:06,895 --> 01:57:11,148
+"Fletcher to Nimitz,
+confirm previous report, three enemy carriers afire."
+
+1568
+01:57:11,233 --> 01:57:12,900
+Hallelujah!
+
+1569
+01:57:13,151 --> 01:57:16,445
+Three of their
+first-line carriers, Admiral!
+
+1570
+01:57:16,530 --> 01:57:19,323
+Isn't that worth at least
+a "hot-diggity-damn"?
+
+1571
+01:57:19,533 --> 01:57:21,200
+I'll take it
+under advisement, Joe,
+
+1572
+01:57:21,284 --> 01:57:23,869
+but there's still that
+fourth enemy carrier to deal with.
+
+1573
+01:57:23,954 --> 01:57:26,372
+There's also
+a message from Captain Buckmaster, sir,
+
+1574
+01:57:26,456 --> 01:57:27,832
+the Yorktown's
+been hit.
+
+1575
+01:57:27,916 --> 01:57:29,291
+Badly?
+Yes, sir.
+
+1576
+01:57:29,376 --> 01:57:32,169
+But she is
+underway again. Operational.
+
+1577
+01:57:32,546 --> 01:57:36,382
+My gosh,
+our whole force may be in jeopardy
+
+1578
+01:57:36,466 --> 01:57:38,217
+if the Japanese
+located the Yorktown.
+
+1579
+01:57:38,301 --> 01:57:40,845
+They still got
+a tremendous fleet out there, Admiral.
+
+1580
+01:57:40,929 --> 01:57:43,889
+But that fourth carrier
+can't be far off.
+
+1581
+01:57:45,225 --> 01:57:48,227
+We've already won
+a great victory, Admiral.
+
+1582
+01:57:49,146 --> 01:57:51,272
+Maybe we ought
+to get our people out of there.
+
+1583
+01:57:51,815 --> 01:57:53,649
+You mean, break off,
+run for home?
+
+1584
+01:57:54,151 --> 01:57:56,152
+Before they can
+hurt us again? Yes, sir.
+
+1585
+01:57:59,865 --> 01:58:02,658
+Well, that might be
+the smart play, Commander.
+
+1586
+01:58:02,743 --> 01:58:06,537
+Trouble is, I want
+that fourth carrier.
+
+1587
+01:58:21,428 --> 01:58:22,470
+What's the matter?
+
+1588
+01:58:22,554 --> 01:58:25,347
+Your right wing tank,
+Lieutenant, it's punctured.
+
+1589
+01:58:25,432 --> 01:58:26,932
+We haven't had
+time to repair it.
+
+1590
+01:58:27,017 --> 01:58:28,058
+Is the left tank
+fuelled?
+
+1591
+01:58:28,143 --> 01:58:29,226
+Yes, sir.
+
+1592
+01:58:30,353 --> 01:58:33,689
+A few hours ago
+we filled the sky with our planes.
+
+1593
+01:58:33,774 --> 01:58:38,402
+Now we win or lose
+with six fighters and 10 torpedo planes.
+
+1594
+01:58:47,788 --> 01:58:50,164
+The skipper wants to know
+if can you maintain this speed, Delaney.
+
+1595
+01:58:50,248 --> 01:58:51,248
+DELANEY:
+Eighteen knots, sir.
+
+1596
+01:58:51,333 --> 01:58:53,083
+Eighteen knots.
+Very good.
+
+1597
+01:58:53,168 --> 01:58:54,543
+Yeah, sure,
+we're ready to launch.
+
+1598
+01:58:54,628 --> 01:58:56,879
+All we gotta do
+is find this fourth Jap flattop.
+
+1599
+01:58:56,963 --> 01:58:58,339
+CIC OFFICER:
+Bridge-phone, Combat.
+
+1600
+01:58:58,423 --> 01:58:59,507
+Go ahead, Combat.
+
+1601
+01:58:59,758 --> 01:59:01,383
+Sir, report
+from Scouting 5.
+
+1602
+01:59:01,468 --> 01:59:03,928
+Lieutenant Adams
+has located the fourth enemy flattop.
+
+1603
+01:59:04,971 --> 01:59:07,348
+Good. Relay our position
+to Admiral Fletcher.
+
+1604
+01:59:07,432 --> 01:59:09,350
+Aye-aye, sir.
+We found him, Delaney.
+
+1605
+01:59:09,434 --> 01:59:11,310
+Okay, just give us
+all the old lady's got left.
+
+1606
+01:59:11,394 --> 01:59:12,436
+Bridge-phone, Combat.
+
+1607
+01:59:12,521 --> 01:59:13,562
+Go ahead, Combat.
+
+1608
+01:59:13,730 --> 01:59:17,441
+Sir, radar has bandits.
+Distance, 35 miles, closing.
+
+1609
+01:59:17,526 --> 01:59:18,818
+This time,
+they're coming in low.
+
+1610
+01:59:18,902 --> 01:59:19,985
+Torpedo attack!
+
+1611
+01:59:20,070 --> 01:59:21,904
+Sound general quarters!
+Aye-aye, sir.
+
+1612
+01:59:21,988 --> 01:59:23,280
+Let's get everything
+we have left airborne
+
+1613
+01:59:23,365 --> 01:59:24,990
+while we still can.
+Guess we better.
+
+1614
+01:59:25,075 --> 01:59:26,826
+MAN ON PA:
+General quarters! General quarters!
+
+1615
+01:59:26,910 --> 01:59:29,453
+All hands man
+your battle stations!
+
+1616
+02:00:48,909 --> 02:00:50,159
+Right, full rudder!
+
+1617
+02:00:50,285 --> 02:00:51,535
+Right, full rudder, aye!
+
+1618
+02:01:09,471 --> 02:01:11,764
+Watch out there!
+Get outside!
+
+1619
+02:01:26,863 --> 02:01:27,863
+Get Fred out of here.
+
+1620
+02:01:28,031 --> 02:01:29,031
+This way.
+
+1621
+02:02:21,584 --> 02:02:23,919
+Whirlwind,
+this is Zephyr 3!
+
+1622
+02:02:24,421 --> 02:02:25,921
+Two torpedoes
+hit the carrier!
+
+1623
+02:02:26,297 --> 02:02:30,634
+I repeat, two torpedoes
+hit the carrier! Returning to base.
+
+1624
+02:02:30,719 --> 02:02:34,138
+Now it's one
+against one, Admiral. Congratulations.
+
+1625
+02:02:39,102 --> 02:02:41,729
+Delaney, what's
+the situation below?
+
+1626
+02:02:41,980 --> 02:02:43,522
+No good, sir.
+All boilers are out.
+
+1627
+02:02:43,606 --> 02:02:44,732
+There's no hope
+of relighting them.
+
+1628
+02:02:44,983 --> 02:02:47,151
+Get your people topside,
+and on the double!
+
+1629
+02:02:47,235 --> 02:02:48,527
+Aye-aye, sir.
+
+1630
+02:02:52,449 --> 02:02:56,744
+Larry, radio Enterprise,
+we'll land there after we make our bomb run.
+
+1631
+02:02:56,828 --> 02:02:57,870
+Yes, sir.
+
+1632
+02:02:57,954 --> 02:03:00,706
+Blue Leader to Home Plate!
+Blue Leader to Home Plate!
+
+1633
+02:03:03,752 --> 02:03:05,085
+How many are
+we sending out?
+
+1634
+02:03:05,211 --> 02:03:06,837
+Twenty-four
+dive-bombers, sir.
+
+1635
+02:03:06,921 --> 02:03:09,882
+We'll have to try it
+without fighter protection.
+
+1636
+02:03:10,383 --> 02:03:11,675
+What about
+the Hornet?
+
+1637
+02:03:11,801 --> 02:03:13,135
+Scraping the bottom
+of the barrel.
+
+1638
+02:03:13,219 --> 02:03:14,720
+Sixteen dive-bombers left,
+
+1639
+02:03:14,804 --> 02:03:18,766
+plus the three that
+Matt Garth is bringing over from the Yorktown.
+
+1640
+02:03:19,267 --> 02:03:22,436
+Signal the Hornet,
+we attack immediately.
+
+1641
+02:03:22,520 --> 02:03:23,979
+Aye-aye, sir.
+
+1642
+02:04:32,757 --> 02:04:35,467
+Sir, it couldn't have
+been the same carrier Kobayashi dive-bombed.
+
+1643
+02:04:35,552 --> 02:04:37,469
+She was undamaged
+and under full steam.
+
+1644
+02:04:37,554 --> 02:04:39,221
+We put two torpedoes
+into it.
+
+1645
+02:04:39,305 --> 02:04:43,350
+Kobayashi said he left
+the carrier on fire. Did you see any smoke?
+
+1646
+02:04:43,434 --> 02:04:45,602
+No, sir,
+it must have sunk.
+
+1647
+02:04:45,687 --> 02:04:47,521
+We didn't see
+a third carrier, either.
+
+1648
+02:04:47,605 --> 02:04:50,023
+Dive alert!
+Enemy dive-bombers!
+
+1649
+02:06:10,146 --> 02:06:12,856
+Sir, we must withdraw.
+
+1650
+02:06:15,485 --> 02:06:18,195
+How will we apologize
+to His Majesty?
+
+1651
+02:06:19,155 --> 02:06:20,906
+Leave that to me.
+
+1652
+02:06:21,407 --> 02:06:28,080
+I am the only one
+who must apologize to His Majesty.
+
+1653
+02:06:44,264 --> 02:06:45,681
+Thank you.
+
+1654
+02:06:46,849 --> 02:06:48,684
+That was
+the LSO, sir.
+
+1655
+02:06:48,893 --> 02:06:52,187
+Matt Garth is coming in.
+His plane is all shot up.
+
+1656
+02:08:27,533 --> 02:08:30,619
+Well, I wonder
+if Matt knew how big we won.
+
+1657
+02:08:31,996 --> 02:08:34,456
+I don't know,
+but I think I know what he'd have said.
+
+1658
+02:08:36,042 --> 02:08:38,668
+"It doesn't make
+any sense, Admiral.
+
+1659
+02:08:39,545 --> 02:08:41,671
+"Yamamoto had
+everything going for him.
+
+1660
+02:08:41,756 --> 02:08:45,133
+"Power, experience,
+confidence.
+
+1661
+02:08:46,761 --> 02:08:50,222
+"Were we better
+than the Japanese, or just luckier?"
