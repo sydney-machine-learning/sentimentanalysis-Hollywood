@@ -3,13 +3,12 @@ from bs4 import BeautifulSoup
 import re
 
 # URL of the page to scrape
-url = 'https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture'  # 请替换为实际的URL
-
+url = 'https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture'  
 film_url={}
 film_length={}
 
 response = requests.get(url)
-response.encoding = 'utf-8'  # 确保正确的编码
+response.encoding = 'utf-8' 
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
