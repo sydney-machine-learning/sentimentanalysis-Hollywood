@@ -1,0 +1,4538 @@
+1
+00:00:20,312 --> 00:00:24,315
+And that completes my final report
+until we reach touchdown.
+
+2
+00:00:24,400 --> 00:00:28,194
+We're now on full automatic,
+in the hands of the computers.
+
+3
+00:00:28,279 --> 00:00:31,155
+I've tucked my crew in for the long sleep
+
+4
+00:00:31,240 --> 00:00:33,241
+and I'll be joining them
+
+5
+00:00:33,325 --> 00:00:35,201
+soon.
+
+6
+00:00:35,286 --> 00:00:39,497
+In less than an hour we'll finish
+our sixth month out of Cape Kennedy.
+
+7
+00:00:39,582 --> 00:00:42,083
+Six months in deep space.
+
+8
+00:00:42,167 --> 00:00:44,294
+By our time, that is.
+
+9
+00:00:45,170 --> 00:00:46,796
+According to Dr. Hasslein's theory
+
+10
+00:00:46,880 --> 00:00:51,426
+of time in a vehicle
+traveling nearly the speed of light,
+
+11
+00:00:51,510 --> 00:00:55,638
+the Earth has aged
+nearly 700 years since we left it,
+
+12
+00:00:55,723 --> 00:00:57,849
+while we've aged hardly at all.
+
+13
+00:01:00,728 --> 00:01:02,812
+It may be so.
+
+14
+00:01:02,896 --> 00:01:04,981
+This much is probably true.
+
+15
+00:01:05,065 --> 00:01:09,277
+The men who sent us on this journey
+are long since dead and gone.
+
+16
+00:01:09,361 --> 00:01:13,364
+You who are reading me now
+are a different breed.
+
+17
+00:01:13,449 --> 00:01:15,992
+I hope a better one.
+
+18
+00:01:16,076 --> 00:01:19,662
+I leave the 20th century
+with no regrets, but...
+
+19
+00:01:19,747 --> 00:01:21,372
+one more thing.
+
+20
+00:01:21,498 --> 00:01:23,625
+If anybody's listening, that is.
+
+21
+00:01:23,709 --> 00:01:27,295
+Nothing scientific. It's... purely personal.
+
+22
+00:01:28,881 --> 00:01:30,923
+Seen from out here,
+
+23
+00:01:31,884 --> 00:01:33,968
+everything seems different.
+
+24
+00:01:34,053 --> 00:01:36,179
+Time bends.
+
+25
+00:01:36,263 --> 00:01:38,931
+Space is... boundless.
+
+26
+00:01:39,016 --> 00:01:41,726
+It squashes a man's ego.
+
+27
+00:01:43,562 --> 00:01:45,897
+I feel lonely.
+
+28
+00:01:53,739 --> 00:01:55,823
+That's about it.
+
+29
+00:01:57,826 --> 00:01:59,911
+Tell me, though...
+
+30
+00:02:00,704 --> 00:02:03,539
+Does man, that marvel of the universe,
+
+31
+00:02:03,624 --> 00:02:07,418
+that glorious paradox
+who has sent me to the stars,
+
+32
+00:02:07,503 --> 00:02:10,213
+still make war against his brother,
+
+33
+00:02:11,632 --> 00:02:14,592
+keep his neighbor's children starving?
+
+34
+00:07:15,811 --> 00:07:17,895
+Are you all right?
+
+35
+00:07:25,070 --> 00:07:30,658
+Stewart?
+
+36
+00:07:50,053 --> 00:07:52,096
+We're in the soup!
+
+37
+00:07:52,180 --> 00:07:55,766
+She's sinking!
+Dodge, read the atmosphere!
+
+38
+00:08:09,990 --> 00:08:13,451
+Landon, get out a last signal!
+
+39
+00:08:13,535 --> 00:08:15,703
+What signal?
+
+40
+00:08:15,787 --> 00:08:18,914
+To Earth! That we've landed!
+
+41
+00:08:59,956 --> 00:09:02,333
+The air's OK!
+
+42
+00:09:02,417 --> 00:09:06,253
+Blow the hatch
+before we lose all our power!
+
+43
+00:09:13,845 --> 00:09:15,930
+It's no use! The power's gone!
+
+44
+00:09:16,014 --> 00:09:19,016
+Forget it! Abandon ship!
+
+45
+00:11:04,497 --> 00:11:06,457
+She's sinking.
+
+46
+00:11:09,961 --> 00:11:15,382
+Going...
+
+47
+00:11:18,637 --> 00:11:19,845
+Gone.
+
+48
+00:11:23,934 --> 00:11:26,101
+OK. We're here to stay.
+
+49
+00:11:40,158 --> 00:11:42,201
+Well, where are we?
+
+50
+00:11:42,327 --> 00:11:44,370
+Do you have any notion, skipper?
+
+51
+00:11:44,496 --> 00:11:47,539
+We're some 320 light years from Earth
+
+52
+00:11:47,624 --> 00:11:52,753
+on an unnamed planet in orbit
+around a star in the constellation of Orion.
+
+53
+00:11:52,879 --> 00:11:54,964
+Is that close enough for you?
+
+54
+00:11:56,007 --> 00:11:58,676
+That could be Bellatrix.
+
+55
+00:11:58,760 --> 00:12:01,095
+It's too white for Bellatrix.
+
+56
+00:12:01,179 --> 00:12:04,223
+You didn't have time to read the tapes.
+
+57
+00:12:04,349 --> 00:12:07,017
+So you really don't know, do you?
+
+58
+00:12:07,143 --> 00:12:09,186
+What went wrong?
+
+59
+00:12:09,312 --> 00:12:12,022
+We weren't
+programmed to land in the water.
+
+60
+00:12:12,148 --> 00:12:16,110
+The question is not so much
+where we are as when we are.
+
+61
+00:12:16,194 --> 00:12:19,738
+We've had enough sleep
+to hold us for a while.
+
+62
+00:12:19,823 --> 00:12:22,408
+Let's start earning all that back pay.
+
+63
+00:13:00,613 --> 00:13:02,698
+Dodge, run your soil test.
+
+64
+00:13:05,243 --> 00:13:07,786
+- Got your sensors?
+- Right.
+
+65
+00:13:07,871 --> 00:13:09,997
+- Geiger counter?
+- Got it.
+
+66
+00:13:13,084 --> 00:13:15,252
+Let's see. One pistol,
+
+67
+00:13:15,378 --> 00:13:20,382
+20 rounds ammo, a medical kit,
+camera, TX9.
+
+68
+00:13:20,467 --> 00:13:24,678
+We've got food and water
+enough for three days.
+
+69
+00:13:24,763 --> 00:13:26,847
+How long is a day?
+
+70
+00:13:26,931 --> 00:13:29,016
+That's a good question.
+
+71
+00:13:29,100 --> 00:13:30,559
+Landon!
+
+72
+00:13:30,643 --> 00:13:32,644
+Hey, Landon!
+
+73
+00:13:32,729 --> 00:13:34,813
+Join the expedition.
+
+74
+00:13:37,192 --> 00:13:41,528
+Sorry. I was thinking about Stewart.
+What do you suppose happened?
+
+75
+00:13:41,613 --> 00:13:43,697
+Air leak. She died in her sleep.
+
+76
+00:13:43,782 --> 00:13:46,033
+You don't seem very cut up about it.
+
+77
+00:13:46,117 --> 00:13:49,703
+It's a little late for a wake.
+She's been dead nearly a year.
+
+78
+00:13:49,788 --> 00:13:53,374
+That means we've been away
+from Earth for 18 months.
+
+79
+00:13:53,458 --> 00:13:55,542
+Our time.
+
+80
+00:13:56,753 --> 00:13:58,837
+You've gone gray.
+
+81
+00:14:00,423 --> 00:14:05,219
+Apart from that you look pretty chipper
+for a man who's 2,031 years old.
+
+82
+00:14:05,303 --> 00:14:09,139
+I read the clocks.
+They bear out Hasslein's hypothesis.
+
+83
+00:14:09,224 --> 00:14:12,810
+We have been away from Earth
+for 2,000 years,
+
+84
+00:14:12,894 --> 00:14:14,978
+give or take a decade.
+
+85
+00:14:15,730 --> 00:14:17,815
+Still can't accept it?
+
+86
+00:14:17,899 --> 00:14:21,235
+Time's wiped out
+everything you ever knew.
+
+87
+00:14:21,319 --> 00:14:23,362
+It's all dust.
+
+88
+00:14:23,488 --> 00:14:25,531
+Prove it.
+
+89
+00:14:25,657 --> 00:14:28,409
+If we can't get back, it's still just a theory.
+
+90
+00:14:28,493 --> 00:14:32,329
+It's a fact, Landon.
+Buy it. You'll sleep better.
+
+91
+00:14:33,164 --> 00:14:37,292
+Nothing will grow here.
+There's just a trace of carbohydrates.
+
+92
+00:14:37,377 --> 00:14:40,337
+All the nitrogen is locked into the nitrates.
+
+93
+00:14:40,463 --> 00:14:42,506
+No dangerous ionization?
+
+94
+00:14:42,590 --> 00:14:44,675
+No.
+
+95
+00:14:44,759 --> 00:14:46,552
+Well...
+
+96
+00:14:46,678 --> 00:14:51,014
+If there's no life here,
+we've got just 72 hours to find it.
+
+97
+00:14:51,141 --> 00:14:54,101
+That's when the groceries run out.
+Let's go.
+
+98
+00:14:54,185 --> 00:14:56,270
+Which direction?
+
+99
+00:14:57,355 --> 00:14:59,440
+That way.
+
+100
+00:14:59,524 --> 00:15:01,733
+Any particular reason?
+
+101
+00:15:01,818 --> 00:15:03,902
+None at all.
+
+102
+00:15:06,906 --> 00:15:08,991
+Come on...
+
+103
+00:17:58,536 --> 00:18:00,662
+Everybody all right?
+
+104
+00:18:01,873 --> 00:18:03,915
+Water check.
+
+105
+00:18:11,466 --> 00:18:12,716
+Eight ounces.
+
+106
+00:18:19,807 --> 00:18:21,892
+It doesn't add up.
+
+107
+00:18:21,976 --> 00:18:24,227
+Thunder and lightning, and no rain.
+
+108
+00:18:24,354 --> 00:18:26,396
+Cloud cover at night.
+
+109
+00:18:26,522 --> 00:18:29,399
+That strange luminosity...
+yet there's no moon.
+
+110
+00:18:29,525 --> 00:18:31,568
+If we could just get a fix.
+
+111
+00:18:31,694 --> 00:18:32,986
+What would that tell you?
+
+112
+00:18:33,071 --> 00:18:35,197
+I've told you where you are
+and when you are.
+
+113
+00:18:35,281 --> 00:18:37,074
+All right, all right.
+
+114
+00:18:37,158 --> 00:18:40,869
+You're 300 light years
+from your precious planet.
+
+115
+00:18:41,746 --> 00:18:45,666
+Your loved ones are dead
+and forgotten for 20 centuries.
+
+116
+00:18:45,750 --> 00:18:47,167
+20!
+
+117
+00:18:47,251 --> 00:18:51,004
+Even if you could get back, they'd think
+you were something that fell out of a tree.
+
+118
+00:18:51,089 --> 00:18:53,090
+Taylor, quit riding him.
+
+119
+00:18:53,174 --> 00:18:56,134
+There is just one reality.
+We are here and it is now.
+
+120
+00:18:56,219 --> 00:18:59,054
+You get hold of that,
+or you might as well be dead.
+
+121
+00:18:59,138 --> 00:19:01,139
+I'm prepared to die.
+
+122
+00:19:04,018 --> 00:19:06,520
+He's prepared to die.
+
+123
+00:19:06,604 --> 00:19:08,814
+Doesn't that make you misty?
+
+124
+00:19:08,940 --> 00:19:11,942
+Chalk up another victory
+for the human spirit.
+
+125
+00:19:19,826 --> 00:19:24,121
+Clue me in on something, will you?
+Why did you sign on for this trip?
+
+126
+00:19:24,205 --> 00:19:26,289
+You volunteered. Why?
+
+127
+00:19:26,416 --> 00:19:28,458
+Never mind. I'll clue you in.
+
+128
+00:19:28,584 --> 00:19:31,878
+You were
+the golden boy of the class of '72.
+
+129
+00:19:31,963 --> 00:19:35,632
+When they nominated you for the big one,
+you couldn't turn it down.
+
+130
+00:19:35,758 --> 00:19:38,552
+Not without losing
+your all-American image.
+
+131
+00:19:38,636 --> 00:19:40,554
+Climb off, will you?
+
+132
+00:19:40,638 --> 00:19:43,348
+Oh, and the glory. Don't forget that.
+
+133
+00:19:43,474 --> 00:19:47,853
+There's a life-size bronze statue of you
+standing out there somewhere.
+
+134
+00:19:47,979 --> 00:19:51,815
+It's probably turned green by now
+and nobody can read the nameplate.
+
+135
+00:19:51,899 --> 00:19:54,276
+But never let it be said
+that we forget our heroes.
+
+136
+00:19:54,360 --> 00:19:56,820
+Taylor, I'm telling you
+to climb off my back.
+
+137
+00:19:56,904 --> 00:19:58,405
+And there's one last item.
+
+138
+00:19:58,865 --> 00:20:02,325
+Immortality.
+You wanted to live for ever, didn't you?
+
+139
+00:20:02,452 --> 00:20:04,494
+Well, you damn near made it.
+
+140
+00:20:04,620 --> 00:20:09,166
+Except for me and Dodge,
+you've lived longer than anyone ever born.
+
+141
+00:20:09,250 --> 00:20:13,086
+And with our
+lovely Lieutenant Stewart dead,
+
+142
+00:20:13,171 --> 00:20:16,006
+it looks like you're the last of the line.
+
+143
+00:20:17,300 --> 00:20:20,510
+You got what you wanted, tiger.
+How does it taste?
+
+144
+00:20:21,846 --> 00:20:23,972
+OK. You read me well enough.
+
+145
+00:20:24,056 --> 00:20:26,141
+But why can't I read you?
+
+146
+00:20:26,225 --> 00:20:28,310
+Don't bother.
+
+147
+00:20:28,394 --> 00:20:30,812
+Dodge, there. He's not like me at all.
+
+148
+00:20:30,897 --> 00:20:33,523
+But he makes sense.
+
+149
+00:20:33,608 --> 00:20:36,067
+He'd walk naked into a live volcano
+
+150
+00:20:36,152 --> 00:20:40,280
+if he thought he could learn something
+that no other man knew.
+
+151
+00:20:40,364 --> 00:20:42,824
+But you... You're no seeker.
+
+152
+00:20:42,909 --> 00:20:44,993
+You're negative.
+
+153
+00:20:45,077 --> 00:20:49,331
+- And I'm not prepared to die.
+- I'd like to know why not.
+
+154
+00:20:49,415 --> 00:20:50,999
+You thought life on Earth
+was meaningless.
+
+155
+00:20:51,083 --> 00:20:53,627
+You despised people.
+
+156
+00:20:53,711 --> 00:20:55,796
+So what did you do? You ran out.
+
+157
+00:20:55,880 --> 00:20:58,381
+No, no. It's not like that, Landon.
+
+158
+00:20:58,508 --> 00:21:00,842
+I'm a seeker too.
+
+159
+00:21:00,927 --> 00:21:03,220
+But my dreams aren't like yours.
+
+160
+00:21:03,304 --> 00:21:06,389
+I can't help thinking
+somewhere in the universe
+
+161
+00:21:06,516 --> 00:21:09,976
+there has to be something
+better than man. Has to be.
+
+162
+00:21:12,271 --> 00:21:14,356
+Taylor, over here!
+
+163
+00:21:53,396 --> 00:21:54,771
+Life.
+
+164
+00:22:09,620 --> 00:22:12,038
+Where there's one, there's another.
+
+165
+00:22:12,123 --> 00:22:14,624
+And another and another.
+
+166
+00:22:14,750 --> 00:22:16,793
+Let's find 'em.
+
+167
+00:24:51,449 --> 00:24:53,533
+Skipper!
+
+168
+00:24:54,493 --> 00:24:56,619
+Look!
+
+169
+00:25:12,344 --> 00:25:14,429
+Scarecrows?
+
+170
+00:25:15,264 --> 00:25:17,348
+Let's see.
+
+171
+00:26:03,187 --> 00:26:05,271
+To hell with the scarecrows!
+
+172
+00:27:27,521 --> 00:27:29,689
+Taylor!
+
+173
+00:27:29,773 --> 00:27:31,816
+Look at this.
+
+174
+00:27:56,800 --> 00:27:58,718
+Taylor, look!
+
+175
+00:29:44,199 --> 00:29:46,367
+They didn't leave much, did they?
+
+176
+00:30:16,523 --> 00:30:19,442
+Well, at least they haven't tried to bite us.
+
+177
+00:30:20,444 --> 00:30:22,695
+Blessed are the vegetarians.
+
+178
+00:30:27,993 --> 00:30:30,787
+They look more or less human,
+
+179
+00:30:30,871 --> 00:30:32,955
+but I think they're mute.
+
+180
+00:30:42,424 --> 00:30:45,051
+We got off at the wrong stop.
+
+181
+00:30:46,720 --> 00:30:49,389
+You're supposed to be
+the optimist, Landon.
+
+182
+00:30:49,473 --> 00:30:51,140
+Look on the bright side.
+
+183
+00:30:51,266 --> 00:30:56,854
+If this is the best they've got around here,
+in six months we'll be running this planet.
+
+184
+00:35:59,324 --> 00:36:00,366
+Smile.
+
+185
+00:36:40,323 --> 00:36:43,117
+Which one was wearing
+the strange clothes?
+
+186
+00:36:44,161 --> 00:36:46,245
+This one.
+
+187
+00:36:47,914 --> 00:36:49,999
+Will he live?
+
+188
+00:36:50,083 --> 00:36:52,501
+I don't know.
+
+189
+00:36:52,627 --> 00:36:55,004
+This beast has lost a lot of blood.
+
+190
+00:37:01,678 --> 00:37:04,138
+There's no probe here. Find one!
+
+191
+00:37:04,222 --> 00:37:06,307
+Yes, sir.
+
+192
+00:37:06,391 --> 00:37:08,434
+This place is dirty, doctor.
+
+193
+00:37:08,518 --> 00:37:14,106
+Doctor, these animals are dirty. They stink
+and they carry communicable diseases.
+
+194
+00:37:14,191 --> 00:37:17,526
+Why aren't they cleaned up
+before they're brought here?
+
+195
+00:37:17,694 --> 00:37:19,612
+You don't sound happy in your work.
+
+196
+00:37:19,696 --> 00:37:22,740
+I'm little more than a vet
+in this laboratory.
+
+197
+00:37:22,866 --> 00:37:25,826
+You promised to speak to Dr. Zaius
+about me.
+
+198
+00:37:25,911 --> 00:37:29,538
+I did. You know how
+he looks down his nose at chimpanzees.
+
+199
+00:37:29,706 --> 00:37:32,208
+But the quota system's been abolished.
+
+200
+00:37:32,292 --> 00:37:35,628
+- You made it. Why can't I?
+- What do you mean - made it?
+
+201
+00:37:35,712 --> 00:37:39,465
+I'm an animal psychologist, that's all.
+We have no authority.
+
+202
+00:37:39,549 --> 00:37:42,927
+You do all right when it comes to
+getting space and equipment.
+
+203
+00:37:43,053 --> 00:37:46,680
+That's because Dr. Zaius
+realizes our work has value.
+
+204
+00:37:46,765 --> 00:37:51,560
+The foundations of scientific brain surgery
+are being laid right here
+
+205
+00:37:51,728 --> 00:37:54,563
+in studies of cerebral functions
+of these animals.
+
+206
+00:37:55,941 --> 00:37:58,317
+They're still dirty, doctor.
+
+207
+00:37:58,401 --> 00:38:01,362
+And their bite is septic.
+There. Look at that.
+
+208
+00:38:02,781 --> 00:38:04,907
+Hold his jaw.
+
+209
+00:38:30,100 --> 00:38:32,685
+- Good morning, Dr. Zira.
+- Good morning, Julius.
+
+210
+00:38:32,769 --> 00:38:35,271
+- How's our patient today?
+- No change.
+
+211
+00:38:35,355 --> 00:38:38,023
+The minute you open the door,
+he goes into his act.
+
+212
+00:38:40,944 --> 00:38:42,528
+Well!
+
+213
+00:38:42,612 --> 00:38:44,738
+And what do we want this morning?
+
+214
+00:38:44,823 --> 00:38:47,449
+Do we want something? Come on. Speak.
+
+215
+00:38:47,534 --> 00:38:48,993
+Come on.
+
+216
+00:38:49,119 --> 00:38:50,369
+Speak.
+
+217
+00:38:50,453 --> 00:38:52,830
+Do we want some sugar, old-timer?
+
+218
+00:38:55,333 --> 00:38:57,710
+You could get hurt doing that, doctor.
+
+219
+00:38:57,794 --> 00:39:00,212
+Oh, don't be silly. He's perfectly tame.
+
+220
+00:39:00,297 --> 00:39:03,340
+They're all tame
+until they take a chunk out of you.
+
+221
+00:39:03,425 --> 00:39:06,802
+Well, Bright Eyes.
+Is our throat feeling better?
+
+222
+00:39:07,846 --> 00:39:09,930
+Still hurts, doesn't it?
+
+223
+00:39:10,015 --> 00:39:13,058
+See? He keeps pretending he can talk.
+
+224
+00:39:16,521 --> 00:39:19,231
+That Bright Eyes is remarkable.
+
+225
+00:39:19,316 --> 00:39:21,817
+He keeps trying to form words.
+
+226
+00:39:21,943 --> 00:39:24,653
+You know what they say.
+Human see, human do.
+
+227
+00:39:30,076 --> 00:39:31,535
+Now what?
+
+228
+00:39:34,205 --> 00:39:36,290
+He seems to want something.
+
+229
+00:39:37,876 --> 00:39:40,002
+I'd be careful, doctor.
+
+230
+00:39:40,086 --> 00:39:41,337
+What did I tell you?
+
+231
+00:39:41,421 --> 00:39:44,006
+Try that again and I'll break your arm!
+
+232
+00:39:46,051 --> 00:39:48,844
+Good morning, Your Excellency.
+
+233
+00:39:48,970 --> 00:39:51,013
+Dr. Zaius.
+
+234
+00:39:52,849 --> 00:39:54,892
+Good morning, sir.
+
+235
+00:39:55,518 --> 00:39:57,603
+Open up, please.
+
+236
+00:39:57,687 --> 00:39:59,772
+I'm so glad you could come.
+
+237
+00:39:59,856 --> 00:40:01,982
+Sir, he's over here.
+
+238
+00:40:04,319 --> 00:40:06,403
+Bright Eyes...
+
+239
+00:40:07,072 --> 00:40:09,156
+Show him. Go ahead.
+
+240
+00:40:09,240 --> 00:40:11,325
+Do your trick.
+
+241
+00:40:11,409 --> 00:40:12,826
+Speak.
+
+242
+00:40:12,911 --> 00:40:15,037
+Go on. Speak again.
+
+243
+00:40:17,540 --> 00:40:20,709
+There! Can you believe it?
+
+244
+00:40:20,794 --> 00:40:22,878
+Yes, amusing.
+
+245
+00:40:23,004 --> 00:40:25,047
+A man acting like an ape.
+
+246
+00:40:27,342 --> 00:40:31,512
+Dr. Zaius,
+I could swear he's answering you.
+
+247
+00:40:31,596 --> 00:40:34,431
+He has a definite gift for mimicry.
+
+248
+00:40:34,516 --> 00:40:36,850
+Most unusual.
+
+249
+00:40:36,935 --> 00:40:39,561
+He's using that old blanket as clothing.
+
+250
+00:40:40,897 --> 00:40:44,900
+I wonder how he'd score
+on a Hopkins manual dexterity test.
+
+251
+00:40:45,026 --> 00:40:47,236
+An animal?
+
+252
+00:40:47,320 --> 00:40:48,362
+Look!
+
+253
+00:40:48,446 --> 00:40:50,531
+He's moving his fingers.
+
+254
+00:40:50,615 --> 00:40:53,033
+Only because he saw you moving yours.
+
+255
+00:40:53,118 --> 00:40:55,995
+But perhaps he understood.
+
+256
+00:40:56,079 --> 00:40:59,456
+Man has no understanding.
+
+257
+00:40:59,541 --> 00:41:02,668
+He can be taught a few simple tricks.
+Nothing more.
+
+258
+00:41:03,586 --> 00:41:06,547
+I'm afraid I must disagree.
+
+259
+00:41:06,631 --> 00:41:10,968
+- According to my experiments...
+- Dr. Zira, I must caution you.
+
+260
+00:41:11,094 --> 00:41:15,264
+Experimental brain surgery
+on these creatures is one thing,
+
+261
+00:41:15,348 --> 00:41:17,433
+and I'm all in favor of it.
+
+262
+00:41:17,517 --> 00:41:21,687
+But your behavioral studies
+are something else again.
+
+263
+00:41:21,771 --> 00:41:26,775
+To suggest that we can learn anything
+about the simian nature
+
+264
+00:41:26,860 --> 00:41:29,403
+from the study of man is sheer nonsense.
+
+265
+00:41:30,488 --> 00:41:32,656
+Besides, man is a nuisance.
+
+266
+00:41:32,741 --> 00:41:36,243
+He eats up his food supplies in the forest,
+
+267
+00:41:36,327 --> 00:41:40,789
+then migrates to our green belts
+and ravages our crops.
+
+268
+00:41:43,501 --> 00:41:46,754
+The sooner he is exterminated the better.
+
+269
+00:41:47,964 --> 00:41:50,799
+It's a question of simian survival.
+
+270
+00:42:02,812 --> 00:42:05,481
+Is this the one you wanted, doctor?
+
+271
+00:42:06,608 --> 00:42:08,734
+Oh, yes. Thank you.
+
+272
+00:42:08,818 --> 00:42:12,404
+Bright Eyes, I've got a present for you.
+
+273
+00:42:22,832 --> 00:42:24,750
+Put her in with him.
+
+274
+00:43:18,429 --> 00:43:20,514
+Cornelius! Up here.
+
+275
+00:43:21,975 --> 00:43:24,059
+Do you have to work tonight?
+
+276
+00:43:24,185 --> 00:43:25,394
+No.
+
+277
+00:43:25,478 --> 00:43:27,563
+Neither do I.
+
+278
+00:43:31,693 --> 00:43:34,278
+Oh, Cornelius.
+
+279
+00:43:49,919 --> 00:43:52,045
+There's Bright Eyes.
+
+280
+00:43:52,881 --> 00:43:54,923
+The one I was telling you about.
+
+281
+00:43:55,008 --> 00:43:57,718
+What's so special about him?
+
+282
+00:43:57,802 --> 00:43:59,303
+Watch.
+
+283
+00:43:59,429 --> 00:44:00,846
+Hello, Bright Eyes.
+
+284
+00:44:00,930 --> 00:44:03,015
+How's our throat today?
+
+285
+00:44:08,062 --> 00:44:11,023
+- Look! She remembers!
+- Remembers what?
+
+286
+00:44:11,107 --> 00:44:13,192
+The blood transfusion.
+
+287
+00:44:13,276 --> 00:44:14,651
+Zira, really!
+
+288
+00:44:14,736 --> 00:44:16,862
+You know, they can't... Watch out.
+
+289
+00:44:16,946 --> 00:44:18,780
+Here comes number one.
+
+290
+00:44:18,865 --> 00:44:20,449
+Something's bothering him.
+
+291
+00:44:20,533 --> 00:44:24,161
+He's been prying around the lab
+for the last two days.
+
+292
+00:44:24,287 --> 00:44:26,330
+Good morning, Dr. Zaius.
+
+293
+00:44:26,456 --> 00:44:30,459
+- You know my... Dr. Cornelius, my fiancé.
+- Of course.
+
+294
+00:44:30,543 --> 00:44:31,752
+The young ape with a shovel.
+
+295
+00:44:31,836 --> 00:44:35,589
+I hear you're planning
+another archaeological expedition.
+
+296
+00:44:35,673 --> 00:44:39,885
+- With the Academy's approval, sir.
+- The project will require my support.
+
+297
+00:44:39,969 --> 00:44:42,054
+I hope I may count on it, sir.
+
+298
+00:44:42,138 --> 00:44:44,806
+Cornelius, a friendly warning.
+
+299
+00:44:44,891 --> 00:44:49,853
+As you dig for artifacts,
+be sure you don't bury your reputation.
+
+300
+00:45:03,326 --> 00:45:07,204
+Guard!
+
+301
+00:45:29,435 --> 00:45:30,602
+Stop!
+
+302
+00:45:30,687 --> 00:45:32,980
+You'll hurt him!
+
+303
+00:45:33,064 --> 00:45:35,148
+Take him inside.
+
+304
+00:45:38,152 --> 00:45:41,655
+Cornelius! Cornelius,
+if you have a moment today,
+
+305
+00:45:41,739 --> 00:45:45,784
+I'd like to discuss
+this expedition of yours in more detail.
+
+306
+00:45:45,868 --> 00:45:49,913
+Certainly, sir. I'll pick up my notes
+and I'll come right over.
+
+307
+00:45:49,998 --> 00:45:52,708
+I don't understand
+these animal psychologists.
+
+308
+00:45:52,792 --> 00:45:55,502
+What's Dr. Zira trying to prove?
+
+309
+00:45:55,586 --> 00:45:58,672
+That man can be domesticated.
+
+310
+00:46:37,420 --> 00:46:40,839
+- What happened?
+- Oh, those fools and their torches.
+
+311
+00:46:40,923 --> 00:46:43,383
+- Do you have any ointment?
+- I'll see.
+
+312
+00:46:48,431 --> 00:46:50,599
+I'm sorry, Bright Eyes.
+
+313
+00:46:56,439 --> 00:46:57,439
+Julius!
+
+314
+00:47:00,485 --> 00:47:02,569
+I told you what you'd get!
+
+315
+00:47:02,653 --> 00:47:04,029
+Julius, don't, don't, don't!
+
+316
+00:47:04,113 --> 00:47:05,822
+It doesn't matter!
+
+317
+00:47:05,907 --> 00:47:07,991
+Julius, don't hurt him!
+
+318
+00:47:10,787 --> 00:47:11,953
+Julius!
+
+319
+00:47:18,086 --> 00:47:20,462
+Natural-born thieves, aren't they?
+
+320
+00:47:33,226 --> 00:47:36,311
+Get me a collar and leash.
+
+321
+00:47:36,437 --> 00:47:39,981
+- I'm taking him out of here.
+- He's vicious, doctor.
+
+322
+00:47:40,066 --> 00:47:43,110
+- Besides, it's against the rules.
+- Do as I say!
+
+323
+00:47:54,497 --> 00:47:58,792
+You... you wouldn't hurt me, would you,
+
+324
+00:48:01,087 --> 00:48:02,129
+Taylor?
+
+325
+00:48:19,188 --> 00:48:21,314
+It's a stunt.
+
+326
+00:48:21,399 --> 00:48:23,483
+Humans can't write.
+
+327
+00:48:23,568 --> 00:48:25,652
+Dear, you're a scientist.
+
+328
+00:48:25,736 --> 00:48:27,821
+Don't you believe your own eyes?
+
+329
+00:48:32,118 --> 00:48:34,494
+Where did you learn to do this?
+
+330
+00:48:37,707 --> 00:48:39,541
+"Jefferson
+
+331
+00:48:39,625 --> 00:48:42,586
+Public School."
+
+332
+00:48:48,551 --> 00:48:50,594
+"Fort Wayne,
+
+333
+00:48:50,720 --> 00:48:52,762
+Indiana."
+
+334
+00:48:55,725 --> 00:48:58,351
+Back on that planet
+you say you came from?
+
+335
+00:49:04,859 --> 00:49:06,943
+Maybe he is intelligent.
+
+336
+00:49:07,028 --> 00:49:09,613
+But he is also... crazy.
+
+337
+00:49:09,739 --> 00:49:11,573
+Cornelius.
+
+338
+00:49:11,657 --> 00:49:13,742
+Cornelius, please.
+
+339
+00:49:18,414 --> 00:49:21,249
+"Dodge was killed in the hunt."
+
+340
+00:49:21,334 --> 00:49:24,586
+"What happened to... Landon?"
+
+341
+00:49:26,339 --> 00:49:28,882
+I don't know.
+
+342
+00:49:28,966 --> 00:49:31,760
+They fell out of the sky with you?
+
+343
+00:49:36,057 --> 00:49:38,266
+"Not fell. Flew."
+
+344
+00:49:38,351 --> 00:49:40,894
+Flight is a scientific impossibility.
+
+345
+00:49:40,978 --> 00:49:44,189
+And even if it weren't, why fly?
+
+346
+00:49:44,273 --> 00:49:46,358
+Where would it get you?
+
+347
+00:50:03,167 --> 00:50:05,252
+"Do you have maps?"
+
+348
+00:50:19,892 --> 00:50:22,936
+We're here. You were captured here.
+
+349
+00:50:25,439 --> 00:50:27,524
+You fell into the water here?
+
+350
+00:50:28,442 --> 00:50:30,527
+You came ashore...
+
+351
+00:50:30,653 --> 00:50:32,696
+Marched across the desert?
+
+352
+00:50:33,656 --> 00:50:35,740
+Mountains?
+
+353
+00:50:36,534 --> 00:50:38,618
+Many days and nights.
+
+354
+00:50:38,703 --> 00:50:41,329
+And reached the jungle.
+
+355
+00:50:41,414 --> 00:50:43,915
+Out of the question.
+
+356
+00:50:45,835 --> 00:50:49,045
+Cornelius, why do you insist
+on provoking him?
+
+357
+00:50:49,130 --> 00:50:54,634
+No creature can survive in the forbidden
+zone. I know. I've been there. I've seen it.
+
+358
+00:50:57,179 --> 00:50:59,264
+"Then how do you account for me?"
+
+359
+00:51:00,016 --> 00:51:02,100
+I don't.
+
+360
+00:51:02,184 --> 00:51:04,269
+And I'm not going to try.
+
+361
+00:51:06,439 --> 00:51:09,357
+But what about your theory?
+
+362
+00:51:10,276 --> 00:51:13,695
+The existence of someone
+like Taylor might prove it.
+
+363
+00:51:13,779 --> 00:51:16,072
+Do you want to get my head chopped off?
+
+364
+00:51:16,157 --> 00:51:19,951
+Don't be foolish.
+If it's true, they'll have to accept it.
+
+365
+00:51:20,036 --> 00:51:22,120
+No, they won't.
+
+366
+00:51:22,997 --> 00:51:26,291
+Cornelius has developed
+the most brilliant hypothesis.
+
+367
+00:51:26,375 --> 00:51:28,501
+But I'm probably wrong.
+
+368
+00:51:28,586 --> 00:51:32,088
+That the ape evolved from
+a lower order of primate,
+
+369
+00:51:32,173 --> 00:51:34,299
+possibly man.
+
+370
+00:51:34,383 --> 00:51:36,843
+In his trip to the forbidden zone,
+
+371
+00:51:36,927 --> 00:51:41,181
+he discovered traces
+of a culture older than recorded time.
+
+372
+00:51:41,265 --> 00:51:45,018
+- The evidence was very meager.
+- You didn't think so then.
+
+373
+00:51:45,102 --> 00:51:49,397
+That was before Dr. Zaius and half
+of the Academy said my idea was heresy.
+
+374
+00:51:49,523 --> 00:51:52,067
+How can scientific truth be heresy?
+
+375
+00:51:52,151 --> 00:51:55,695
+What if Taylor is exactly
+the proof you needed?
+
+376
+00:51:55,780 --> 00:51:57,864
+A mutation.
+
+377
+00:51:57,948 --> 00:52:01,951
+A missing link between
+the unevolved primate
+
+378
+00:52:02,036 --> 00:52:03,745
+and the ape.
+
+379
+00:52:05,247 --> 00:52:07,707
+Touchy, isn't he?
+
+380
+00:52:09,126 --> 00:52:11,211
+"I am not a missing link."
+
+381
+00:52:11,295 --> 00:52:16,341
+Well, if he were a missing link, the sacred
+scrolls wouldn't be worth their parchment.
+
+382
+00:52:16,425 --> 00:52:19,135
+Well, maybe they're not.
+
+383
+00:52:19,220 --> 00:52:23,431
+Oh, no, thank you.
+I'm not going to get into that battle.
+
+384
+00:52:23,516 --> 00:52:27,310
+- Cornelius, show some strength!
+- Zira, listen to me!
+
+385
+00:52:27,395 --> 00:52:29,771
+Now, we both have fine futures.
+
+386
+00:52:29,855 --> 00:52:32,023
+Marriage, stimulating careers.
+
+387
+00:52:32,108 --> 00:52:34,192
+I'm up for a raise.
+
+388
+00:52:35,403 --> 00:52:37,153
+Dr. Zaius.
+
+389
+00:52:38,614 --> 00:52:41,449
+Did you
+forget our appointment, Cornelius?
+
+390
+00:52:41,575 --> 00:52:44,119
+No, sir. I was just collecting my notes.
+
+391
+00:52:44,203 --> 00:52:48,540
+You know Dr. Maximus, of course.
+Our commissioner for animal affairs.
+
+392
+00:52:48,624 --> 00:52:51,376
+Yes, sir. It's a pleasure to see you again.
+
+393
+00:52:51,460 --> 00:52:53,545
+What is that?
+
+394
+00:52:53,629 --> 00:52:55,714
+A man, Dr. Maximus.
+
+395
+00:52:55,798 --> 00:52:59,342
+I know it's a man. And you know the rules.
+
+396
+00:52:59,427 --> 00:53:01,803
+No animals allowed
+outside the compound,
+
+397
+00:53:01,887 --> 00:53:04,472
+and most especially not without a leash.
+
+398
+00:53:04,598 --> 00:53:06,641
+Yes, sir, but... but this
+
+399
+00:53:06,809 --> 00:53:09,644
+creature is a special case.
+
+400
+00:53:09,812 --> 00:53:12,105
+Why special?
+
+401
+00:53:12,189 --> 00:53:14,482
+We're conducting a new experiment.
+
+402
+00:53:14,608 --> 00:53:17,944
+Wouldn't that more properly be done
+in your office?
+
+403
+00:53:18,028 --> 00:53:19,654
+Yes, sir.
+
+404
+00:53:19,780 --> 00:53:22,991
+Guards, return this beast
+to the compound.
+
+405
+00:53:24,034 --> 00:53:25,493
+What is this?
+
+406
+00:53:28,581 --> 00:53:30,665
+A toy.
+
+407
+00:53:30,791 --> 00:53:32,834
+It floats on the air.
+
+408
+00:53:32,918 --> 00:53:34,586
+Zira...
+
+409
+00:53:34,670 --> 00:53:35,962
+Try it.
+
+410
+00:53:36,046 --> 00:53:38,131
+Nonsense.
+
+411
+00:53:55,232 --> 00:53:59,277
+- What's up, lieutenant?
+- We're taking number four to surgery.
+
+412
+00:53:59,361 --> 00:54:01,321
+- Have him ready.
+- How come?
+
+413
+00:54:01,405 --> 00:54:05,617
+- The beast's throat's nearly healed.
+- The vet's going to geld him.
+
+414
+00:54:05,701 --> 00:54:09,329
+Dr. Zira won't like it.
+She wants that pair to mate.
+
+415
+00:54:09,413 --> 00:54:14,417
+These orders come from Dr. Zaius himself.
+There's nothing she can do about it.
+
+416
+00:54:29,517 --> 00:54:32,560
+If only you knew what they're going to do.
+
+417
+00:54:34,563 --> 00:54:37,315
+Stay still now. Don't give me any trouble.
+
+418
+00:55:10,724 --> 00:55:14,978
+Weep if you must,
+but make an end of sorrow.
+
+419
+00:55:15,104 --> 00:55:17,146
+He lives again.
+
+420
+00:55:18,023 --> 00:55:21,317
+Yes, he has found peace in heaven.
+
+421
+00:55:23,028 --> 00:55:27,782
+He was a model for us all,
+a gorilla to remember...
+
+422
+00:55:28,617 --> 00:55:31,202
+Hunter, warrior,
+
+423
+00:55:31,287 --> 00:55:33,371
+defender of the faith.
+
+424
+00:55:34,373 --> 00:55:36,457
+Cherished husband,
+
+425
+00:55:36,542 --> 00:55:38,626
+beloved father,
+
+426
+00:55:38,711 --> 00:55:41,337
+generous master, yes.
+
+427
+00:55:42,172 --> 00:55:43,631
+He was
+
+428
+00:55:43,716 --> 00:55:46,050
+a font of simian kindness.
+
+429
+00:55:47,636 --> 00:55:54,601
+The dear departed once said to me
+"I never met an ape I didn't like."
+
+430
+00:55:55,603 --> 00:55:57,979
+Look! It's a man!
+
+431
+00:55:58,063 --> 00:56:01,149
+In heaven's name! Get rid of that creature!
+
+432
+00:56:01,233 --> 00:56:03,318
+Catch him!
+
+433
+00:56:05,821 --> 00:56:07,989
+Catch him! Catch him!
+
+434
+00:57:38,080 --> 00:57:40,123
+Come on, Quintus.
+
+435
+00:59:52,256 --> 00:59:54,340
+- Go get him!
+- Taylor!
+
+436
+00:59:54,424 --> 00:59:56,717
+- Why did you run away?
+- Security police.
+
+437
+00:59:56,802 --> 00:59:58,886
+I'm in charge of this man.
+
+438
+00:59:58,971 --> 01:00:01,597
+He is in the custody
+of the ministry of science.
+
+439
+01:00:01,682 --> 01:00:04,559
+Take your stinking paws off me,
+
+440
+01:00:04,643 --> 01:00:07,019
+you damn dirty ape!
+
+441
+01:00:16,905 --> 01:00:19,031
+No one'll listen to me.
+
+442
+01:00:21,285 --> 01:00:23,411
+Only you.
+
+443
+01:00:26,248 --> 01:00:28,291
+You.
+
+444
+01:00:29,042 --> 01:00:31,294
+Nova.
+
+445
+01:00:31,420 --> 01:00:33,921
+You... Nova.
+
+446
+01:00:34,047 --> 01:00:36,090
+No...
+
+447
+01:00:38,135 --> 01:00:40,261
+Yeah. Me Tarzan, you Jane.
+
+448
+01:00:49,104 --> 01:00:50,688
+What are you doing?
+
+449
+01:00:50,772 --> 01:00:52,148
+Leave her alone,
+
+450
+01:00:52,274 --> 01:00:53,357
+damn you!
+
+451
+01:00:53,442 --> 01:01:07,121
+Where are you taking her?
+
+452
+01:01:21,053 --> 01:01:23,888
+Damn you! You hairy scum!
+
+453
+01:01:23,972 --> 01:01:26,098
+Shut up, you freak!
+
+454
+01:01:26,183 --> 01:01:28,059
+Julius, you...
+
+455
+01:01:28,143 --> 01:01:29,852
+I said shut up!
+
+456
+01:01:29,937 --> 01:01:31,729
+It's a madhouse!
+
+457
+01:01:32,731 --> 01:01:34,732
+A madhouse!
+
+458
+01:01:47,162 --> 01:01:49,288
+Now I don't even have you.
+
+459
+01:01:50,540 --> 01:01:53,084
+Imagine me needing someone.
+
+460
+01:01:53,168 --> 01:01:57,129
+Back on Earth I never did.
+Oh, there were women. Lots of women.
+
+461
+01:01:57,214 --> 01:02:00,341
+Lots of... lovemaking, but no love.
+
+462
+01:02:00,425 --> 01:02:03,386
+That was the kind of world we'd made.
+
+463
+01:02:03,512 --> 01:02:05,554
+So I left
+
+464
+01:02:05,639 --> 01:02:08,516
+because there was no one
+to hold me there.
+
+465
+01:02:08,600 --> 01:02:10,685
+Did I tell you about Stewart?
+
+466
+01:02:10,769 --> 01:02:13,479
+Now there was a lovely girl.
+
+467
+01:02:13,563 --> 01:02:16,440
+The most precious cargo
+we'd brought along.
+
+468
+01:02:16,525 --> 01:02:20,027
+She was... to be the new Eve.
+
+469
+01:02:20,153 --> 01:02:23,781
+With our hot and eager help, of course.
+
+470
+01:02:25,325 --> 01:02:28,536
+Probably just as well
+she didn't make it this far.
+
+471
+01:02:32,165 --> 01:02:34,208
+Do you love me, I wonder?
+
+472
+01:02:34,334 --> 01:02:37,837
+Can you love, I wonder?
+
+473
+01:02:44,386 --> 01:02:46,470
+Well...
+
+474
+01:02:46,555 --> 01:02:49,765
+You're not as smart as Stewart, but
+
+475
+01:02:49,850 --> 01:02:51,934
+you're the only girl in town.
+
+476
+01:02:57,649 --> 01:03:00,151
+Look at that. I...
+
+477
+01:03:00,235 --> 01:03:02,445
+I taught you to smile.
+
+478
+01:04:26,321 --> 01:04:30,533
+It's been weeks.
+What happened? Where have you been?
+
+479
+01:04:30,659 --> 01:04:32,701
+Why didn't you come to see me?
+
+480
+01:04:32,786 --> 01:04:34,870
+- What is this?
+- A hearing.
+
+481
+01:04:34,955 --> 01:04:37,456
+- Be clever. Be quiet.
+- All rise!
+
+482
+01:04:46,967 --> 01:04:48,175
+Be seated!
+
+483
+01:04:51,263 --> 01:04:54,890
+This ad hoc tribunal of
+the National Academy is now in session.
+
+484
+01:04:54,975 --> 01:04:57,601
+The president of the Academy presiding.
+
+485
+01:04:57,686 --> 01:05:02,606
+On my right, Dr. Maximus, commissioner
+for animal affairs. And on my left,
+
+486
+01:05:02,691 --> 01:05:07,653
+Dr. Zaius, minister of science
+and chief defender of the faith.
+
+487
+01:05:07,737 --> 01:05:12,116
+And appearing for the state,
+Dr. Honorious, deputy minister ofjustice.
+
+488
+01:05:16,288 --> 01:05:20,207
+Bailiff! Your instructions:
+To clean up the beast.
+
+489
+01:05:20,292 --> 01:05:25,588
+These rags he's wearing give off a stench
+that's offensive to the dignity
+
+490
+01:05:25,714 --> 01:05:28,090
+of this tribunal.
+
+491
+01:05:36,558 --> 01:05:38,434
+You may proceed,
+
+492
+01:05:38,602 --> 01:05:41,687
+- Dr. Honorious.
+- By your leave, Mr. President,
+
+493
+01:05:41,771 --> 01:05:46,025
+this tribunal has not yet defined
+the purpose for this inquiry.
+
+494
+01:05:47,903 --> 01:05:51,238
+You asked for the opportunity
+to present your case.
+
+495
+01:05:51,323 --> 01:05:53,741
+Surely you must know why you're here.
+
+496
+01:05:53,825 --> 01:05:56,494
+At the very least,
+this man has the right to know
+
+497
+01:05:56,578 --> 01:05:58,829
+whether there's a charge against him.
+
+498
+01:05:58,914 --> 01:05:59,955
+Objection!
+
+499
+01:06:00,040 --> 01:06:03,042
+This exhibit is indeed a man.
+
+500
+01:06:03,126 --> 01:06:05,753
+Therefore he has no rights under ape law.
+
+501
+01:06:06,671 --> 01:06:09,089
+Dr. Zira, this is a man,
+
+502
+01:06:09,174 --> 01:06:13,385
+- is it not?
+- He is unlike any man you have ever seen.
+
+503
+01:06:13,470 --> 01:06:15,596
+As we hope to prove.
+
+504
+01:06:15,680 --> 01:06:19,016
+Answer the question, Dr. Zira. Is it a man?
+
+505
+01:06:19,100 --> 01:06:22,978
+Sir, perhaps the... question
+is the point at issue.
+
+506
+01:06:23,063 --> 01:06:25,689
+Is he a man, is he a deviant,
+
+507
+01:06:25,774 --> 01:06:27,858
+or... a freak of nature?
+
+508
+01:06:27,943 --> 01:06:30,027
+- Objection!
+- Sustained.
+
+509
+01:06:30,111 --> 01:06:33,280
+Now, Dr. Zira, in all fairness,
+
+510
+01:06:33,406 --> 01:06:36,200
+you must admit that
+the accused is a non-ape
+
+511
+01:06:36,284 --> 01:06:38,994
+and therefore has no rights under ape law.
+
+512
+01:06:39,079 --> 01:06:41,205
+Then why is he called the accused?
+
+513
+01:06:41,289 --> 01:06:44,458
+Your Honors must think him
+guilty of something.
+
+514
+01:06:46,878 --> 01:06:51,298
+The creature's not being tried.
+He's being disposed of.
+
+515
+01:06:51,383 --> 01:06:55,094
+It is scientific heresy
+that is being tried here.
+
+516
+01:06:55,178 --> 01:06:57,221
+Well put, Dr. Zaius.
+
+517
+01:06:57,305 --> 01:06:59,765
+Let us warn our friends
+
+518
+01:06:59,849 --> 01:07:04,019
+that they endanger their own careers
+by defending this animal.
+
+519
+01:07:05,272 --> 01:07:07,481
+Then I'll... defend myself.
+
+520
+01:07:11,236 --> 01:07:13,821
+Dr. Zira, would you tell
+
+521
+01:07:13,905 --> 01:07:16,198
+Bright Eyes to be quiet?
+
+522
+01:07:16,283 --> 01:07:19,034
+- My name is Taylor!
+- Bailiff! Silence the animal!
+
+523
+01:07:20,328 --> 01:07:22,454
+Wait! Let me...
+
+524
+01:07:25,333 --> 01:07:27,418
+You may proceed, Mr. Prosecutor.
+
+525
+01:07:27,502 --> 01:07:31,005
+Learned judges, my case is simple.
+
+526
+01:07:31,089 --> 01:07:33,716
+It is based on our first article of faith.
+
+527
+01:07:33,842 --> 01:07:37,177
+That the almighty created the ape
+in his own image.
+
+528
+01:07:37,262 --> 01:07:39,722
+That he gave him a soul and a mind.
+
+529
+01:07:39,848 --> 01:07:42,182
+That he set him apart
+from the beasts of the jungle
+
+530
+01:07:42,267 --> 01:07:45,269
+and made him the lord of the planet.
+
+531
+01:07:45,353 --> 01:07:47,896
+These sacred truths are self-evident.
+
+532
+01:07:48,773 --> 01:07:51,692
+The proper study of apes is apes.
+
+533
+01:07:53,278 --> 01:07:56,530
+But certain young cynics
+have chosen to study man.
+
+534
+01:07:57,365 --> 01:08:03,579
+Yes! Perverted scientists who advance
+an insidious theory called evolution.
+
+535
+01:08:03,705 --> 01:08:06,373
+Come to the point, Dr. Honorious.
+
+536
+01:08:06,458 --> 01:08:10,753
+The state charges that Dr. Zira
+and a corrupt surgeon named Galen
+
+537
+01:08:10,879 --> 01:08:13,672
+experimented on this wounded animal,
+
+538
+01:08:13,757 --> 01:08:16,216
+tampering with his brain
+and throat tissues,
+
+539
+01:08:16,301 --> 01:08:18,802
+to produce a speaking monster.
+
+540
+01:08:18,887 --> 01:08:20,304
+That's a lie!
+
+541
+01:08:20,388 --> 01:08:22,056
+Mind your tongue, madam.
+
+542
+01:08:22,140 --> 01:08:25,184
+Did we create his mind as well?
+
+543
+01:08:25,268 --> 01:08:27,311
+Not only can this man speak,
+
+544
+01:08:27,395 --> 01:08:30,064
+he can think! He can reason.
+
+545
+01:08:32,317 --> 01:08:34,401
+That can reason?
+
+546
+01:08:34,486 --> 01:08:40,074
+With the tribunal's permission, allow me
+to expose this hoax by direct examination.
+
+547
+01:08:40,158 --> 01:08:43,577
+Proceed, doctor. But do not
+turn this hearing into a farce.
+
+548
+01:08:50,835 --> 01:08:55,047
+Tell the court, Bright Eyes,
+what is the second article of faith?
+
+549
+01:08:56,424 --> 01:08:59,426
+I know nothing of your culture.
+I admit that.
+
+550
+01:08:59,511 --> 01:09:03,639
+Of course he doesn't know our culture,
+because he cannot think!
+
+551
+01:09:05,100 --> 01:09:08,727
+Tell us... Why are all apes created equal?
+
+552
+01:09:09,979 --> 01:09:12,564
+Some apes, it seems,
+are more equal than others.
+
+553
+01:09:12,649 --> 01:09:13,732
+Ridiculous!
+
+554
+01:09:13,817 --> 01:09:15,901
+Tell us, Bright Eyes.
+
+555
+01:09:15,985 --> 01:09:18,070
+Why do men have no souls?
+
+556
+01:09:18,154 --> 01:09:22,282
+What is the proof that a divine spark
+exists in the simian brain?
+
+557
+01:09:31,835 --> 01:09:33,961
+Read this for me.
+
+558
+01:09:43,847 --> 01:09:48,016
+Since the defendant has been forbidden
+to speak in his own defense,
+
+559
+01:09:48,101 --> 01:09:51,395
+he requests that the following statement
+
+560
+01:09:51,479 --> 01:09:53,564
+be read into the record.
+
+561
+01:09:53,648 --> 01:09:56,275
+You read it, Dr. Cornelius. Read it.
+
+562
+01:10:00,196 --> 01:10:04,658
+"I have, uh, come to you from a planet
+in a different solar system."
+
+563
+01:10:04,784 --> 01:10:07,327
+"I am an explorer in space..."
+
+564
+01:10:07,412 --> 01:10:09,997
+Stop right there. Let me see that paper.
+
+565
+01:10:16,337 --> 01:10:18,505
+It's a joke.
+
+566
+01:10:19,382 --> 01:10:21,425
+In very poor taste.
+
+567
+01:10:21,509 --> 01:10:24,344
+Is it a joke
+to seek the truth about this man?
+
+568
+01:10:24,429 --> 01:10:25,679
+Dr. Zira,
+
+569
+01:10:25,805 --> 01:10:28,432
+you state here that a ship
+from outer space
+
+570
+01:10:28,516 --> 01:10:31,643
+sank in an inland sea
+of our eastern desert.
+
+571
+01:10:31,728 --> 01:10:35,439
+You state that Bright Eyes had
+two intelligent companions with him
+
+572
+01:10:35,523 --> 01:10:37,524
+at the time of his capture.
+
+573
+01:10:37,609 --> 01:10:39,526
+That is his assertion.
+
+574
+01:10:39,652 --> 01:10:41,695
+Mr. President,
+
+575
+01:10:41,821 --> 01:10:46,784
+in addition to Bright Eyes,
+I believe the prosecutor has reassembled
+
+576
+01:10:46,868 --> 01:10:50,662
+all the surviving humans
+that were captured in the hunt.
+
+577
+01:10:50,747 --> 01:10:52,623
+That's true, Dr. Zaius.
+
+578
+01:10:52,707 --> 01:10:54,750
+Very well.
+
+579
+01:10:54,876 --> 01:10:57,836
+Then I suggest that we...
+go take a look at 'em.
+
+580
+01:11:36,376 --> 01:11:38,502
+That's him! That's Landon!
+
+581
+01:11:38,586 --> 01:11:41,088
+- Which one?
+- The tall one in the back.
+
+582
+01:11:43,132 --> 01:11:46,760
+Do you acknowledge kinship
+with any of these creatures?
+
+583
+01:11:46,886 --> 01:11:50,597
+- With one of them, yes.
+- Identify him, then. Speak to him.
+
+584
+01:11:52,684 --> 01:11:54,768
+Landon?
+
+585
+01:11:55,937 --> 01:11:56,937
+Landon.
+
+586
+01:12:02,318 --> 01:12:04,611
+Oh! They cut him!
+
+587
+01:12:07,240 --> 01:12:09,324
+Did you know about this?
+
+588
+01:12:09,409 --> 01:12:13,078
+No. I... I swear.
+I never saw this man before.
+
+589
+01:12:13,162 --> 01:12:15,247
+But they...
+
+590
+01:12:16,916 --> 01:12:18,041
+You did it.
+
+591
+01:12:19,210 --> 01:12:22,254
+You cut up his brain, you bloody baboon!
+
+592
+01:12:22,338 --> 01:12:24,423
+Stop him!
+
+593
+01:12:35,643 --> 01:12:37,185
+Take him inside!
+
+594
+01:13:18,603 --> 01:13:21,688
+Mr. President, a word of explanation.
+
+595
+01:13:21,814 --> 01:13:24,566
+The human specimen you saw outside
+
+596
+01:13:24,651 --> 01:13:28,153
+suffered a skull fracture
+in the course of the hunt.
+
+597
+01:13:28,237 --> 01:13:33,450
+Two fine veterinary surgeons under
+my direction were able to save his life.
+
+598
+01:13:33,534 --> 01:13:36,036
+But the beast could not speak, of course.
+
+599
+01:13:36,204 --> 01:13:38,246
+Nor will he ever speak.
+
+600
+01:13:38,331 --> 01:13:40,415
+You did that to him, damn you!
+
+601
+01:13:40,500 --> 01:13:44,252
+Cut out his memory, took his identity,
+and that's what you wanna do to me!
+
+602
+01:13:44,337 --> 01:13:46,171
+Bailiff! Gag the animal!
+
+603
+01:13:46,255 --> 01:13:48,340
+Damn you!
+
+604
+01:13:50,593 --> 01:13:52,636
+May it please the tribunal,
+
+605
+01:13:52,720 --> 01:13:56,723
+I grant you that this creature
+cannot have come from another planet.
+
+606
+01:13:56,808 --> 01:14:01,061
+But this much is certain. He does come
+from somewhere in the forbidden zone.
+
+607
+01:14:01,145 --> 01:14:04,189
+He's described the region to us
+and described it accurately for...
+
+608
+01:14:04,273 --> 01:14:05,732
+I have been there.
+
+609
+01:14:05,817 --> 01:14:07,859
+You visited the forbidden zone?
+
+610
+01:14:07,944 --> 01:14:09,277
+Yes, sir.
+
+611
+01:14:09,362 --> 01:14:11,905
+A year ago.
+With the permission of the Academy.
+
+612
+01:14:12,031 --> 01:14:13,115
+He exceeded his orders.
+
+613
+01:14:13,199 --> 01:14:16,326
+His travel permit
+was canceled immediately.
+
+614
+01:14:16,411 --> 01:14:18,495
+Yes, sir. That is true, thanks to you.
+
+615
+01:14:18,579 --> 01:14:21,206
+But not before I discovered evidence
+
+616
+01:14:21,290 --> 01:14:25,961
+of a simian culture that existed long
+before the sacred scrolls were written.
+
+617
+01:14:26,087 --> 01:14:29,840
+Objection! These remarks
+are profane and irrelevant!
+
+618
+01:14:29,924 --> 01:14:32,884
+Sustained. Your archaeological theories
+have no bearing
+
+619
+01:14:32,969 --> 01:14:35,679
+on the disposition of this creature.
+
+620
+01:14:35,763 --> 01:14:38,765
+Let them talk, Mr. President.
+Let them talk.
+
+621
+01:14:38,850 --> 01:14:43,311
+Sirs, our theories
+have a bearing on his identity.
+
+622
+01:14:43,396 --> 01:14:45,272
+How so?
+
+623
+01:14:45,356 --> 01:14:48,859
+Let us assume, as common sense dictates,
+
+624
+01:14:48,943 --> 01:14:51,987
+that the prisoner's story is false.
+
+625
+01:14:52,113 --> 01:14:55,490
+But if he did not come
+from another planet,
+
+626
+01:14:55,575 --> 01:14:58,577
+then surely he sprang from our own.
+
+627
+01:15:00,121 --> 01:15:03,123
+Yes! Sprang! As an animal psychologist,
+
+628
+01:15:03,291 --> 01:15:08,712
+I have found no physiological defect
+to explain why humans are mute.
+
+629
+01:15:08,796 --> 01:15:10,672
+- Objection!
+- Sustained!
+
+630
+01:15:10,757 --> 01:15:12,591
+Their speech organs are adequate.
+
+631
+01:15:12,675 --> 01:15:15,927
+The flaw lies not in anatomy,
+but in the brain.
+
+632
+01:15:16,012 --> 01:15:18,096
+- Objection!
+- Sustained!
+
+633
+01:15:18,181 --> 01:15:21,808
+Sustain all objections, but face the truth!
+
+634
+01:15:21,893 --> 01:15:24,394
+Yes! Behold this marvel!
+
+635
+01:15:24,479 --> 01:15:26,563
+This living paradox!
+
+636
+01:15:26,647 --> 01:15:29,191
+This missing link in an evolutionary chain!
+
+637
+01:15:29,317 --> 01:15:30,901
+Silence there!
+
+638
+01:15:30,985 --> 01:15:32,152
+You go too far.
+
+639
+01:15:32,236 --> 01:15:34,696
+I think an indictment is in order.
+
+640
+01:15:34,781 --> 01:15:39,910
+Yes, sir. The state charges Drs. Zira and
+Cornelius with contempt of this tribunal,
+
+641
+01:15:39,994 --> 01:15:42,412
+malicious mischief, and scientific heresy.
+
+642
+01:15:42,497 --> 01:15:44,623
+It is so ordered.
+
+643
+01:15:45,583 --> 01:15:49,920
+This tribunal will examine the evidence
+and in due course render its verdict.
+
+644
+01:15:50,004 --> 01:15:53,715
+As to the proposed indictment
+and as to the disposition
+
+645
+01:15:53,800 --> 01:15:56,301
+of the deviate in question,
+
+646
+01:15:56,385 --> 01:15:58,011
+this hearing is adjourned.
+
+647
+01:16:45,893 --> 01:16:47,978
+Wait outside.
+
+648
+01:16:58,781 --> 01:17:00,866
+Well, the verdict is in.
+
+649
+01:17:02,451 --> 01:17:07,914
+At the moment, your two simian friends
+and sponsors are free on bail.
+
+650
+01:17:08,040 --> 01:17:11,126
+But they'll soon be brought to trial
+for heresy.
+
+651
+01:17:11,252 --> 01:17:13,295
+What about me?
+
+652
+01:17:13,421 --> 01:17:17,007
+Your case was preordained.
+
+653
+01:17:17,091 --> 01:17:19,926
+In a way, you did the state a service
+
+654
+01:17:20,011 --> 01:17:24,931
+because you made it possible for us
+to expose Zira and Cornelius.
+
+655
+01:17:25,016 --> 01:17:29,060
+Now the tribunal
+has placed you in my custody
+
+656
+01:17:29,145 --> 01:17:31,271
+for final disposition.
+
+657
+01:17:32,607 --> 01:17:34,900
+Do you realize what that means?
+
+658
+01:17:35,943 --> 01:17:37,194
+No.
+
+659
+01:17:37,278 --> 01:17:39,821
+Emasculation to begin with.
+
+660
+01:17:39,906 --> 01:17:42,115
+Then experimental surgery
+
+661
+01:17:42,241 --> 01:17:44,743
+on the speech centers - on the brain.
+
+662
+01:17:44,827 --> 01:17:47,537
+Eventually a kind of living death.
+
+663
+01:17:50,249 --> 01:17:52,292
+However,
+
+664
+01:17:53,753 --> 01:17:56,463
+I have it in my power to grant a reprieve.
+
+665
+01:17:57,298 --> 01:17:59,841
+That is why I summoned you here tonight.
+
+666
+01:18:01,302 --> 01:18:05,555
+Tell me who and what you really are
+and where you came from,
+
+667
+01:18:05,640 --> 01:18:07,891
+and no veterinary shall touch you.
+
+668
+01:18:07,975 --> 01:18:10,602
+I told you that at that hearing of yours.
+
+669
+01:18:10,686 --> 01:18:12,771
+You lied!
+
+670
+01:18:12,855 --> 01:18:14,898
+Where is your tribe?
+
+671
+01:18:14,982 --> 01:18:17,067
+My tribe!
+
+672
+01:18:17,151 --> 01:18:20,612
+They live on another planet
+in another solar system.
+
+673
+01:18:20,696 --> 01:18:24,115
+Even in your lies,
+some truth slips through.
+
+674
+01:18:24,200 --> 01:18:27,202
+That mythical community
+you're supposed to come from -
+
+675
+01:18:27,286 --> 01:18:28,620
+Fort Wayne.
+
+676
+01:18:28,704 --> 01:18:30,789
+- What about it?
+- A fort!
+
+677
+01:18:31,582 --> 01:18:35,085
+Unconsciously you chose a name
+that was belligerent.
+
+678
+01:18:35,169 --> 01:18:37,212
+Where were you nurtured?
+
+679
+01:18:38,172 --> 01:18:41,967
+Then... you don't believe
+that prosecutor's charge
+
+680
+01:18:42,051 --> 01:18:45,011
+that I'm a monster created by Dr. Zira?
+
+681
+01:18:45,137 --> 01:18:47,180
+Certainly not.
+
+682
+01:18:49,183 --> 01:18:51,726
+You're a mutant.
+
+683
+01:18:51,811 --> 01:18:55,897
+That's what Zira and Cornelius claim.
+You're talking heresy, doctor.
+
+684
+01:18:55,982 --> 01:18:58,024
+Of course!
+
+685
+01:18:58,150 --> 01:19:02,112
+Suppose I am a mutant.
+How can the appearance of one mutant
+
+686
+01:19:02,196 --> 01:19:05,365
+- send you into a panic?
+- Because you're not unique.
+
+687
+01:19:05,449 --> 01:19:08,952
+- There's the one you call Landon.
+- Oh. Then you admit that...
+
+688
+01:19:09,036 --> 01:19:12,998
+I admit that where there's one mutant,
+there's probably another and another.
+
+689
+01:19:13,082 --> 01:19:15,375
+A whole nest of them.
+
+690
+01:19:16,043 --> 01:19:18,211
+Where is your nest, Taylor?
+
+691
+01:19:18,337 --> 01:19:20,380
+Where are your women?
+
+692
+01:19:20,464 --> 01:19:22,590
+Thank you.
+
+693
+01:19:22,675 --> 01:19:24,801
+Thank you for calling me Taylor.
+
+694
+01:19:24,885 --> 01:19:26,970
+Dr. Zaius,
+
+695
+01:19:27,054 --> 01:19:29,139
+I know who I am.
+
+696
+01:19:29,223 --> 01:19:31,266
+But who are you?
+
+697
+01:19:31,392 --> 01:19:35,228
+How in hell did this upside-down
+civilization get started?
+
+698
+01:19:35,354 --> 01:19:38,606
+You may well call it upside down,
+
+699
+01:19:38,691 --> 01:19:41,067
+since you occupy its lowest level.
+
+700
+01:19:41,193 --> 01:19:43,236
+And deservedly so.
+
+701
+01:19:45,740 --> 01:19:48,783
+Our eastern desert
+has never been explored
+
+702
+01:19:49,410 --> 01:19:53,872
+because we've always assumed
+that life cannot exist there.
+
+703
+01:19:53,956 --> 01:19:57,083
+Taylor, save yourself!
+
+704
+01:19:57,209 --> 01:20:02,088
+Tell me, is there another jungle
+beyond the forbidden zone?
+
+705
+01:20:02,173 --> 01:20:04,382
+I don't know.
+
+706
+01:20:04,467 --> 01:20:09,637
+If you're trying to protect others
+of your kind, it'll cost you your identity.
+
+707
+01:20:09,722 --> 01:20:11,806
+I'm not protecting anyone.
+
+708
+01:20:11,891 --> 01:20:14,476
+This whole thing is insane!
+What have I done?
+
+709
+01:20:20,441 --> 01:20:22,817
+You are a menace.
+
+710
+01:20:22,902 --> 01:20:25,195
+A walking pestilence!
+
+711
+01:20:25,279 --> 01:20:28,198
+I do know who you are, Taylor.
+
+712
+01:20:30,201 --> 01:20:33,995
+I'll give you just six hours
+to make a full confession.
+
+713
+01:20:34,080 --> 01:20:36,956
+After that
+I shall use surgery to obtain one.
+
+714
+01:20:37,041 --> 01:20:38,375
+Guards!
+
+715
+01:20:38,459 --> 01:20:41,753
+All right. You can cut pieces out of me.
+You've got the power.
+
+716
+01:20:41,837 --> 01:20:44,130
+Return this creature to his cage.
+
+717
+01:20:44,215 --> 01:20:46,216
+But you do it out of fear!
+
+718
+01:20:46,300 --> 01:20:48,301
+Remember that!
+Because you're afraid of me!
+
+719
+01:20:48,386 --> 01:20:51,262
+What are you afraid of, doctor?
+
+720
+01:21:13,160 --> 01:21:15,245
+Are you Julius?
+
+721
+01:21:15,329 --> 01:21:19,332
+- Who are you?
+- I'm from the office of animal affairs.
+
+722
+01:21:21,669 --> 01:21:24,254
+That male is to be transferred to the zoo.
+
+723
+01:21:24,338 --> 01:21:26,089
+At this hour?
+
+724
+01:21:26,173 --> 01:21:27,924
+Who says so?
+
+725
+01:21:28,008 --> 01:21:30,260
+Don't they tell you anything?
+
+726
+01:21:30,344 --> 01:21:34,180
+The antivivisectionist society
+is up in arms.
+
+727
+01:21:34,306 --> 01:21:38,268
+They're gonna save this beast
+from those butchers in the lab.
+
+728
+01:21:38,352 --> 01:21:42,522
+If he can speak, he belongs in a public zoo,
+but what'll probably happen
+
+729
+01:21:42,606 --> 01:21:47,068
+is some money-mad grown-up'll put him
+in a circus, and we'll have to pay...
+
+730
+01:21:47,153 --> 01:21:49,946
+Stop making speeches
+and show me the order!
+
+731
+01:22:05,713 --> 01:22:08,214
+This order's no good.
+
+732
+01:22:09,341 --> 01:22:12,093
+It must be countersigned by Dr. Zaius.
+
+733
+01:22:13,053 --> 01:22:14,137
+Grab him!
+
+734
+01:22:19,852 --> 01:22:21,102
+Who are you?
+
+735
+01:22:21,187 --> 01:22:23,229
+So you can talk!
+
+736
+01:22:23,355 --> 01:22:26,608
+I'm Dr. Zira's nephew.
+This abduction was her idea.
+
+737
+01:22:26,734 --> 01:22:28,985
+You're not really going to the zoo.
+
+738
+01:22:29,069 --> 01:22:31,237
+That's our story if somebody stops us.
+
+739
+01:22:31,363 --> 01:22:33,406
+Get me out of this.
+
+740
+01:22:35,409 --> 01:22:37,869
+We've gotta move fast!
+
+741
+01:22:40,915 --> 01:22:42,415
+She comes along too.
+
+742
+01:22:42,541 --> 01:22:45,418
+- Zira doesn't want your female.
+- I want her.
+
+743
+01:22:46,378 --> 01:22:49,255
+If you insist, but I'm not taking any orders.
+
+744
+01:22:49,340 --> 01:22:51,424
+All right. Come on! Let's go!
+
+745
+01:23:14,156 --> 01:23:18,117
+- I told you not to bring the other one!
+- He wouldn't leave her.
+
+746
+01:23:18,202 --> 01:23:20,286
+Oh, all right. Come on!
+
+747
+01:23:28,003 --> 01:23:31,464
+- Here. Put this on.
+- Don't you have any clothes for me?
+
+748
+01:23:31,590 --> 01:23:34,008
+What do you expect? An ape's new suit?
+
+749
+01:23:34,969 --> 01:23:38,221
+- This stuff stinks!
+- Well, so do you. Like all men.
+
+750
+01:23:38,305 --> 01:23:40,390
+Taylor, remember,
+
+751
+01:23:40,474 --> 01:23:42,600
+all men look alike to most apes.
+
+752
+01:23:42,685 --> 01:23:44,102
+So put it on and keep quiet,
+
+753
+01:23:44,186 --> 01:23:47,105
+and we may just
+get away with this. Hurry!
+
+754
+01:24:38,032 --> 01:24:40,366
+Cornelius!
+
+755
+01:24:48,792 --> 01:24:50,084
+How'd it go?
+
+756
+01:24:52,546 --> 01:24:53,671
+Come on!
+
+757
+01:24:53,756 --> 01:24:55,882
+Let me out of this!
+
+758
+01:25:04,892 --> 01:25:07,393
+Well, Taylor, we're all fugitives now.
+
+759
+01:25:07,519 --> 01:25:10,313
+Do you have any weapons? Any guns?
+
+760
+01:25:10,397 --> 01:25:12,523
+The best. But we won't need them.
+
+761
+01:25:12,608 --> 01:25:15,068
+I'm glad to hear it. I want one anyway.
+
+762
+01:25:23,952 --> 01:25:26,412
+Taylor, I'm in charge of this expedition!
+
+763
+01:25:26,497 --> 01:25:27,497
+Good for you.
+
+764
+01:25:27,581 --> 01:25:30,333
+But you're not in charge of me.
+Not any more.
+
+765
+01:25:30,417 --> 01:25:32,543
+I don't plan to be caught again.
+
+766
+01:25:34,546 --> 01:25:37,715
+- As you wish.
+- Dr. Zaius seemed to think there was
+
+767
+01:25:37,800 --> 01:25:40,635
+another jungle beyond the forbidden zone.
+
+768
+01:25:40,761 --> 01:25:42,804
+I'll try for that. What about you?
+
+769
+01:25:42,930 --> 01:25:45,723
+Cornelius and I have been
+indicted for heresy.
+
+770
+01:25:45,808 --> 01:25:49,811
+Unless we can prove our theories,
+we don't stand a chance of acquittal.
+
+771
+01:25:49,937 --> 01:25:52,188
+You're going back to the forbidden zone?
+
+772
+01:25:52,272 --> 01:25:55,525
+We're going back to the diggings
+I worked at over a year ago.
+
+773
+01:25:55,609 --> 01:25:57,819
+It's a three-day ride across the desert.
+
+774
+01:25:57,945 --> 01:26:01,114
+Near where you claim you landed
+from that planet of yours.
+
+775
+01:26:01,198 --> 01:26:04,992
+- You still don't believe me, do you?
+- It's a long detour to Dead Lake.
+
+776
+01:26:05,077 --> 01:26:07,161
+- What would we find?
+- Nothing much.
+
+777
+01:26:07,246 --> 01:26:12,750
+An empty rubber life raft. Maybe a...
+little flag, the emblem of my countrymen.
+
+778
+01:26:13,794 --> 01:26:16,170
+The terrain around that lake is poisonous.
+
+779
+01:26:16,255 --> 01:26:20,425
+There's no fresh water,
+no vegetation - nothing.
+
+780
+01:26:23,679 --> 01:26:27,974
+Anyway, I... ought to thank you
+for saving me. You'll be in trouble for that.
+
+781
+01:26:29,643 --> 01:26:32,812
+We've been in trouble
+since the moment we met you.
+
+782
+01:26:36,483 --> 01:26:38,568
+What's she pointing at?
+
+783
+01:26:38,652 --> 01:26:41,654
+This must be close to home for her.
+She knows it.
+
+784
+01:26:45,701 --> 01:26:48,119
+Nova, no. Nova!
+
+785
+01:26:48,203 --> 01:26:51,164
+Nova, you can't go there!
+It's not safe! Nova!
+
+786
+01:26:55,127 --> 01:26:56,669
+We'd better get started.
+
+787
+01:26:56,754 --> 01:26:59,839
+If the mounted police pick up our trail,
+they'll come this far.
+
+788
+01:26:59,923 --> 01:27:03,676
+Right. Let's get the water
+and provisions into the wagon.
+
+789
+01:28:15,666 --> 01:28:17,750
+Cornelius!
+
+790
+01:28:20,921 --> 01:28:23,005
+Where does this river lead to?
+
+791
+01:28:23,090 --> 01:28:28,177
+It flows into a sea some miles from here.
+That's where we'll find the diggings.
+
+792
+01:28:28,262 --> 01:28:30,346
+And beyond that?
+
+793
+01:28:30,430 --> 01:28:34,308
+I don't know. You can't ride
+along the shore at high tide
+
+794
+01:28:34,393 --> 01:28:37,270
+and we had no boats
+on our last expedition.
+
+795
+01:28:37,354 --> 01:28:40,940
+You never told me -
+why do you call this the forbidden zone?
+
+796
+01:28:41,817 --> 01:28:47,488
+No one knows. It's an ancient taboo,
+set forth in the sacred scrolls.
+
+797
+01:28:47,573 --> 01:28:50,741
+The lawgiver pronounced
+this whole area deadly.
+
+798
+01:28:52,953 --> 01:28:55,037
+Shouldn't we be moving on?
+
+799
+01:28:55,706 --> 01:28:57,790
+I'm for that.
+
+800
+01:30:26,546 --> 01:30:28,631
+Well? Do you like it?
+
+801
+01:30:33,595 --> 01:30:36,222
+Why did you do that? Scrape off your hair?
+
+802
+01:30:36,306 --> 01:30:40,059
+In my world, when I left it,
+only kids your age wore beards.
+
+803
+01:30:40,894 --> 01:30:42,436
+Beards?
+
+804
+01:30:42,521 --> 01:30:44,605
+I don't go in for fads.
+
+805
+01:30:45,482 --> 01:30:47,650
+Somehow
+
+806
+01:30:47,734 --> 01:30:50,236
+it makes you look less intelligent.
+
+807
+01:30:51,238 --> 01:30:53,823
+When will you show me
+what's in that cave?
+
+808
+01:30:53,907 --> 01:30:56,033
+Right now, if you like.
+
+809
+01:31:15,846 --> 01:31:16,929
+Cornelius!
+
+810
+01:31:27,607 --> 01:31:31,152
+- Lucius, don't fire at them!
+- You're all under arrest!
+
+811
+01:31:35,449 --> 01:31:38,868
+If there's any more shooting,
+Dr. Zaius, you'll be the first to go.
+
+812
+01:31:38,952 --> 01:31:40,703
+You can count on it.
+
+813
+01:31:40,787 --> 01:31:43,205
+You are not in command.
+Put down that gun.
+
+814
+01:31:43,290 --> 01:31:44,457
+Shut up!
+
+815
+01:31:44,541 --> 01:31:46,500
+Very well.
+
+816
+01:31:46,877 --> 01:31:48,210
+Lower your weapons.
+
+817
+01:31:48,295 --> 01:31:51,964
+Tell them to pull back around the rocks,
+out of range.
+
+818
+01:31:52,758 --> 01:31:54,800
+Withdraw!
+
+819
+01:31:59,639 --> 01:32:01,724
+How did you know we'd come here?
+
+820
+01:32:01,808 --> 01:32:06,479
+It wasn't difficult. Only an apostate
+would flee to the forbidden zone.
+
+821
+01:32:06,563 --> 01:32:09,774
+And only a fool
+would give a gun to an animal.
+
+822
+01:32:10,734 --> 01:32:13,819
+I see you've brought
+the female of your species.
+
+823
+01:32:13,945 --> 01:32:17,698
+I didn't realize
+that man could be monogamous.
+
+824
+01:32:17,783 --> 01:32:19,825
+On this planet it's easy.
+
+825
+01:32:20,994 --> 01:32:24,747
+I'll ask you to reconsider
+the rash course you've undertaken.
+
+826
+01:32:24,831 --> 01:32:30,252
+If you're convicted of heresy,
+the most you'll get is two years, but
+
+827
+01:32:30,337 --> 01:32:35,591
+if you persist in pointing guns in
+my direction, you'll hang for high treason.
+
+828
+01:32:35,675 --> 01:32:38,302
+We never meant to be treasonous, sir.
+
+829
+01:32:38,386 --> 01:32:42,556
+But up there, in the face of that cliff,
+there is a vast cave,
+
+830
+01:32:42,641 --> 01:32:46,685
+and in that cave a fabulous treasure
+of fossils and artifacts.
+
+831
+01:32:46,770 --> 01:32:50,481
+I've seen some of your fossils
+and artifacts. They're worthless.
+
+832
+01:32:50,565 --> 01:32:52,650
+There's your minister of science.
+
+833
+01:32:52,734 --> 01:32:55,861
+Honor-bound to expand
+the frontiers of knowledge.
+
+834
+01:32:55,946 --> 01:32:58,114
+- Taylor, please!
+- Except he's also chief defender
+
+835
+01:32:58,198 --> 01:32:59,698
+of the faith.
+
+836
+01:32:59,783 --> 01:33:03,994
+There is no contradiction
+between faith and science - true science.
+
+837
+01:33:04,079 --> 01:33:07,540
+- Are you willing to put it to the test?
+- Taylor, I would rather...
+
+838
+01:33:07,624 --> 01:33:11,794
+Take it easy. You saved me from
+this fanatic. Maybe I can return the favor.
+
+839
+01:33:11,878 --> 01:33:14,004
+What is your proposal?
+
+840
+01:33:14,798 --> 01:33:17,967
+When were those sacred scrolls
+of yours written?
+
+841
+01:33:18,051 --> 01:33:19,802
+1,200 years ago.
+
+842
+01:33:19,886 --> 01:33:24,974
+All right. If they can prove those scrolls
+don't tell the whole truth of your history,
+
+843
+01:33:25,058 --> 01:33:27,351
+if they can find some real evidence
+
+844
+01:33:27,435 --> 01:33:31,188
+of another culture from some remote past,
+will you let them off?
+
+845
+01:33:31,273 --> 01:33:34,233
+- Of course.
+- Let's go up to the cave.
+
+846
+01:33:39,614 --> 01:33:42,908
+Sorry, Lucius. You've got to stay here
+and guard the camp.
+
+847
+01:33:43,034 --> 01:33:46,120
+Always giving orders.
+Just like every other adult.
+
+848
+01:33:46,246 --> 01:33:48,789
+Relax. You'll get to see it all later on.
+
+849
+01:34:50,894 --> 01:34:53,395
+Present your evidence, Cornelius.
+
+850
+01:34:53,480 --> 01:34:58,734
+It was at this level that I discovered
+traces of an early ape creature.
+
+851
+01:34:58,818 --> 01:35:04,490
+A stage of primitive barbarism really,
+dating back some 1,300 years roughly.
+
+852
+01:35:04,616 --> 01:35:10,162
+It was at this level... I discovered
+cutting tools and arrowheads of quartz
+
+853
+01:35:10,288 --> 01:35:13,791
+and the fossilized bones
+of carnivorous gorillas.
+
+854
+01:35:14,542 --> 01:35:17,086
+But the artifacts
+
+855
+01:35:17,170 --> 01:35:19,338
+lying here
+
+856
+01:35:20,423 --> 01:35:23,342
+were found at this level,
+
+857
+01:35:23,426 --> 01:35:26,512
+and date back... 700 years earlier.
+
+858
+01:35:26,638 --> 01:35:28,722
+That's the paradox.
+
+859
+01:35:28,807 --> 01:35:32,393
+For the more ancient culture
+is the more advanced.
+
+860
+01:35:32,519 --> 01:35:36,355
+Now, admittedly,
+many of these objects are unidentified.
+
+861
+01:35:36,439 --> 01:35:40,693
+But clearly they were fashioned
+by beings with a knowledge of metallurgy.
+
+862
+01:35:40,777 --> 01:35:44,989
+Indeed, the fact that many of these tools
+are unknown to us
+
+863
+01:35:45,115 --> 01:35:49,660
+suggests a culture which
+in certain ways equals our own.
+
+864
+01:35:49,744 --> 01:35:52,246
+Some of the evidence is uncontestable.
+
+865
+01:35:52,372 --> 01:35:56,166
+Don't speak to me in absolutes.
+The evidence is contestable!
+
+866
+01:35:57,377 --> 01:35:59,128
+I apologize, sir.
+
+867
+01:35:59,212 --> 01:36:03,382
+To begin with, your methods of dating
+the past are crude to say the least.
+
+868
+01:36:03,466 --> 01:36:07,386
+There are geologists on my staff
+who'd laugh at your speculations.
+
+869
+01:36:07,470 --> 01:36:09,555
+But there's the doll, sir.
+
+870
+01:36:09,639 --> 01:36:11,765
+What?
+
+871
+01:36:11,850 --> 01:36:14,351
+Oh, lying right there. The human doll.
+
+872
+01:36:21,026 --> 01:36:25,279
+What does this prove?
+My granddaughter plays with human dolls.
+
+873
+01:36:27,073 --> 01:36:29,950
+The doll was found
+beside the jawbone of a man
+
+874
+01:36:30,035 --> 01:36:33,662
+and no trace of simian fossil
+has been found in this deposit.
+
+875
+01:36:33,788 --> 01:36:35,873
+Your conclusion is premature.
+
+876
+01:36:35,957 --> 01:36:39,084
+Have you forgotten your scripture?
+The 13th scroll?
+
+877
+01:36:39,210 --> 01:36:44,214
+"And Proteus brought the upright beast
+into the garden and chained him to a tree,
+
+878
+01:36:44,299 --> 01:36:48,594
+- and the children did make sport of him."
+- No, sir, I have not forgotten.
+
+879
+01:36:48,678 --> 01:36:53,182
+Well, for a time the ancients
+kept humans as household pets
+
+880
+01:36:53,266 --> 01:36:57,269
+until our lawgiver proved
+that man could not be tamed.
+
+881
+01:36:58,229 --> 01:36:59,563
+Keep digging, Cornelius.
+
+882
+01:36:59,647 --> 01:37:03,275
+You'll find evidence
+of the master of this house...
+
+883
+01:37:04,652 --> 01:37:06,987
+An ape.
+
+884
+01:37:09,407 --> 01:37:11,033
+What are you doing?
+
+885
+01:37:11,117 --> 01:37:14,119
+Reconstructing a past life.
+
+886
+01:37:15,705 --> 01:37:19,124
+You say these things were found
+at the same level as that doll?
+
+887
+01:37:19,250 --> 01:37:22,836
+Whoever owned them
+must have been in pretty bad shape.
+
+888
+01:37:22,921 --> 01:37:25,005
+He wore false teeth.
+
+889
+01:37:26,007 --> 01:37:28,092
+And eyeglasses.
+
+890
+01:37:28,843 --> 01:37:31,303
+He had a failing heart.
+
+891
+01:37:32,055 --> 01:37:36,850
+Towards the end, he... had
+this prefabricated valve put in it.
+
+892
+01:37:38,937 --> 01:37:41,313
+I don't say he was a man
+like I knew at home,
+
+893
+01:37:41,439 --> 01:37:45,317
+but he must have been a close relative.
+He had all the same weaknesses.
+
+894
+01:37:46,486 --> 01:37:48,529
+He was a weak,
+
+895
+01:37:48,655 --> 01:37:50,697
+fragile animal.
+
+896
+01:37:50,824 --> 01:37:52,908
+But he was here before you
+
+897
+01:37:52,992 --> 01:37:55,077
+and he was better than you are.
+
+898
+01:37:55,161 --> 01:38:00,999
+That's lunacy! I can offer alternate
+descriptions of every one of those articles
+
+899
+01:38:01,084 --> 01:38:04,044
+which is just as ingenious as yours.
+
+900
+01:38:04,129 --> 01:38:07,005
+But it'd be conjecture, not proof.
+
+901
+01:38:07,090 --> 01:38:18,058
+Mamma!
+
+902
+01:38:20,353 --> 01:38:24,523
+Dr. Zaius, would an ape make a human doll
+
+903
+01:38:24,607 --> 01:38:26,150
+that talks?
+
+904
+01:38:30,864 --> 01:38:31,989
+Lucius!
+
+905
+01:38:34,576 --> 01:38:36,660
+You dirty...
+
+906
+01:38:36,744 --> 01:38:59,641
+Nova!
+
+907
+01:39:37,347 --> 01:39:39,181
+Cornelius!
+
+908
+01:39:39,265 --> 01:39:41,141
+Zira!
+
+909
+01:39:41,226 --> 01:39:43,268
+Help me!
+
+910
+01:39:45,396 --> 01:39:47,439
+Mamma!
+
+911
+01:39:54,030 --> 01:39:56,114
+I oughta kill you right now.
+
+912
+01:39:56,199 --> 01:39:57,616
+Come on!
+
+913
+01:39:59,035 --> 01:40:01,119
+Tell 'em to pull back. Now!
+
+914
+01:40:01,204 --> 01:40:03,664
+Cease fire! Withdraw!
+
+915
+01:40:05,833 --> 01:40:07,209
+Up there!
+
+916
+01:40:07,293 --> 01:40:09,378
+Withdraw!
+
+917
+01:40:11,506 --> 01:40:13,632
+Get down!
+
+918
+01:40:27,063 --> 01:40:29,147
+Lucius, are you all right?
+
+919
+01:40:29,232 --> 01:40:31,483
+They took me by surprise.
+
+920
+01:40:31,609 --> 01:40:35,153
+Sneaked up on me
+while I was feeding the horses.
+
+921
+01:40:35,238 --> 01:40:37,322
+What's happened to honor?
+
+922
+01:40:38,658 --> 01:40:40,742
+I got off two rounds to warn you.
+
+923
+01:40:40,827 --> 01:40:44,580
+- They've taken everything.
+- Not quite everything!
+
+924
+01:40:44,664 --> 01:40:47,666
+They left a hostage behind.
+
+925
+01:40:47,750 --> 01:40:50,502
+- How are you feeling?
+- Disillusioned.
+
+926
+01:40:50,628 --> 01:40:53,130
+You can't trust the older generation.
+
+927
+01:40:53,214 --> 01:40:55,465
+I know what you mean.
+
+928
+01:40:55,550 --> 01:40:59,803
+I want you to go round the rocks and tell
+those gorillas I've got Dr. Zaius prisoner.
+
+929
+01:40:59,887 --> 01:41:02,055
+Yes, I can do that.
+
+930
+01:41:02,140 --> 01:41:06,435
+I want a horse, food, and water.
+Enough for a week for me and this female.
+
+931
+01:41:06,519 --> 01:41:10,606
+- And 50 rounds of ammunition.
+- What if they won't agree to your terms?
+
+932
+01:41:10,690 --> 01:41:12,733
+Tell them I'll shoot him.
+
+933
+01:41:12,859 --> 01:41:14,901
+Taylor, you can't!
+
+934
+01:41:14,986 --> 01:41:17,112
+Oh, yes, he can.
+
+935
+01:41:17,739 --> 01:41:19,906
+He's a born killer.
+
+936
+01:41:19,991 --> 01:41:22,117
+Deliver the message.
+
+937
+01:41:23,745 --> 01:41:25,871
+Over here.
+
+938
+01:41:29,292 --> 01:41:31,543
+Sit down.
+
+939
+01:41:47,602 --> 01:41:51,647
+Taylor, please! Don't treat him like that!
+
+940
+01:41:51,731 --> 01:41:54,399
+- Why not?
+- It's humiliating.
+
+941
+01:41:55,735 --> 01:41:59,279
+The way I was humiliated... by all of you?
+
+942
+01:41:59,364 --> 01:42:01,406
+You led me around on a leash!
+
+943
+01:42:01,532 --> 01:42:04,534
+That was different.
+We thought you were inferior.
+
+944
+01:42:04,619 --> 01:42:06,787
+Now you know better.
+
+945
+01:42:06,913 --> 01:42:09,665
+Cornelius was right, doctor. He proved it.
+
+946
+01:42:09,749 --> 01:42:13,502
+Man was here first. You owe him
+your science, your culture,
+
+947
+01:42:13,586 --> 01:42:17,547
+- whatever civilization you've got.
+- Then answer me this.
+
+948
+01:42:17,632 --> 01:42:21,301
+If man was superior,
+why didn't he survive?
+
+949
+01:42:21,386 --> 01:42:25,847
+Wiped out by a plague, some natural
+catastrophe, a storm of meteors.
+
+950
+01:42:25,932 --> 01:42:29,267
+From the looks of some parts
+of this planet, I'd say that was a fair bet.
+
+951
+01:42:29,352 --> 01:42:30,977
+But we can't be sure.
+
+952
+01:42:31,062 --> 01:42:32,813
+He is.
+
+953
+01:42:32,939 --> 01:42:37,275
+He knew all the time.
+Long before you found your cave, he knew.
+
+954
+01:42:37,360 --> 01:42:40,987
+Defender of the faith?
+Guardian of the terrible secret.
+
+955
+01:42:41,072 --> 01:42:43,407
+- That's it, isn't it, doctor?
+- What I know of man
+
+956
+01:42:43,491 --> 01:42:45,575
+was written long ago.
+
+957
+01:42:45,660 --> 01:42:49,246
+Set down by the greatest ape of all,
+our lawgiver.
+
+958
+01:42:49,330 --> 01:42:50,455
+Cornelius,
+
+959
+01:42:50,581 --> 01:42:52,624
+come here.
+
+960
+01:42:52,750 --> 01:42:55,752
+Reach into my pocket. Read to him
+
+961
+01:42:55,837 --> 01:42:57,921
+the 29th scroll.
+
+962
+01:42:58,005 --> 01:42:59,423
+6th verse.
+
+963
+01:43:03,261 --> 01:43:07,347
+"Beware the beast man,
+for he is the devil's pawn."
+
+964
+01:43:07,432 --> 01:43:10,016
+"Alone among God's primates,
+
+965
+01:43:10,101 --> 01:43:14,354
+he kills for sport or lust or greed."
+
+966
+01:43:15,314 --> 01:43:19,484
+"Yea, he will murder his brother
+to possess his brother's land."
+
+967
+01:43:19,610 --> 01:43:22,487
+"Let him not breed in great numbers,
+
+968
+01:43:22,572 --> 01:43:26,908
+for he will make a desert
+of his home and yours."
+
+969
+01:43:26,993 --> 01:43:29,077
+"Shun him."
+
+970
+01:43:29,203 --> 01:43:31,747
+"Drive him back into his jungle lair."
+
+971
+01:43:31,831 --> 01:43:35,125
+"For he is the harbinger of death."
+
+972
+01:43:37,086 --> 01:43:40,589
+I found nothing in the cave
+to alter that conception of man
+
+973
+01:43:40,673 --> 01:43:42,674
+and I still live by its injunction.
+
+974
+01:43:51,517 --> 01:43:53,602
+That's far enough!
+
+975
+01:44:00,693 --> 01:44:03,278
+They think you're behaving foolishly.
+
+976
+01:44:03,946 --> 01:44:06,031
+I must say, I agree!
+
+977
+01:44:06,115 --> 01:44:08,241
+Where will you go?
+
+978
+01:44:08,326 --> 01:44:11,703
+To start with, I'll follow
+the shoreline and my nose.
+
+979
+01:44:11,829 --> 01:44:15,081
+But suppose you find nothing
+but... but wasteland?
+
+980
+01:44:15,166 --> 01:44:17,292
+How will you survive?
+
+981
+01:44:17,376 --> 01:44:18,960
+He won't survive.
+
+982
+01:44:23,925 --> 01:44:26,051
+Nova.
+
+983
+01:44:28,888 --> 01:44:30,931
+How about coming along?
+
+984
+01:44:31,057 --> 01:44:34,267
+- We can't.
+- It's better than going to jail for heresy.
+
+985
+01:44:34,352 --> 01:44:36,561
+Oh, they can't convict us of heresy.
+
+986
+01:44:36,687 --> 01:44:38,980
+You've helped prove our innocence.
+
+987
+01:44:39,065 --> 01:44:41,566
+Besides... his culture
+
+988
+01:44:41,651 --> 01:44:43,944
+is our culture.
+
+989
+01:44:44,070 --> 01:44:46,780
+Well, good luck, then.
+
+990
+01:44:52,995 --> 01:44:55,205
+Lucius.
+
+991
+01:44:55,331 --> 01:44:57,666
+I still say you're making a mistake.
+
+992
+01:44:57,750 --> 01:45:00,043
+That's the spirit. Keep 'em flying.
+
+993
+01:45:00,127 --> 01:45:02,921
+- What?
+- The flags of discontent.
+
+994
+01:45:03,005 --> 01:45:05,924
+Remember, never trust anybody over 30.
+
+995
+01:45:06,008 --> 01:45:09,135
+Doctor, I'd like to kiss you goodbye.
+
+996
+01:45:16,769 --> 01:45:18,812
+All right, but
+
+997
+01:45:18,938 --> 01:45:20,981
+you're so damned ugly.
+
+998
+01:45:46,757 --> 01:45:50,051
+Don't try to follow us.
+I'm pretty handy with this.
+
+999
+01:45:50,136 --> 01:45:52,220
+Of that I'm sure.
+
+1000
+01:45:52,305 --> 01:45:57,642
+All my life I've awaited your coming
+and dreaded it, like death itself.
+
+1001
+01:45:57,768 --> 01:45:58,768
+Why?
+
+1002
+01:45:58,853 --> 01:46:02,939
+I've terrified you from the first, doctor.
+I still do.
+
+1003
+01:46:03,024 --> 01:46:05,817
+You're afraid of me and you hate me. Why?
+
+1004
+01:46:05,943 --> 01:46:08,153
+Because you're a man.
+
+1005
+01:46:08,237 --> 01:46:10,322
+And you're right.
+
+1006
+01:46:10,448 --> 01:46:12,949
+I have always known about man.
+
+1007
+01:46:13,826 --> 01:46:20,040
+From the evidence, I believe his wisdom
+must walk hand in hand with his idiocy.
+
+1008
+01:46:20,166 --> 01:46:22,542
+His emotions must rule his brain.
+
+1009
+01:46:22,627 --> 01:46:25,754
+He must be a warlike creature
+who gives battle
+
+1010
+01:46:25,838 --> 01:46:28,673
+to everything around him, even himself.
+
+1011
+01:46:28,758 --> 01:46:32,052
+What evidence?
+There were no weapons in that cave.
+
+1012
+01:46:32,178 --> 01:46:35,430
+The forbidden zone was once a paradise.
+
+1013
+01:46:35,514 --> 01:46:39,809
+Your breed made a desert of it... ages ago.
+
+1014
+01:46:39,894 --> 01:46:42,103
+It still doesn't give me the why.
+
+1015
+01:46:42,188 --> 01:46:44,856
+A planet where apes evolved from men.
+
+1016
+01:46:46,359 --> 01:46:48,485
+There's gotta be an answer.
+
+1017
+01:46:48,569 --> 01:46:50,654
+Don't look for it, Taylor.
+
+1018
+01:46:51,489 --> 01:46:53,865
+You may not like what you find.
+
+1019
+01:47:02,208 --> 01:47:04,292
+Untie me!
+
+1020
+01:47:18,057 --> 01:47:20,100
+No, no, no! Wait!
+
+1021
+01:47:20,226 --> 01:47:22,268
+Wait!
+
+1022
+01:47:22,353 --> 01:47:24,479
+Let him go!
+
+1023
+01:47:25,898 --> 01:47:30,276
+Lieutenant, fetch your explosives.
+We're going to seal up the cave.
+
+1024
+01:47:30,361 --> 01:47:31,653
+Yes, sir!
+
+1025
+01:47:31,737 --> 01:47:33,905
+- Seal the cave?
+- That is correct.
+
+1026
+01:47:34,031 --> 01:47:36,658
+And you will both stand trial for heresy.
+
+1027
+01:47:36,742 --> 01:47:40,829
+- But the proof! The doll!
+- In a few minutes there will be no doll.
+
+1028
+01:47:40,913 --> 01:47:42,998
+There can't be. I'm sorry.
+
+1029
+01:47:43,082 --> 01:47:44,541
+Dr. Zaius!
+
+1030
+01:47:44,625 --> 01:47:47,002
+Dr. Zaius, you mustn't! You promised!
+
+1031
+01:47:47,086 --> 01:47:49,170
+What I do, I do with no pleasure.
+
+1032
+01:47:49,255 --> 01:47:51,506
+- Silence him!
+- Doctor.
+
+1033
+01:47:51,590 --> 01:47:54,509
+Dr. Zaius, this is inexcusable!
+
+1034
+01:47:55,136 --> 01:47:57,637
+Why must knowledge stand still?
+
+1035
+01:47:57,722 --> 01:47:59,764
+What about the future?
+
+1036
+01:48:00,975 --> 01:48:03,101
+I may just have saved it for you.
+
+1037
+01:48:06,272 --> 01:48:08,606
+What will he find out there, doctor?
+
+1038
+01:48:09,942 --> 01:48:12,277
+His destiny.
+
+1039
+01:50:22,616 --> 01:50:24,742
+Oh, my God!
+
+1040
+01:50:25,578 --> 01:50:27,704
+I'm back!
+
+1041
+01:50:28,873 --> 01:50:31,207
+I'm home.
+
+1042
+01:50:31,292 --> 01:50:33,585
+All the time, it was...
+
+1043
+01:50:35,713 --> 01:50:37,797
+We finally really did it.
+
+1044
+01:50:38,924 --> 01:50:41,009
+You maniacs!
+
+1045
+01:50:42,428 --> 01:50:44,721
+You blew it up!
+
+1046
+01:50:44,805 --> 01:50:46,890
+God damn you!
+
+1047
+01:50:47,892 --> 01:50:52,729
+God damn you all to hell!
