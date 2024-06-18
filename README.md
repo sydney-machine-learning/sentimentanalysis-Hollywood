@@ -25,3 +25,6 @@ The output should be structured as a dictionary with the following format:
 - **numberofwords**: The total word count.
 - **toptenwords**: The list of the top 10 most frequently occurring words.
 
+### Out put
+![image](https://github.com/sydney-machine-learning/sentimentanalysis-Hollywood/assets/171004161/c30835ce-42b8-4682-b616-9ef3f0941481)
+
