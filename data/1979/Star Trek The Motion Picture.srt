@@ -1,0 +1,4986 @@
+1
+00:02:50,800 --> 00:02:52,000
+Tactical!
+
+2
+00:03:12,400 --> 00:03:13,600
+Visual!
+
+3
+00:03:20,520 --> 00:03:21,720
+Prepare torpedos!
+
+4
+00:03:30,480 --> 00:03:31,720
+Attention!
+
+5
+00:03:34,800 --> 00:03:35,800
+Fire!
+
+6
+00:04:00,680 --> 00:04:01,680
+Evade
+
+7
+00:04:09,440 --> 00:04:13,920
+This is com station Epsilon 9
+calling USS Columbia.
+
+8
+00:04:14,040 --> 00:04:16,680
+Come in, Columbia.
+Respond, please.
+
+9
+00:04:16,720 --> 00:04:19,960
+This is Scout Columbia, Epsilon 9.
+Could you boost your transmission?
+
+10
+00:04:22,560 --> 00:04:24,480
+This is Epsilon 9, Columbia.
+
+11
+00:04:24,480 --> 00:04:27,080
+Am boosting output.
+How read you this?
+
+12
+00:04:27,120 --> 00:04:30,600
+Fine, fine. Thank you, Epsilon 9.
+Receiving your transmission.
+
+13
+00:04:30,680 --> 00:04:34,040
+Scout Columbia, NCC-621...
+
+14
+00:04:34,120 --> 00:04:38,520
+to rendezvous with
+Scout Revere, NCC-595...
+
+15
+00:04:38,600 --> 00:04:41,600
+on stardate 7411.4.
+
+16
+00:04:42,520 --> 00:04:44,680
+Further orders
+will be relayed at that time.
+
+17
+00:04:44,760 --> 00:04:47,280
+Signed Commodore Prober
+to Starfleet.
+
+18
+00:04:47,360 --> 00:04:51,200
+- End of transmission.
+- Received. Thank you.
+
+19
+00:05:10,200 --> 00:05:13,440
+Our sensor drone is
+intercepting this on Quad L-1 4.
+
+20
+00:05:14,160 --> 00:05:16,440
+That's within Klingon boundaries.
+Who are they fighting?
+
+21
+00:05:16,480 --> 00:05:18,360
+Unknown, Sir.
+
+22
+00:05:19,360 --> 00:05:21,240
+I have an exterior visual.
+
+23
+00:05:57,000 --> 00:05:58,100
+Attention!
+
+24
+00:06:05,200 --> 00:06:06,200
+Fire!
+
+25
+00:06:32,040 --> 00:06:35,240
+We've plotted a course
+on that cloud, Commander.
+
+26
+00:06:35,320 --> 00:06:39,320
+It will pass into Federation space
+fairly close to us.
+
+27
+00:06:39,360 --> 00:06:40,960
+Heading?
+
+28
+00:06:41,000 --> 00:06:44,640
+Sir, it's on a precise
+heading for Earth.
+
+29
+00:10:15,600 --> 00:10:17,840
+Commander Sonak.
+
+30
+00:10:17,920 --> 00:10:20,040
+You received your appointment
+as Enterprise science officer?
+
+31
+00:10:20,120 --> 00:10:22,040
+Based, I am told, on your
+recommendation, Admiral. Thank you.
+
+32
+00:10:22,120 --> 00:10:23,320
+Then why aren't you aboard?
+
+33
+00:10:23,360 --> 00:10:25,920
+Captain Decker requested I complete
+final science briefing here before...
+
+34
+00:10:26,000 --> 00:10:27,520
+- Here?
+- we leave on our mission.
+
+35
+00:10:27,600 --> 00:10:29,200
+At Starfleet?
+
+36
+00:10:30,080 --> 00:10:32,720
+The Enterprise is in
+final preparation to leave dock.
+
+37
+00:10:32,800 --> 00:10:34,680
+Which will require
+20 more hours at minimum...
+
+38
+00:10:34,760 --> 00:10:36,480
+Twelve.
+
+39
+00:10:36,600 --> 00:10:38,440
+I'm on my way to a meeting
+with Admiral Nogura...
+
+40
+00:10:38,480 --> 00:10:40,480
+which will not last
+more than three minutes.
+
+41
+00:10:40,520 --> 00:10:42,480
+Report to me on the Enterprise
+in one hour.
+
+42
+00:10:42,520 --> 00:10:43,560
+Report to you, Sir?
+
+43
+00:10:43,680 --> 00:10:48,280
+It is my intention to be
+on that ship following that meeting.
+
+44
+00:10:48,320 --> 00:10:50,200
+Report to me in one hour.
+
+45
+00:11:59,080 --> 00:12:00,320
+- Admiral!
+- Mr. Scott.
+
+46
+00:12:00,440 --> 00:12:03,520
+Those departure orders... 12 hours.
+Starfleet cannot be serious.
+
+47
+00:12:03,560 --> 00:12:05,560
+Why aren't the Enterprise
+transporters operating, Mr. Scott?
+
+48
+00:12:05,920 --> 00:12:07,760
+A wee problem, Sir.
+Just temporary.
+
+49
+00:12:07,880 --> 00:12:10,080
+Admiral, we have just
+finished 18 months...
+
+50
+00:12:10,120 --> 00:12:11,960
+redesigning and refitting
+the Enterprise.
+
+51
+00:12:12,080 --> 00:12:14,080
+How in hell do they expect me
+to have her ready in 12 hours?
+
+52
+00:12:14,720 --> 00:12:16,520
+Take me over, please.
+
+53
+00:12:19,960 --> 00:12:22,200
+She needs more work, Sir.
+A shakedown!
+
+54
+00:12:22,280 --> 00:12:26,760
+Mr. Scott, an alien object of
+unbelievable destructive power...
+
+55
+00:12:26,840 --> 00:12:29,440
+is less than three days away
+from this planet.
+
+56
+00:12:29,480 --> 00:12:33,200
+The only starship in interception
+range is the Enterprise.
+
+57
+00:12:33,280 --> 00:12:36,280
+Ready or not,
+she launches in 12 hours.
+
+58
+00:12:56,560 --> 00:12:58,640
+The crew haven't had
+near enough transition time...
+
+59
+00:12:58,720 --> 00:13:00,560
+with all the new equipment.
+
+60
+00:13:01,760 --> 00:13:06,280
+And the engines...
+They're not even tested at warp power.
+
+61
+00:13:06,360 --> 00:13:08,000
+And an untried Captain.
+
+62
+00:13:08,080 --> 00:13:10,440
+Two-and-a-half years as
+chief of Starfleet Operations...
+
+63
+00:13:10,480 --> 00:13:12,560
+may have made me
+a little stale, but I...
+
+64
+00:13:12,600 --> 00:13:15,640
+wouldn't exactly
+consider myself untried.
+
+65
+00:13:19,240 --> 00:13:22,640
+- They gave her back to me, Scotty.
+- Gave her back, Sir?
+
+66
+00:13:22,680 --> 00:13:24,960
+I doubt it was that easy
+with Nogura.
+
+67
+00:13:25,760 --> 00:13:27,640
+You're right.
+
+68
+00:13:29,360 --> 00:13:33,560
+Well, any man who could
+manage such a feat...
+
+69
+00:13:33,680 --> 00:13:36,400
+I would not dare disappoint.
+
+70
+00:13:36,480 --> 00:13:40,200
+She'll launch on time, Sir,
+and she'll be ready.
+
+71
+00:18:18,360 --> 00:18:21,280
+- Thank you, Mr. Scott.
+- Aye, Sir.
+
+72
+00:18:22,200 --> 00:18:23,800
+Cargo bay to launch crew.
+
+73
+00:18:23,880 --> 00:18:27,560
+A travel pod is now
+available at dock 6.
+
+74
+00:18:29,560 --> 00:18:31,440
+- Permission to come aboard, Sir.
+- Granted, Sir.
+
+75
+00:18:31,520 --> 00:18:33,000
+Welcome aboard, Admiral.
+
+76
+00:18:33,080 --> 00:18:35,280
+Commander Scott, you're needed
+in Engineering immediately.
+
+77
+00:18:35,320 --> 00:18:37,160
+Sir, you'll excuse me.
+
+78
+00:18:38,920 --> 00:18:42,720
+Flight deck, prepare
+for an incoming shuttlecraft.
+
+79
+00:18:44,960 --> 00:18:46,320
+If you'll follow me,
+I'll show you...
+
+80
+00:18:46,400 --> 00:18:47,840
+I think I can find
+my way, Ensign.
+
+81
+00:18:48,600 --> 00:18:50,920
+Aye, Sir.
+
+82
+00:18:54,640 --> 00:18:56,480
+Bridge.
+
+83
+00:19:01,040 --> 00:19:01,920
+What's the problem?
+
+84
+00:19:02,000 --> 00:19:04,400
+I thought you people had
+that circuit patched in an hour ago.
+
+85
+00:19:04,480 --> 00:19:06,760
+We did. We had to disconnect it.
+
+86
+00:19:06,880 --> 00:19:07,960
+All right. Take out...
+
+87
+00:19:08,040 --> 00:19:10,440
+It's going to take us longer
+that way. We're trying to save time.
+
+88
+00:19:11,640 --> 00:19:14,520
+I'm still waiting for a check
+on the line. What's holding it up?
+
+89
+00:19:14,560 --> 00:19:17,920
+As soon as somebody
+can get to it.
+
+90
+00:19:17,920 --> 00:19:19,800
+What's the next program?
+
+91
+00:19:19,840 --> 00:19:21,920
+I'll get somebody down there
+as soon as I can, Cleary.
+
+92
+00:19:22,000 --> 00:19:23,640
+My people are all tied up now.
+
+93
+00:19:27,360 --> 00:19:31,080
+Captain! Starfleet just signaled
+your transfer of command orders.
+
+94
+00:19:33,440 --> 00:19:35,240
+- Captain.
+- I appreciate the welcome.
+
+95
+00:19:36,360 --> 00:19:38,360
+I wish the circumstances
+were less critical.
+
+96
+00:19:38,440 --> 00:19:41,400
+Epsilon 9 is monitoring the intruder.
+Keep a channel open to them.
+
+97
+00:19:41,440 --> 00:19:43,720
+Aye, Sir.
+
+98
+00:19:43,840 --> 00:19:47,280
+- Where's Captain Decker?
+- He's in Engineering, Sir.
+
+99
+00:19:47,320 --> 00:19:49,880
+He... He doesn't know.
+
+100
+00:19:52,480 --> 00:19:54,200
+- Mr. Chekov.
+- Aye, Sir.
+
+101
+00:19:54,280 --> 00:19:56,960
+Assemble the crew on
+the recreation deck at 0400 hours.
+
+102
+00:19:57,880 --> 00:20:00,720
+I want to show them
+what we're facing.
+
+103
+00:20:14,640 --> 00:20:16,520
+Check Cleary on number six.
+
+104
+00:20:31,040 --> 00:20:33,440
+- Need your cooler status.
+- Stand by.
+
+105
+00:20:33,520 --> 00:20:38,240
+Space matrix restoration coils.
+Dilithium crystals.
+
+106
+00:20:38,280 --> 00:20:41,520
+I knew it. The transporter sensor
+was not activated.
+
+107
+00:20:41,520 --> 00:20:43,080
+Air equalization.
+Automatic off.
+
+108
+00:20:43,080 --> 00:20:44,360
+Faulty module.
+
+109
+00:20:44,480 --> 00:20:47,120
+Cleary, put a new backup sensor
+into the unit.
+
+110
+00:20:47,200 --> 00:20:48,640
+Aye, Sir.
+
+111
+00:20:51,000 --> 00:20:53,960
+Admiral Kirk! Well,
+we're getting a top brass send-off.
+
+112
+00:20:54,040 --> 00:20:56,320
+Don't worry,
+she'll launch on schedule...
+
+113
+00:20:56,360 --> 00:20:58,560
+if we have to tow her out
+with our bare hands, right, Scotty?
+
+114
+00:20:58,600 --> 00:21:01,480
+Aye. That we will, Sir.
+
+115
+00:21:02,560 --> 00:21:04,600
+- Let's talk.
+- Sure.
+
+116
+00:21:04,680 --> 00:21:07,000
+Let me know
+when that backup's ready.
+
+117
+00:21:07,080 --> 00:21:10,200
+All due respect, I hope this isn't
+some kind of Starfleet pep talk.
+
+118
+00:21:10,280 --> 00:21:13,080
+- I'm really too busy.
+- I'm taking over the center seat.
+
+119
+00:21:13,920 --> 00:21:14,960
+You're what?
+
+120
+00:21:15,080 --> 00:21:17,560
+I'm replacing you as Captain
+of the Enterprise.
+
+121
+00:21:17,640 --> 00:21:20,760
+You'll stay on
+as executive officer.
+
+122
+00:21:20,800 --> 00:21:23,360
+Temporary grade reduction
+to Commander.
+
+123
+00:21:25,600 --> 00:21:27,640
+You personally
+are assuming command?
+
+124
+00:21:27,720 --> 00:21:29,160
+Yeah.
+
+125
+00:21:29,240 --> 00:21:33,440
+- May I ask why?
+- My experience.
+
+126
+00:21:33,520 --> 00:21:37,440
+Five years out there
+dealing with unknowns like this.
+
+127
+00:21:37,520 --> 00:21:39,600
+My familiarity with
+the Enterprise and its crew.
+
+128
+00:21:39,680 --> 00:21:42,800
+Admiral, this is an almost
+totally new Enterprise.
+
+129
+00:21:42,880 --> 00:21:44,720
+You don't know her a tenth
+as well as I do.
+
+130
+00:21:44,800 --> 00:21:47,040
+That's why you're staying aboard.
+
+131
+00:21:52,360 --> 00:21:53,640
+I'm sorry, Will.
+
+132
+00:21:54,440 --> 00:21:57,360
+No, Admiral,
+I don't think you're sorry.
+
+133
+00:21:57,480 --> 00:21:59,560
+Not one damn bit.
+
+134
+00:22:01,280 --> 00:22:03,360
+I remember when you recommended me
+for this command.
+
+135
+00:22:03,480 --> 00:22:05,720
+You told me how envious you were
+and how much you hoped...
+
+136
+00:22:05,760 --> 00:22:07,960
+you'd find a way to get
+a starship command again.
+
+137
+00:22:10,240 --> 00:22:14,520
+Well, Sir,
+it looks like you found a way.
+
+138
+00:22:17,880 --> 00:22:21,200
+Report to the bridge,
+Commander, immediately.
+
+139
+00:22:23,800 --> 00:22:25,640
+Aye, Sir.
+
+140
+00:22:36,920 --> 00:22:38,800
+Transporter room!
+Come in! Urgent!
+
+141
+00:22:38,880 --> 00:22:40,720
+Redline on the transporter,
+Mr. Scott!
+
+142
+00:22:40,760 --> 00:22:42,920
+Transporter, do not engage!
+
+143
+00:22:42,960 --> 00:22:44,880
+-It's too late. They're beaming now.
+- Do not...
+
+144
+00:22:46,760 --> 00:22:50,600
+Do you read me, Starfleet?
+Override it! Pull them back!
+
+145
+00:22:50,640 --> 00:22:53,560
+Unable to retrieve their pattern,
+Enterprise.
+
+146
+00:23:01,080 --> 00:23:02,960
+Give it to me.
+
+147
+00:23:05,920 --> 00:23:10,080
+Starfleet, boost your matter gain.
+We need more signal.
+
+148
+00:23:14,160 --> 00:23:15,480
+More signal!
+
+149
+00:23:15,520 --> 00:23:19,360
+- We're losing their pattern!
+- Oh, no, they're forming.
+
+150
+00:23:35,800 --> 00:23:37,800
+Oh my God.
+
+151
+00:23:44,120 --> 00:23:46,080
+Starfleet, do you have them?
+
+152
+00:23:47,240 --> 00:23:52,320
+Enterprise, what we got back
+didn 't live long, fortunately.
+
+153
+00:23:57,480 --> 00:23:59,320
+Starfleet, Kirk.
+
+154
+00:24:01,360 --> 00:24:04,080
+Please express my condolences
+to their families.
+
+155
+00:24:05,800 --> 00:24:08,720
+Commander Sonak's can be reached
+through the Vulcan embassy.
+
+156
+00:24:14,720 --> 00:24:17,440
+There was nothing
+you could have done, Rand.
+
+157
+00:24:17,520 --> 00:24:20,160
+It wasn't your fault.
+
+158
+00:24:42,720 --> 00:24:44,600
+Yeoman, turboshaft 8?
+
+159
+00:24:44,680 --> 00:24:46,480
+Back that way, Sir.
+
+160
+00:24:53,040 --> 00:24:56,040
+We have to replace
+Commander Sonak.
+
+161
+00:24:57,160 --> 00:24:59,680
+I'd still like a Vulcan there,
+if possible.
+
+162
+00:24:59,720 --> 00:25:01,120
+None available, Captain.
+
+163
+00:25:01,160 --> 00:25:04,400
+In fact, there's no one
+who's fully rated on this design.
+
+164
+00:25:04,480 --> 00:25:06,880
+You are, Mr. Decker.
+
+165
+00:25:06,920 --> 00:25:08,960
+I'm afraid you're going to have
+to double as science officer.
+
+166
+00:25:40,360 --> 00:25:42,360
+That's all we know about it...
+
+167
+00:25:43,880 --> 00:25:47,720
+except that it is now
+53.4 hours away from Earth.
+
+168
+00:25:51,000 --> 00:25:54,480
+Enterprise is the only Federation
+starship that stands in its way.
+
+169
+00:26:00,840 --> 00:26:04,280
+Our orders are to intercept...
+
+170
+00:26:04,040 --> 00:26:07,520
+investigate and take
+whatever action is necessary...
+
+171
+00:26:08,400 --> 00:26:09,280
+and possible.
+
+172
+00:26:24,480 --> 00:26:27,920
+Bridge to Captain.
+Priority signal from Epsilon 9.
+
+173
+00:26:28,040 --> 00:26:29,840
+- Put it on viewer.
+- On viewer, Sir.
+
+174
+00:26:29,600 --> 00:26:34,240
+Enterprise, the cloud is definitely
+a power field of some kind.
+
+175
+00:26:34,400 --> 00:26:39,640
+Measures... My God...
+over eight two AU's in diameter.
+
+176
+00:26:39,920 --> 00:26:44,400
+Must be something incredible
+inside there generating it.
+
+177
+00:26:45,120 --> 00:26:47,240
+We're transmitting lingua code
+friendship messages...
+
+178
+00:26:47,320 --> 00:26:49,000
+on all frequencies.
+
+179
+00:26:49,000 --> 00:26:49,960
+No response.
+
+180
+00:26:50,040 --> 00:26:51,880
+have a null reading
+at the center of the cloud.
+
+181
+00:26:52,160 --> 00:26:55,440
+Definitely something inside there,
+but scans are being reflected back.
+
+182
+00:26:55,520 --> 00:26:58,960
+- Some kind of power surge.
+- Receiving an odd pattern now.
+
+183
+00:26:59,040 --> 00:27:02,160
+Enterprise, they could be mistaking
+our scans as a hostile act.
+
+184
+00:27:02,240 --> 00:27:04,080
+They seem to be reactingto our scans, Sir.
+
+185
+00:27:04,160 --> 00:27:06,000
+Deflectors, emergency full!
+
+186
+00:27:08,240 --> 00:27:10,920
+- We are under attack.
+- External view.
+
+187
+00:28:07,080 --> 00:28:08,280
+Viewer off.
+
+188
+00:28:10,920 --> 00:28:11,920
+Viewer off.
+
+189
+00:28:22,920 --> 00:28:25,080
+Prelaunch countdown
+will commence in 40 minutes.
+
+190
+00:28:45,240 --> 00:28:48,880
+Transporter system fully repaired
+and functioning normally, Sir.
+
+191
+00:28:48,960 --> 00:28:50,360
+Dock signals clear, Captain.
+
+192
+00:28:50,440 --> 00:28:53,080
+Reply we are holding position,
+awaiting final crew replacements.
+
+193
+00:28:53,120 --> 00:28:55,040
+Aye, Sir.
+
+194
+00:28:55,080 --> 00:28:57,680
+Transporter personnel reports...
+
+195
+00:28:57,720 --> 00:28:59,400
+the navigator, Lieutenant Ilia...
+
+196
+00:28:59,680 --> 00:29:02,680
+She's already aboard
+and en route to the bridge, Sir.
+
+197
+00:29:04,920 --> 00:29:07,360
+She's Deltan, Captain.
+
+198
+00:29:12,160 --> 00:29:14,480
+Lieutenant Ilia
+reporting for duty, Sir.
+
+199
+00:29:14,600 --> 00:29:16,440
+Welcome aboard, Lieutenant.
+
+200
+00:29:17,720 --> 00:29:19,920
+- Hello, Ilia.
+- Decker.
+
+201
+00:29:20,160 --> 00:29:23,520
+I was stationed on the lieutenant's
+home planet some years ago.
+
+202
+00:29:23,520 --> 00:29:25,680
+Commander Decker?
+
+203
+00:29:26,720 --> 00:29:28,520
+Yes, our exec and science officer.
+
+204
+00:29:28,600 --> 00:29:30,960
+Captain Kirk has
+the utmost confidence in me.
+
+205
+00:29:32,760 --> 00:29:34,120
+And in you, too, Lieutenant.
+
+206
+00:29:34,920 --> 00:29:37,560
+My oath of celibacy
+is on record, Captain.
+
+207
+00:29:37,600 --> 00:29:40,040
+- May I assume my duties?
+- By all means.
+
+208
+00:29:41,560 --> 00:29:45,600
+Starfleet reports our last six
+crew members are ready to beam up...
+
+209
+00:29:45,680 --> 00:29:49,160
+but one of them is refusing
+to step into the transporter.
+
+210
+00:29:49,240 --> 00:29:53,000
+Oh? I'll see to it
+that he beams up.
+
+211
+00:29:51,880 --> 00:29:53,720
+Transporter room.
+
+212
+00:30:14,560 --> 00:30:17,160
+Well, for a man who swore
+he'd never return to Starfleet...
+
+213
+00:30:17,240 --> 00:30:21,920
+Just a moment, Captain, Sir.
+I'll explain what happened.
+
+214
+00:30:22,000 --> 00:30:25,120
+Your revered Admiral Nogura
+invoked a little-known...
+
+215
+00:30:25,200 --> 00:30:28,640
+seldom-used reserve activation clause.
+
+216
+00:30:28,680 --> 00:30:31,680
+In simpler language, Captain,
+they drafted me!
+
+217
+00:30:31,720 --> 00:30:33,600
+They didn't.
+
+218
+00:30:35,080 --> 00:30:38,040
+This was your idea.
+This was your idea, wasn't it?
+
+219
+00:30:38,120 --> 00:30:39,720
+Bones, there's a thing out there.
+
+220
+00:30:39,760 --> 00:30:42,720
+Why is any object we don't
+understand always called a thing?
+
+221
+00:30:42,760 --> 00:30:45,960
+Headed this way. I need you.
+
+222
+00:30:48,680 --> 00:30:51,280
+Damn it, Bones, I need you.
+
+223
+00:30:52,440 --> 00:30:54,280
+Badly!
+
+224
+00:31:05,920 --> 00:31:07,720
+Permission to come aboard.
+
+225
+00:31:08,160 --> 00:31:10,040
+Permission granted, Sir.
+
+226
+00:31:14,320 --> 00:31:19,320
+Well, Jim,
+I hear Chapel's an MD now.
+
+227
+00:31:19,360 --> 00:31:21,520
+Well, I'm going
+to need a top nurse...
+
+228
+00:31:21,640 --> 00:31:24,480
+not a doctor who will argue
+every little diagnosis with me.
+
+229
+00:31:25,560 --> 00:31:28,800
+And they probably redesigned
+the whole sick bay too!
+
+230
+00:31:28,920 --> 00:31:31,320
+I know engineers.
+They love to change things.
+
+231
+00:31:51,880 --> 00:31:54,240
+Dock control reports ready, Sir.
+
+232
+00:31:55,240 --> 00:31:58,280
+- Helm ready, Sir.
+- Orbital departure on plot, Sir.
+
+233
+00:31:58,360 --> 00:32:00,640
+Yard command signaling clear, Sir.
+
+234
+00:32:00,680 --> 00:32:04,480
+- Maneuvering thrusters, Mr. Sulu.
+- Maneuvering thrusters, Sir.
+
+235
+00:32:04,520 --> 00:32:06,680
+Hold station.
+
+236
+00:32:06,720 --> 00:32:08,920
+Thrusters at station-keeping, Sir.
+
+237
+00:32:28,280 --> 00:32:30,800
+Thrusters ahead, Mr. Sulu.
+
+238
+00:32:34,280 --> 00:32:35,720
+Take us out.
+
+239
+00:33:55,720 --> 00:33:59,320
+Intermix set, Bridge.
+Impulse power at your discretion.
+
+240
+00:33:59,360 --> 00:34:01,240
+Impulse power, Mr. Sulu.
+
+241
+00:34:03,800 --> 00:34:06,320
+Ahead warp .5.
+
+242
+00:34:18,240 --> 00:34:20,160
+Departure angle on viewer.
+
+243
+00:34:20,280 --> 00:34:22,120
+Departure angle.
+
+244
+00:34:26,920 --> 00:34:29,880
+- Viewer ahead.
+- Viewer ahead.
+
+245
+00:34:51,920 --> 00:34:55,440
+Captain 's Log.:
+Stardate 7412.6...
+
+246
+00:34:55,520 --> 00:34:57,920
+1.8 hours from launch.
+
+247
+00:34:57,960 --> 00:35:01,920
+In order to intercept the intruder
+at the earliest possible time...
+
+248
+00:35:01,920 --> 00:35:05,920
+we must now risk engaging warp drive
+while still within the solar system.
+
+249
+00:35:05,960 --> 00:35:10,080
+Captain, assuming we have
+full warp capability...
+
+250
+00:35:10,080 --> 00:35:12,920
+accelerating to warp 7 on leaving
+the solar system...
+
+251
+00:35:12,960 --> 00:35:17,160
+will bring us to IP with
+the intruder in 20.1 hours.
+
+252
+00:35:17,680 --> 00:35:20,680
+Science Officer competition.
+Confirm, Sir
+
+253
+00:35:29,960 --> 00:35:33,080
+Well, Bones, do the new medical
+facilities meet with your approval?
+
+254
+00:35:33,120 --> 00:35:36,600
+They do not. It's like working
+in a damn computer center.
+
+255
+00:35:36,680 --> 00:35:39,960
+- Programming ready?
+- Set for standard warp entry.
+
+256
+00:35:40,040 --> 00:35:43,040
+But I still recommend
+further simulation study.
+
+257
+00:35:43,120 --> 00:35:48,640
+Mr. Decker, every minute brings
+that object closer to Earth.
+
+258
+00:35:49,480 --> 00:35:51,360
+Engineering,
+stand by for warp drive.
+
+259
+00:35:51,440 --> 00:35:53,960
+Captain, we need further warp
+simulation on the flow sensors.
+
+260
+00:35:54,040 --> 00:35:56,560
+Engineer, we need warp speed now!
+
+261
+00:35:56,640 --> 00:36:00,080
+Jim, you're pushing.
+
+262
+00:36:02,240 --> 00:36:05,240
+Your people know their jobs.
+
+263
+00:36:05,320 --> 00:36:08,360
+That's it, Sir.
+I can't do any better.
+
+264
+00:36:09,560 --> 00:36:11,440
+Aye, lad.
+
+265
+00:36:13,520 --> 00:36:16,760
+It's borderline on the simulator.
+I cannot guarantee she'll hold up.
+
+266
+00:36:16,880 --> 00:36:18,520
+Warp drive, Mr. Scott.
+
+267
+00:36:18,600 --> 00:36:22,320
+- Ahead warp 1 , Mr. Sulu.
+- Accelerating to warp 1, Sir.
+
+268
+00:36:24,920 --> 00:36:29,280
+Warp .7, .8.
+
+269
+00:36:40,280 --> 00:36:42,200
+Warp 1 , Sir.
+
+270
+00:36:43,280 --> 00:36:45,720
+Mr. Decker...
+
+271
+00:36:47,520 --> 00:36:51,080
+Wormhole. Get us back
+on impulse power. Full reverse.
+
+272
+00:37:04,840 --> 00:37:07,600
+Negative helm control, Captain.
+Going reverse on impulse power.
+
+273
+00:37:07,680 --> 00:37:09,600
+Subspace frequencies jammed, Sir!
+
+274
+00:37:09,680 --> 00:37:11,600
+Wormhole effect!
+
+275
+00:37:22,000 --> 00:37:24,920
+Negative control from inertial lag
+will continue 22.5 seconds...
+
+276
+00:37:25,040 --> 00:37:27,160
+before forward velocity
+slows to sublight speed.
+
+277
+00:37:27,280 --> 00:37:30,480
+Unidentified small object has been
+pulled into the wormhole with us.
+
+278
+00:37:30,520 --> 00:37:33,320
+- Directly ahead.
+- Force fields up full.
+
+279
+00:37:33,320 --> 00:37:35,200
+Put object on viewer.
+
+280
+00:37:39,920 --> 00:37:43,240
+- Go manual override on helm.
+- No manual response, Sir.
+
+281
+00:37:43,320 --> 00:37:45,720
+Navigational deflectors
+coming up, Sir.
+
+282
+00:37:45,800 --> 00:37:48,320
+Wormhole distortion has overloaded
+the main power systems.
+
+283
+00:37:48,400 --> 00:37:50,880
+Navigational deflectors
+inoperative, Captain.
+
+284
+00:37:51,760 --> 00:37:53,760
+Directional control also inoperative.
+
+285
+00:38:00,200 --> 00:38:02,400
+Time to impact?
+
+286
+00:38:02,480 --> 00:38:05,080
+Twenty seconds.
+
+287
+00:38:05,200 --> 00:38:08,960
+Mr. Chekov, stand by on phasers.
+
+288
+00:38:09,040 --> 00:38:10,720
+No!
+
+289
+00:38:13,760 --> 00:38:17,400
+Belay that phaser order!
+
+290
+00:38:27,040 --> 00:38:28,240
+Arm photon torpedoes!
+
+291
+00:38:30,400 --> 00:38:34,080
+Photon torpedoes...
+
+292
+00:38:44,640 --> 00:38:46,520
+armed!
+
+293
+00:38:52,160 --> 00:38:55,320
+Object is an asteroid.
+
+294
+00:38:55,360 --> 00:38:58,200
+Reading mass .7.
+
+295
+00:39:00,120 --> 00:39:02,920
+Targeting...
+
+296
+00:39:03,000 --> 00:39:06,440
+asteroid!
+
+297
+00:39:07,120 --> 00:39:10,720
+Impact in ten seconds.
+
+298
+00:39:16,480 --> 00:39:19,360
+Impact in eight seconds.
+
+299
+00:39:19,400 --> 00:39:22,720
+- Fire torpedoes!
+- Six!
+
+300
+00:39:22,720 --> 00:39:25,600
+Torpedoes away!
+
+301
+00:39:25,680 --> 00:39:27,160
+Five!
+
+302
+00:40:01,720 --> 00:40:03,560
+Helm control restored, Sir.
+
+303
+00:40:06,680 --> 00:40:10,320
+- Position report, Navigator.
+- Computing new intersection course.
+
+304
+00:40:10,440 --> 00:40:12,280
+Communications are normal, Sir.
+
+305
+00:40:12,320 --> 00:40:14,080
+Negative damage reported, Captain.
+
+306
+00:40:14,200 --> 00:40:16,680
+No casualties reported, Doctor.
+
+307
+00:40:16,720 --> 00:40:19,480
+Wrong, Mr. Chekov.There are casualties.
+
+308
+00:40:19,520 --> 00:40:24,960
+My wits, as in
+"frightened out of," Captain, Sir.
+
+309
+00:40:25,080 --> 00:40:28,920
+We were at warp .8.
+Engineer, report your status there.
+
+310
+00:40:29,960 --> 00:40:33,000
+In just a second, Exec. We're
+picking up the pieces down here.
+
+311
+00:40:35,360 --> 00:40:37,240
+Mr. Scott, we need warp drive
+as soon as possible.
+
+312
+00:40:37,320 --> 00:40:41,800
+The engine imbalance created
+the wormhole in the first place.
+
+313
+00:40:41,840 --> 00:40:43,680
+It'll happen again
+if we don't correct it.
+
+314
+00:40:44,080 --> 00:40:46,200
+That object is less than
+two days away from Earth.
+
+315
+00:40:46,320 --> 00:40:48,160
+We need to intercept
+while it still is out there.
+
+316
+00:40:49,360 --> 00:40:54,120
+Lay in a heading to conform with
+our initial IP with the intruder.
+
+317
+00:40:54,160 --> 00:40:56,520
+Mr. Sulu, you have the com.
+Mr. Decker.
+
+318
+00:40:57,800 --> 00:41:01,640
+-I'd like to see you in my quarters.
+-Mind if I tag along, Captain?
+
+319
+00:41:05,520 --> 00:41:07,400
+Level 5.
+
+320
+00:41:14,280 --> 00:41:17,160
+All right, explanation. Why was
+my phaser order countermanded?
+
+321
+00:41:17,240 --> 00:41:19,240
+The Enterprise redesign
+increases phaser power...
+
+322
+00:41:19,640 --> 00:41:21,560
+by channeling it
+through the main engines.
+
+323
+00:41:22,480 --> 00:41:24,640
+When they went into
+antimatter imbalance...
+
+324
+00:41:24,680 --> 00:41:26,560
+the phasers were
+automatically cut off.
+
+325
+00:41:30,480 --> 00:41:32,400
+Then you acted properly, of course.
+
+326
+00:41:33,640 --> 00:41:35,480
+Thank you, Sir.
+
+327
+00:41:36,760 --> 00:41:39,520
+I'm sorry if I embarrassed you.
+
+328
+00:41:39,560 --> 00:41:42,080
+- You saved the ship.
+- I'm aware of that, Sir.
+
+329
+00:41:43,360 --> 00:41:45,880
+Stop competing with me, Decker.
+
+330
+00:41:48,640 --> 00:41:50,560
+- Permission to speak freely, Sir?
+- Granted.
+
+331
+00:41:50,600 --> 00:41:55,480
+Sir, you haven't logged a single
+star hour in two-and-a-half years.
+
+332
+00:41:55,560 --> 00:41:57,560
+That, plus your unfamiliarity
+with the ship's redesign...
+
+333
+00:41:57,640 --> 00:42:00,720
+in my opinion, Sir, seriously
+jeopardizes this mission.
+
+334
+00:42:06,440 --> 00:42:08,480
+I trust you will...
+
+335
+00:42:09,600 --> 00:42:12,000
+nursemaid me through
+these difficulties?
+
+336
+00:42:12,920 --> 00:42:14,240
+Yes, Sir, I'll do that.
+
+337
+00:42:14,280 --> 00:42:17,320
+Then I won't keep you from
+your duties any longer, Commander.
+
+338
+00:42:17,440 --> 00:42:19,480
+- Yes, Doctor?
+- Aye, Sir.
+
+339
+00:42:25,840 --> 00:42:27,440
+He may be right, Jim.
+
+340
+00:42:36,200 --> 00:42:39,960
+- Was it difficult?
+- No more than I expected.
+
+341
+00:42:40,040 --> 00:42:44,480
+About as difficult
+as seeing you again.
+
+342
+00:42:44,600 --> 00:42:48,080
+- I'm sorry.
+- That you left Delta IV?
+
+343
+00:42:48,200 --> 00:42:50,480
+Or that you didn't
+even say good-bye?
+
+344
+00:42:52,920 --> 00:42:56,040
+If I had seen you again...
+
+345
+00:42:56,080 --> 00:42:57,920
+would you have been
+able to say it?
+
+346
+00:43:00,320 --> 00:43:02,160
+No.
+
+347
+00:43:14,440 --> 00:43:16,280
+Make your point, Doctor.
+
+348
+00:43:16,320 --> 00:43:19,320
+The point, Captain, is that
+it's you who is competing.
+
+349
+00:43:19,360 --> 00:43:21,960
+You rammed getting this command
+down Starfleet's throat.
+
+350
+00:43:22,080 --> 00:43:25,200
+You've used this emergency
+to get the Enterprise back.
+
+351
+00:43:28,200 --> 00:43:30,120
+And I intend to keep her,
+is that what you're saying?
+
+352
+00:43:30,120 --> 00:43:31,920
+Yes.
+
+353
+00:43:32,000 --> 00:43:33,840
+It's an obsession.
+
+354
+00:43:33,920 --> 00:43:35,760
+An obsession that can blind you...
+
+355
+00:43:35,840 --> 00:43:39,080
+to far more immediate
+and critical responsibilities.
+
+356
+00:43:39,120 --> 00:43:43,200
+Your reaction to Decker
+is an example, Jim.
+
+357
+00:43:43,240 --> 00:43:47,400
+- Bridge to Captain.
+- Viewer on.
+
+358
+00:43:47,440 --> 00:43:50,680
+Signal from a Federation registered
+long-range shuttle, Sir.
+
+359
+00:43:50,720 --> 00:43:53,720
+She wishes to come alongside
+and lock on.
+
+360
+00:43:53,800 --> 00:43:55,680
+For what purpose?
+
+361
+00:43:55,520 --> 00:43:58,320
+My security scan shows it has
+a grade-one priority, Captain.
+
+362
+00:43:58,920 --> 00:44:00,920
+Non belligerency confirmed.
+
+363
+00:44:00,960 --> 00:44:03,800
+I suspect it is a courier
+of some kind.
+
+364
+00:44:03,880 --> 00:44:06,000
+Very well, Mr. Chekov.
+See to it.
+
+365
+00:44:06,680 --> 00:44:09,280
+Viewer off.
+
+366
+00:44:09,080 --> 00:44:12,480
+Your opinion has been noted.
+Anything further?
+
+367
+00:44:14,120 --> 00:44:15,680
+That depends on you.
+
+368
+00:45:27,840 --> 00:45:32,640
+Security scan.: one boarder.
+Identity: Starfleet, inactive.
+
+369
+00:45:38,000 --> 00:45:41,040
+- Permission to come aboard, Sir.
+- Granted, Sir.
+
+370
+00:45:40,840 --> 00:45:43,720
+Gran... ted.
+
+371
+00:45:53,800 --> 00:45:55,680
+Why... Why, it's Mister...
+
+372
+00:45:55,920 --> 00:45:58,280
+Spock!
+
+373
+00:46:00,480 --> 00:46:02,480
+Spock.
+
+374
+00:46:07,800 --> 00:46:10,040
+Commander, if I may?
+
+375
+00:46:11,000 --> 00:46:13,240
+If... Oh.
+
+376
+00:46:22,920 --> 00:46:26,280
+I've been monitoring your
+communications with Starfleet.
+
+377
+00:46:27,120 --> 00:46:29,920
+I'm aware of your
+engine design difficulties.
+
+378
+00:46:31,320 --> 00:46:34,920
+I offer my services
+as science officer...
+
+379
+00:46:34,960 --> 00:46:37,320
+with all due respect,
+Commander.
+
+380
+00:46:37,320 --> 00:46:39,520
+- If our exec has no objections.
+- Of course not.
+
+381
+00:46:39,560 --> 00:46:41,520
+I'm well aware of
+Mr. Spock's qualifications.
+
+382
+00:46:41,600 --> 00:46:45,120
+Mr. Chekov, log Mr. Spock's
+Starfleet commission reactivated.
+
+383
+00:46:45,160 --> 00:46:50,760
+List him as science officer.
+Both effective immediately.
+
+384
+00:46:51,920 --> 00:46:53,000
+Mr. Spock.
+
+385
+00:46:53,120 --> 00:46:55,960
+Well, so help me,
+I'm actually pleased to see you.
+
+386
+00:47:08,320 --> 00:47:10,280
+It's how we all feel, Mr. Spock.
+
+387
+00:47:10,320 --> 00:47:12,240
+Captain, with your permission...
+
+388
+00:47:12,320 --> 00:47:14,960
+I will now discuss these
+fuel equations with the engineer.
+
+389
+00:47:19,320 --> 00:47:21,120
+Mr. Spock.
+
+390
+00:47:21,160 --> 00:47:23,080
+Welcome aboard.
+
+391
+00:47:45,840 --> 00:47:49,720
+Captain 's Log.:
+Stardate 7413.4.
+
+392
+00:47:49,800 --> 00:47:53,640
+Thanks to Mr. Spock's
+timely arrival and assistance...
+
+393
+00:47:53,720 --> 00:47:57,120
+we have the engines rebalanced
+into full warp capacity.
+
+394
+00:47:57,240 --> 00:47:59,160
+Repair time.:
+less than three hours.
+
+395
+00:47:59,280 --> 00:48:01,600
+Which means we will now be
+able to intercept intruder...
+
+396
+00:48:01,720 --> 00:48:03,680
+while still more than
+a day from Earth.
+
+397
+00:48:05,520 --> 00:48:07,720
+Warp .8.
+
+398
+00:48:12,520 --> 00:48:14,600
+.9.
+
+399
+00:48:21,200 --> 00:48:22,520
+Warp 2, Sir.
+
+400
+00:48:25,240 --> 00:48:26,160
+Warp 3.
+
+401
+00:48:29,480 --> 00:48:31,320
+Warp 4.
+
+402
+00:48:33,720 --> 00:48:35,920
+Warp 5.
+
+403
+00:48:37,440 --> 00:48:38,480
+Warp 6.
+
+404
+00:48:45,880 --> 00:48:48,200
+Warp 7.
+
+405
+00:49:02,200 --> 00:49:05,560
+Science Officer Spock,
+reporting as ordered, Captain.
+
+406
+00:49:06,640 --> 00:49:09,000
+Please, sit down.
+
+407
+00:49:09,040 --> 00:49:11,440
+Spock, you haven't changed a bit.
+
+408
+00:49:11,520 --> 00:49:14,480
+You're just as warm
+and sociable as ever.
+
+409
+00:49:14,520 --> 00:49:16,320
+Nor have you, Doctor...
+
+410
+00:49:16,360 --> 00:49:19,760
+as your continued predilection
+for irrelevancy demonstrates.
+
+411
+00:49:19,880 --> 00:49:20,960
+Gentlemen.
+
+412
+00:49:23,480 --> 00:49:25,920
+At last report,
+you were on Vulcan...
+
+413
+00:49:25,960 --> 00:49:27,880
+apparently to stay.
+
+414
+00:49:28,520 --> 00:49:32,520
+Yes, you were undergoing
+the ''Kolanear'' discipline.
+
+415
+00:49:32,520 --> 00:49:33,600
+Sit down.
+
+416
+00:49:33,720 --> 00:49:37,880
+If you are referring to the
+Kolinahr, Doctor, you are correct.
+
+417
+00:49:38,720 --> 00:49:42,640
+Well, however it's pronounced,
+Mr. Spock, it's the Vulcan ritual...
+
+418
+00:49:42,720 --> 00:49:46,080
+that's supposed to purge
+all remaining emotions.
+
+419
+00:49:46,120 --> 00:49:50,280
+The Kolinahr is also a discipline
+you broke to join us.
+
+420
+00:49:52,520 --> 00:49:57,120
+Will you, please, sit down?
+
+421
+00:50:07,120 --> 00:50:09,760
+On Vulcan I began sensing
+a consciousness...
+
+422
+00:50:09,800 --> 00:50:13,000
+from a source more powerful
+than I have ever encountered.
+
+423
+00:50:13,120 --> 00:50:16,160
+Thought patterns of
+exactingly perfect order.
+
+424
+00:50:16,360 --> 00:50:19,160
+I believe they emanate
+from the intruder.
+
+425
+00:50:19,240 --> 00:50:22,440
+I believe it may hold my answers.
+
+426
+00:50:22,480 --> 00:50:25,800
+Isn't it lucky for you that we just
+happened to be heading your way?
+
+427
+00:50:26,560 --> 00:50:28,400
+Bones!
+
+428
+00:50:29,800 --> 00:50:31,640
+We need him.
+
+429
+00:50:32,920 --> 00:50:34,320
+I need him.
+
+430
+00:50:36,080 --> 00:50:38,840
+Then my presence is
+to our mutual advantage.
+
+431
+00:50:44,720 --> 00:50:48,120
+Any thought patterns
+you might sense...
+
+432
+00:50:49,440 --> 00:50:51,320
+whether they appear to
+affect you personally or not...
+
+433
+00:50:51,400 --> 00:50:53,520
+I expect immediately reported.
+
+434
+00:50:53,600 --> 00:50:55,440
+Of course, Captain.
+
+435
+00:50:55,520 --> 00:50:59,360
+- Is there anything else?
+- No.
+
+436
+00:51:09,920 --> 00:51:11,840
+Jim?
+
+437
+00:51:14,600 --> 00:51:16,560
+If this super intelligence...
+
+438
+00:51:16,680 --> 00:51:20,960
+is as important to him as
+he says it is, how do we know...
+
+439
+00:51:21,080 --> 00:51:23,960
+That he wouldn't put his own
+interests ahead of the ship's?
+
+440
+00:51:26,400 --> 00:51:28,320
+I could never believe that.
+
+441
+00:51:28,320 --> 00:51:30,320
+Bridge to Officers' Lounge.
+Captain Kirk.
+
+442
+00:51:30,320 --> 00:51:33,960
+Revised estimate on
+cloud visual contact.:3.7minutes.
+
+443
+00:51:49,920 --> 00:51:51,760
+Standard light, Engineer.
+
+444
+00:51:53,240 --> 00:51:55,320
+- Full mag on viewer.
+- Full mag, Sir.
+
+445
+00:52:04,520 --> 00:52:05,480
+Lingua code?
+
+446
+00:52:05,520 --> 00:52:08,040
+Continuing friendship messages
+on all frequencies, Sir.
+
+447
+00:52:08,120 --> 00:52:10,440
+All decks and divisions confirmed.
+Status red.
+
+448
+00:52:10,480 --> 00:52:12,520
+Captain, we are being scanned.
+
+449
+00:52:12,640 --> 00:52:15,400
+Do not return scan, Mr. Spock.
+
+450
+00:52:15,480 --> 00:52:17,360
+It could be misinterpreted
+as hostility.
+
+451
+00:52:17,480 --> 00:52:20,920
+Intruder scans emanating from
+the exact center of the cloud.
+
+452
+00:52:21,000 --> 00:52:22,920
+Energy of a type...
+
+453
+00:52:23,720 --> 00:52:25,840
+never before encountered.
+
+454
+00:52:33,360 --> 00:52:35,240
+There's no response to
+friendship messages, Sir.
+
+455
+00:52:35,320 --> 00:52:37,160
+- Shall I go to battle stations?
+- Negative.
+
+456
+00:52:37,240 --> 00:52:38,840
+We'll take
+no provocative action.
+
+457
+00:52:38,920 --> 00:52:41,800
+Recommend defensive posture,
+Captain. Screens and shields.
+
+458
+00:52:43,440 --> 00:52:48,000
+No, Mr. Decker, that could also
+be misinterpreted as hostile.
+
+459
+00:52:49,480 --> 00:52:51,320
+Cloud composition, Mr. Spock?
+
+460
+00:52:51,360 --> 00:52:53,560
+- Twelfth-power energy field.
+- Twelfth-power?
+
+461
+00:52:53,680 --> 00:52:56,600
+We've seen what their weapons can do.
+Shouldn't we take every precaution?
+
+462
+00:52:56,720 --> 00:52:58,120
+- Mr. Decker...
+- Captain.
+
+463
+00:52:59,160 --> 00:53:02,200
+I suspect there's an object
+at the heart of that cloud.
+
+464
+00:53:06,920 --> 00:53:10,120
+Mr. Decker, I will not provoke an attack.
+If that order isn't clear enough...
+
+465
+00:53:10,200 --> 00:53:12,560
+Captain, as your exec
+it's my duty...
+
+466
+00:53:12,640 --> 00:53:14,080
+to point out alternatives.
+
+467
+00:53:16,160 --> 00:53:17,560
+Yes, it is.
+
+468
+00:53:18,760 --> 00:53:20,000
+I stand corrected.
+
+469
+00:53:20,080 --> 00:53:21,920
+Five minutes to cloud boundary.
+
+470
+00:53:22,040 --> 00:53:26,120
+Navigator, lay in a conic section
+flight path to the cloud center.
+
+471
+00:53:26,200 --> 00:53:29,360
+Bring us parallel
+to whatever we find in there.
+
+472
+00:53:29,440 --> 00:53:31,320
+Mr. Sulu,
+tactical plot on viewer.
+
+473
+00:53:31,320 --> 00:53:32,480
+Tactical on viewer, Sir.
+
+474
+00:53:47,320 --> 00:53:49,560
+That measures 12th-power energy?
+
+475
+00:53:51,200 --> 00:53:54,040
+Thousands of starships
+couldn't generate that much...
+
+476
+00:53:54,880 --> 00:53:56,640
+Mr. Spock?
+
+477
+00:54:00,120 --> 00:54:02,000
+Spock, tell me.
+
+478
+00:54:09,720 --> 00:54:12,040
+I sense...
+
+479
+00:54:12,120 --> 00:54:13,480
+puzzlement.
+
+480
+00:54:14,560 --> 00:54:16,000
+We have been contacted.
+
+481
+00:54:18,200 --> 00:54:20,480
+Why have we not replied?
+
+482
+00:54:20,520 --> 00:54:22,400
+Contacted?
+
+483
+00:54:22,520 --> 00:54:24,120
+How?
+
+484
+00:54:26,000 --> 00:54:28,200
+Force fields up full.
+Deflectors, now.
+
+485
+00:54:31,960 --> 00:54:35,040
+Force fields and deflectors
+up full, Captain.
+
+486
+00:54:42,080 --> 00:54:43,440
+Analysis, Mr. Spock.
+
+487
+00:54:43,520 --> 00:54:46,440
+Alien weapon is a form
+of plasma energy, Captain.
+
+488
+00:54:46,520 --> 00:54:48,480
+Exact composition unknown.
+
+489
+00:54:48,520 --> 00:54:50,640
+Guidance system unknown.
+
+490
+00:54:53,560 --> 00:54:55,200
+All decks, brace for impact.
+
+491
+00:55:05,240 --> 00:55:07,040
+Engineering, status report.
+
+492
+00:55:07,120 --> 00:55:08,760
+Systems overloading, Captain.
+
+493
+00:55:18,520 --> 00:55:19,560
+Medic.
+
+494
+00:55:20,600 --> 00:55:22,360
+Medics are coming.
+
+495
+00:55:34,160 --> 00:55:35,240
+Engineering to Bridge.
+
+496
+00:55:35,280 --> 00:55:37,520
+Cannot hold full power
+on force fields.
+
+497
+00:55:37,600 --> 00:55:39,920
+Deflector power
+is down 70 percent.
+
+498
+00:55:40,000 --> 00:55:42,480
+Divert auxiliary power
+to deflectors.
+
+499
+00:55:46,000 --> 00:55:46,840
+Captain.
+
+500
+00:55:48,080 --> 00:55:50,480
+The intruder has been
+attempting to communicate.
+
+501
+00:55:54,360 --> 00:55:56,240
+I am now programming
+our computer...
+
+502
+00:55:56,280 --> 00:55:59,840
+to transmit lingua code at
+their frequency and rate of speed.
+
+503
+00:55:59,920 --> 00:56:01,440
+Commander.
+
+504
+00:56:10,400 --> 00:56:12,120
+Spock!
+
+505
+00:56:17,600 --> 00:56:18,920
+Here it comes.
+
+506
+00:56:19,160 --> 00:56:21,000
+Engineering, what's happening
+to our force field?
+
+507
+00:56:20,840 --> 00:56:23,600
+Our shields cannot handle
+another attack.
+
+508
+00:56:23,960 --> 00:56:25,320
+Mr. Spock.
+
+509
+00:56:29,800 --> 00:56:31,640
+Impact in 20 seconds
+
+510
+00:56:33,520 --> 00:56:34,760
+Spock.
+
+511
+00:56:34,800 --> 00:56:36,800
+Fifteen seconds.
+
+512
+00:56:36,880 --> 00:56:38,880
+Spock, transmit now.
+
+513
+00:56:38,920 --> 00:56:40,280
+Ten seconds.
+
+514
+00:56:41,120 --> 00:56:42,880
+Transmitting.
+
+515
+00:56:54,200 --> 00:56:56,040
+It would seem
+our friendship messages...
+
+516
+00:56:56,120 --> 00:56:58,920
+have been received
+and understood, Mr. Spock.
+
+517
+00:56:58,920 --> 00:57:01,680
+I would say that was
+a logical assumption, Captain.
+
+518
+00:57:03,000 --> 00:57:04,760
+Mr. Sulu, hold present position.
+
+519
+00:57:04,880 --> 00:57:06,520
+Holding present position, Sir.
+
+520
+00:57:14,520 --> 00:57:16,520
+Tactical plot on viewer.
+
+521
+00:57:16,600 --> 00:57:18,480
+Course projection
+on tactical, Sir.
+
+522
+00:57:24,120 --> 00:57:25,720
+Opinion, Mr. Spock.
+
+523
+00:57:25,840 --> 00:57:27,560
+Recommend we proceed, Captain.
+
+524
+00:57:28,280 --> 00:57:31,320
+- Mr. Decker?
+- I advise caution, Captain.
+
+525
+00:57:31,360 --> 00:57:33,360
+We can't withstand another attack.
+
+526
+00:57:33,480 --> 00:57:35,560
+That thing is 20 hours
+away from Earth.
+
+527
+00:57:35,600 --> 00:57:38,600
+- We know nothing about it as yet.
+- Precisely the point, Captain.
+
+528
+00:57:38,720 --> 00:57:40,560
+We don't know what it'll do.
+
+529
+00:57:40,600 --> 00:57:43,200
+Moving into that cloud
+at this time...
+
+530
+00:57:43,280 --> 00:57:44,760
+is an unwarranted gamble.
+
+531
+00:57:46,200 --> 00:57:48,520
+How do you define ''unwarranted''?
+
+532
+00:57:51,520 --> 00:57:53,360
+You asked my opinion, Sir.
+
+533
+00:58:00,800 --> 00:58:02,720
+Viewer. Standard ahead.
+
+534
+00:58:11,720 --> 00:58:13,080
+Navigator, maintain course.
+
+535
+00:58:13,120 --> 00:58:14,480
+Helmsman...
+
+536
+00:58:15,440 --> 00:58:17,240
+steady as she goes.
+
+537
+01:00:24,680 --> 01:00:28,400
+No vessel could generate
+a power field of this magnitude.
+
+538
+01:00:29,720 --> 01:00:30,600
+Spock.
+
+539
+01:00:34,400 --> 01:00:36,400
+Instruments fluctuating,
+Captain.
+
+540
+01:00:38,960 --> 01:00:40,840
+Patterns unrecognizable.
+
+541
+01:02:20,760 --> 01:02:22,680
+Transmit image of alien to Starfleet.
+
+542
+01:02:22,720 --> 01:02:23,960
+Advise we are attempting
+further communication.
+
+543
+01:02:24,080 --> 01:02:26,920
+Unable to make contact
+with Starfleet, Captain.
+
+544
+01:02:27,000 --> 01:02:31,120
+Any attempt to transmit out of
+the cloud is being reflected back.
+
+545
+01:02:39,440 --> 01:02:42,120
+We are closing on it
+rapidly, Captain.
+
+546
+01:02:49,880 --> 01:02:52,920
+Reduce magnification
+factor four, Mr. Sulu.
+
+547
+01:02:53,000 --> 01:02:55,240
+We are already
+two settings below that, Sir.
+
+548
+01:02:59,120 --> 01:03:01,160
+Mr. Sulu...
+
+549
+01:03:01,280 --> 01:03:03,280
+bring us into
+a parallel course...
+
+550
+01:03:03,320 --> 01:03:05,160
+over the alien...
+
+551
+01:03:05,200 --> 01:03:07,480
+at 500 meters.
+
+552
+01:03:07,520 --> 01:03:09,120
+Five hundred meters?
+
+553
+01:03:10,520 --> 01:03:12,920
+Then take us out
+to 100 kilometers distance...
+
+554
+01:03:12,960 --> 01:03:14,720
+adjusting parallel course.
+
+555
+01:03:16,320 --> 01:03:17,200
+Aye, Sir.
+
+556
+01:05:12,800 --> 01:05:14,000
+Viewer astern.
+
+557
+01:05:14,040 --> 01:05:16,280
+Reverse angle on the view,
+Captain.
+
+558
+01:05:35,480 --> 01:05:36,480
+Five hundred meters.
+
+559
+01:05:37,680 --> 01:05:39,320
+Viewer ahead, Sir.
+
+560
+01:08:02,880 --> 01:08:04,960
+Hold relative position here.
+
+561
+01:08:42,960 --> 01:08:44,960
+Mr. Spock!
+
+562
+01:08:45,080 --> 01:08:47,600
+Can that be one of their crew?
+
+563
+01:08:48,440 --> 01:08:50,680
+A probe from their vessel,
+Captain.
+
+564
+01:08:50,760 --> 01:08:53,520
+Plasma-energy combination.
+
+565
+01:08:55,320 --> 01:08:56,880
+Don't interfere with it.
+
+566
+01:08:56,920 --> 01:08:59,760
+Absolutely, I will not interfere.
+
+567
+01:09:01,240 --> 01:09:03,080
+No one interfere.
+
+568
+01:09:04,520 --> 01:09:07,960
+It doesn't seem interested in us.
+Only the ship.
+
+569
+01:09:23,800 --> 01:09:25,160
+Computer off.
+
+570
+01:09:32,200 --> 01:09:34,120
+It's taking control
+of the computer.
+
+571
+01:09:40,000 --> 01:09:43,240
+It's running our records...
+Earth defenses, Starfleet strength.
+
+572
+01:10:17,320 --> 01:10:18,680
+Ilia!
+
+573
+01:10:22,840 --> 01:10:24,680
+Ilia!
+
+574
+01:10:46,120 --> 01:10:48,280
+This is how I define ''unwarranted.''
+
+575
+01:10:57,840 --> 01:11:00,680
+Activate auxiliary computer circuits
+through manual shutoff.
+
+576
+01:11:26,000 --> 01:11:28,400
+Captain, we've been
+seized by a tractor beam.
+
+577
+01:11:28,480 --> 01:11:30,560
+Get someone up here
+to take the navigator's station.
+
+578
+01:11:30,600 --> 01:11:32,400
+- Engineering.
+- Chief DiFalco, to the bridge.
+
+579
+01:11:32,480 --> 01:11:35,600
+- Emergency power.
+- Going to full emergency.
+
+580
+01:11:36,280 --> 01:11:40,800
+But, Captain, if we don't break free
+in 15 seconds, she'll burn up.
+
+581
+01:11:40,880 --> 01:11:42,720
+We cannot break free, Captain.
+
+582
+01:11:42,800 --> 01:11:44,840
+We have only a fraction
+of the power necessary.
+
+583
+01:11:44,920 --> 01:11:47,040
+Engineering, belay that order.
+
+584
+01:11:47,120 --> 01:11:48,960
+Disengage all main drive systems.
+
+585
+01:12:06,800 --> 01:12:10,240
+Chief DiFalco,
+take over Lieutenant Ilia's station.
+
+586
+01:12:16,280 --> 01:12:18,600
+DiFalco, disengage engine
+navigation relays now.
+
+587
+01:12:18,680 --> 01:12:19,760
+Aye, Sir.
+
+588
+01:12:19,840 --> 01:12:21,680
+Force field circuits
+E-10 through 14...
+
+589
+01:12:21,760 --> 01:12:23,320
+show ready for reactivation.
+
+590
+01:12:23,400 --> 01:12:24,720
+Confirm, please.
+
+591
+01:12:26,240 --> 01:12:28,160
+Scotty, drive systems
+should be free now.
+
+592
+01:12:28,240 --> 01:12:29,280
+Commander?
+
+593
+01:12:29,360 --> 01:12:31,200
+Ready to launch
+remote communications drone...
+
+594
+01:12:31,280 --> 01:12:32,600
+with complete ship's records...
+
+595
+01:12:32,680 --> 01:12:34,520
+including
+our present situation, Sir.
+
+596
+01:12:34,600 --> 01:12:36,480
+Delay launching
+as long as possible.
+
+597
+01:12:36,520 --> 01:12:39,120
+Our drone can't escape as long
+as we're held in their tractor.
+
+598
+01:12:39,200 --> 01:12:40,080
+Aye.
+
+599
+01:13:04,160 --> 01:13:07,800
+Captain, a maximum phaser strike
+directly at the beam...
+
+600
+01:13:07,880 --> 01:13:09,920
+might weaken it just enough
+for us to break free.
+
+601
+01:13:09,960 --> 01:13:11,840
+Break free to where, Commander?
+
+602
+01:13:13,120 --> 01:13:15,680
+Any show of resistance
+would be futile, Captain.
+
+603
+01:13:15,720 --> 01:13:19,720
+We don't know that, Mr. Spock.
+Why are you opposed to trying?
+
+604
+01:14:08,720 --> 01:14:11,240
+Why bring us inside?
+
+605
+01:14:11,280 --> 01:14:14,560
+Not to destroy us.
+They could have done that outside.
+
+606
+01:14:14,600 --> 01:14:16,360
+They still can.
+
+607
+01:14:16,440 --> 01:14:18,440
+Curiosity, Mr. Decker.
+
+608
+01:14:20,120 --> 01:14:22,560
+Insatiable curiosity.
+
+609
+01:14:30,160 --> 01:14:34,800
+Captain, photic sonar readings
+indicate the aperture is closing.
+
+610
+01:14:34,880 --> 01:14:36,440
+We're trapped, Sir.
+
+611
+01:14:37,480 --> 01:14:39,320
+Reverse angle on the viewer,
+Captain.
+
+612
+01:15:03,880 --> 01:15:06,480
+Tractor beam has released us,
+Captain.
+
+613
+01:15:06,520 --> 01:15:09,160
+Confirmed.
+Vessel is floating free.
+
+614
+01:15:09,240 --> 01:15:11,120
+No forward momentum.
+
+615
+01:15:13,120 --> 01:15:14,320
+Viewer ahead.
+
+616
+01:15:14,400 --> 01:15:15,720
+Viewer ahead, Sir.
+
+617
+01:15:21,080 --> 01:15:24,200
+Maneuvering thrusters, Mr. Sulu.
+Ahead one third.
+
+618
+01:15:24,280 --> 01:15:26,400
+Thrusters ahead one third.
+
+619
+01:15:31,120 --> 01:15:32,920
+Let's take a look.
+
+620
+01:15:33,040 --> 01:15:35,240
+Full sensor scan, Mr. Spock.
+
+621
+01:15:35,320 --> 01:15:37,520
+They can't expect us
+not to look them over now.
+
+622
+01:15:37,560 --> 01:15:39,440
+Now that we're
+looking down their throat.
+
+623
+01:15:39,520 --> 01:15:42,480
+Right, now that we've got them
+just where they want us.
+
+624
+01:15:58,040 --> 01:15:59,520
+It's closing up.
+
+625
+01:16:02,480 --> 01:16:04,240
+Hold position.
+
+626
+01:16:08,760 --> 01:16:09,840
+Captain.
+
+627
+01:16:13,440 --> 01:16:16,080
+All our scans
+are being reflected back.
+
+628
+01:16:16,160 --> 01:16:17,560
+Sensors are useless.
+
+629
+01:16:18,680 --> 01:16:20,040
+Damn.
+
+630
+01:16:27,480 --> 01:16:29,040
+What do you make of all this?
+
+631
+01:16:29,080 --> 01:16:32,040
+I believe the closed orifice
+leads to another chamber...
+
+632
+01:16:32,120 --> 01:16:35,720
+undoubtedly part of
+the vessel's inner mechanism.
+
+633
+01:16:35,800 --> 01:16:38,320
+I suspect it may be necess...
+
+634
+01:16:43,000 --> 01:16:45,520
+Intruder alert!
+Deck 5. Officer's quarters.
+
+635
+01:16:45,600 --> 01:16:48,240
+Have Security meet me
+at deck 5, main elevator.
+
+636
+01:16:48,320 --> 01:16:50,560
+Spock.
+Mr. Decker, you have the com.
+
+637
+01:16:50,640 --> 01:16:52,160
+Hold positions.
+
+638
+01:17:12,840 --> 01:17:15,160
+You are the Kirk unit.
+
+639
+01:17:15,240 --> 01:17:17,080
+You will assist me.
+
+640
+01:17:18,920 --> 01:17:20,960
+I have been programmed by V'Ger...
+
+641
+01:17:21,040 --> 01:17:23,560
+to observe and record...
+
+642
+01:17:23,640 --> 01:17:26,480
+normal functions
+of the carbon-based units...
+
+643
+01:17:26,560 --> 01:17:29,720
+infesting USS Enterprise.
+
+644
+01:17:40,880 --> 01:17:43,320
+-Jim, what's going on?
+- Tricorder.
+
+645
+01:17:47,400 --> 01:17:49,520
+Who is...
+
+646
+01:17:49,600 --> 01:17:51,200
+V'Ger?
+
+647
+01:17:51,240 --> 01:17:53,520
+V'Ger is that which programmed me.
+
+648
+01:17:55,040 --> 01:17:59,040
+Is V'Ger the name of the Captain
+of the alien vessel?
+
+649
+01:17:59,120 --> 01:18:00,400
+Jim.
+
+650
+01:18:00,480 --> 01:18:02,240
+This is a mechanism.
+
+651
+01:18:02,320 --> 01:18:03,840
+A probe, Captain.
+
+652
+01:18:05,960 --> 01:18:08,160
+No doubt
+a sensor-transceiver combination...
+
+653
+01:18:08,240 --> 01:18:10,640
+recording everything we say and do.
+
+654
+01:18:11,680 --> 01:18:13,000
+Where is Lieutenant Ilia?
+
+655
+01:18:13,720 --> 01:18:15,560
+That unit no longer functions.
+
+656
+01:18:15,640 --> 01:18:17,440
+I've been given its form...
+
+657
+01:18:17,480 --> 01:18:20,360
+to more readily communicate
+with the carbon-based units...
+
+658
+01:18:20,400 --> 01:18:22,360
+infesting Enterprise.
+
+659
+01:18:22,440 --> 01:18:24,360
+Carbon-based units?
+
+660
+01:18:24,440 --> 01:18:27,600
+Humans, Ensign Perez.
+Us.
+
+661
+01:18:28,520 --> 01:18:30,560
+Why does V'Ger travel...
+
+662
+01:18:30,640 --> 01:18:33,600
+to the third planet of the solar
+system directly ahead?
+
+663
+01:18:33,680 --> 01:18:35,800
+To find the creator.
+
+664
+01:18:35,880 --> 01:18:38,200
+Find the creator?
+
+665
+01:18:39,960 --> 01:18:40,840
+Whose...
+
+666
+01:18:44,680 --> 01:18:46,720
+What does V'Ger want
+with the creator?
+
+667
+01:18:46,800 --> 01:18:48,160
+To join with him.
+
+668
+01:18:48,240 --> 01:18:51,440
+To join with the creator? How?
+
+669
+01:18:51,520 --> 01:18:54,040
+V'Ger and the creator
+will become one.
+
+670
+01:18:54,120 --> 01:18:55,840
+And who is the creator?
+
+671
+01:18:55,920 --> 01:18:58,360
+The creator is that
+which created V'Ger.
+
+672
+01:18:58,440 --> 01:19:00,440
+Who is V'Ger?
+
+673
+01:19:00,520 --> 01:19:02,160
+V'Ger is that
+which seeks the creator.
+
+674
+01:19:06,440 --> 01:19:09,280
+I'm ready to commence
+my observations.
+
+675
+01:19:09,360 --> 01:19:12,200
+Doctor, a thorough examination
+of this probe...
+
+676
+01:19:12,240 --> 01:19:14,720
+might provide some insight
+into those who manufactured it...
+
+677
+01:19:14,800 --> 01:19:16,920
+and how to deal with them.
+
+678
+01:19:17,000 --> 01:19:19,800
+Fine.
+Let's get her to sick bay.
+
+679
+01:19:23,880 --> 01:19:26,120
+I'm programmed
+to observe and record...
+
+680
+01:19:26,200 --> 01:19:28,720
+only the normal functioning
+of the carbon-based units.
+
+681
+01:19:28,800 --> 01:19:30,880
+The, uh...
+
+682
+01:19:30,960 --> 01:19:33,000
+examination is a normal function.
+
+683
+01:19:35,640 --> 01:19:37,200
+You may proceed.
+
+684
+01:19:43,240 --> 01:19:45,560
+Micro-miniature hydraulics...
+
+685
+01:19:48,200 --> 01:19:50,080
+sensors...
+
+686
+01:19:53,680 --> 01:19:57,000
+and molecule-sized
+multiprocessor chips.
+
+687
+01:20:01,720 --> 01:20:03,200
+And take a look at this.
+
+688
+01:20:03,280 --> 01:20:05,880
+An osmotic micropump, right here.
+
+689
+01:20:06,920 --> 01:20:09,960
+Even the smallest body functions
+are exactly duplicated.
+
+690
+01:20:12,640 --> 01:20:15,960
+Every exocrine system
+is the same, too...
+
+691
+01:20:16,040 --> 01:20:18,480
+even eye moisture.
+
+692
+01:20:19,200 --> 01:20:20,680
+Decker.
+
+693
+01:20:21,720 --> 01:20:22,600
+Fascinating.
+
+694
+01:20:22,680 --> 01:20:24,680
+Not ''Decker unit.''
+
+695
+01:20:29,480 --> 01:20:31,520
+Gentlemen.
+
+696
+01:20:31,600 --> 01:20:32,960
+Will.
+
+697
+01:20:43,160 --> 01:20:45,360
+- What happened to her?
+- Captain.
+
+698
+01:20:45,440 --> 01:20:47,680
+This probe may be our key
+to the aliens.
+
+699
+01:20:47,720 --> 01:20:50,600
+- Probe? Ilia?
+- Exactly.
+
+700
+01:20:50,640 --> 01:20:52,800
+It is a programmed mechanism,
+Commander.
+
+701
+01:20:52,840 --> 01:20:56,400
+Its body duplicates our navigator
+in precise detail.
+
+702
+01:20:56,480 --> 01:20:58,640
+Suppose that,
+beneath its programming...
+
+703
+01:20:58,720 --> 01:21:02,280
+the real Ilia's memory patterns
+are duplicated with equal precision.
+
+704
+01:21:02,360 --> 01:21:04,640
+- They had a pattern to follow.
+- Indeed.
+
+705
+01:21:04,680 --> 01:21:07,320
+They may have followed it
+too precisely.
+
+706
+01:21:07,400 --> 01:21:09,320
+Ilia's memory...
+
+707
+01:21:09,400 --> 01:21:11,920
+her feelings of loyalty,
+obedience, friendship...
+
+708
+01:21:12,640 --> 01:21:14,840
+might all be there.
+
+709
+01:21:14,920 --> 01:21:18,800
+You did have a relationship
+with Lieutenant Ilia, Commander.
+
+710
+01:21:18,880 --> 01:21:21,440
+That probe, in another form,
+is what killed Ilia.
+
+711
+01:21:21,480 --> 01:21:23,240
+Commander...
+
+712
+01:21:23,320 --> 01:21:25,680
+Will, we're locked
+in an alien vessel...
+
+713
+01:21:25,760 --> 01:21:27,160
+six hours from Earth's orbit.
+
+714
+01:21:27,240 --> 01:21:29,640
+Our only contact with our captor
+is that probe.
+
+715
+01:21:29,720 --> 01:21:31,880
+If we can control it,
+persuade it, use it...
+
+716
+01:21:35,240 --> 01:21:37,360
+I have recorded enough here.
+
+717
+01:21:37,440 --> 01:21:39,320
+You will now assist me further.
+
+718
+01:21:42,520 --> 01:21:44,240
+The, uh...
+
+719
+01:21:44,320 --> 01:21:47,120
+Decker unit can assist you
+with much greater efficiency.
+
+720
+01:21:51,800 --> 01:21:54,120
+Carry on with your assignment,
+Mr. Decker.
+
+721
+01:21:55,560 --> 01:21:56,800
+Aye, Sir.
+
+722
+01:22:01,160 --> 01:22:05,440
+I am concerned with that being our
+only source of information, Captain.
+
+723
+01:22:09,200 --> 01:22:12,600
+Captain's Log:
+Stardate 7414.1.
+
+724
+01:22:12,680 --> 01:22:16,360
+Our best estimates place us
+some four hours from Earth.
+
+725
+01:22:16,400 --> 01:22:18,360
+No significant progress
+thus far...
+
+726
+01:22:18,440 --> 01:22:22,240
+reviving Ilia memory patterns
+within the alien probe.
+
+727
+01:22:22,320 --> 01:22:26,000
+This remains our only means
+of contact with our captor.
+
+728
+01:22:26,080 --> 01:22:28,400
+All those vessels
+were called Enterprise.
+
+729
+01:22:39,440 --> 01:22:43,400
+The carbon units
+use this area for recreation.
+
+730
+01:22:43,440 --> 01:22:45,320
+This is one of the games.
+
+731
+01:22:49,360 --> 01:22:53,360
+What types of recreation does
+the crew aboard your vessel enjoy?
+
+732
+01:22:54,560 --> 01:22:56,400
+The words ''recreation''...
+
+733
+01:22:57,680 --> 01:22:59,840
+and ''enjoy''...
+
+734
+01:22:59,920 --> 01:23:02,240
+have no meaning
+to my programming.
+
+735
+01:23:10,040 --> 01:23:11,920
+Ilia enjoyed this game.
+
+736
+01:23:13,880 --> 01:23:15,760
+She nearly always won.
+
+737
+01:23:21,240 --> 01:23:24,400
+Good. He's using
+audiovisual association.
+
+738
+01:23:59,280 --> 01:24:01,280
+This device serves no purpose.
+
+739
+01:24:12,520 --> 01:24:16,640
+Why does Enterprise require
+the presence of carbon units?
+
+740
+01:24:16,720 --> 01:24:19,520
+Enterprise would be unable
+to function without carbon units.
+
+741
+01:24:20,800 --> 01:24:23,760
+More data concerning
+this functioning is necessary...
+
+742
+01:24:23,840 --> 01:24:26,120
+before carbon units
+can be patterned...
+
+743
+01:24:26,160 --> 01:24:28,040
+for data storage.
+
+744
+01:24:31,760 --> 01:24:33,040
+What does that mean?
+
+745
+01:24:33,720 --> 01:24:36,200
+When my examination is complete...
+
+746
+01:24:36,240 --> 01:24:39,760
+all carbon units will be
+reduced to data patterns.
+
+747
+01:24:40,480 --> 01:24:42,280
+Within you...
+
+748
+01:24:42,320 --> 01:24:45,360
+are the memory patterns
+of a certain carbon unit.
+
+749
+01:24:45,440 --> 01:24:48,360
+If I can help you
+to revive those patterns...
+
+750
+01:24:48,400 --> 01:24:50,280
+you could understand
+our functions better.
+
+751
+01:24:51,280 --> 01:24:53,320
+That is logical.
+
+752
+01:24:53,360 --> 01:24:55,120
+You may proceed.
+
+753
+01:25:38,680 --> 01:25:42,480
+I remember Lieutenant Ilia
+once mentioning she wore that.
+
+754
+01:25:47,560 --> 01:25:50,000
+On Delta.
+
+755
+01:25:50,040 --> 01:25:51,520
+Remember?
+
+756
+01:25:51,600 --> 01:25:52,800
+Ilia.
+
+757
+01:25:59,000 --> 01:26:00,080
+Dr. Chapel.
+
+758
+01:26:10,280 --> 01:26:11,320
+Will?
+
+759
+01:26:13,320 --> 01:26:14,560
+Ilia.
+
+760
+01:26:15,600 --> 01:26:17,040
+Commander.
+
+761
+01:26:18,480 --> 01:26:20,400
+Commander.
+
+762
+01:26:22,360 --> 01:26:23,880
+This is a mechanism.
+
+763
+01:26:27,680 --> 01:26:29,080
+Ilia...
+
+764
+01:26:30,480 --> 01:26:33,840
+help us make direct contact
+with V'Ger.
+
+765
+01:26:34,720 --> 01:26:35,760
+I cannot.
+
+766
+01:26:36,720 --> 01:26:41,400
+This creator V'Ger is looking for...
+what is it?
+
+767
+01:26:42,640 --> 01:26:44,800
+V'Ger does not know.
+
+768
+01:27:11,360 --> 01:27:14,480
+Computer, commence recording.
+
+769
+01:27:14,520 --> 01:27:18,760
+Captain Kirk, these messages
+will detail my attempt...
+
+770
+01:27:18,800 --> 01:27:20,800
+to contact the aliens.
+
+771
+01:27:47,920 --> 01:27:51,440
+I intend to calculate thruster
+ignition and acceleration rate...
+
+772
+01:27:51,520 --> 01:27:53,760
+to coincide with the opening
+of the V'Ger orifice.
+
+773
+01:27:53,840 --> 01:27:55,680
+This should facilitate
+a better view...
+
+774
+01:27:55,760 --> 01:27:57,600
+of the interior
+of the alien spacecraft.
+
+775
+01:28:02,880 --> 01:28:06,360
+Captain, Starfleet signals
+are growing in strength, Sir.
+
+776
+01:28:06,440 --> 01:28:08,640
+They still have the intruder
+on their monitors.
+
+777
+01:28:08,680 --> 01:28:10,880
+- It's decelerating.
+- Confirmed, Sir.
+
+778
+01:28:10,960 --> 01:28:14,360
+Lunar beacons indicate intruder
+on a course into Earth orbit.
+
+779
+01:28:14,440 --> 01:28:17,640
+Sir, air lock 4
+has been opened.
+
+780
+01:28:17,680 --> 01:28:20,200
+A thruster suit
+is reported missing.
+
+781
+01:28:22,040 --> 01:28:23,880
+A thruster suit?
+
+782
+01:28:25,360 --> 01:28:27,320
+That's Spock.
+
+783
+01:28:27,400 --> 01:28:29,200
+Damn him.
+
+784
+01:28:29,280 --> 01:28:30,880
+Bring him back here.
+
+785
+01:28:30,920 --> 01:28:32,320
+No, wait.
+
+786
+01:28:39,240 --> 01:28:42,240
+- Get a fix on his position.
+- Aye, Sir.
+
+787
+01:29:56,320 --> 01:29:57,880
+I have successfully penetrated...
+
+788
+01:29:57,960 --> 01:29:59,840
+the next chamber
+of the alien's interior...
+
+789
+01:29:59,880 --> 01:30:02,880
+and I'm witnessing
+some sort of dimensional image...
+
+790
+01:30:02,960 --> 01:30:05,320
+which I believe to be
+a representation...
+
+791
+01:30:05,360 --> 01:30:07,080
+of V'Ger's home planet.
+
+792
+01:30:14,560 --> 01:30:16,480
+I'm passing through
+a connecting tunnel.
+
+793
+01:30:16,520 --> 01:30:19,640
+Apparently, a kind of
+plasma-energy conduit.
+
+794
+01:30:20,480 --> 01:30:23,360
+Possibly a field coil for
+a gigantic imaging system.
+
+795
+01:30:33,920 --> 01:30:35,160
+Curious.
+
+796
+01:30:35,240 --> 01:30:38,680
+I'm seeing images
+of planets, moons, stars...
+
+797
+01:30:38,760 --> 01:30:41,440
+whole galaxies
+all stored here, recorded.
+
+798
+01:30:41,480 --> 01:30:44,320
+It could be a representation
+of V'Ger's entire journey.
+
+799
+01:30:49,840 --> 01:30:51,240
+But who or what...
+
+800
+01:30:52,200 --> 01:30:53,600
+are we dealing with?
+
+801
+01:30:53,680 --> 01:30:57,720
+The Epsilon 9 station,
+stored here with every detail.
+
+802
+01:31:05,320 --> 01:31:07,400
+Captain, I am now
+quite convinced...
+
+803
+01:31:07,480 --> 01:31:09,560
+that all of this is V'Ger...
+
+804
+01:31:09,600 --> 01:31:12,360
+that we are inside
+a living machine.
+
+805
+01:31:17,760 --> 01:31:18,840
+Ilia.
+
+806
+01:31:23,680 --> 01:31:25,880
+The sensor...
+
+807
+01:31:25,960 --> 01:31:28,480
+must contain
+some special meaning.
+
+808
+01:31:32,040 --> 01:31:33,880
+I must try to mind-meld with it.
+
+809
+01:32:25,320 --> 01:32:26,480
+Spock.
+
+810
+01:32:27,440 --> 01:32:28,800
+Spock!
+
+811
+01:32:29,960 --> 01:32:31,400
+Spock.
+
+812
+01:32:45,960 --> 01:32:50,200
+Now scanning pons area
+at spinal nerve fiber connection.
+
+813
+01:32:53,360 --> 01:32:57,080
+Indications of some
+neurological trauma.
+
+814
+01:32:57,160 --> 01:33:00,520
+The power pouring through that
+mind-meld must have been staggering.
+
+815
+01:33:07,680 --> 01:33:08,720
+Spock.
+
+816
+01:33:08,800 --> 01:33:10,200
+Jim.
+
+817
+01:33:13,280 --> 01:33:15,120
+I should have known.
+
+818
+01:33:15,160 --> 01:33:17,320
+Were you right...
+
+819
+01:33:17,360 --> 01:33:18,520
+about V'Ger?
+
+820
+01:33:19,560 --> 01:33:22,640
+A life-form of its own.
+
+821
+01:33:22,720 --> 01:33:25,280
+A conscious, living entity.
+
+822
+01:33:25,360 --> 01:33:26,680
+A living machine?
+
+823
+01:33:26,760 --> 01:33:28,600
+It considers the Enterprise
+a living machine.
+
+824
+01:33:28,680 --> 01:33:30,840
+That's why the probe
+refers to our ship as an entity.
+
+825
+01:33:30,920 --> 01:33:32,960
+I saw V'Ger's planet.
+
+826
+01:33:34,040 --> 01:33:37,600
+A planet populated
+by living machines.
+
+827
+01:33:37,640 --> 01:33:39,680
+Unbelievable technology.
+
+828
+01:33:41,960 --> 01:33:45,320
+V'Ger has knowledge
+that spans this universe.
+
+829
+01:33:46,880 --> 01:33:48,720
+And yet...
+
+830
+01:33:48,800 --> 01:33:51,040
+with all its pure logic...
+
+831
+01:33:51,720 --> 01:33:53,880
+V'Ger is barren...
+
+832
+01:33:53,960 --> 01:33:55,200
+cold.
+
+833
+01:33:55,280 --> 01:33:56,400
+No mystery.
+
+834
+01:33:57,480 --> 01:33:58,800
+No beauty.
+
+835
+01:34:03,120 --> 01:34:05,600
+Should have known.
+
+836
+01:34:07,400 --> 01:34:08,600
+Known?
+
+837
+01:34:09,640 --> 01:34:11,360
+Known what? Spock.
+
+838
+01:34:19,280 --> 01:34:22,880
+What should you have known?
+What should you have known?
+
+839
+01:34:27,760 --> 01:34:29,200
+Jim...
+
+840
+01:34:33,040 --> 01:34:34,880
+this...
+
+841
+01:34:34,920 --> 01:34:36,800
+simple feeling...
+
+842
+01:34:38,240 --> 01:34:40,920
+is beyond V'Ger's comprehension.
+
+843
+01:34:48,560 --> 01:34:51,440
+No meaning, no hope.
+
+844
+01:34:52,720 --> 01:34:54,160
+Jim...
+
+845
+01:34:55,480 --> 01:34:57,360
+no answers.
+
+846
+01:34:58,720 --> 01:35:00,400
+It's asking questions.
+
+847
+01:35:01,760 --> 01:35:04,120
+''Is this...
+
+848
+01:35:04,200 --> 01:35:06,320
+all that I am?
+
+849
+01:35:07,040 --> 01:35:08,960
+Is there nothing more?''
+
+850
+01:35:14,600 --> 01:35:16,400
+Bridge to Captain.
+
+851
+01:35:19,760 --> 01:35:20,640
+Kirk here.
+
+852
+01:35:20,720 --> 01:35:23,400
+A faint signal
+from Starfleet, Sir.
+
+853
+01:35:23,440 --> 01:35:26,280
+Intruder cloud has been located
+on their outer monitors...
+
+854
+01:35:26,320 --> 01:35:28,360
+for the past 27 minutes.
+
+855
+01:35:28,440 --> 01:35:31,840
+Cloud dissipating rapidly
+as it approaches.
+
+856
+01:35:31,920 --> 01:35:35,520
+Starfleet reports forward velocity
+has slowed to sub-warp speed.
+
+857
+01:35:35,600 --> 01:35:37,440
+We are three minutes
+from Earth orbit.
+
+858
+01:35:37,520 --> 01:35:39,360
+I'll be right there.
+
+859
+01:35:43,200 --> 01:35:45,040
+I need Spock on the bridge.
+
+860
+01:35:45,120 --> 01:35:47,120
+Dalaphaline, five cc's.
+
+861
+01:35:48,960 --> 01:35:50,960
+A machine planet...
+
+862
+01:35:51,920 --> 01:35:53,920
+sending a machine to Earth..
+
+863
+01:35:55,520 --> 01:35:57,520
+looking for its creator.
+
+864
+01:36:00,240 --> 01:36:02,560
+It's absolutely incredible.
+
+865
+01:36:06,800 --> 01:36:09,240
+Mr. Chekov.
+Commander Decker present location.
+
+866
+01:36:09,520 --> 01:36:11,520
+They are in the engineering, Sir.
+
+867
+01:36:20,840 --> 01:36:24,960
+Captain, Starfleet is sending
+this tactical on V'Ger's position.
+
+868
+01:36:26,320 --> 01:36:29,040
+V'Ger is transmitting... a signal.
+
+869
+01:36:31,560 --> 01:36:32,920
+Jim.
+
+870
+01:36:33,680 --> 01:36:35,720
+From V'Ger.
+
+871
+01:36:38,960 --> 01:36:42,360
+V'Ger signals the creator.
+
+872
+01:36:55,520 --> 01:36:56,600
+Spock?
+
+873
+01:36:57,840 --> 01:37:00,400
+A simple binary code...
+
+874
+01:37:00,480 --> 01:37:03,120
+transmitted by carrier wave signal.
+
+875
+01:37:04,440 --> 01:37:05,800
+Radio.
+
+876
+01:37:07,720 --> 01:37:08,800
+Radio?
+
+877
+01:37:13,800 --> 01:37:15,320
+Jim.
+
+878
+01:37:15,400 --> 01:37:18,040
+V'Ger expects an answer.
+
+879
+01:37:19,120 --> 01:37:20,360
+An answer?
+
+880
+01:37:20,440 --> 01:37:22,280
+I don't know the question.
+
+881
+01:37:23,040 --> 01:37:25,400
+The creator has not responded.
+
+882
+01:37:39,080 --> 01:37:42,800
+All planetary defense systems
+have just gone inoperative.
+
+883
+01:38:21,360 --> 01:38:24,920
+Sir, Starfleet computes
+the devices are proceeding...
+
+884
+01:38:25,040 --> 01:38:28,080
+toward equidistant positions
+orbiting the planet.
+
+885
+01:38:28,160 --> 01:38:29,800
+They're the same things
+that hit us.
+
+886
+01:38:29,880 --> 01:38:32,600
+They are hundreds of times
+more powerful, Captain.
+
+887
+01:38:32,640 --> 01:38:33,880
+From those positions...
+
+888
+01:38:33,920 --> 01:38:36,440
+they could devastate
+the entire surface of the planet.
+
+889
+01:38:49,080 --> 01:38:50,640
+Why?
+
+890
+01:38:50,720 --> 01:38:52,920
+The creator has not answered.
+
+891
+01:38:52,960 --> 01:38:56,680
+The carbon unit infestation is to be
+removed from the creator's planet.
+
+892
+01:38:56,760 --> 01:38:57,640
+Why?
+
+893
+01:38:57,720 --> 01:39:00,640
+You infest Enterprise.
+
+894
+01:39:00,720 --> 01:39:03,240
+You interfere with the creator
+in the same manner.
+
+895
+01:39:10,000 --> 01:39:11,000
+V'Ger
+
+896
+01:39:12,000 --> 01:39:13,000
+V'Ger
+
+897
+01:39:23,480 --> 01:39:24,800
+Captain.
+
+898
+01:39:29,240 --> 01:39:31,520
+V'Ger is a child.
+
+899
+01:39:32,560 --> 01:39:34,360
+I suggest you treat it as such.
+
+900
+01:39:34,440 --> 01:39:36,160
+- A child?
+- Yes, Captain.
+
+901
+01:39:36,240 --> 01:39:38,040
+A child...
+
+902
+01:39:38,080 --> 01:39:41,400
+evolving, learning, searching...
+
+903
+01:39:42,440 --> 01:39:44,720
+instinctively needing.
+
+904
+01:39:44,800 --> 01:39:46,760
+- Needing what?
+- Spock.
+
+905
+01:39:46,840 --> 01:39:51,160
+This child is about to wipe out
+every living thing on Earth.
+
+906
+01:39:51,240 --> 01:39:54,080
+Now, what do you suggest we do?
+Spank it?
+
+907
+01:39:57,120 --> 01:39:59,560
+It knows only that it needs,
+Commander.
+
+908
+01:40:00,640 --> 01:40:03,200
+But, like so many of us...
+
+909
+01:40:03,280 --> 01:40:05,200
+it does not know what.
+
+910
+01:40:18,080 --> 01:40:21,600
+The carbon units know why
+the creator has not responded.
+
+911
+01:40:24,840 --> 01:40:26,680
+Disclose the information.
+
+912
+01:40:26,760 --> 01:40:30,560
+Not until V'Ger withdraws the
+devices orbiting the third planet.
+
+913
+01:40:30,640 --> 01:40:32,240
+Captain.
+
+914
+01:40:34,360 --> 01:40:36,360
+I'm losing Starfleet.
+
+915
+01:40:36,440 --> 01:40:38,680
+Interference from V'Ger.
+
+916
+01:40:38,760 --> 01:40:42,480
+Kirk unit, disclose the information.
+
+917
+01:40:42,560 --> 01:40:46,280
+Why has the creator not responded?
+
+918
+01:40:46,360 --> 01:40:47,400
+No.
+
+919
+01:40:51,080 --> 01:40:52,720
+Secure all stations.
+
+920
+01:40:52,800 --> 01:40:54,200
+Clear the bridge.
+
+921
+01:40:56,960 --> 01:40:59,240
+Clear the bridge, Captain?
+
+922
+01:40:59,280 --> 01:41:01,280
+- That was the order, Mr. Sulu.
+- Clear the bridge  - Aye, Sir.
+
+923
+01:41:08,880 --> 01:41:12,480
+Your child is having a tantrum,
+Mr. Spock.
+
+924
+01:41:14,080 --> 01:41:16,080
+V'Ger requires the information.
+
+925
+01:41:19,440 --> 01:41:22,240
+Bridge, secure all stations.
+Move out.
+
+926
+01:41:22,320 --> 01:41:24,920
+Jim, what the hell
+kind of strategy is this?
+
+927
+01:41:26,160 --> 01:41:28,560
+All ship's functions
+going to automatic, Captain.
+
+928
+01:41:28,640 --> 01:41:30,240
+If V'Ger destroys the Enterprise...
+
+929
+01:41:30,320 --> 01:41:32,600
+the information that V'Ger requires
+will also be destroyed.
+
+930
+01:41:32,680 --> 01:41:35,640
+It is illogical to withhold
+required information.
+
+931
+01:41:36,680 --> 01:41:38,160
+Kirk unit!
+
+932
+01:41:38,240 --> 01:41:39,400
+Kirk unit.
+
+933
+01:41:42,680 --> 01:41:44,600
+Why do you not
+disclose information?
+
+934
+01:41:48,600 --> 01:41:51,800
+Because V'Ger's going to destroy all
+carbon units on the third planet.
+
+935
+01:41:51,880 --> 01:41:53,720
+They have repressed the creator.
+
+936
+01:41:53,800 --> 01:41:56,360
+The information
+will not be disclosed.
+
+937
+01:41:57,400 --> 01:41:59,320
+V'Ger needs the information.
+
+938
+01:41:59,400 --> 01:42:04,320
+Then V'Ger must withdraw
+all the orbiting devices.
+
+939
+01:42:05,080 --> 01:42:06,880
+V'Ger will comply...
+
+940
+01:42:06,920 --> 01:42:09,760
+if the carbon units will
+disclose the information.
+
+941
+01:42:16,080 --> 01:42:17,960
+It learns fast, doesn't it?
+
+942
+01:42:18,080 --> 01:42:21,280
+Captain, the vessel... V'Ger...
+
+943
+01:42:21,360 --> 01:42:25,040
+obviously operates from
+a central brain complex.
+
+944
+01:42:25,120 --> 01:42:27,840
+The orbiting devices would be
+controlled from that point, then.
+
+945
+01:42:27,880 --> 01:42:29,320
+Precisely.
+
+946
+01:42:38,680 --> 01:42:42,440
+The carbon unit's information cannot
+be disclosed to V'Ger's probe...
+
+947
+01:42:42,480 --> 01:42:45,320
+but only to V'Ger directly.
+
+948
+01:43:08,080 --> 01:43:09,680
+Forward motion, Captain.
+
+949
+01:43:09,720 --> 01:43:10,960
+Tractor beam.
+
+950
+01:43:27,680 --> 01:43:30,480
+Captain, what's the next move?
+
+951
+01:43:32,280 --> 01:43:34,240
+The question is, Mr. Decker...
+
+952
+01:43:34,320 --> 01:43:36,200
+is there a next move?
+
+953
+01:43:38,840 --> 01:43:40,680
+Resume duty stations.
+
+954
+01:43:41,840 --> 01:43:43,680
+All personnel, resume stations.
+
+955
+01:43:48,800 --> 01:43:52,920
+Well, Mr. Decker,
+it seems my bluff has been called.
+
+956
+01:43:54,800 --> 01:43:57,280
+I'm afraid our hand
+is pretty weak, Captain.
+
+957
+01:44:01,520 --> 01:44:04,680
+Mr. Chekov, when do those devices
+reach final position?
+
+958
+01:44:05,440 --> 01:44:08,080
+Twenty-seven minutes. Mark.
+
+959
+01:44:14,000 --> 01:44:16,920
+Captain, I believe
+that is our destination.
+
+960
+01:44:23,360 --> 01:44:25,520
+Forward motion slowing, Captain.
+
+961
+01:44:28,680 --> 01:44:32,080
+I read an oxygen-gravity envelope
+forming outside the Enterprise.
+
+962
+01:44:40,560 --> 01:44:42,800
+Forward motion stopped, Captain.
+
+963
+01:44:46,840 --> 01:44:48,440
+V'Ger.
+
+964
+01:44:48,720 --> 01:44:52,480
+Sir, I've located the source
+of V'Ger's radio signal.
+
+965
+01:44:52,560 --> 01:44:53,920
+It's directly ahead.
+
+966
+01:44:54,000 --> 01:44:58,120
+That transmitter is a vital link
+between V'Ger and its creator.
+
+967
+01:45:01,240 --> 01:45:04,320
+The carbon units
+will now provide V'Ger...
+
+968
+01:45:04,400 --> 01:45:06,600
+with the required information.
+
+969
+01:45:13,280 --> 01:45:14,920
+Mr. Spock. Bones.
+
+970
+01:45:18,680 --> 01:45:22,360
+Mr. Decker, I will contact you
+every five minutes.
+
+971
+01:45:22,440 --> 01:45:24,640
+Captain.
+
+972
+01:45:26,160 --> 01:45:27,520
+I'd like to go along.
+
+973
+01:45:31,080 --> 01:45:32,920
+Mr. Sulu, you have the com.
+
+974
+01:47:23,040 --> 01:47:24,800
+V'Ger.
+
+975
+01:48:33,280 --> 01:48:37,600
+''V... G-E-R.''
+
+976
+01:48:40,040 --> 01:48:41,600
+V'Ger.
+
+977
+01:48:54,280 --> 01:48:57,400
+''V-O-Y-A-G-E-R.''
+
+978
+01:48:57,480 --> 01:48:58,680
+Voyager.
+
+979
+01:49:02,840 --> 01:49:04,600
+Voyager 6.
+
+980
+01:49:04,680 --> 01:49:08,840
+NASA. National Aeronautics
+and Space Administration.
+
+981
+01:49:08,920 --> 01:49:10,760
+Jim...
+
+982
+01:49:10,840 --> 01:49:13,320
+this was launched
+more than 300 years ago.
+
+983
+01:49:16,840 --> 01:49:18,680
+Voyager series.
+
+984
+01:49:20,360 --> 01:49:22,200
+Designed to collect data...
+
+985
+01:49:24,640 --> 01:49:27,080
+and transmit it back to Earth.
+
+986
+01:50:06,520 --> 01:50:08,360
+Captain...
+
+987
+01:50:08,440 --> 01:50:13,120
+Voyager 6 disappeared into what
+they used to call a black hole.
+
+988
+01:50:13,200 --> 01:50:16,000
+It must have emerged
+on the far side of the galaxy...
+
+989
+01:50:17,120 --> 01:50:20,120
+and fell into the machine planet's
+gravitational field.
+
+990
+01:50:20,160 --> 01:50:23,560
+The machine inhabitants found it
+to be one of their own kind...
+
+991
+01:50:23,640 --> 01:50:26,040
+primitive, yet kindred.
+
+992
+01:50:26,120 --> 01:50:28,960
+They discovered its simple
+20th-century programming...
+
+993
+01:50:29,000 --> 01:50:31,360
+collect all data possible.
+
+994
+01:50:32,520 --> 01:50:34,400
+Learn all that is learnable.
+
+995
+01:50:36,280 --> 01:50:38,960
+Return that information
+to its creator.
+
+996
+01:50:39,040 --> 01:50:40,400
+Precisely, Mr. Decker.
+
+997
+01:50:41,200 --> 01:50:43,640
+The machines
+interpreted it literally.
+
+998
+01:50:43,720 --> 01:50:45,600
+They built this entire vessel...
+
+999
+01:50:45,640 --> 01:50:49,080
+so that Voyager could actually
+fulfill its programming.
+
+1000
+01:50:49,160 --> 01:50:51,040
+And on its journey back...
+
+1001
+01:50:53,000 --> 01:50:55,360
+it amassed so much knowledge...
+
+1002
+01:50:56,720 --> 01:50:59,040
+it achieved consciousness itself.
+
+1003
+01:51:00,680 --> 01:51:02,560
+It became a living thing.
+
+1004
+01:51:15,920 --> 01:51:18,160
+Kirk unit.
+
+1005
+01:51:18,240 --> 01:51:20,160
+V'Ger awaits the information.
+
+1006
+01:51:21,680 --> 01:51:23,040
+Enterprise...
+
+1007
+01:51:24,240 --> 01:51:26,480
+order up the ship's
+computer library records...
+
+1008
+01:51:26,560 --> 01:51:29,880
+on the late 20th-century
+NASA probe Voyager 6.
+
+1009
+01:51:29,920 --> 01:51:32,640
+Specifically, we want
+the old NASA code signal...
+
+1010
+01:51:32,680 --> 01:51:34,720
+that instructs the probe
+to transmit its data.
+
+1011
+01:51:34,800 --> 01:51:36,800
+- And fast, Uhura, fast.
+-Aye, Sir.
+
+1012
+01:51:36,880 --> 01:51:38,840
+That's what it's been signaling...
+
+1013
+01:51:38,880 --> 01:51:41,200
+its readiness
+to transmit its information.
+
+1014
+01:51:41,280 --> 01:51:43,120
+And there's no one on Earth...
+
+1015
+01:51:43,200 --> 01:51:45,400
+who could recognize the old signal
+and send a response.
+
+1016
+01:51:45,440 --> 01:51:47,520
+The creator does not answer.
+
+1017
+01:51:57,600 --> 01:51:58,960
+V'Ger.
+
+1018
+01:52:04,640 --> 01:52:05,920
+V'Ger.
+
+1019
+01:52:08,000 --> 01:52:09,400
+V'Ger!
+
+1020
+01:52:13,760 --> 01:52:16,480
+We are the creator.
+
+1021
+01:52:16,560 --> 01:52:18,400
+That is not logical.
+
+1022
+01:52:18,480 --> 01:52:20,320
+Carbon units
+are not true life-forms.
+
+1023
+01:52:20,400 --> 01:52:21,600
+We will prove it.
+
+1024
+01:52:21,640 --> 01:52:25,800
+We will make it possible for you
+to complete your programming.
+
+1025
+01:52:25,880 --> 01:52:28,200
+Only the creator
+could accomplish that.
+
+1026
+01:52:30,280 --> 01:52:31,360
+Enterprise?
+
+1027
+01:52:31,440 --> 01:52:34,320
+We have just received
+the response code, Captain.
+
+1028
+01:52:34,400 --> 01:52:36,760
+Set the Enterprise transmitter
+on appropriate frequency...
+
+1029
+01:52:36,840 --> 01:52:39,040
+and transmit the code now.
+
+1030
+01:52:39,120 --> 01:52:40,320
+Transmitting.
+
+1031
+01:52:41,440 --> 01:52:43,600
+5-0-4...
+
+1032
+01:52:43,680 --> 01:52:45,680
+3-2-9...
+
+1033
+01:52:45,760 --> 01:52:47,600
+3-1-7...
+
+1034
+01:52:48,320 --> 01:52:50,000
+5-1-0...
+
+1035
+01:52:50,880 --> 01:52:52,640
+and the final sequence.
+
+1036
+01:52:52,680 --> 01:52:55,040
+That should trigger
+Voyager's transmitter.
+
+1037
+01:53:07,480 --> 01:53:10,280
+Voyager is not transmitting
+its data, Captain.
+
+1038
+01:53:12,120 --> 01:53:14,440
+The creator must join with V'Ger.
+
+1039
+01:53:16,960 --> 01:53:19,600
+Uhura, repeat the final sequence.
+
+1040
+01:53:23,800 --> 01:53:26,520
+The creator must join with V'Ger.
+
+1041
+01:53:46,520 --> 01:53:48,640
+Voyager is not transmitting,
+Captain...
+
+1042
+01:53:48,680 --> 01:53:51,160
+because it did not receive
+the final sequence.
+
+1043
+01:53:51,240 --> 01:53:53,800
+Jim, we're down to ten minutes.
+
+1044
+01:53:53,880 --> 01:53:55,720
+Enterprise, stand by.
+
+1045
+01:54:04,120 --> 01:54:07,680
+- The antenna leads are melted away.
+- Yes, Captain, just now.
+
+1046
+01:54:07,760 --> 01:54:10,080
+By V'Ger itself.
+
+1047
+01:54:10,160 --> 01:54:13,120
+- Why?
+- To prevent reception.
+
+1048
+01:54:13,200 --> 01:54:14,560
+Of course.
+
+1049
+01:54:14,640 --> 01:54:17,280
+To bring the creator here.
+
+1050
+01:54:17,320 --> 01:54:19,840
+To finish transmitting
+the code in person.
+
+1051
+01:54:23,640 --> 01:54:24,800
+To touch the creator.
+
+1052
+01:54:25,160 --> 01:54:27,560
+Capture God?
+
+1053
+01:54:29,880 --> 01:54:32,240
+V'Ger's liable to be in for
+one hell of a disappointment.
+
+1054
+01:54:32,280 --> 01:54:34,400
+Perhaps not, Doctor.
+
+1055
+01:54:56,560 --> 01:54:58,760
+Captain.
+
+1056
+01:55:04,640 --> 01:55:06,360
+V'Ger must evolve.
+
+1057
+01:55:06,440 --> 01:55:10,280
+Its knowledge has reached the limits
+of this universe. It must evolve.
+
+1058
+01:55:10,320 --> 01:55:13,320
+What it requires of its god, Doctor,
+is the answer to its question...
+
+1059
+01:55:13,360 --> 01:55:14,920
+Is there nothing more?
+
+1060
+01:55:14,960 --> 01:55:17,680
+What more is there
+than the universe, Spock?
+
+1061
+01:55:17,720 --> 01:55:19,640
+Other dimensions.
+Higher levels of being.
+
+1062
+01:55:19,720 --> 01:55:21,960
+The existence of which
+cannot be proven logically.
+
+1063
+01:55:22,000 --> 01:55:25,320
+Therefore, V'Ger is incapable
+of believing in them.
+
+1064
+01:55:25,360 --> 01:55:27,840
+What V'Ger needs
+in order to evolve...
+
+1065
+01:55:27,920 --> 01:55:30,120
+is a human quality...
+
+1066
+01:55:30,160 --> 01:55:32,080
+our capacity to leap beyond logic.
+
+1067
+01:55:36,320 --> 01:55:38,840
+Joining with its creator
+might accomplish that.
+
+1068
+01:55:38,920 --> 01:55:41,800
+You mean this machine wants to
+physically join with a human?
+
+1069
+01:55:42,720 --> 01:55:44,360
+Is that possible?
+
+1070
+01:55:47,560 --> 01:55:48,920
+Let's find out.
+
+1071
+01:55:57,000 --> 01:55:58,320
+Decker.
+
+1072
+01:55:58,360 --> 01:56:01,320
+I'm gonna key the final sequence
+through the ground test computer.
+
+1073
+01:56:01,400 --> 01:56:03,280
+You don't know
+what that'll do to you!
+
+1074
+01:56:04,000 --> 01:56:05,800
+Yes, I do, Doctor.
+
+1075
+01:56:11,880 --> 01:56:13,000
+Decker, don't.
+
+1076
+01:56:13,040 --> 01:56:15,800
+Jim, I want this.
+
+1077
+01:56:15,880 --> 01:56:20,080
+As much as you wanted
+the Enterprise, I want this.
+
+1078
+01:59:06,280 --> 01:59:07,680
+Captain.
+
+1079
+01:59:09,200 --> 01:59:13,560
+Spock, did we just see the beginning
+of a new life-form?
+
+1080
+01:59:13,640 --> 01:59:16,800
+Yes, Captain.
+We witnessed a birth.
+
+1081
+01:59:16,840 --> 01:59:19,440
+Possibly a next step
+in our evolution.
+
+1082
+01:59:19,520 --> 01:59:21,160
+I wonder.
+
+1083
+01:59:21,200 --> 01:59:24,040
+Well, it's been a long time
+since I delivered a baby.
+
+1084
+01:59:24,080 --> 01:59:26,000
+I hope we got this one off
+to a good start.
+
+1085
+01:59:26,080 --> 01:59:28,520
+I hope so too.
+
+1086
+01:59:28,600 --> 01:59:32,520
+I think we gave it the ability to
+create its own sense of purpose...
+
+1087
+01:59:34,000 --> 01:59:36,360
+out of our own human weaknesses...
+
+1088
+01:59:37,520 --> 01:59:40,000
+and the drive that compels us
+to overcome them.
+
+1089
+01:59:40,080 --> 01:59:43,800
+And a lot of foolish human emotions.
+Right, Mr. Spock?
+
+1090
+01:59:43,880 --> 01:59:45,560
+Quite true, Doctor.
+
+1091
+01:59:45,640 --> 01:59:49,040
+Unfortunately, it will have to
+deal with them as well.
+
+1092
+01:59:49,120 --> 01:59:50,960
+Interrogative from Starfleet.
+
+1093
+01:59:51,040 --> 01:59:54,560
+They're requesting damage and injury
+reports and complete vessel status.
+
+1094
+01:59:54,600 --> 01:59:56,360
+Report two casualties.
+
+1095
+01:59:57,000 --> 01:59:58,680
+Lieutenant Ilia.
+
+1096
+01:59:59,880 --> 02:00:01,240
+Captain Decker.
+
+1097
+02:00:01,320 --> 02:00:02,720
+- Aye, Sir.
+- Correction.
+
+1098
+02:00:02,760 --> 02:00:04,600
+They're not casualties.
+
+1099
+02:00:04,680 --> 02:00:06,040
+They...
+
+1100
+02:00:09,080 --> 02:00:11,480
+List them as missing.
+
+1101
+02:00:11,560 --> 02:00:13,520
+Vessel status: fully operational.
+
+1102
+02:00:13,600 --> 02:00:15,560
+Aye, Sir.
+
+1103
+02:00:15,640 --> 02:00:19,320
+Mr. Scott, shall we give
+the Enterprise a proper shakedown?
+
+1104
+02:00:20,120 --> 02:00:23,240
+I would say it's time
+for that, Sir, aye.
+
+1105
+02:00:23,440 --> 02:00:26,280
+We can have you back on Vulcan
+in four days, Mr. Spock.
+
+1106
+02:00:26,320 --> 02:00:28,680
+Unnecessary, Mr. Scott.
+
+1107
+02:00:28,720 --> 02:00:31,120
+My task on Vulcan is completed.
+
+1108
+02:00:32,440 --> 02:00:34,800
+Mr. Sulu, ahead warp 1 .
+
+1109
+02:00:34,880 --> 02:00:37,200
+- Warp 1 , Sir.
+- Heading, Sir?
+
+1110
+02:00:41,200 --> 02:00:43,040
+Out there.
+
+1111
+02:00:44,640 --> 02:00:46,480
+That away.

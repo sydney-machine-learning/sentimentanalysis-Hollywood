@@ -1,0 +1,5045 @@
+1
+00:00:33,948 --> 00:00:37,498
+Start simple.
+Start with what you know is true.
+
+2
+00:00:38,319 --> 00:00:42,392
+My name is Katniss Everdeen.
+My home is District 12.
+
+3
+00:00:42,492 --> 00:00:45,929
+I was in the Hunger Games. I escaped.
+
+4
+00:00:46,029 --> 00:00:50,097
+Peeta... Peeta was left behind.
+
+5
+00:00:53,668 --> 00:00:55,502
+Miss Everdeen?
+
+6
+00:00:56,002 --> 00:00:58,186
+You can't be in here.
+
+7
+00:00:59,241 --> 00:01:02,112
+I had a nightmare.
+Just five more minutes.
+
+8
+00:01:02,412 --> 00:01:06,813
+You need to sleep.
+We can help you sleep.
+
+9
+00:01:07,782 --> 00:01:09,961
+Just five more minutes.
+
+10
+00:01:10,061 --> 00:01:11,564
+No.
+
+11
+00:01:14,456 --> 00:01:16,192
+No, please, don't.
+It's just five more...
+
+12
+00:01:16,292 --> 00:01:20,694
+Don't touch me! Don't!
+No! No! Get off of me!
+
+13
+00:02:17,719 --> 00:02:19,186
+Finnick.
+
+14
+00:02:23,491 --> 00:02:27,026
+I wanted to go back
+for Peeta and Johanna,
+
+15
+00:02:27,528 --> 00:02:29,432
+but I...
+
+16
+00:02:29,532 --> 00:02:31,798
+I couldn't move.
+
+17
+00:02:35,971 --> 00:02:39,339
+They have Annie, too. They took her.
+
+18
+00:02:42,877 --> 00:02:44,562
+She's...
+
+19
+00:02:45,514 --> 00:02:46,947
+She's in the Capitol.
+
+20
+00:02:51,052 --> 00:02:53,520
+I wish she was dead.
+
+21
+00:02:55,056 --> 00:02:58,458
+I wish they were all dead
+and we were, too.
+
+22
+00:03:27,855 --> 00:03:29,492
+Miss Everdeen.
+
+23
+00:03:29,592 --> 00:03:32,895
+Colonel Boggs,
+District 13's head of security.
+
+24
+00:03:32,995 --> 00:03:36,866
+I know you've been discharged, but President
+Coin's requested to meet with you first.
+
+25
+00:03:36,966 --> 00:03:38,934
+Is there any news?
+
+26
+00:03:39,034 --> 00:03:41,377
+I'm just here to escort you.
+
+27
+00:04:13,001 --> 00:04:16,072
+We were always told
+there was nothing left of 13.
+
+28
+00:04:16,172 --> 00:04:18,908
+Capitol bombed the surface to rubble.
+
+29
+00:04:19,875 --> 00:04:23,243
+But we're military,
+so we learned to survive down here.
+
+30
+00:04:23,745 --> 00:04:26,051
+Preparing, training.
+
+31
+00:04:26,781 --> 00:04:28,541
+The war never stopped for us.
+
+32
+00:05:00,448 --> 00:05:04,287
+There she is. Our Girl on Fire.
+
+33
+00:05:04,387 --> 00:05:08,157
+Madam President,
+may I present you with The Mockingjay.
+
+34
+00:05:08,257 --> 00:05:11,127
+What an honor it is to meet you.
+
+35
+00:05:11,227 --> 00:05:15,765
+You're a courageous young woman.
+I know how disorienting this must be.
+
+36
+00:05:15,865 --> 00:05:19,368
+And I can't imagine what it's like to live
+through the atrocities of those Games.
+
+37
+00:05:19,468 --> 00:05:23,105
+Katniss, President Alma Coin.
+
+38
+00:05:23,205 --> 00:05:26,574
+Please know how welcome you are.
+
+39
+00:05:26,674 --> 00:05:31,687
+I hope you'll find some comfort with us.
+We've known loss in 13, too.
+
+40
+00:05:32,014 --> 00:05:36,552
+This is history.
+Right here at this table.
+
+41
+00:05:36,652 --> 00:05:39,826
+I apologize. I wish you had
+more time to recover, but unfortunately,
+
+42
+00:05:39,926 --> 00:05:43,089
+we don't have that luxury.
+Please, have a seat.
+
+43
+00:05:43,625 --> 00:05:47,052
+Are you aware of what's happened?
+
+44
+00:05:48,563 --> 00:05:51,966
+When you fired your arrow
+at the force field
+
+45
+00:05:52,066 --> 00:05:54,570
+you electrified the nation.
+
+46
+00:05:54,670 --> 00:05:59,709
+There have been riots and uprisings
+and strikes in seven districts.
+
+47
+00:05:59,809 --> 00:06:02,178
+We believe that if we
+keep this energy going
+
+48
+00:06:02,278 --> 00:06:05,081
+we can unify the districts
+against the Capitol.
+
+49
+00:06:05,181 --> 00:06:08,017
+But if we don't, if we let it dissipate,
+
+50
+00:06:08,117 --> 00:06:11,120
+we could be waiting another
+75 years for this opportunity.
+
+51
+00:06:11,220 --> 00:06:15,091
+- Everyone in 13 is ready for this.
+- What about Peeta? Is he alive?
+
+52
+00:06:15,191 --> 00:06:18,828
+I don't know. And I wish that I did.
+
+53
+00:06:18,928 --> 00:06:22,264
+But there's no way for me to contact
+my operatives inside the Capitol.
+
+54
+00:06:22,364 --> 00:06:25,935
+The Capitol has always suppressed
+communication between the districts.
+
+55
+00:06:26,035 --> 00:06:29,472
+But I know their system very well.
+
+56
+00:06:29,572 --> 00:06:33,409
+I managed to break through.
+All we need now is the perfect message.
+
+57
+00:06:33,509 --> 00:06:35,711
+Katniss, here's what we need to do.
+
+58
+00:06:35,811 --> 00:06:38,381
+We need to show them that
+The Mockingjay's alive and well
+
+59
+00:06:38,481 --> 00:06:41,484
+and willing to stand up
+and join this fight.
+
+60
+00:06:41,984 --> 00:06:46,489
+'Cause we need every district
+to stand up to this Capitol.
+
+61
+00:06:46,589 --> 00:06:48,587
+The way you did.
+
+62
+00:06:49,023 --> 00:06:53,996
+So we're gonna shoot
+a series of propaganda clips,
+
+63
+00:06:54,096 --> 00:06:57,300
+propos, I like to call them,
+on The Mockingjay.
+
+64
+00:06:57,400 --> 00:06:59,302
+Spreads the word
+
+65
+00:06:59,402 --> 00:07:02,071
+that we're gonna stoke
+the fire of this rebellion.
+
+66
+00:07:02,171 --> 00:07:04,874
+The fire that The Mockingjay started.
+
+67
+00:07:04,974 --> 00:07:07,410
+You left him there.
+
+68
+00:07:07,510 --> 00:07:11,347
+- You left Peeta in that arena to die.
+- Katniss, there are so many...
+
+69
+00:07:11,447 --> 00:07:13,248
+Peeta was the one
+who was supposed to live.
+
+70
+00:07:13,348 --> 00:07:15,102
+Miss Everdeen.
+
+71
+00:07:16,518 --> 00:07:19,121
+This revolution is about everyone.
+
+72
+00:07:19,221 --> 00:07:23,123
+It's about all of us.
+And we need a voice.
+
+73
+00:07:24,192 --> 00:07:26,826
+Then you should've saved Peeta.
+
+74
+00:07:34,903 --> 00:07:37,070
+Maybe you should have
+rescued the boy instead.
+
+75
+00:07:37,472 --> 00:07:39,098
+Oh, no.
+
+76
+00:07:40,342 --> 00:07:44,513
+No, listen to me.
+No one else can do this but her.
+
+77
+00:07:44,613 --> 00:07:46,878
+This is not the girl you described.
+
+78
+00:07:48,216 --> 00:07:52,488
+Obviously, we need to make it personal.
+Remind her who the real enemy is.
+
+79
+00:07:52,588 --> 00:07:54,290
+She knows who the enemy is.
+That's not the issue.
+
+80
+00:07:54,390 --> 00:07:56,489
+Unless she's forgotten.
+
+81
+00:07:57,392 --> 00:07:59,959
+There's explaining and there's showing.
+
+82
+00:08:01,094 --> 00:08:03,598
+Let her see what the Capitol did to 12.
+
+83
+00:08:03,698 --> 00:08:07,768
+She can't handle it.
+The Games destroyed her.
+
+84
+00:08:08,903 --> 00:08:11,671
+This is the only choice you have.
+
+85
+00:08:11,873 --> 00:08:15,110
+People don't always show up the way
+you want them to, Madam President.
+
+86
+00:08:15,210 --> 00:08:18,922
+But that anger, that anger-driven defiance,
+that's what we want.
+
+87
+00:08:19,022 --> 00:08:22,285
+And we can redirect it.
+We need to unite these people out there
+
+88
+00:08:22,385 --> 00:08:25,888
+that have been doing nothing but killing
+each other in an arena for years.
+
+89
+00:08:25,988 --> 00:08:28,957
+We have to have a lightning rod.
+
+90
+00:08:29,357 --> 00:08:32,728
+They'll follow her.
+She's the face of the revolution.
+
+91
+00:08:32,828 --> 00:08:34,795
+Let her see it. Let her go home.
+
+92
+00:08:37,565 --> 00:08:39,332
+Send her.
+
+93
+00:09:05,759 --> 00:09:07,794
+I can't believe
+you're going through with this.
+
+94
+00:09:09,130 --> 00:09:10,633
+You can say "no."
+
+95
+00:09:10,833 --> 00:09:13,434
+I need to see it for myself.
+
+96
+00:09:14,102 --> 00:09:15,735
+This way.
+
+97
+00:10:12,393 --> 00:10:16,329
+13 swept everything top to bottom,
+so you'd be safe.
+
+98
+00:10:18,099 --> 00:10:20,669
+You sure you don't
+want me to go with you?
+
+99
+00:10:20,869 --> 00:10:23,503
+Yeah. I'm sure.
+
+100
+00:10:26,741 --> 00:10:29,142
+We'll have our eyes on you from above.
+
+101
+00:13:59,320 --> 00:14:00,874
+Figures.
+
+102
+00:14:04,258 --> 00:14:06,061
+Hey!
+
+103
+00:14:06,261 --> 00:14:07,994
+Come on.
+
+104
+00:14:09,964 --> 00:14:11,297
+Don't you wanna see Prim?
+
+105
+00:14:12,867 --> 00:14:16,401
+There you go. You're breakin' my heart.
+
+106
+00:15:25,206 --> 00:15:27,039
+Egeria!
+
+107
+00:15:30,544 --> 00:15:32,378
+We need to fix these lines.
+
+108
+00:15:33,514 --> 00:15:35,884
+I won't say "rebels."
+
+109
+00:15:35,984 --> 00:15:39,220
+These are senseless acts of defiance.
+
+110
+00:15:39,320 --> 00:15:41,087
+And I won't legitimize them.
+
+111
+00:15:42,556 --> 00:15:45,391
+We'll call them "criminals."
+
+112
+00:15:48,496 --> 00:15:49,698
+"Radicals."
+
+113
+00:15:52,401 --> 00:15:56,369
+Otherwise we're breaking my oldest rule.
+
+114
+00:15:57,238 --> 00:16:00,306
+Never let them see you bleed.
+
+115
+00:16:02,743 --> 00:16:04,822
+Citizens,
+
+116
+00:16:05,346 --> 00:16:10,682
+tonight I address all of Panem as one.
+
+117
+00:16:11,519 --> 00:16:13,756
+<i>Since the Dark Days,</i>
+
+118
+00:16:13,856 --> 00:16:17,960
+<i>Panem has had an unprecedented
+era of peace.</i>
+
+119
+00:16:18,060 --> 00:16:21,463
+<i>It is a peace built upon cooperation.</i>
+
+120
+00:16:21,563 --> 00:16:24,525
+<i>And a respect for law and order.</i>
+
+121
+00:16:25,834 --> 00:16:28,303
+<i>In the past weeks,
+you have heard of sporadic violence</i>
+
+122
+00:16:28,403 --> 00:16:33,608
+<i>following the actions of a few
+radicals in the Quarter Quell.</i>
+
+123
+00:16:34,108 --> 00:16:37,446
+<i>Those who choose this destructive path,</i>
+
+124
+00:16:37,546 --> 00:16:39,948
+<i>your actions are based
+on a misunderstanding</i>
+
+125
+00:16:40,048 --> 00:16:44,186
+<i>of how we have survived. Together.</i>
+
+126
+00:16:44,286 --> 00:16:46,487
+<i>It is a contract.</i>
+
+127
+00:16:46,989 --> 00:16:52,560
+<i>Each district supplies the Capitol.
+Like blood to a heart.</i>
+
+128
+00:16:52,660 --> 00:16:58,133
+<i>In return, the Capitol provides
+order and security.</i>
+
+129
+00:16:58,333 --> 00:17:00,969
+<i>To refuse work</i>
+
+130
+00:17:01,069 --> 00:17:04,906
+<i>is to put the entire system in danger.</i>
+
+131
+00:17:05,006 --> 00:17:08,610
+<i>The Capitol is the beating
+heart of Panem.</i>
+
+132
+00:17:08,710 --> 00:17:11,981
+<i>Nothing can survive without a heart.</i>
+
+133
+00:17:12,880 --> 00:17:15,914
+<i>The criminals that kneel before you</i>
+
+134
+00:17:16,149 --> 00:17:19,521
+<i>use symbols for the purpose of sedition.</i>
+
+135
+00:17:19,621 --> 00:17:24,590
+Which is why all images
+of The Mockingjay are now forbidden.
+
+136
+00:17:26,027 --> 00:17:28,997
+Possessing them will be
+considered treason.
+
+137
+00:17:29,097 --> 00:17:31,463
+Punishable by death.
+
+138
+00:17:32,399 --> 00:17:35,067
+Justice shall be served swiftly.
+
+139
+00:17:35,569 --> 00:17:38,741
+<i>Order shall be restored.</i>
+
+140
+00:17:39,041 --> 00:17:42,688
+<i>To those who ignore
+the warnings of history,</i>
+
+141
+00:17:48,682 --> 00:17:52,754
+<i>prepare to pay the ultimate price.</i>
+
+142
+00:18:37,631 --> 00:18:41,036
+It's okay. We're okay.
+
+143
+00:18:41,436 --> 00:18:43,304
+We're all here now.
+
+144
+00:18:43,404 --> 00:18:45,003
+Buttercup!
+
+145
+00:18:46,540 --> 00:18:48,489
+I smuggled him in.
+
+146
+00:18:52,079 --> 00:18:54,113
+I got Dad.
+
+147
+00:18:57,084 --> 00:18:59,785
+And I got some of your herbs
+from the kitchen.
+
+148
+00:19:01,322 --> 00:19:03,658
+They have strict rules.
+
+149
+00:19:03,758 --> 00:19:06,248
+I don't know what they'll do
+if they find him here.
+
+150
+00:19:21,475 --> 00:19:24,014
+You should try to eat something.
+
+151
+00:19:36,557 --> 00:19:38,626
+<i>Hello. Good evening.</i>
+
+152
+00:19:38,726 --> 00:19:41,930
+<i>And a big welcome to all in Panem.</i>
+
+153
+00:19:42,030 --> 00:19:46,168
+<i>I'm Caesar Flickerman. And whoever
+you are, whatever it is you're doing,</i>
+
+154
+00:19:46,268 --> 00:19:49,904
+<i>if you're working, put down your work.
+If you're having dinner, stop having dinner.</i>
+
+155
+00:19:50,004 --> 00:19:54,409
+<i>Because you are going to want
+to witness this tonight.</i>
+
+156
+00:19:54,509 --> 00:19:59,782
+<i>There has been rampant speculation about
+what really happened in the Quarter Quell.</i>
+
+157
+00:19:59,982 --> 00:20:04,586
+<i>And here to shed a little light on the
+subject for us is a very special guest.</i>
+
+158
+00:20:04,686 --> 00:20:09,256
+<i>Please welcome Mr. Peeta Mellark.</i>
+
+159
+00:20:09,356 --> 00:20:11,359
+<i>Peeta, a lot of people</i>
+
+160
+00:20:11,459 --> 00:20:14,629
+<i>feel as though they are in the dark.</i>
+
+161
+00:20:14,729 --> 00:20:17,265
+<i>Yeah, I know how they feel.</i>
+
+162
+00:20:17,365 --> 00:20:19,134
+<i>Now, so set the stage for us.</i>
+
+163
+00:20:19,234 --> 00:20:22,237
+<i>Talk us through what really happened</i>
+
+164
+00:20:22,337 --> 00:20:24,906
+<i>on that final and controversial night.</i>
+
+165
+00:20:25,006 --> 00:20:29,812
+<i>Well, first off, you have to understand
+that when you're in the Games</i>
+
+166
+00:20:30,312 --> 00:20:34,215
+<i>- you only get one wish. It's very costly.</i>
+- You're alive.
+
+167
+00:20:34,315 --> 00:20:36,618
+<i>- It costs your life.
+- I think it costs more than your life.</i>
+
+168
+00:20:36,718 --> 00:20:38,153
+<i>How do you mean?
+What's more than your life?</i>
+
+169
+00:20:38,253 --> 00:20:42,590
+<i>I mean to murder innocent people,
+that costs everything that you are.</i>
+
+170
+00:20:42,690 --> 00:20:43,925
+<i>Yes.</i>
+
+171
+00:20:44,025 --> 00:20:47,629
+<i>So you hold on to that one wish.</i>
+
+172
+00:20:47,929 --> 00:20:50,398
+<i>And that night my wish
+was to save Katniss.</i>
+
+173
+00:20:50,498 --> 00:20:51,866
+<i>Yes.</i>
+
+174
+00:20:51,966 --> 00:20:54,803
+<i>I should've just run off with her
+earlier in the day like she'd wanted.</i>
+
+175
+00:20:54,903 --> 00:20:59,941
+<i>But you didn't. Why?
+Were you caught up in Beetee's plan?</i>
+
+176
+00:21:00,241 --> 00:21:03,744
+<i>No, I was caught up
+trying to play allies.</i>
+
+177
+00:21:03,844 --> 00:21:06,454
+<i>And then they separated us and...</i>
+
+178
+00:21:07,915 --> 00:21:09,181
+<i>that's when I lost her.</i>
+
+179
+00:21:10,951 --> 00:21:12,987
+<i>And then the lightning hit...</i>
+
+180
+00:21:13,087 --> 00:21:16,858
+<i>and the whole force field
+around the arena just blew out.</i>
+
+181
+00:21:16,958 --> 00:21:22,051
+<i>Yes, but, Peeta,
+Katniss is the one who blew it out.</i>
+
+182
+00:21:22,151 --> 00:21:23,498
+<i>- No.
+- You saw the footage.</i>
+
+183
+00:21:23,598 --> 00:21:26,167
+<i>No, she didn't know what she was doing.</i>
+
+184
+00:21:26,267 --> 00:21:29,804
+<i>Neither of us knew there was a
+bigger plan going on. We had no idea.</i>
+
+185
+00:21:29,904 --> 00:21:31,068
+<i>- You had no idea?
+- No.</i>
+
+186
+00:21:31,168 --> 00:21:36,011
+<i>All right. Well, Peeta, there are many
+who find this suspicious to say the least.</i>
+
+187
+00:21:36,111 --> 00:21:40,382
+<i>It seems as though
+she was part of a rebel plan.</i>
+
+188
+00:21:40,482 --> 00:21:44,186
+<i>Do you think it was part of her plan
+to be almost killed by Johanna?</i>
+
+189
+00:21:44,286 --> 00:21:46,955
+<i>Or part of the plan to be
+paralyzed by lightning?</i>
+
+190
+00:21:47,055 --> 00:21:51,293
+<i>No, we were not part of any rebel plan.
+We had no idea what was going on.</i>
+
+191
+00:21:51,593 --> 00:21:55,363
+<i>All right. I believe you,
+Peeta Mellark. Thank you.</i>
+
+192
+00:21:55,463 --> 00:21:56,289
+<i>Yeah.</i>
+
+193
+00:21:56,389 --> 00:21:58,700
+<i>And I was going to ask you
+to speak about the unrest</i>
+
+194
+00:21:58,800 --> 00:22:02,704
+<i>- but I think you might be too upset.
+- No, I can.</i>
+
+195
+00:22:02,804 --> 00:22:04,406
+<i>- Are you sure?
+- Yeah, absolutely.</i>
+
+196
+00:22:04,506 --> 00:22:06,368
+<i>- Thank you.
+- Yeah.</i>
+
+197
+00:22:10,611 --> 00:22:14,049
+<i>I want everyone who's watching to stop</i>
+
+198
+00:22:14,149 --> 00:22:17,452
+<i>and to think about
+what a civil war could mean.</i>
+
+199
+00:22:17,552 --> 00:22:22,246
+<i>We almost went extinct once before.
+And now our numbers are even fewer.</i>
+
+200
+00:22:22,346 --> 00:22:23,992
+- He's one of them.
+<i>- Is this really what we wanna do?</i>
+
+201
+00:22:24,092 --> 00:22:26,794
+- He's a traitor.
+<i>- Kill ourselves off?</i>
+
+202
+00:22:26,894 --> 00:22:30,499
+- <i>Killing is not the answer.</i>
+- I can't believe he's doing this.
+
+203
+00:22:30,599 --> 00:22:32,901
+<i>Everyone needs to lay down
+their weapons immediately.</i>
+
+204
+00:22:33,001 --> 00:22:35,870
+- Traitor!
+- He's not one of us!
+
+205
+00:22:35,970 --> 00:22:37,739
+This is treason!
+
+206
+00:22:38,139 --> 00:22:41,006
+<i>Are you calling for a ceasefire?</i>
+
+207
+00:22:41,273 --> 00:22:43,077
+<i>Yeah. I am.</i>
+
+208
+00:22:43,177 --> 00:22:45,213
+- You're a puppet!
+- Hang him!
+
+209
+00:22:45,613 --> 00:22:49,017
+<i>I want everyone to stop
+the senseless violence.</i>
+
+210
+00:22:49,117 --> 00:22:52,287
+- <i>This is not the path to change.</i>
+- Traitor!
+
+211
+00:22:52,387 --> 00:22:55,296
+<i>It's not the path to justice.</i>
+
+212
+00:23:18,345 --> 00:23:20,679
+There can't be a ceasefire.
+
+213
+00:23:22,149 --> 00:23:24,383
+Not after everything Snow's done.
+
+214
+00:23:25,719 --> 00:23:27,821
+He could have done
+a lot of damage tonight.
+
+215
+00:23:28,021 --> 00:23:31,559
+Most districts, people are still too afraid
+to join. They need the courage.
+
+216
+00:23:31,659 --> 00:23:33,445
+Why do you think he said that?
+
+217
+00:23:35,563 --> 00:23:37,728
+I don't know. Maybe he was forced.
+
+218
+00:23:42,636 --> 00:23:45,003
+He didn't look that bad.
+
+219
+00:23:46,974 --> 00:23:49,540
+Maybe he made some kind
+of deal to protect you.
+
+220
+00:23:52,479 --> 00:23:54,861
+He's still playing the game.
+
+221
+00:24:03,124 --> 00:24:05,690
+No! No! No!
+
+222
+00:24:11,098 --> 00:24:14,236
+I'm sorry. It's just a nightmare.
+
+223
+00:24:14,336 --> 00:24:16,902
+That's okay. I get 'em, too.
+
+224
+00:24:20,707 --> 00:24:21,907
+Peeta,
+
+225
+00:24:23,844 --> 00:24:25,595
+will you stay with me?
+
+226
+00:24:26,213 --> 00:24:27,779
+Yeah.
+
+227
+00:24:39,760 --> 00:24:40,778
+Always.
+
+228
+00:24:48,301 --> 00:24:49,868
+Hey.
+
+229
+00:24:50,936 --> 00:24:52,803
+Can't sleep?
+
+230
+00:25:11,258 --> 00:25:13,757
+Tell me what's happening.
+
+231
+00:25:14,194 --> 00:25:18,172
+I'm good at keeping secrets.
+Even from Mom.
+
+232
+00:25:24,037 --> 00:25:26,905
+No one hates the Capitol more than me.
+
+233
+00:25:28,709 --> 00:25:32,576
+And I wanna help.
+But I just keep thinking,
+
+234
+00:25:33,614 --> 00:25:37,075
+even if we win this war,
+what happens to Peeta?
+
+235
+00:25:38,051 --> 00:25:41,756
+I know he's not safe there,
+but he's definitely not safe here.
+
+236
+00:25:41,956 --> 00:25:45,793
+I don't think you know
+how important you are to them.
+
+237
+00:25:45,893 --> 00:25:49,628
+If you want something,
+you just have to ask.
+
+238
+00:25:50,697 --> 00:25:53,400
+You could demand almost anything.
+
+239
+00:25:53,500 --> 00:25:56,271
+They'd have to agree to it.
+
+240
+00:25:56,371 --> 00:25:59,138
+I should wake you up
+more often, Little Duck.
+
+241
+00:26:01,274 --> 00:26:03,175
+Get some sleep now.
+
+242
+00:26:04,544 --> 00:26:06,080
+You, too.
+
+243
+00:26:12,686 --> 00:26:14,689
+Thank you for agreeing to meet with me.
+
+244
+00:26:15,289 --> 00:26:18,059
+I've decided I'll be your Mockingjay.
+
+245
+00:26:18,159 --> 00:26:21,693
+But I have some conditions.
+
+246
+00:26:27,367 --> 00:26:31,606
+Peeta and the other Tributes,
+Johanna Mason and Annie Cresta,
+
+247
+00:26:31,706 --> 00:26:34,208
+will be rescued
+at the earliest opportunity.
+
+248
+00:26:34,308 --> 00:26:39,113
+If and when Peeta is liberated, he will
+receive a full and unconditional pardon.
+
+249
+00:26:39,213 --> 00:26:44,214
+No punishment will be inflicted.
+And the same goes for the other Tributes.
+
+250
+00:26:47,888 --> 00:26:49,045
+No.
+
+251
+00:26:50,123 --> 00:26:52,627
+It's not their fault
+you abandoned them in the arena.
+
+252
+00:26:52,727 --> 00:26:55,028
+They're doing and saying
+whatever they can to survive.
+
+253
+00:26:55,128 --> 00:26:57,699
+Individuals don't make demands in 13.
+
+254
+00:26:57,799 --> 00:27:01,535
+There will be a tribunal.
+And a fair judgment.
+
+255
+00:27:01,635 --> 00:27:03,202
+Thank you.
+
+256
+00:27:04,304 --> 00:27:06,307
+The Victors will be granted immunity.
+
+257
+00:27:06,407 --> 00:27:09,878
+And you will announce that
+in front of the entire population of 13.
+
+258
+00:27:09,978 --> 00:27:12,647
+You will hold yourself
+and your government responsible
+
+259
+00:27:12,747 --> 00:27:15,116
+or you will find another Mockingjay.
+
+260
+00:27:15,216 --> 00:27:18,553
+That's it. That's her. Right there.
+
+261
+00:27:18,653 --> 00:27:22,424
+Isn't that who I promised you?
+She wears the costume.
+
+262
+00:27:22,524 --> 00:27:25,093
+Gunfire in the background.
+A hint of smoke.
+
+263
+00:27:25,193 --> 00:27:26,925
+Our Mockingjay.
+
+264
+00:27:28,095 --> 00:27:31,766
+Madam President, we're losing ground,
+because the people are losing heart.
+
+265
+00:27:31,866 --> 00:27:34,802
+This is worth the risk.
+She's worth the risk.
+
+266
+00:27:34,902 --> 00:27:37,372
+Pardons, tribunals. Power of the people.
+
+267
+00:27:37,472 --> 00:27:40,842
+It can all be the bedrock
+of the new Panem, but,
+
+268
+00:27:40,942 --> 00:27:45,877
+in wartime I think even the noblest of
+causes can be bent a little bit. Right?
+
+269
+00:27:50,350 --> 00:27:53,418
+Do you have any other conditions?
+
+270
+00:27:58,190 --> 00:28:00,559
+My sister gets to keep her cat.
+
+271
+00:28:15,508 --> 00:28:17,196
+Go away.
+
+272
+00:28:21,548 --> 00:28:23,915
+Is it visiting hours again?
+
+273
+00:28:25,385 --> 00:28:26,818
+Miss Trinket,
+
+274
+00:28:28,188 --> 00:28:30,224
+you see this door.
+
+275
+00:28:30,324 --> 00:28:33,027
+It opens. From the inside.
+
+276
+00:28:33,427 --> 00:28:36,865
+I've told you, these are the standard
+living quarters. Same as everyone.
+
+277
+00:28:37,065 --> 00:28:40,700
+You're not a prisoner.
+You're free to join the rest of 13.
+
+278
+00:28:41,500 --> 00:28:45,206
+Not looking like this.
+Thank you very much.
+
+279
+00:28:45,306 --> 00:28:48,308
+We have a bigger issue
+than wardrobe, Miss Trinket.
+
+280
+00:28:48,408 --> 00:28:50,178
+Katniss has agreed to be The Mockingjay.
+
+281
+00:28:50,454 --> 00:28:54,382
+- That poor thing.
+- And your Girl on Fire is burnt out.
+
+282
+00:28:54,482 --> 00:28:56,948
+I need you to join this team now.
+
+283
+00:28:57,350 --> 00:29:00,688
+- I need someone she trusts.
+- What about Haymitch?
+
+284
+00:29:00,788 --> 00:29:03,658
+He's drying out in some
+facility a mile down.
+
+285
+00:29:03,758 --> 00:29:07,227
+Aiding rebels is not really my forte.
+
+286
+00:29:07,327 --> 00:29:12,033
+Miss Trinket, your days
+in the Capitol are over,
+
+287
+00:29:12,133 --> 00:29:14,404
+no matter what happens here.
+
+288
+00:29:14,835 --> 00:29:17,872
+If you wanna play
+a prisoner of war, fine.
+
+289
+00:29:17,972 --> 00:29:22,141
+Stay here and rot. I'll find someone else
+to be The Mockingjay's escort.
+
+290
+00:29:23,275 --> 00:29:24,343
+Who?
+
+291
+00:29:27,750 --> 00:29:31,416
+Anyone can be replaced.
+
+292
+00:29:32,252 --> 00:29:34,619
+Not your Mockingjay.
+
+293
+00:29:36,056 --> 00:29:40,225
+There isn't a soul in this dungeon
+who knows the first thing about Katniss.
+
+294
+00:29:42,495 --> 00:29:47,868
+You honestly believe one of these
+cave dwellers is going to take my place?
+
+295
+00:29:47,968 --> 00:29:49,634
+No.
+
+296
+00:30:05,151 --> 00:30:06,987
+Good afternoon.
+
+297
+00:30:07,387 --> 00:30:10,205
+Thank you for interrupting
+your schedules.
+
+298
+00:30:10,625 --> 00:30:13,528
+They have already been
+adjusted to compensate...
+
+299
+00:30:13,628 --> 00:30:15,630
+I hardly ever see children around here.
+
+300
+00:30:15,730 --> 00:30:17,431
+Please, check in with your unit...
+
+301
+00:30:17,531 --> 00:30:20,668
+A lot of them were lost
+in an epidemic a few years ago.
+
+302
+00:30:20,768 --> 00:30:23,937
+- I have an announcement for the citizens of 13.
+- Coin lost her family, too.
+
+303
+00:30:24,037 --> 00:30:25,606
+Daughter and a husband.
+
+304
+00:30:25,706 --> 00:30:28,342
+And our welcome guests from 12.
+
+305
+00:30:28,442 --> 00:30:32,847
+Katniss Everdeen has consented
+to be the face of our cause
+
+306
+00:30:32,947 --> 00:30:36,950
+to help unite the districts
+against the Capitol.
+
+307
+00:30:37,050 --> 00:30:42,756
+In exchange, I have promised
+several concessions.
+
+308
+00:30:43,156 --> 00:30:47,996
+First, we'll assess all opportunities
+for the extraction of the Victors
+
+309
+00:30:48,196 --> 00:30:50,848
+held hostage in the Capitol.
+
+310
+00:30:51,531 --> 00:30:52,965
+Peeta Mellark,
+
+311
+00:30:55,968 --> 00:30:58,005
+Johanna Mason...
+
+312
+00:30:58,105 --> 00:31:02,373
+- Finnick, I made the deal for Annie, too.
+- ...and Annie Cresta.
+
+313
+00:31:02,709 --> 00:31:07,048
+Once freed, they will be granted
+full pardon for any and all crimes
+
+314
+00:31:07,148 --> 00:31:09,867
+committed against the rebel cause.
+
+315
+00:31:11,017 --> 00:31:12,520
+Good.
+
+316
+00:31:12,820 --> 00:31:15,186
+That's good, Katniss.
+
+317
+00:31:16,656 --> 00:31:20,695
+If Katniss Everdeen
+fails to fulfill her duties
+
+318
+00:31:20,895 --> 00:31:22,763
+the deal will be off.
+
+319
+00:31:22,863 --> 00:31:27,932
+Thank you for your attention.
+Please, resume your daily schedules.
+
+320
+00:31:31,254 --> 00:31:33,724
+- Madam President.
+- Effie Trinket.
+
+321
+00:31:33,824 --> 00:31:35,359
+Welcome to 13.
+
+322
+00:31:35,459 --> 00:31:38,594
+Madam President,
+may I say you are so very...
+
+323
+00:31:39,362 --> 00:31:41,071
+concise.
+
+324
+00:31:41,532 --> 00:31:43,333
+You believe that
+there's more to be said?
+
+325
+00:31:43,933 --> 00:31:47,271
+- May I speak freely?
+- You don't appear to do anything else.
+
+326
+00:31:47,471 --> 00:31:50,874
+I'm only talking about salesmanship.
+
+327
+00:31:50,974 --> 00:31:54,045
+The thing with revolutions,
+they're a tender flame.
+
+328
+00:31:54,145 --> 00:31:58,950
+They need to be nurtured
+with a little kindling and warmth.
+
+329
+00:31:59,050 --> 00:32:02,191
+- Bit of oxygen.
+- Oxygen.
+
+330
+00:32:02,320 --> 00:32:04,789
+One sure way to put it out
+is to smother it.
+
+331
+00:32:04,889 --> 00:32:07,701
+Or to use up all the air in the room.
+
+332
+00:32:07,801 --> 00:32:09,390
+Excuse me.
+
+333
+00:32:11,661 --> 00:32:15,530
+You know what could use
+a revolution? That hair.
+
+334
+00:32:16,766 --> 00:32:17,833
+Effie?
+
+335
+00:32:23,706 --> 00:32:26,845
+- What are you doing here?
+- I'm a political refugee.
+
+336
+00:32:27,445 --> 00:32:31,616
+- Plutarch rescued you?
+- Rescued, yes, that's what he calls it.
+
+337
+00:32:31,716 --> 00:32:34,452
+You and I were both in the dark.
+
+338
+00:32:34,552 --> 00:32:37,955
+Now I'm condemned
+to this life of jumpsuits.
+
+339
+00:32:38,055 --> 00:32:40,659
+It is wonderful to see you again.
+
+340
+00:32:43,626 --> 00:32:45,737
+Can you believe this place?
+
+341
+00:32:46,229 --> 00:32:48,625
+I miss coffee.
+
+342
+00:32:49,265 --> 00:32:53,491
+I never knew anyplace
+could be so strict. I mean,
+
+343
+00:32:53,591 --> 00:32:56,337
+I thought at least
+in the higher ranks there'd be some...
+
+344
+00:32:57,406 --> 00:33:01,178
+side action. I miss my wigs.
+
+345
+00:33:01,278 --> 00:33:04,949
+Luckily, I remembered that this was
+all the rage when I was coming up.
+
+346
+00:33:05,049 --> 00:33:08,582
+You know, everything old
+can be made new again.
+
+347
+00:33:09,252 --> 00:33:11,345
+Like democracy.
+
+348
+00:33:12,621 --> 00:33:15,090
+Which brings me to this.
+
+349
+00:33:23,500 --> 00:33:25,166
+Cinna.
+
+350
+00:33:27,537 --> 00:33:29,370
+He's dead, isn't he?
+
+351
+00:33:32,609 --> 00:33:34,142
+Yes, dear.
+
+352
+00:33:38,014 --> 00:33:40,651
+He made Plutarch promise
+not to show you this
+
+353
+00:33:40,751 --> 00:33:43,785
+until you'd decided to be
+The Mockingjay on your own.
+
+354
+00:33:45,221 --> 00:33:48,789
+He knew the risks. As we all do.
+
+355
+00:33:50,694 --> 00:33:53,628
+He believed in this revolution.
+
+356
+00:33:55,031 --> 00:33:56,800
+He believed in you.
+
+357
+00:33:56,900 --> 00:33:58,967
+They're beautiful.
+
+358
+00:34:00,903 --> 00:34:05,706
+They have it.
+They have the Mockingjay outfit.
+
+359
+00:34:07,109 --> 00:34:12,446
+There's not much of a prep team
+here in 13 but we will make you
+
+360
+00:34:12,782 --> 00:34:15,584
+the best-dressed rebel in history.
+
+361
+00:34:19,622 --> 00:34:21,119
+Okay.
+
+362
+00:34:22,192 --> 00:34:23,509
+Bring up the lights.
+
+363
+00:34:41,644 --> 00:34:43,378
+Cinna's final touch.
+
+364
+00:34:47,650 --> 00:34:53,223
+Everyone's either gonna wanna kiss you,
+kill you, or be you.
+
+365
+00:34:53,623 --> 00:34:55,322
+Perfect.
+
+366
+00:34:55,558 --> 00:34:57,094
+Absolutely perfect.
+
+367
+00:34:57,194 --> 00:34:59,895
+Okay. Let's bring up the setting.
+
+368
+00:35:07,170 --> 00:35:08,823
+Little wind.
+
+369
+00:35:09,472 --> 00:35:12,410
+Okay, Katniss, we're gonna
+start you down on one knee.
+
+370
+00:35:12,510 --> 00:35:17,882
+And as you rise up, you're gonna hold
+your flag in the air and deliver your line.
+
+371
+00:35:17,982 --> 00:35:21,786
+And remember you've just stormed
+the outskirts of the Capitol
+
+372
+00:35:21,886 --> 00:35:23,921
+arm-in-arm with your
+brothers and sisters.
+
+373
+00:35:24,021 --> 00:35:25,219
+Okay.
+
+374
+00:35:26,222 --> 00:35:28,362
+Whenever you're ready.
+
+375
+00:35:31,794 --> 00:35:35,596
+People of Panem,
+we fight, we dare, we...
+
+376
+00:35:37,767 --> 00:35:38,869
+Does she know the line?
+
+377
+00:35:38,969 --> 00:35:40,471
+- I know it. I got it. I'm sorry.
+- Okay, All right.
+
+378
+00:35:40,571 --> 00:35:42,440
+- Let's do it again.
+- She's warming up.
+
+379
+00:35:42,540 --> 00:35:45,343
+All right. With energy. Go.
+
+380
+00:35:46,043 --> 00:35:51,883
+People of Panem, we fight!
+We dare to end this hunger for justice!
+
+381
+00:35:52,283 --> 00:35:54,452
+You've just been in battle!
+
+382
+00:35:54,552 --> 00:36:00,121
+I'm sorry. Excuse my outburst.
+You've just been in battle.
+
+383
+00:36:00,623 --> 00:36:03,758
+Let's try it again.
+Whenever you're ready.
+
+384
+00:36:04,594 --> 00:36:06,697
+People of Panem, we fight!
+
+385
+00:36:06,797 --> 00:36:12,167
+We dare to end this hunger for justice.
+
+386
+00:36:22,579 --> 00:36:26,746
+And that, my friends,
+is how a revolution dies.
+
+387
+00:36:30,186 --> 00:36:32,153
+Hello, Katniss.
+
+388
+00:36:35,091 --> 00:36:37,358
+This how you greet an old friend?
+
+389
+00:36:38,427 --> 00:36:40,695
+Maybe I don't recognize you sober.
+
+390
+00:36:42,164 --> 00:36:45,399
+I guess it looks as bad as it feels.
+
+391
+00:36:46,804 --> 00:36:49,507
+<i>People of Panem, we fight!</i>
+
+392
+00:36:49,607 --> 00:36:54,175
+<i>We dare! We end this hunger for justice!</i>
+
+393
+00:37:04,054 --> 00:37:06,290
+Madam President,
+
+394
+00:37:06,390 --> 00:37:08,960
+indulge me for a moment, if you would.
+
+395
+00:37:09,060 --> 00:37:14,765
+Let's everybody think of one incident where
+Katniss Everdeen genuinely moved you.
+
+396
+00:37:14,865 --> 00:37:20,071
+Not where you were jealous of her hairstyle
+or her dress went up in flames
+
+397
+00:37:20,171 --> 00:37:23,107
+or she made a halfway
+decent shot with an arrow.
+
+398
+00:37:23,207 --> 00:37:26,810
+And not where Peeta made you like her.
+
+399
+00:37:26,910 --> 00:37:32,547
+No, I'd like you all to think of one moment
+where she made you feel something real.
+
+400
+00:37:34,484 --> 00:37:37,655
+When she volunteered
+for her sister at the Reaping.
+
+401
+00:37:38,155 --> 00:37:40,588
+Excellent example.
+
+402
+00:37:40,690 --> 00:37:42,264
+Okay.
+
+403
+00:37:42,726 --> 00:37:45,288
+I hope that wasn't important.
+
+404
+00:37:45,388 --> 00:37:49,566
+Okay. "Volunteer for sister."
+
+405
+00:37:49,666 --> 00:37:51,719
+Good. What else?
+
+406
+00:37:51,819 --> 00:37:54,938
+When she sang that song for little Rue.
+
+407
+00:37:55,038 --> 00:37:58,209
+Oh, yeah.
+Who didn't get choked up at that?
+
+408
+00:37:58,309 --> 00:38:01,044
+You know, I like you better, Effie,
+without all that makeup.
+
+409
+00:38:01,144 --> 00:38:03,477
+Well, I like you better sober.
+
+410
+00:38:04,280 --> 00:38:06,883
+When she chose Rue as an ally, as well.
+
+411
+00:38:06,983 --> 00:38:10,954
+- Yes.
+- Now, what do all these have in common?
+
+412
+00:38:11,154 --> 00:38:13,256
+No one told her what to do.
+
+413
+00:38:13,356 --> 00:38:17,027
+Unscripted, yes. So maybe
+we should just leave her alone.
+
+414
+00:38:17,127 --> 00:38:19,263
+And wash her face.
+
+415
+00:38:19,363 --> 00:38:21,699
+She's still a girl.
+You made her look 35.
+
+416
+00:38:22,399 --> 00:38:26,837
+The opportunities for spontaneity
+are obviously lacking below ground.
+
+417
+00:38:26,937 --> 00:38:31,242
+So what you're suggesting
+is we toss her into combat?
+
+418
+00:38:31,642 --> 00:38:33,610
+I can't sanction putting
+an untrained civilian
+
+419
+00:38:33,710 --> 00:38:37,448
+in battle just for effect.
+This is not the Capitol.
+
+420
+00:38:37,548 --> 00:38:40,384
+That is exactly what I'm suggesting.
+Put her in the field.
+
+421
+00:38:40,484 --> 00:38:43,320
+- No, we can't protect her.
+- It has to come from her.
+
+422
+00:38:43,420 --> 00:38:48,092
+That's what people respond to.
+You want a symbol for the revolution?
+
+423
+00:38:48,192 --> 00:38:50,694
+She cannot be coached into it.
+Trust me, I know.
+
+424
+00:38:50,794 --> 00:38:52,863
+Maybe there's someplace
+that's less dangerous.
+
+425
+00:38:52,963 --> 00:38:56,900
+District 8. They reported heavy bombing
+last week. There are no military targets left.
+
+426
+00:38:57,000 --> 00:39:01,087
+- We can't guarantee her safety.
+- You'll never be able to guarantee my safety.
+
+427
+00:39:01,704 --> 00:39:04,706
+- I wanna go.
+- And if you're killed?
+
+428
+00:39:06,008 --> 00:39:07,976
+Make sure you get it on camera.
+
+429
+00:39:11,814 --> 00:39:14,348
+I've made you some surprises.
+
+430
+00:39:20,156 --> 00:39:22,189
+Maybe you wanna try one out.
+
+431
+00:39:23,526 --> 00:39:27,128
+If you're gonna be a part of Katniss'
+propo team, you may as well look the part.
+
+432
+00:39:41,010 --> 00:39:45,012
+And this one is for you.
+
+433
+00:39:47,183 --> 00:39:51,137
+Plutarch wanted you to have a weapon
+for the sake of the propos but...
+
+434
+00:39:51,237 --> 00:39:54,264
+I couldn't just make you
+a fashion accessory.
+
+435
+00:39:56,726 --> 00:39:58,293
+It's beautiful.
+
+436
+00:40:00,563 --> 00:40:02,797
+And look here.
+
+437
+00:40:07,503 --> 00:40:12,576
+Regular. Incendiary. Explosive arrows.
+All color-coded.
+
+438
+00:40:13,176 --> 00:40:16,547
+And tell Finnick
+
+439
+00:40:16,647 --> 00:40:20,348
+I've got a trident for him
+when he's ready.
+
+440
+00:40:20,917 --> 00:40:23,651
+Might just cheer him... Cheer him up.
+
+441
+00:40:25,689 --> 00:40:29,790
+Let's not fire the red ones in here.
+
+442
+00:40:47,176 --> 00:40:51,679
+You had all of this and you just left
+the districts to fend for themselves?
+
+443
+00:40:52,347 --> 00:40:55,886
+It's not that simple, Katniss.
+We barely survived.
+
+444
+00:40:55,986 --> 00:40:58,956
+We weren't in any kind of shape
+to launch a counterattack.
+
+445
+00:40:59,256 --> 00:41:01,392
+Yeah, we could've bombed the Capitol
+but they would've retaliated
+
+446
+00:41:01,492 --> 00:41:04,365
+with at least twice the firepower.
+Then what?
+
+447
+00:41:05,929 --> 00:41:08,632
+There would've been nobody
+left to claim victory.
+
+448
+00:41:08,732 --> 00:41:13,000
+Sounds like exactly what Peeta said
+and then you all called him a traitor.
+
+449
+00:41:15,271 --> 00:41:17,138
+This way, soldier.
+
+450
+00:41:18,439 --> 00:41:20,975
+You are camera-ready.
+
+451
+00:41:23,145 --> 00:41:25,578
+Doesn't your comrade look handsome?
+
+452
+00:41:27,950 --> 00:41:29,601
+Let's go.
+
+453
+00:41:31,721 --> 00:41:33,583
+Come back safe.
+
+454
+00:41:34,991 --> 00:41:37,393
+Quick introductions, Katniss.
+
+455
+00:41:37,493 --> 00:41:40,931
+These people have come a long way
+to support the cause. This is Cressida.
+
+456
+00:41:41,031 --> 00:41:44,235
+In my opinion one of the best
+up-and-coming directors in the Capitol.
+
+457
+00:41:44,335 --> 00:41:48,038
+- Until I up and left. Hey.
+- Hey.
+
+458
+00:41:48,138 --> 00:41:51,346
+Let's see what you can do. Be careful.
+
+459
+00:41:52,008 --> 00:41:55,512
+- This is my assistant, Messalla.
+- It's an honor to meet you.
+
+460
+00:41:55,612 --> 00:41:58,716
+- And your cameramen over there, Castor.
+- Hello.
+
+461
+00:41:58,816 --> 00:42:00,515
+And Pollux.
+
+462
+00:42:02,719 --> 00:42:04,784
+Let's get locked in.
+
+463
+00:42:11,227 --> 00:42:13,896
+You're all from the Capitol?
+Plutarch got you out?
+
+464
+00:42:13,996 --> 00:42:16,166
+Don't expect much chitchat from him.
+
+465
+00:42:16,266 --> 00:42:19,970
+He's an Avox.
+Capitol cut his tongue out years ago.
+
+466
+00:42:20,070 --> 00:42:25,204
+And no, it wasn't any sort of rescue,
+if that's what you mean.
+
+467
+00:42:25,840 --> 00:42:28,179
+We all fled on our own.
+
+468
+00:42:28,280 --> 00:42:31,079
+For this. For you.
+
+469
+00:43:02,645 --> 00:43:05,427
+This has gotta be fast. In and out.
+
+470
+00:43:23,132 --> 00:43:24,895
+Move out.
+
+471
+00:43:36,345 --> 00:43:38,449
+You're alive then. We weren't sure.
+
+472
+00:43:38,549 --> 00:43:40,684
+Katniss, Commander Paylor, District 8.
+
+473
+00:43:40,784 --> 00:43:42,585
+Katniss has been recovering,
+but she insisted on coming out
+
+474
+00:43:42,685 --> 00:43:45,253
+- and seein' some of your wounded.
+- Well, we've got plenty of those.
+
+475
+00:43:55,498 --> 00:43:58,000
+We have a mass grave
+a few blocks west, but,
+
+476
+00:43:58,100 --> 00:44:01,003
+I can't spare the manpower
+to move them yet.
+
+477
+00:44:01,103 --> 00:44:03,140
+Hospital's past that curtain.
+
+478
+00:44:03,240 --> 00:44:05,541
+Any hope you can give them,
+it's worth it.
+
+479
+00:44:05,641 --> 00:44:08,579
+The Capitol's done everything
+they can to break us.
+
+480
+00:44:08,879 --> 00:44:11,248
+Aren't you worried about having
+all your wounded in one place?
+
+481
+00:44:11,348 --> 00:44:13,948
+I think it's better
+than leaving them to die.
+
+482
+00:44:14,048 --> 00:44:17,521
+- That's not what I meant.
+- Well, that's my only other option.
+
+483
+00:44:17,621 --> 00:44:20,654
+If you can come up with another,
+I'm all ears.
+
+484
+00:44:20,956 --> 00:44:22,922
+It's right through here.
+
+485
+00:44:34,904 --> 00:44:38,739
+Don't film me in there.
+I can't help them.
+
+486
+00:44:39,574 --> 00:44:42,209
+Just let them see your face.
+
+487
+00:44:58,260 --> 00:44:59,827
+Excuse me.
+
+488
+00:45:05,501 --> 00:45:07,635
+- Yeah.
+- You all right?
+
+489
+00:45:08,803 --> 00:45:10,073
+It's okay. Here, it's okay.
+
+490
+00:45:10,173 --> 00:45:12,547
+I've got you. I've got you.
+It's all right.
+
+491
+00:45:42,504 --> 00:45:44,972
+Katniss Everdeen?
+
+492
+00:45:48,410 --> 00:45:50,643
+What are you doing here?
+
+493
+00:45:51,647 --> 00:45:54,334
+I came... I came to see you.
+
+494
+00:45:55,317 --> 00:45:57,685
+What about the baby?
+
+495
+00:46:02,792 --> 00:46:06,342
+- I lost it.
+- Are you fighting, Katniss?
+
+496
+00:46:08,698 --> 00:46:10,447
+You here to fight with us?
+
+497
+00:46:11,599 --> 00:46:13,234
+I am.
+
+498
+00:46:14,602 --> 00:46:16,370
+I will.
+
+499
+00:46:36,058 --> 00:46:37,509
+Tighter.
+
+500
+00:46:38,027 --> 00:46:39,993
+Tighter, tighter.
+
+501
+00:46:48,103 --> 00:46:51,675
+Sir, some cameras
+were damaged in the bombings,
+
+502
+00:46:51,775 --> 00:46:55,576
+but we confirmed it's her.
+
+503
+00:46:58,614 --> 00:47:00,346
+Zoom in.
+
+504
+00:47:06,656 --> 00:47:11,425
+She was visiting a makeshift hospital.
+We're not sure if she's still there.
+
+505
+00:47:14,996 --> 00:47:17,534
+We can scramble hovercraft
+from the border of 11.
+
+506
+00:47:17,634 --> 00:47:20,210
+We may be able to target her.
+
+507
+00:47:22,038 --> 00:47:23,450
+Kill the wounded.
+
+508
+00:47:23,640 --> 00:47:25,284
+Sir...
+
+509
+00:47:26,408 --> 00:47:29,309
+You wrote that speech yourself, Egeria.
+
+510
+00:47:29,879 --> 00:47:33,216
+Any association with
+the Mockingjay symbol
+
+511
+00:47:33,316 --> 00:47:35,477
+is forbidden.
+
+512
+00:47:36,085 --> 00:47:39,954
+Everyone inside that hospital
+has committed treason.
+
+513
+00:47:41,757 --> 00:47:46,497
+Show them what it costs
+to be friends with Katniss Everdeen.
+
+514
+00:47:46,797 --> 00:47:49,566
+Your mom's gonna be proud of you
+when she sees the footage.
+
+515
+00:47:49,666 --> 00:47:54,071
+- Will this play in the districts?
+- It'll be tattooed on their eyes.
+
+516
+00:47:54,371 --> 00:47:57,508
+- There's a problem.
+- What kinda problem?
+
+517
+00:47:58,008 --> 00:47:59,977
+Incoming bombers from the north.
+
+518
+00:48:00,377 --> 00:48:03,510
+- We need to find cover now.
+- There's a bunker in there.
+
+519
+00:48:16,659 --> 00:48:18,892
+Straight ahead and down the stairs.
+
+520
+00:48:20,296 --> 00:48:21,878
+Katniss!
+
+521
+00:48:21,978 --> 00:48:23,497
+Katniss!
+
+522
+00:48:24,500 --> 00:48:26,299
+Everdeen!
+
+523
+00:48:26,697 --> 00:48:28,199
+Everdeen!
+
+524
+00:48:28,571 --> 00:48:30,238
+Gale, back away from the wall!
+
+525
+00:48:46,155 --> 00:48:47,866
+You okay?
+
+526
+00:48:54,063 --> 00:48:55,505
+Move!
+
+527
+00:49:02,738 --> 00:49:05,740
+- They're going after something to the south.
+- That's towards the hospital.
+
+528
+00:49:10,346 --> 00:49:13,447
+They're circling back around. Come on!
+
+529
+00:49:51,853 --> 00:49:55,354
+That's the hospital.
+They're targeting the hospital.
+
+530
+00:50:49,311 --> 00:50:51,147
+Help them!
+
+531
+00:50:51,347 --> 00:50:53,073
+Help them! Get them out!
+
+532
+00:50:55,583 --> 00:50:57,621
+Katniss?
+
+533
+00:50:57,821 --> 00:51:00,787
+Katniss, can you tell everyone
+what you're seeing right now?
+
+534
+00:51:04,026 --> 00:51:06,560
+Katniss, what do you wanna say?
+
+535
+00:51:16,572 --> 00:51:19,808
+I want the rebels
+to know that I'm alive.
+
+536
+00:51:19,908 --> 00:51:22,012
+That I'm in District 8
+
+537
+00:51:22,112 --> 00:51:25,182
+where the Capitol just bombed a hospital
+
+538
+00:51:25,282 --> 00:51:29,686
+filled with unarmed men,
+women and children.
+
+539
+00:51:30,286 --> 00:51:32,052
+And there will be no survivors.
+
+540
+00:51:34,256 --> 00:51:39,328
+If you think for one second that
+the Capitol will ever treat us fairly
+
+541
+00:51:39,428 --> 00:51:41,531
+you are lying to yourselves.
+
+542
+00:51:42,031 --> 00:51:44,980
+Because we know who they are
+and what they do.
+
+543
+00:51:45,080 --> 00:51:49,837
+This is what they do!
+And we must fight back.
+
+544
+00:51:54,576 --> 00:51:57,547
+I have a message for President Snow.
+
+545
+00:51:57,647 --> 00:52:02,816
+You can torture us and bomb us
+and burn our districts to the ground.
+
+546
+00:52:03,952 --> 00:52:06,286
+But do you see that?
+
+547
+00:52:06,989 --> 00:52:09,433
+Fire is catching.
+
+548
+00:52:09,824 --> 00:52:14,261
+And if we burn, you burn with us!
+
+549
+00:52:34,816 --> 00:52:37,554
+<i>We know who they are and what they do.</i>
+
+550
+00:52:37,654 --> 00:52:40,457
+<i>This is what they do!</i>
+
+551
+00:52:40,557 --> 00:52:42,831
+<i>And we must fight back.</i>
+
+552
+00:52:43,792 --> 00:52:47,230
+<i>You can torture us and bomb us</i>
+
+553
+00:52:47,530 --> 00:52:49,833
+<i>and burn our districts to the ground.</i>
+
+554
+00:52:49,933 --> 00:52:51,701
+Plutarch's faith in you
+wasn't misplaced.
+
+555
+00:52:51,801 --> 00:52:54,437
+- <i>But do you see that?</i>
+- Thank you.
+
+556
+00:52:54,537 --> 00:52:57,374
+- <i>Fire is catching.</i>
+- Come up with me for the beginning.
+
+557
+00:52:57,474 --> 00:53:01,464
+<i>And if we burn, you burn with us!</i>
+
+558
+00:53:29,137 --> 00:53:33,173
+There is no progress without compromise.
+
+559
+00:53:33,441 --> 00:53:36,909
+No victory without sacrifice.
+
+560
+00:53:37,279 --> 00:53:40,450
+But I stand here with The Mockingjay
+
+561
+00:53:40,550 --> 00:53:44,852
+to announce that our moment has arrived.
+
+562
+00:54:10,045 --> 00:54:14,928
+Beetee has increased
+our use of the airwaves tenfold.
+
+563
+00:54:15,050 --> 00:54:19,222
+We will broadcast this message
+to all the districts tonight.
+
+564
+00:54:19,322 --> 00:54:25,215
+The Mockingjay's words inspiring
+everyone to join the rebellion.
+
+565
+00:54:25,315 --> 00:54:28,965
+Together, we will become
+
+566
+00:54:29,065 --> 00:54:31,232
+an alliance to be reckoned with.
+
+567
+00:54:33,336 --> 00:54:36,105
+Hoorah! Hoorah! Hoorah!
+
+568
+00:54:40,542 --> 00:54:43,110
+You don't like hearing
+a fight song at a funeral?
+
+569
+00:54:45,280 --> 00:54:48,849
+The more people on our side,
+the closer we are to Peeta and Annie.
+
+570
+00:54:51,686 --> 00:54:53,353
+Yeah.
+
+571
+00:55:13,041 --> 00:55:18,648
+<i>By order of President Snow daily production
+quotas have been increased.</i>
+
+572
+00:55:18,748 --> 00:55:22,852
+<i>All work shifts will be extended
+by an extra two hours.</i>
+
+573
+00:55:22,952 --> 00:55:26,820
+<i>Failure to meet these quotas
+will not be tolerated.</i>
+
+574
+00:55:27,055 --> 00:55:32,459
+<i>By order of President Snow daily
+production quotas have been increased.</i>
+
+575
+00:56:17,973 --> 00:56:21,674
+If we burn, you burn with us!
+
+576
+00:56:24,279 --> 00:56:25,787
+Yeah!
+
+577
+00:56:27,817 --> 00:56:29,449
+Yeah!
+
+578
+00:56:50,105 --> 00:56:51,975
+- I got good news.
+- What?
+
+579
+00:56:52,075 --> 00:56:53,841
+Coin agreed to let us hunt above ground.
+
+580
+00:57:45,794 --> 00:57:48,469
+He's not even afraid of us.
+
+581
+00:57:50,032 --> 00:57:52,565
+It's 'cause they've
+never been hunted before.
+
+582
+00:57:54,502 --> 00:57:56,670
+It's almost not fair.
+
+583
+00:59:08,810 --> 00:59:10,635
+They want us back.
+
+584
+00:59:25,260 --> 00:59:29,229
+- They asked us to head for Command.
+- All right. I gotta drop these off.
+
+585
+00:59:34,334 --> 00:59:36,806
+<i>She was arguably</i>
+
+586
+00:59:37,106 --> 00:59:39,242
+<i>our favorite Tribute.</i>
+
+587
+00:59:39,342 --> 00:59:43,479
+<i>And I think that's what
+we all find most astonishing,</i>
+
+588
+00:59:43,579 --> 00:59:48,682
+<i>is that this girl was
+adored in the Capitol.</i>
+
+589
+00:59:49,149 --> 00:59:54,242
+<i>And I think for you, Peeta,
+it must be particularly painful.</i>
+
+590
+00:59:54,624 --> 00:59:56,759
+I wish I could give
+this rose to you, Katniss.
+
+591
+00:59:56,859 --> 00:59:59,062
+He's changed so much already.
+What are they doing to him?
+
+592
+00:59:59,162 --> 01:00:04,087
+<i>A sweet gesture for a girl
+who has inspired such violence.</i>
+
+593
+01:00:04,400 --> 01:00:06,102
+<i>You must love her very much
+to be able to forgive her.</i>
+
+594
+01:00:06,202 --> 01:00:08,271
+- He's shaking.
+- <i>I don't think that I could.</i>
+
+595
+01:00:08,641 --> 01:00:12,008
+<i>Unless, of course, Peeta,
+you think that perhaps she's being</i>
+
+596
+01:00:12,108 --> 01:00:17,377
+<i>forced into saying things that
+she doesn't even understand.</i>
+
+597
+01:00:19,114 --> 01:00:21,617
+<i>Yeah. Yeah, that's exactly what I think.</i>
+
+598
+01:00:21,717 --> 01:00:25,822
+- Even his voice is different.
+<i>- I think they're using her to whip up the rebels.</i>
+
+599
+01:00:25,922 --> 01:00:29,859
+<i>I doubt she even knows what's happening.
+And what's really at stake.</i>
+
+600
+01:00:29,959 --> 01:00:32,867
+<i>Now, Peeta, I doubt that the rebels
+will ever let her see this.</i>
+
+601
+01:00:33,563 --> 01:00:36,265
+<i>But if they do,
+what would you say to her?</i>
+
+602
+01:00:36,365 --> 01:00:40,633
+<i>To Katniss Everdeen, the once sweet
+Katniss Everdeen. What would you say to her?</i>
+
+603
+01:00:40,969 --> 01:00:43,539
+<i>I would... I would tell her
+to think for herself.</i>
+
+604
+01:00:43,639 --> 01:00:45,285
+<i>Yes.</i>
+
+605
+01:00:48,376 --> 01:00:53,416
+<i>Don't be a fool, Katniss.
+I know you never wanted the rebellion.</i>
+
+606
+01:00:53,516 --> 01:00:59,647
+<i>The things that you did in the Games
+were never intended to start all of this.</i>
+
+607
+01:01:00,156 --> 01:01:02,525
+<i>The rebels have made you
+into something that you're not.</i>
+
+608
+01:01:02,625 --> 01:01:04,861
+<i>Something that could destroy all of us.</i>
+
+609
+01:01:05,061 --> 01:01:08,798
+<i>So if you have any power or any say</i>
+
+610
+01:01:08,898 --> 01:01:11,831
+<i>in what they do or how they use you,</i>
+
+611
+01:01:13,001 --> 01:01:18,506
+<i>please, please, urge them to stop
+this war before it's too late.</i>
+
+612
+01:01:18,606 --> 01:01:23,476
+<i>And ask yourself, can you trust
+the people you're working with?</i>
+
+613
+01:01:25,180 --> 01:01:28,885
+- <i>Do you know what they really want?</i>
+- We need to respond.
+
+614
+01:01:28,985 --> 01:01:34,424
+<i>Thank you, Peeta Mellark, for these
+revelations about the real Mockingjay.</i>
+
+615
+01:01:34,524 --> 01:01:37,460
+- Did you see what he looks like?
+- I saw a coward.
+
+616
+01:01:37,560 --> 01:01:40,087
+- You don't have any idea what he's going through.
+- I don't care.
+
+617
+01:01:40,187 --> 01:01:42,998
+I would never say what he just said.
+
+618
+01:01:43,098 --> 01:01:45,433
+Not if they tortured me.
+Not with a gun to my head.
+
+619
+01:01:45,533 --> 01:01:48,503
+That is the same Peeta that
+defended you at the whipping post.
+
+620
+01:01:48,653 --> 01:01:52,055
+No, it's not.
+Now he's only defending himself.
+
+621
+01:01:53,593 --> 01:01:55,550
+Coin's called a meeting.
+We need to respond.
+
+622
+01:01:55,650 --> 01:01:58,229
+When did "we" become you and Coin?
+
+623
+01:01:58,329 --> 01:02:01,459
+Everyone has a choice.
+How can he sit there in the Capitol
+
+624
+01:02:01,560 --> 01:02:05,602
+and defend the people who destroyed
+his home and murdered his family?
+
+625
+01:02:05,702 --> 01:02:07,169
+He doesn't know.
+
+626
+01:02:08,172 --> 01:02:12,654
+How could he? Nobody's seen
+what the Capitol did to 12.
+
+627
+01:02:12,944 --> 01:02:14,878
+I have to show them.
+
+628
+01:02:29,861 --> 01:02:33,596
+So I wanna start with you
+in front of the Justice Building, okay?
+
+629
+01:02:37,502 --> 01:02:39,536
+Bang. First shot.
+
+630
+01:02:51,816 --> 01:02:54,473
+Katniss, tell us what happened here.
+
+631
+01:02:57,422 --> 01:02:59,959
+We were all standin' right here
+
+632
+01:03:04,128 --> 01:03:06,462
+watchin' the Games
+when you fired that arrow.
+
+633
+01:03:07,866 --> 01:03:11,853
+The screens just went dark.
+Nobody had any idea what happened.
+
+634
+01:03:13,271 --> 01:03:16,009
+Peacekeepers forced us
+back into our homes.
+
+635
+01:03:16,709 --> 01:03:19,776
+For maybe an hour,
+the town was just dead quiet.
+
+636
+01:03:22,746 --> 01:03:25,749
+Little past 9:00,
+we heard their trucks pullin' out.
+
+637
+01:03:28,118 --> 01:03:31,220
+All of them. Every single Peacekeeper.
+
+638
+01:03:33,191 --> 01:03:35,290
+And I knew what that meant.
+
+639
+01:03:39,264 --> 01:03:42,268
+Me and a couple of guys from the mines,
+we started pulling people from their houses
+
+640
+01:03:42,368 --> 01:03:47,103
+and tried to get 'em to the fence line but
+a lotta people were scared of the forest.
+
+641
+01:03:47,404 --> 01:03:52,108
+So they headed up onto the road.
+Make a break for it that way.
+
+642
+01:04:00,852 --> 01:04:02,748
+Stay with Gale.
+
+643
+01:04:07,125 --> 01:04:10,256
+915 of us made it to the fence.
+
+644
+01:04:11,496 --> 01:04:13,645
+Then we watched as...
+
+645
+01:04:14,209 --> 01:04:17,064
+bombers circled back towards the road.
+
+646
+01:04:21,538 --> 01:04:24,407
+They firebombed them as they ran away.
+
+647
+01:04:40,657 --> 01:04:43,576
+915 outta 10,000.
+
+648
+01:04:50,234 --> 01:04:53,436
+I should've grabbed people.
+I should've dragged 'em with me.
+
+649
+01:04:55,306 --> 01:05:00,108
+- Some of the kids I could've carried.
+- You saved so many people, Gale.
+
+650
+01:05:00,678 --> 01:05:04,648
+Without you, there would be no District 12.
+Not even the memory of it.
+
+651
+01:05:37,414 --> 01:05:39,582
+This is where you kissed me.
+
+652
+01:05:40,251 --> 01:05:42,719
+I didn't think you remembered that.
+
+653
+01:05:51,963 --> 01:05:54,831
+I'd have to be dead to forget that.
+
+654
+01:05:56,868 --> 01:05:58,272
+Maybe not even then.
+
+655
+01:06:12,951 --> 01:06:14,884
+I knew you'd do that.
+
+656
+01:06:15,853 --> 01:06:17,921
+How? I didn't.
+
+657
+01:06:18,723 --> 01:06:20,889
+'Cause I'm in pain.
+
+658
+01:06:23,962 --> 01:06:26,796
+That's the only way
+that I can get your attention.
+
+659
+01:06:31,202 --> 01:06:34,444
+Don't worry, Katniss. It'll pass.
+
+660
+01:06:55,259 --> 01:06:56,756
+Hey.
+
+661
+01:07:06,504 --> 01:07:08,637
+Yeah, that's a mockingjay.
+
+662
+01:07:23,788 --> 01:07:26,160
+Well, now they'll never shut up.
+
+663
+01:07:31,362 --> 01:07:32,896
+You want me to sing?
+
+664
+01:07:43,992 --> 01:07:47,072
+<i>Are you, are you</i>
+
+665
+01:07:47,172 --> 01:07:49,240
+<i>Coming to the tree</i>
+
+666
+01:07:49,640 --> 01:07:52,216
+<i>They strung up a man</i>
+
+667
+01:07:52,416 --> 01:07:55,042
+<i>They say who murdered three</i>
+
+668
+01:07:55,142 --> 01:08:00,076
+<i>Strange things did happen here
+No stranger would it be</i>
+
+669
+01:08:00,176 --> 01:08:05,302
+<i>If we met at midnight
+in the hanging tree</i>
+
+670
+01:08:06,002 --> 01:08:08,829
+<i>Are you, are you</i>
+
+671
+01:08:08,929 --> 01:08:11,378
+<i>Coming to the tree</i>
+
+672
+01:08:11,478 --> 01:08:17,005
+<i>Where the dead man called out
+for his love to flee</i>
+
+673
+01:08:17,105 --> 01:08:22,134
+<i>Strange things did happen here
+No stranger would it be</i>
+
+674
+01:08:22,234 --> 01:08:27,881
+<i>If we met at midnight
+in the hanging tree</i>
+
+675
+01:08:27,981 --> 01:08:30,825
+<i>Are you, are you</i>
+
+676
+01:08:30,925 --> 01:08:33,264
+<i>Coming to the tree</i>
+
+677
+01:08:33,364 --> 01:08:35,625
+<i>Where I told you to run</i>
+
+678
+01:08:35,923 --> 01:08:38,901
+<i>So we'd both be free</i>
+
+679
+01:08:39,001 --> 01:08:44,019
+<i>Strange things did happen here
+No stranger would it be</i>
+
+680
+01:08:44,119 --> 01:08:49,654
+<i>If we met at midnight
+in the hanging tree</i>
+
+681
+01:08:57,616 --> 01:08:59,985
+That line was originally
+"necklace of rope."
+
+682
+01:09:00,085 --> 01:09:02,454
+I had it changed to "necklace of hope."
+
+683
+01:09:02,554 --> 01:09:05,457
+Wow. You are a true wordsmith.
+
+684
+01:09:05,557 --> 01:09:08,026
+Little on the nose, but,
+of course, so is war.
+
+685
+01:09:08,126 --> 01:09:12,028
+- Every district's seeing this?
+- Yes. But not the Capitol.
+
+686
+01:09:12,997 --> 01:09:15,967
+I designed this signal
+defense system for them.
+
+687
+01:09:16,067 --> 01:09:17,936
+But I can't find my way through it.
+
+688
+01:09:18,436 --> 01:09:20,473
+Guess I did my job too well.
+
+689
+01:09:20,873 --> 01:09:24,106
+At the time, I was just thinking
+of the science of it all.
+
+690
+01:09:25,576 --> 01:09:27,565
+We'll get through it.
+
+691
+01:11:57,661 --> 01:12:03,132
+Moves and countermoves.
+
+692
+01:12:25,689 --> 01:12:29,291
+Katniss, you're wanted in Command.
+
+693
+01:12:36,934 --> 01:12:40,138
+<i>Tonight, we've received reports</i>
+
+694
+01:12:40,238 --> 01:12:42,307
+<i>of derailed trains,</i>
+
+695
+01:12:42,407 --> 01:12:44,410
+<i>of granaries on fire,</i>
+
+696
+01:12:44,910 --> 01:12:49,448
+<i>and of a savage attack on the
+hydroelectric dam in District 5.</i>
+
+697
+01:12:49,548 --> 01:12:51,516
+What have they done to you?
+
+698
+01:12:51,616 --> 01:12:56,555
+<i>I'm begging for restraint and decency.</i>
+
+699
+01:12:56,655 --> 01:12:59,491
+We interrupt your regularly
+scheduled horse manure
+
+700
+01:12:59,591 --> 01:13:01,990
+to bring you...
+
+701
+01:13:06,297 --> 01:13:09,058
+- That's it. That's our footage.
+- Beetee's in.
+
+702
+01:13:11,136 --> 01:13:14,037
+- Katniss?
+- He sees it. He sees our propo.
+
+703
+01:13:17,641 --> 01:13:19,682
+<i>- Katniss, are you there?</i>
+- Peeta.
+
+704
+01:13:20,645 --> 01:13:22,511
+<i>Katniss?</i>
+
+705
+01:13:24,782 --> 01:13:27,603
+<i>Peeta, please continue.</i>
+
+706
+01:13:28,652 --> 01:13:32,220
+<i>You were telling us about
+these savage attacks.</i>
+
+707
+01:13:32,623 --> 01:13:34,073
+<i>Yeah.</i>
+
+708
+01:13:38,028 --> 01:13:41,259
+<i>The attack on the dam</i>
+
+709
+01:13:41,559 --> 01:13:42,777
+<i>was a callous</i>
+
+710
+01:13:43,834 --> 01:13:47,470
+<i>and inhuman act of destruction...</i>
+
+711
+01:13:54,478 --> 01:13:56,214
+<i>Think about it.</i>
+
+712
+01:13:56,648 --> 01:14:01,186
+<i>How will this end? What will be left?</i>
+
+713
+01:14:01,386 --> 01:14:03,219
+<i>No one can survive this.</i>
+
+714
+01:14:04,455 --> 01:14:08,457
+<i>No one is safe now.
+Not here in the Capitol.</i>
+
+715
+01:14:09,393 --> 01:14:10,978
+<i>Not in any of the districts.</i>
+
+716
+01:14:15,399 --> 01:14:17,936
+<i>They're coming, Katniss.
+They're gonna kill everyone.</i>
+
+717
+01:14:18,036 --> 01:14:20,231
+<i>And in District 13
+you'll be dead by morning.</i>
+
+718
+01:14:21,138 --> 01:14:24,743
+- He's warning us. That was a warning.
+- Yes, it was.
+
+719
+01:14:24,843 --> 01:14:26,299
+We have to get him out
+before they kill him.
+
+720
+01:14:26,399 --> 01:14:28,947
+- Is there anything in the air?
+- Nothing on Doppler, ma'am.
+
+721
+01:14:29,047 --> 01:14:30,782
+He was in the mansion.
+He could have overheard something.
+
+722
+01:14:30,882 --> 01:14:32,181
+Possibly.
+
+723
+01:14:36,387 --> 01:14:38,554
+It's time for an air raid drill.
+
+724
+01:14:46,764 --> 01:14:52,935
+<i>This is a code red alert. Please,
+remain calm and begin evacuation protocol.</i>
+
+725
+01:14:55,005 --> 01:14:58,109
+- Prim! Prim!
+- <i>Proceed to your nearest stairwell</i>
+
+726
+01:14:58,209 --> 01:15:00,545
+<i>and descend to level 40.</i>
+
+727
+01:15:00,645 --> 01:15:03,979
+<i>Blast doors will be
+sealed in six minutes.</i>
+
+728
+01:15:05,416 --> 01:15:11,523
+<i>This is a code red alert. Please,
+remain calm and begin evacuation protocol.</i>
+
+729
+01:15:11,623 --> 01:15:16,595
+<i>Proceed in an orderly fashion to your
+nearest stairwell and descend to level 40.</i>
+
+730
+01:15:17,395 --> 01:15:22,033
+Madam President, three Capitol
+squadrons just entered our airspace.
+
+731
+01:15:22,133 --> 01:15:26,034
+- How much time do we have?
+- They're a few seconds from range.
+
+732
+01:15:30,607 --> 01:15:33,044
+- Prepare to scramble the fleet.
+- Copy that.
+
+733
+01:15:33,144 --> 01:15:35,911
+Open up short-range air defense.
+
+734
+01:15:40,751 --> 01:15:43,654
+Arm long-range missiles
+for counterattack.
+
+735
+01:15:53,030 --> 01:15:59,104
+<i>This is a code red alert. Please,
+remain calm and begin evacuation protocol.</i>
+
+736
+01:15:59,204 --> 01:16:03,909
+<i>Proceed in an orderly fashion to your
+nearest stairwell and descend to level 40.</i>
+
+737
+01:16:04,409 --> 01:16:06,181
+<i>Blast doors...</i>
+
+738
+01:16:10,681 --> 01:16:14,519
+<i>This is a code red alert.
+Please, remain calm...</i>
+
+739
+01:16:30,199 --> 01:16:34,439
+<i>This is a code red alert.
+Proceed in an orderly fashion...</i>
+
+740
+01:16:34,691 --> 01:16:37,773
+Come on. Come on, hon.
+
+741
+01:16:46,617 --> 01:16:49,688
+<i>Continue to the Supply Station
+and claim one pack</i>
+
+742
+01:16:49,788 --> 01:16:52,157
+<i>for each member of your compartment.</i>
+
+743
+01:16:52,657 --> 01:16:56,595
+<i>Please keep all personal items
+within your assigned area.</i>
+
+744
+01:16:56,695 --> 01:16:59,862
+<i>Be courteous to your fellow citizens.</i>
+
+745
+01:17:01,465 --> 01:17:03,602
+<i>This is a code red alert.</i>
+
+746
+01:17:03,702 --> 01:17:07,038
+<i>All citizens should be
+inside the bunker.</i>
+
+747
+01:17:07,138 --> 01:17:10,371
+- <i>Blast doors will close in two minutes.</i>
+- Mom!
+
+748
+01:17:13,210 --> 01:17:15,981
+- Where's Prim?
+- I thought she went to find you.
+
+749
+01:17:16,081 --> 01:17:19,148
+- She must still be on the stairs.
+- There's no one on the stairs.
+
+750
+01:17:21,985 --> 01:17:24,022
+She went back for the cat.
+
+751
+01:17:24,122 --> 01:17:28,493
+<i>This is a code red alert.
+All citizens should be inside the bunker.</i>
+
+752
+01:17:28,593 --> 01:17:29,732
+Hey, stop! Stop!
+
+753
+01:17:29,832 --> 01:17:33,495
+<i>Blast doors will close in one minute.</i>
+
+754
+01:17:39,404 --> 01:17:42,340
+They hit the far edge of the
+northwest quadrant. Penetrated 40 feet.
+
+755
+01:17:42,440 --> 01:17:46,010
+Missed the living quarters.
+Only minor damage to corridors 2 and 3.
+
+756
+01:17:46,110 --> 01:17:47,771
+- Is there any radiation?
+- None detected.
+
+757
+01:17:47,871 --> 01:17:50,216
+Doppler shows a fourth wave approaching.
+
+758
+01:17:51,016 --> 01:17:55,284
+- <i>Blast doors will close in 30 seconds.</i>
+- Prim!
+
+759
+01:17:57,854 --> 01:18:00,421
+- Prim!
+- Katniss!
+
+760
+01:18:06,063 --> 01:18:08,517
+- <i>This is a code red alert.</i>
+- Katniss!
+
+761
+01:18:08,617 --> 01:18:11,236
+- <i>Blast doors will close in 15 seconds.</i>
+- Keep moving, keep moving!
+
+762
+01:18:11,336 --> 01:18:12,635
+Get down here!
+
+763
+01:18:14,004 --> 01:18:16,106
+- Hurry!
+- <i>This is a code red alert.</i>
+
+764
+01:18:16,206 --> 01:18:20,142
+- Come on!
+- <i>Blast doors will close in 10 seconds.</i>
+
+765
+01:18:20,444 --> 01:18:21,809
+<i>Nine...</i>
+
+766
+01:18:22,512 --> 01:18:24,179
+- <i>Eight...</i>
+- Come on!
+
+767
+01:18:24,815 --> 01:18:26,427
+<i>Seven...</i>
+
+768
+01:18:27,251 --> 01:18:28,817
+<i>Six...</i>
+
+769
+01:18:29,920 --> 01:18:32,157
+<i>- Five...</i>
+- Hold the doors!
+
+770
+01:18:32,257 --> 01:18:33,658
+<i>Four...</i>
+
+771
+01:18:34,892 --> 01:18:36,556
+<i>Three...</i>
+
+772
+01:18:37,462 --> 01:18:39,928
+- <i>Two...</i>
+- Wait! Hold the doors!
+
+773
+01:18:40,030 --> 01:18:41,078
+<i>One.</i>
+
+774
+01:18:42,900 --> 01:18:45,170
+You went back for the cat?
+What were you thinking?
+
+775
+01:18:45,270 --> 01:18:48,435
+I wasn't gonna leave him behind.
+I couldn't live with myself.
+
+776
+01:18:49,307 --> 01:18:53,333
+<i>- Blast doors are now sealed.</i>
+- I know, Prim.
+
+777
+01:18:58,280 --> 01:18:59,747
+Let's go.
+
+778
+01:19:02,587 --> 01:19:06,156
+Damage to the aquifer in the northwest
+quadrant. We lost a transport corridor.
+
+779
+01:19:06,256 --> 01:19:07,892
+There's nothing else in the northwest.
+
+780
+01:19:07,992 --> 01:19:11,196
+Our surface-to-air launchers
+just took a direct hit in sector 3.
+
+781
+01:19:11,296 --> 01:19:15,214
+Because we revealed ourselves.
+They saw us firing there.
+
+782
+01:19:18,568 --> 01:19:20,405
+Stand down. Don't launch the fleet.
+
+783
+01:19:20,505 --> 01:19:25,209
+Another 12 Capitol bombers approaching
+sector 3 in attack formation.
+
+784
+01:19:25,309 --> 01:19:27,743
+Hold fire on their approach.
+
+785
+01:19:31,449 --> 01:19:32,442
+What'd they hit?
+
+786
+01:19:32,542 --> 01:19:34,986
+Bedrock. But there's debris
+in the ventilation shaft.
+
+787
+01:19:35,086 --> 01:19:37,723
+- They're not targeting our fleet.
+- Or our Special Weaponry.
+
+788
+01:19:37,823 --> 01:19:40,025
+They don't know what we have
+or where we have it.
+
+789
+01:19:40,325 --> 01:19:42,293
+Can you confirm that everyone's
+safely in the bunker?
+
+790
+01:19:42,393 --> 01:19:43,758
+Already done.
+
+791
+01:19:44,462 --> 01:19:46,997
+Conceal all remaining
+anti-aircraft guns.
+
+792
+01:19:47,097 --> 01:19:49,901
+Seal launching pads
+and ventilation corridors.
+
+793
+01:19:50,001 --> 01:19:53,504
+We are gonna wait this out.
+This is what we're built for.
+
+794
+01:19:53,804 --> 01:19:55,740
+They'll seal us in here like a tomb.
+
+795
+01:19:55,840 --> 01:19:57,742
+The Capitol's working off
+some outdated information.
+
+796
+01:19:57,842 --> 01:20:01,578
+- I'd rather not update it for them.
+- Madam President, I know it's not my place...
+
+797
+01:20:01,678 --> 01:20:05,083
+It's not. You're a welcome guest,
+but you're out of your depth down here.
+
+798
+01:20:05,183 --> 01:20:09,536
+- Reduce oxygen to 14% to conserve it.
+- Copy that.
+
+799
+01:20:09,954 --> 01:20:13,621
+Take a deep breath, Mr. Heavensbee.
+It's gonna be a long night.
+
+800
+01:20:52,362 --> 01:20:55,429
+Prim, talk about something. Anything.
+
+801
+01:20:58,534 --> 01:21:00,968
+They promoted me at the hospital.
+
+802
+01:21:01,405 --> 01:21:05,586
+I forgot to tell you.
+They're training me to be a doctor.
+
+803
+01:21:06,842 --> 01:21:09,311
+They'd be stupid not to.
+
+804
+01:22:23,220 --> 01:22:24,931
+Hey.
+
+805
+01:22:25,389 --> 01:22:28,123
+- Can I sit?
+- Yeah.
+
+806
+01:22:32,329 --> 01:22:35,165
+Snow's using Annie to punish you.
+
+807
+01:22:35,265 --> 01:22:37,699
+He's taunting us with them.
+
+808
+01:22:38,834 --> 01:22:43,472
+I didn't understand until just now
+watching that stupid cat.
+
+809
+01:22:51,515 --> 01:22:54,185
+After your first Games,
+
+810
+01:22:54,285 --> 01:22:58,186
+I thought the whole romance was an act.
+
+811
+01:22:59,723 --> 01:23:02,926
+We all expected you
+to continue that strategy.
+
+812
+01:23:03,026 --> 01:23:06,197
+But it wasn't until
+Peeta's heart stopped
+
+813
+01:23:06,297 --> 01:23:09,225
+and he nearly died that...
+
+814
+01:23:10,534 --> 01:23:12,932
+I knew I'd misjudged you.
+
+815
+01:23:13,737 --> 01:23:15,697
+You love him.
+
+816
+01:23:17,306 --> 01:23:20,311
+I'm not saying in what way.
+Maybe you don't even know yourself.
+
+817
+01:23:20,411 --> 01:23:23,545
+But anyone paying attention can see it.
+
+818
+01:23:24,347 --> 01:23:26,499
+How do you live with it?
+
+819
+01:23:28,417 --> 01:23:32,857
+I drag myself outta nightmares
+and there's no relief in waking up.
+
+820
+01:23:32,957 --> 01:23:36,625
+But... it's better not to give in to it.
+
+821
+01:23:38,996 --> 01:23:43,865
+Takes 10 times longer to put yourself
+back together than it does to fall apart.
+
+822
+01:23:53,577 --> 01:23:56,741
+Katniss? Katniss?
+
+823
+01:23:57,580 --> 01:23:59,314
+Come with me.
+
+824
+01:24:04,520 --> 01:24:07,255
+We took their best shot. Didn't we?
+
+825
+01:24:08,358 --> 01:24:09,994
+Yeah.
+
+826
+01:24:10,094 --> 01:24:13,330
+- Your mother and sister okay?
+- Yeah, they're fine.
+
+827
+01:24:13,430 --> 01:24:15,766
+I need you to do something for us.
+
+828
+01:24:16,266 --> 01:24:20,070
+I need you to tell Panem that we
+survived an attack by the Capitol
+
+829
+01:24:20,170 --> 01:24:25,006
+with no casualties.
+And we remain fully operational.
+
+830
+01:24:25,608 --> 01:24:27,174
+Okay.
+
+831
+01:24:27,310 --> 01:24:29,480
+You should know something.
+
+832
+01:24:29,880 --> 01:24:34,750
+We had eight extra minutes of civilian
+evacuation because of Peeta's warning.
+
+833
+01:24:35,284 --> 01:24:37,019
+I won't forget that.
+
+834
+01:24:38,187 --> 01:24:39,922
+Thank you.
+
+835
+01:24:54,738 --> 01:25:00,108
+So Katniss, it's "13 is alive
+and well and so am I."
+
+836
+01:25:01,344 --> 01:25:02,945
+Katniss?
+
+837
+01:25:04,581 --> 01:25:06,380
+Katniss.
+
+838
+01:25:07,050 --> 01:25:10,085
+Never one to waste it
+in rehearsal, I know.
+
+839
+01:26:15,084 --> 01:26:17,445
+Why would they drop these?
+
+840
+01:26:20,357 --> 01:26:21,859
+For me.
+
+841
+01:26:21,959 --> 01:26:24,152
+Ready to go, Katniss?
+
+842
+01:26:25,128 --> 01:26:27,395
+We're gonna do this,
+just like District 8.
+
+843
+01:26:30,466 --> 01:26:32,733
+Tell me about the roses.
+
+844
+01:26:37,641 --> 01:26:42,610
+Tell Snow 13 is alive and well.
+
+845
+01:26:46,483 --> 01:26:47,818
+He's gonna kill Peeta.
+
+846
+01:26:47,918 --> 01:26:50,588
+Let's try again. Can you speak up?
+We don't have a mic on you.
+
+847
+01:26:50,688 --> 01:26:54,790
+"13 is alive and well and so am I."
+
+848
+01:26:57,827 --> 01:27:00,328
+He's gonna kill Peeta.
+
+849
+01:27:02,798 --> 01:27:05,467
+- I can't.
+- Katniss?
+
+850
+01:27:06,770 --> 01:27:09,240
+- You can do it, Katniss.
+- I can't do this.
+
+851
+01:27:09,340 --> 01:27:12,543
+"13 is alive and well and so am I."
+
+852
+01:27:12,643 --> 01:27:15,646
+He's just gonna keep...
+He's never gonna stop.
+
+853
+01:27:15,746 --> 01:27:18,449
+- Cressida, we should cut the cameras.
+- It's okay, Katniss.
+
+854
+01:27:18,549 --> 01:27:22,450
+No. He warned me.
+He warned me about this.
+
+855
+01:27:23,153 --> 01:27:25,990
+He's doing this because
+I'm The Mockingjay.
+
+856
+01:27:26,090 --> 01:27:28,558
+He's punishing Peeta to punish me.
+
+857
+01:27:28,658 --> 01:27:30,552
+No.
+
+858
+01:27:31,428 --> 01:27:33,731
+- No, I can't do this.
+- Katniss.
+
+859
+01:27:33,831 --> 01:27:37,501
+- Don't make me do this!
+- Let her go.
+
+860
+01:27:37,601 --> 01:27:41,135
+I got... I gotta get out of here.
+
+861
+01:27:59,989 --> 01:28:02,860
+So this is the end?
+
+862
+01:28:02,960 --> 01:28:06,261
+I s'pose you're just gonna
+hide down here forever?
+
+863
+01:28:06,796 --> 01:28:08,870
+I can't be The Mockingjay.
+
+864
+01:28:09,367 --> 01:28:12,601
+Not The Mockingjay. Just Katniss.
+
+865
+01:28:15,038 --> 01:28:20,008
+You know, you're the only
+real friend I have down here.
+
+866
+01:28:24,147 --> 01:28:28,652
+I don't suppose they gave you
+any kind of medication?
+
+867
+01:28:28,752 --> 01:28:32,889
+- You're unbelievable.
+- Okay, but I meant what I said.
+
+868
+01:28:33,191 --> 01:28:37,005
+Look, the reason I'm here
+is to let you know
+
+869
+01:28:37,226 --> 01:28:38,760
+they're rescuing Peeta.
+
+870
+01:28:40,596 --> 01:28:43,100
+- What?
+- The dam went down in District 5,
+
+871
+01:28:43,200 --> 01:28:47,271
+took out most of the power to the Capitol.
+Knocked out their signal defense.
+
+872
+01:28:47,371 --> 01:28:51,741
+Beetee's inside their system now,
+wreaking all kinds of havoc.
+
+873
+01:28:51,841 --> 01:28:54,445
+A window is open to us.
+How much longer? I don't know.
+
+874
+01:28:54,545 --> 01:28:57,281
+I guess until the Capitol
+can get the power back on.
+
+875
+01:28:57,381 --> 01:28:58,582
+And President Coin?
+
+876
+01:28:58,682 --> 01:29:03,640
+You know, I can never fully support
+that woman in light of the...
+
+877
+01:29:03,740 --> 01:29:08,161
+prohibition they have
+going on around this place, but...
+
+878
+01:29:08,261 --> 01:29:12,363
+Plutarch got word that Peeta and
+the others are in the Tribute Center.
+
+879
+01:29:12,463 --> 01:29:15,799
+And with the power out,
+Coin sees this as an opportunity.
+
+880
+01:29:15,899 --> 01:29:19,970
+She knows that Peeta is the Capitol's weapon.
+The same way you're ours.
+
+881
+01:29:20,070 --> 01:29:23,841
+And as opposed to having you two
+pointing at each other,
+
+882
+01:29:23,941 --> 01:29:26,145
+she's going to get him.
+
+883
+01:29:26,376 --> 01:29:29,813
+- I have to go help.
+- Hey, hey, whoa, kiddo. Wait.
+
+884
+01:29:29,913 --> 01:29:33,150
+Come on. What, are you just gonna jump
+out of the vent and go storm the Capitol?
+
+885
+01:29:33,250 --> 01:29:35,587
+Besides, it's already underway.
+
+886
+01:29:36,187 --> 01:29:39,423
+Six soldiers went in. Volunteer only.
+
+887
+01:29:39,523 --> 01:29:43,091
+And guess who was
+the first brave soul to sign up.
+
+888
+01:29:43,893 --> 01:29:45,645
+Gale.
+
+889
+01:29:54,671 --> 01:29:56,774
+- Okay, Finnick?
+- Yeah. Yeah.
+
+890
+01:29:56,874 --> 01:29:59,116
+Go in the center there.
+
+891
+01:29:59,574 --> 01:30:01,577
+Those rocks.
+
+892
+01:30:04,481 --> 01:30:06,052
+Castor, to the left.
+
+893
+01:30:06,750 --> 01:30:10,107
+Pollux, you're with me.
+So we'll go straight to camera.
+
+894
+01:30:10,921 --> 01:30:13,257
+Okay? Finnick?
+
+895
+01:30:13,357 --> 01:30:14,625
+Yeah.
+
+896
+01:30:14,925 --> 01:30:18,095
+Okay. Take your time.
+
+897
+01:30:18,195 --> 01:30:21,496
+Just remember to keep talking
+and don't stop.
+
+898
+01:30:24,669 --> 01:30:26,878
+This is Finnick Odair.
+
+899
+01:30:27,770 --> 01:30:30,708
+<i>Winner of the 65th Hunger Games.</i>
+
+900
+01:30:30,808 --> 01:30:34,411
+<i>And I'm coming to you
+from District 13, alive and well.</i>
+
+901
+01:30:34,511 --> 01:30:37,648
+<i>We've survived an assault
+from the Capitol.</i>
+
+902
+01:30:37,748 --> 01:30:40,484
+<i>But I'm not here
+to give you recent news.</i>
+
+903
+01:30:40,584 --> 01:30:44,455
+- Why is Finnick doing a propo?
+- It's a lot more than that.
+
+904
+01:30:44,555 --> 01:30:48,225
+- Beetee's commandeered the system.
+- Now that they're down to generator power
+
+905
+01:30:48,325 --> 01:30:50,494
+there's a more limited range of
+frequencies available to them.
+
+906
+01:30:50,594 --> 01:30:52,429
+And I'm filling them
+all up with Finnick.
+
+907
+01:30:52,529 --> 01:30:55,400
+Not many will see it, but whoever does
+will think it's another propo.
+
+908
+01:30:55,500 --> 01:30:58,986
+What they don't know is this broadcast
+is jamming their entire system with noise.
+
+909
+01:30:59,086 --> 01:31:02,172
+Early defense warning,
+internal communications, everything.
+
+910
+01:31:02,272 --> 01:31:03,641
+As long as the broadcast goes through,
+
+911
+01:31:03,741 --> 01:31:06,410
+our team should be able
+to get in and out undetected.
+
+912
+01:31:06,510 --> 01:31:09,380
+<i>The truth.
+Not the myths about a life of luxury.</i>
+
+913
+01:31:09,480 --> 01:31:12,750
+<i>Not the lie about glory
+for your homeland.</i>
+
+914
+01:31:12,850 --> 01:31:15,186
+<i>You can survive the arena.</i>
+
+915
+01:31:15,286 --> 01:31:18,319
+<i>The moment you leave, you're a slave.</i>
+
+916
+01:31:31,134 --> 01:31:35,272
+<i>Mockingjay One, Mockingjay One, you are
+one minute out from perimeter defense.</i>
+
+917
+01:31:35,614 --> 01:31:39,310
+- Going dark.
+- <i>Stay low in case they're online.</i>
+
+918
+01:31:40,109 --> 01:31:42,513
+<i>President Snow used to sell me.</i>
+
+919
+01:31:42,613 --> 01:31:45,883
+<i>Or my body, at least.
+I wasn't the only one.</i>
+
+920
+01:31:45,983 --> 01:31:49,838
+<i>If a Victor is considered desirable,
+the President gives them as a reward</i>
+
+921
+01:31:49,938 --> 01:31:54,725
+<i>or allows people to buy them.
+If you refuse, he kills someone you love.</i>
+
+922
+01:31:54,825 --> 01:31:58,626
+Mockingjay One, you are 20 seconds
+from perimeter defense.
+
+923
+01:32:03,833 --> 01:32:05,199
+Ten seconds.
+
+924
+01:32:05,299 --> 01:32:07,204
+Nine... Eight...
+
+925
+01:32:07,404 --> 01:32:10,273
+<i>Seven... Six... Five...</i>
+
+926
+01:32:10,873 --> 01:32:13,908
+<i>Four... Three... Two...</i>
+
+927
+01:32:14,610 --> 01:32:15,621
+<i>One.</i>
+
+928
+01:32:24,053 --> 01:32:27,357
+<i>No response from perimeter defense.
+We're inside Capitol airspace.</i>
+
+929
+01:32:27,457 --> 01:32:31,483
+<i>To make themselves feel better, my patrons
+would make presents of money or jewelry.</i>
+
+930
+01:32:31,962 --> 01:32:36,734
+<i>But I found a much more
+valuable form of payment.</i>
+
+931
+01:32:36,834 --> 01:32:37,935
+<i>Secrets.</i>
+
+932
+01:32:38,035 --> 01:32:39,657
+Gear up.
+
+933
+01:33:00,023 --> 01:33:01,789
+Switching to Night View.
+
+934
+01:33:09,866 --> 01:33:11,510
+There.
+
+935
+01:33:14,170 --> 01:33:16,974
+Command, we have visual
+on the Tribute Center.
+
+936
+01:33:17,074 --> 01:33:19,407
+<i>Initiating final approach.</i>
+
+937
+01:33:23,579 --> 01:33:25,013
+Masks on.
+
+938
+01:33:30,086 --> 01:33:33,591
+<i>See, I know all the depravity,
+the deceit and the cruelty</i>
+
+939
+01:33:33,691 --> 01:33:36,561
+<i>of the Capitol's pampered elite.</i>
+
+940
+01:33:37,061 --> 01:33:41,463
+<i>But the biggest secrets are about
+our good President, Coriolanus Snow.</i>
+
+941
+01:33:49,205 --> 01:33:50,457
+Open the door.
+
+942
+01:34:00,149 --> 01:34:01,384
+<i>Command, this is Team Leader.</i>
+
+943
+01:34:01,484 --> 01:34:05,219
+Prepare to deploy gas.
+We will confirm once inside.
+
+944
+01:34:08,525 --> 01:34:12,062
+<i>Such a young man when he rose to power.
+Such a clever one to keep it.</i>
+
+945
+01:34:12,162 --> 01:34:15,663
+<i>How, you may ask, did he do it?</i>
+
+946
+01:34:17,166 --> 01:34:18,833
+<i>One word.</i>
+
+947
+01:34:19,335 --> 01:34:20,968
+<i>Poison.</i>
+
+948
+01:34:27,143 --> 01:34:29,091
+Get ready to drop.
+
+949
+01:34:56,072 --> 01:35:00,137
+<i>He stopped every mutiny
+before it even started.</i>
+
+950
+01:35:09,886 --> 01:35:11,398
+Clear.
+
+951
+01:35:14,657 --> 01:35:19,096
+Clear. Command, we're inside.
+Heading toward target number one.
+
+952
+01:35:19,196 --> 01:35:22,163
+Cell P45 lower level 2C.
+
+953
+01:35:22,865 --> 01:35:24,038
+Gas.
+
+954
+01:35:24,401 --> 01:35:28,502
+<i>There are so many mysterious deaths
+to adversaries.</i>
+
+955
+01:35:29,305 --> 01:35:31,439
+<i>Even to allies who were threats.</i>
+
+956
+01:35:42,885 --> 01:35:45,756
+<i>Snow would drink from the same cup,
+to deflect suspicion.</i>
+
+957
+01:35:45,856 --> 01:35:48,959
+<i>But antidotes don't always work,</i>
+
+958
+01:35:49,059 --> 01:35:52,062
+<i>which is why he wears roses
+that reek of perfume.</i>
+
+959
+01:35:52,162 --> 01:35:56,931
+<i>Help cover the scent of blood from sores
+in his mouth that will never heal.</i>
+
+960
+01:36:21,557 --> 01:36:23,124
+Gale.
+
+961
+01:36:26,863 --> 01:36:31,402
+<i>But he can't hide the scent of who
+he really is. He kills without mercy.</i>
+
+962
+01:36:31,502 --> 01:36:34,334
+<i>He rules with deception and fear.</i>
+
+963
+01:36:59,628 --> 01:37:03,266
+<i>His weapon of choice
+is the only thing suited to such a man.</i>
+
+964
+01:37:03,366 --> 01:37:07,601
+<i>Poison. The perfect weapon for a snake.</i>
+
+965
+01:37:09,138 --> 01:37:10,686
+<i>What is this place?</i>
+
+966
+01:37:21,485 --> 01:37:22,986
+- Beetee?
+- I'm losing them.
+
+967
+01:37:23,086 --> 01:37:24,618
+Powering back up.
+
+968
+01:37:26,557 --> 01:37:30,260
+Ma'am, the Capitol air defense system
+is rebooting. It's coming back online.
+
+969
+01:37:30,360 --> 01:37:32,127
+Must be diverting power
+from another source.
+
+970
+01:37:32,227 --> 01:37:34,832
+And filtering transmissions.
+Another 60 seconds and we'll be cut off.
+
+971
+01:37:34,932 --> 01:37:37,197
+Madam President, should we
+call back the hovercraft?
+
+972
+01:37:38,900 --> 01:37:40,604
+Broadcast me.
+
+973
+01:37:40,804 --> 01:37:44,508
+If Snow's watching this, maybe he'll
+let the signal in, if he sees me.
+
+974
+01:37:45,008 --> 01:37:46,810
+Put me on the air so he can see me.
+
+975
+01:37:46,910 --> 01:37:49,413
+- Yes. Yes.
+- Put her on.
+
+976
+01:37:49,513 --> 01:37:51,949
+Can we do this? Can we still get in?
+
+977
+01:37:52,049 --> 01:37:54,518
+Yes. For the moment. The line's open.
+He will only see you.
+
+978
+01:37:54,618 --> 01:37:56,453
+Okay, Katniss, go.
+
+979
+01:37:56,553 --> 01:37:59,423
+President Snow?
+President Snow. It's Katniss.
+
+980
+01:37:59,523 --> 01:38:02,492
+- There's no guarantee he's even watching.
+- President Snow?
+
+981
+01:38:02,592 --> 01:38:06,195
+- I know, but he might be.
+- President Snow, I need to speak with you.
+
+982
+01:38:06,295 --> 01:38:08,063
+Are you there?
+
+983
+01:38:08,665 --> 01:38:12,699
+President Snow, it's Katniss.
+Can you hear me?
+
+984
+01:38:13,768 --> 01:38:15,636
+I need to speak with you.
+
+985
+01:38:17,473 --> 01:38:22,301
+President Snow, it's Katniss.
+President Snow, are you there?
+
+986
+01:38:25,880 --> 01:38:27,882
+Can you hear me?
+
+987
+01:38:33,172 --> 01:38:37,524
+- President Snow...
+<i>- Miss Everdeen. What an honor.</i>
+
+988
+01:38:38,527 --> 01:38:43,464
+<i>I don't imagine you're calling
+to thank me for the roses.</i>
+
+989
+01:38:44,767 --> 01:38:47,066
+I never asked for this.
+
+990
+01:38:47,703 --> 01:38:49,605
+I never asked to be in the Games.
+
+991
+01:38:49,905 --> 01:38:53,606
+- Boggs? Come in. Boggs?
+- I never asked to be The Mockingjay.
+
+992
+01:38:54,510 --> 01:38:58,182
+Just wanted to save my sister.
+And keep Peeta alive.
+
+993
+01:38:58,482 --> 01:39:01,044
+Come in. Boggs?
+
+994
+01:39:01,685 --> 01:39:05,322
+Please, just let him go.
+And I will stop being The Mockingjay.
+
+995
+01:39:05,422 --> 01:39:07,724
+I will disappear. You will never
+have to see me ever again.
+
+996
+01:39:07,824 --> 01:39:08,982
+<i>Miss Everdeen.</i>
+
+997
+01:39:09,659 --> 01:39:13,010
+- Boggs, come in.
+- <i>You couldn't run from this...</i>
+
+998
+01:39:13,110 --> 01:39:16,600
+<i>any more than you could have
+run from the Games.</i>
+
+999
+01:39:16,700 --> 01:39:21,403
+- Command, I need a situation report.
+- <i>Boggs, we're running out of time. Hurry.</i>
+
+1000
+01:39:23,239 --> 01:39:24,273
+Let's move.
+
+1001
+01:39:24,373 --> 01:39:25,575
+Please.
+
+1002
+01:39:25,975 --> 01:39:27,982
+You've won.
+
+1003
+01:39:30,679 --> 01:39:32,828
+You've already beaten me.
+
+1004
+01:39:35,518 --> 01:39:38,519
+Release Peeta. And take me instead.
+
+1005
+01:39:40,456 --> 01:39:43,493
+<i>We're long past the opportunity</i>
+
+1006
+01:39:43,593 --> 01:39:45,762
+<i>for noble sacrifice.</i>
+
+1007
+01:39:45,862 --> 01:39:49,733
+Then tell me what to do.
+I've always kept my promises, haven't I?
+
+1008
+01:39:49,833 --> 01:39:55,536
+<i>You said you didn't want a war.
+And that's just what's happened.</i>
+
+1009
+01:39:56,238 --> 01:39:59,376
+<i>I told you what a fragile
+thing peace was.</i>
+
+1010
+01:39:59,476 --> 01:40:01,378
+<i>And still, like a child,</i>
+
+1011
+01:40:01,678 --> 01:40:04,777
+<i>you took pleasure in breaking it.</i>
+
+1012
+01:40:05,648 --> 01:40:07,383
+<i>I know what you are.</i>
+
+1013
+01:40:07,683 --> 01:40:11,254
+<i>I know you can't see past
+your narrowest concerns.</i>
+
+1014
+01:40:11,354 --> 01:40:14,288
+<i>But please, Miss Everdeen.</i>
+
+1015
+01:40:14,523 --> 01:40:17,194
+<i>I doubt you know
+what honesty is anymore.</i>
+
+1016
+01:40:17,294 --> 01:40:20,330
+Command, we're at the first target.
+Preparing to extract Peeta.
+
+1017
+01:40:20,430 --> 01:40:22,029
+Will confirm when he's in hand.
+
+1018
+01:40:24,902 --> 01:40:27,104
+Mockingjay One,
+prepare hovercraft for evac.
+
+1019
+01:40:27,304 --> 01:40:30,373
+You asked me to convince you
+that I was in love with Peeta.
+
+1020
+01:40:30,473 --> 01:40:33,006
+Haven't I at least done that?
+
+1021
+01:40:33,441 --> 01:40:35,176
+<i>Miss Everdeen,</i>
+
+1022
+01:40:36,745 --> 01:40:40,347
+<i>it's the things we love most</i>
+
+1023
+01:40:40,549 --> 01:40:42,683
+<i>that destroy us.</i>
+
+1024
+01:40:44,253 --> 01:40:46,045
+<i>I want you to remember</i>
+
+1025
+01:40:47,267 --> 01:40:49,528
+<i>that I said that.</i>
+
+1026
+01:40:53,928 --> 01:40:58,158
+<i>Don't you think I know your friends
+are in the Tribute Center?</i>
+
+1027
+01:40:59,735 --> 01:41:00,868
+<i>Cut them off.</i>
+
+1028
+01:41:02,984 --> 01:41:04,967
+- <i>Boggs, come in.</i>
+- What happened?
+
+1029
+01:41:05,142 --> 01:41:07,477
+Boggs, come in. Do you read me?
+
+1030
+01:41:07,577 --> 01:41:10,447
+- He knows that they're in there. It's a trap.
+- Katniss, hold it.
+
+1031
+01:41:10,547 --> 01:41:13,217
+We have to get a hold of them.
+We have to tell them to get out. He knows.
+
+1032
+01:41:13,317 --> 01:41:15,485
+There's no signal.
+We can't contact them.
+
+1033
+01:41:15,585 --> 01:41:19,389
+No. Haymitch, he knew the whole time.
+He was taunting me.
+
+1034
+01:41:19,489 --> 01:41:22,192
+- No, Haymitch. They're in there.
+- No, we don't know that.
+
+1035
+01:41:22,292 --> 01:41:25,662
+Did I lose them both tonight?
+Did I lose them both tonight?
+
+1036
+01:41:25,762 --> 01:41:28,031
+Did I lose them both tonight?
+
+1037
+01:41:28,131 --> 01:41:31,501
+Did I lose them? I lost them both.
+
+1038
+01:41:31,601 --> 01:41:33,700
+No! No!
+
+1039
+01:41:42,344 --> 01:41:43,778
+There's no news.
+
+1040
+01:41:45,948 --> 01:41:47,647
+I'm sorry.
+
+1041
+01:41:50,186 --> 01:41:53,087
+It's the worst torture in the world.
+
+1042
+01:41:54,890 --> 01:41:58,225
+Waiting, when you know
+there's nothing you can do.
+
+1043
+01:42:03,266 --> 01:42:05,900
+Especially for people like us.
+
+1044
+01:42:06,669 --> 01:42:08,828
+But whatever
+
+1045
+01:42:09,109 --> 01:42:11,688
+strength, courage,
+
+1046
+01:42:11,874 --> 01:42:13,908
+madness,
+
+1047
+01:42:14,376 --> 01:42:18,345
+keeps us going, you find it,
+at times like these.
+
+1048
+01:42:20,949 --> 01:42:23,187
+You have it, soldier.
+
+1049
+01:42:23,387 --> 01:42:26,620
+It's what's kept you
+alive all this time.
+
+1050
+01:42:27,489 --> 01:42:29,824
+And it won't fail you now.
+
+1051
+01:42:51,647 --> 01:42:53,077
+They're back.
+
+1052
+01:43:01,557 --> 01:43:03,293
+I don't want that.
+
+1053
+01:43:07,796 --> 01:43:08,998
+Johanna.
+
+1054
+01:43:09,298 --> 01:43:10,697
+Finnick!
+
+1055
+01:43:11,867 --> 01:43:13,203
+Finnick!
+
+1056
+01:43:13,503 --> 01:43:16,836
+Annie? Annie! Annie!
+
+1057
+01:43:20,209 --> 01:43:22,742
+You're safe. You're safe.
+
+1058
+01:43:29,485 --> 01:43:31,152
+Gale!
+
+1059
+01:43:33,922 --> 01:43:35,689
+Are you okay?
+
+1060
+01:43:36,825 --> 01:43:38,195
+What? What is it?
+
+1061
+01:43:38,295 --> 01:43:44,098
+I don't get it. Every gun was back online
+and on us and we flew right past them.
+
+1062
+01:43:44,200 --> 01:43:46,266
+They let us go.
+
+1063
+01:43:51,072 --> 01:43:52,406
+He's in there.
+
+1064
+01:43:54,543 --> 01:43:58,679
+The gas we used on the guards knocked
+him out, too, but it's wearing off now.
+
+1065
+01:44:00,248 --> 01:44:02,416
+You should be there when he wakes up.
+
+1066
+01:44:07,355 --> 01:44:09,222
+Thank you.
+
+1067
+01:44:11,827 --> 01:44:13,560
+Thank you.
+
+1068
+01:44:33,382 --> 01:44:35,033
+Peeta.
+
+1069
+01:45:08,783 --> 01:45:10,153
+Peeta!
+
+1070
+01:45:10,553 --> 01:45:14,190
+Peeta! Get off! Get off of her!
+
+1071
+01:45:14,290 --> 01:45:15,921
+Let go!
+
+1072
+01:45:50,493 --> 01:45:52,762
+No, Katniss.
+No, you're swollen. Don't touch.
+
+1073
+01:45:52,862 --> 01:45:56,330
+No, no, no. Calm down.
+Calm down. You're okay.
+
+1074
+01:45:59,168 --> 01:46:00,934
+Tell her she's awake.
+
+1075
+01:46:02,838 --> 01:46:04,574
+- Pee...
+- Don't try to talk.
+
+1076
+01:46:04,674 --> 01:46:07,226
+Peeta's okay. I promise.
+
+1077
+01:46:07,409 --> 01:46:09,700
+I just had to get him off you.
+
+1078
+01:46:15,951 --> 01:46:18,574
+It's called hijacking.
+
+1079
+01:46:19,389 --> 01:46:22,417
+We don't know how long the Capitol's
+been doing this to Peeta.
+
+1080
+01:46:23,291 --> 01:46:27,130
+It's fear conditioning.
+Enhanced with tracker jacker venom.
+
+1081
+01:46:27,530 --> 01:46:30,267
+You were stung your first Games.
+Remember?
+
+1082
+01:46:30,667 --> 01:46:33,940
+The venom puts the subject
+in a dissociative state.
+
+1083
+01:46:34,703 --> 01:46:36,849
+And they torture him.
+
+1084
+01:46:37,365 --> 01:46:41,678
+With shocks and beatings,
+and strip down his identity.
+
+1085
+01:46:41,778 --> 01:46:44,714
+And then all of that suffering
+and fear is redirected.
+
+1086
+01:46:44,814 --> 01:46:48,867
+Associated with other memories
+or a person.
+
+1087
+01:46:49,752 --> 01:46:51,921
+They can change his memories of Katniss?
+
+1088
+01:46:52,021 --> 01:46:54,375
+To make her seem life-threatening.
+
+1089
+01:46:54,990 --> 01:46:59,660
+They turned him into a weapon, Katniss.
+To kill you.
+
+1090
+01:47:00,962 --> 01:47:02,052
+But you can reverse it?
+
+1091
+01:47:02,152 --> 01:47:03,933
+The fear is the most difficult
+thing to overcome.
+
+1092
+01:47:04,033 --> 01:47:06,869
+We're hardwired to remember fear best.
+
+1093
+01:47:06,969 --> 01:47:08,970
+It's new terrain.
+
+1094
+01:47:09,738 --> 01:47:12,572
+But we've put together a team.
+
+1095
+01:47:12,874 --> 01:47:15,108
+I'm optimistic.
+
+1096
+01:47:41,403 --> 01:47:43,266
+Good evening.
+
+1097
+01:47:43,972 --> 01:47:49,045
+Yesterday, I authorized a covert
+rescue mission inside the Capitol.
+
+1098
+01:47:49,445 --> 01:47:52,115
+I am pleased to announce
+
+1099
+01:47:52,215 --> 01:47:56,223
+that the Victors have been liberated!
+
+1100
+01:48:01,590 --> 01:48:05,939
+Let this day mark an historic change.
+
+1101
+01:48:06,596 --> 01:48:09,999
+With The Mockingjay
+and the Victors beside us,
+
+1102
+01:48:10,099 --> 01:48:13,703
+we have sent a clear message
+to the Capitol.
+
+1103
+01:48:13,803 --> 01:48:18,205
+That we will never again
+endure injustice.
+
+1104
+01:48:23,278 --> 01:48:27,751
+Today, a day on which
+we reunited family,
+
+1105
+01:48:28,351 --> 01:48:31,488
+friends, and loved ones.
+
+1106
+01:48:31,688 --> 01:48:36,293
+Let all of Panem come together.
+
+1107
+01:48:36,693 --> 01:48:40,563
+Not to battle for the amusement
+of the Capitol.
+
+1108
+01:48:40,663 --> 01:48:43,698
+But to join hands in this fight.
+
+1109
+01:48:50,539 --> 01:48:53,309
+Let today be the day we promise
+
+1110
+01:48:53,409 --> 01:48:55,033
+never to give up,
+
+1111
+01:48:55,533 --> 01:48:59,983
+never to give in
+until we have made a new Panem,
+
+1112
+01:49:00,083 --> 01:49:04,387
+where leaders are elected,
+not imposed upon us.
+
+1113
+01:49:04,487 --> 01:49:08,858
+And where the districts are free
+to share the fruits of their labors
+
+1114
+01:49:08,958 --> 01:49:11,525
+and not fight one another for scraps!
+
+1115
+01:49:24,673 --> 01:49:29,989
+This new Panem is on the horizon.
+But we must take it for ourselves.
+
+1116
+01:49:30,246 --> 01:49:34,517
+The road there leads through
+the sharp mountains
+
+1117
+01:49:34,617 --> 01:49:37,720
+and deep ravines of District 2.
+
+1118
+01:49:37,820 --> 01:49:42,018
+There in the heart of Panem's
+steepest mountain range
+
+1119
+01:49:42,118 --> 01:49:45,893
+lies the Capitol's principal
+military facility.
+
+1120
+01:49:46,928 --> 01:49:49,699
+We can conquer this stronghold
+
+1121
+01:49:49,799 --> 01:49:53,002
+because we are one people,
+
+1122
+01:49:53,102 --> 01:49:56,739
+one army, one voice.
+
+1123
+01:49:56,839 --> 01:50:01,444
+Because today is our new beginning.
+
+1124
+01:50:01,544 --> 01:50:05,881
+Today we have freed the Victors.
+
+1125
+01:50:05,981 --> 01:50:09,216
+Tomorrow, Panem!
+
+1126
+01:50:17,292 --> 01:50:21,495
+Hoorah! Hoorah! Hoorah!

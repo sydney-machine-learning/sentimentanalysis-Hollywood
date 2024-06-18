@@ -1,0 +1,5318 @@
+1
+00:00:44,700 --> 00:00:47,191
+<i>It's blind instinct.</i>
+
+2
+00:00:47,995 --> 00:00:51,328
+<i>But now it is Creed coming back</i>
+<i>with the left hand!</i>
+
+3
+00:00:51,457 --> 00:00:55,585
+<i>What's keeping these two guys up?</i>
+<i>A tremendous closing moment!</i>
+
+4
+00:00:58,830 --> 00:01:02,910
+<i>Here comes Balboa back,</i>
+<i>but the champion's back with another left.</i>
+
+5
+00:01:09,006 --> 00:01:13,882
+<i>A right hand! It's Creed.</i>
+<i>Now it's Balboa! Now it's Creed.</i>
+
+6
+00:01:14,011 --> 00:01:18,009
+<i>A tremendous left by Rocky.</i>
+<i>They're dead in the centre, toe to toe!</i>
+
+7
+00:01:36,159 --> 00:01:38,151
+One!
+
+8
+00:01:40,496 --> 00:01:41,496
+Two!
+
+9
+00:01:41,622 --> 00:01:47,495
+<i>Creed will retain the title.</i>
+<i>If neither gets up, Creed will win the title.</i>
+
+10
+00:01:47,837 --> 00:01:50,209
+- Four!
+- Get up, my man.
+
+11
+00:01:50,339 --> 00:01:51,964
+God!
+
+12
+00:01:53,217 --> 00:01:54,217
+Six.
+
+13
+00:01:54,343 --> 00:01:57,048
+<i>Each fighter is trying to beat the count!</i>
+
+14
+00:01:57,180 --> 00:01:58,804
+Get up there!
+
+15
+00:01:59,307 --> 00:02:01,299
+Eight!
+
+16
+00:02:02,059 --> 00:02:04,597
+- Nine!
+<i>- The champ is down.</i>
+
+17
+00:02:04,729 --> 00:02:07,480
+Ten!
+
+18
+00:02:09,108 --> 00:02:12,109
+<i>He's done it at the last second!</i>
+
+19
+00:02:12,236 --> 00:02:15,486
+<i>He made it!</i>
+<i>Rocky Balboa has shocked the world!</i>
+
+20
+00:02:15,615 --> 00:02:18,651
+<i>He is the new heavyweight</i>
+<i>champion of the world!</i>
+
+21
+00:02:19,869 --> 00:02:22,027
+Ladies and gentlemen,
+
+22
+00:02:22,163 --> 00:02:27,039
+in a stunning upset,
+scoring a win by knockout,
+
+23
+00:02:27,168 --> 00:02:30,453
+the new heavyweight
+champion of the world,
+
+24
+00:02:31,964 --> 00:02:35,583
+Rocky Balboa!
+
+25
+00:02:36,886 --> 00:02:38,962
+Excuse me. Excuse me.
+
+26
+00:02:40,014 --> 00:02:44,012
+I just wanna say one thing -
+to my wife, who's home.
+
+27
+00:02:46,729 --> 00:02:49,516
+Yo, Adrian. I did it!
+
+28
+00:02:49,649 --> 00:02:53,018
+I love you. I love you.
+
+29
+00:03:53,087 --> 00:03:56,337
+<i>~ Risin' up, back on the street ~</i>
+
+30
+00:03:57,550 --> 00:04:00,219
+<i>~ Did my time, took my chances ~</i>
+
+31
+00:04:01,971 --> 00:04:05,055
+<i>~ Went the distance</i>
+<i>Now I'm back on my feet ~</i>
+
+32
+00:04:05,183 --> 00:04:08,765
+<i>~ Just a man and his will to survive ~</i>
+
+33
+00:04:10,438 --> 00:04:13,688
+<i>~ So many times, it happens too fast ~</i>
+
+34
+00:04:14,901 --> 00:04:18,151
+<i>~ You change your passion for glory ~</i>
+
+35
+00:04:19,030 --> 00:04:22,695
+<i>~ Don't lose your grip</i>
+<i>On the dreams of the past ~</i>
+
+36
+00:04:22,825 --> 00:04:27,155
+<i>~ You must fight just to keep them alive ~</i>
+
+37
+00:04:27,288 --> 00:04:31,333
+<i>~ It's the eye of the tiger</i>
+<i>It's the thrill of the fight ~</i>
+
+38
+00:04:31,459 --> 00:04:35,920
+<i>~ Risin' up to the challenge of our rival ~</i>
+
+39
+00:04:36,047 --> 00:04:40,341
+<i>~ And the last known survivor</i>
+<i>Stalks his prey in the night ~</i>
+
+40
+00:04:40,468 --> 00:04:44,797
+<i>~ And he's watching us all with the eye ~</i>
+
+41
+00:04:44,931 --> 00:04:46,970
+<i>~ Of the tiger ~</i>
+
+42
+00:04:50,603 --> 00:04:54,019
+<i>~ Face to face, out in the heat ~</i>
+
+43
+00:04:54,982 --> 00:04:57,983
+<i>~ Hangin' tough, stayin' hungry ~</i>
+
+44
+00:04:59,111 --> 00:05:02,611
+<i>~ They stack the odds</i>
+<i>Still we take to the street ~</i>
+
+45
+00:05:02,740 --> 00:05:06,820
+<i>~ For the kill, with the skill to survive ~</i>
+
+46
+00:05:06,994 --> 00:05:10,944
+<i>~ It's the eye of the tiger</i>
+<i>It's the thrill of the fight ~</i>
+
+47
+00:05:11,082 --> 00:05:15,660
+<i>~ Risin' up to the challenge of our rival ~</i>
+
+48
+00:05:15,795 --> 00:05:19,793
+<i>~ And the last known survivor</i>
+<i>Stalks his prey in the night ~</i>
+
+49
+00:05:20,091 --> 00:05:24,504
+<i>~ And he's watching us all with the eye ~</i>
+
+50
+00:05:24,637 --> 00:05:27,093
+<i>~ Of the tiger ~</i>
+
+51
+00:05:34,522 --> 00:05:38,105
+<i>~ Risin' up, straight to the top ~</i>
+
+52
+00:05:39,110 --> 00:05:42,027
+<i>~ Had the guts, got the glory ~</i>
+
+53
+00:05:43,406 --> 00:05:46,656
+<i>~ Went the distance</i>
+<i>Now I'm not gonna stop ~</i>
+
+54
+00:05:46,784 --> 00:05:50,319
+<i>~ Just a man and his will to survive ~</i>
+
+55
+00:05:51,080 --> 00:05:55,160
+<i>~ It's the eye of the tiger</i>
+<i>It's the thrill of the fight ~</i>
+
+56
+00:05:55,293 --> 00:05:59,456
+<i>~ Risin' up to the challenge of our rival ~</i>
+
+57
+00:05:59,589 --> 00:06:04,085
+<i>~ And the last known survivor</i>
+<i>Stalks his prey in the night ~</i>
+
+58
+00:06:04,218 --> 00:06:09,461
+<i>~ And he's watching us all with the eye ~</i>
+
+59
+00:06:11,017 --> 00:06:14,136
+<i>~ Of the tiger ~</i>
+
+60
+00:06:23,613 --> 00:06:25,901
+<i>~ The eye of the tiger ~</i>
+
+61
+00:06:32,330 --> 00:06:34,572
+<i>~ The eye of the tiger ~</i>
+
+62
+00:06:36,584 --> 00:06:39,620
+I want Balboa. I want Balboa.
+
+63
+00:06:39,754 --> 00:06:44,665
+You hear that, old man? You tell Balboa.
+Nobody can beat me. Tell him what I said.
+
+64
+00:06:44,800 --> 00:06:47,885
+And he's next. I'm gonna kill him.
+Nobody can stop me.
+
+65
+00:06:48,012 --> 00:06:51,179
+You tell Balboa that. I'm comin' after him.
+
+66
+00:06:51,807 --> 00:06:56,101
+<i>I want a shot at the title if Balboa's</i>
+<i>got the guts to meet me in the ring.</i>
+
+67
+00:06:56,229 --> 00:06:59,395
+<i>My whole life's been directed</i>
+<i>towards this title.</i>
+
+68
+00:06:59,524 --> 00:07:03,652
+<i>I live alone. I train alone.</i>
+<i>I'll win the title alone. I want him.</i>
+
+69
+00:07:03,945 --> 00:07:07,859
+<i>He can't duck me forever.</i>
+<i>He can run, but he can't hide.</i>
+
+70
+00:07:07,990 --> 00:07:10,660
+<i>Another southpaw,</i>
+<i>champion Rocky Balboa,</i>
+
+71
+00:07:10,868 --> 00:07:13,110
+<i>isn't worried about much these days.</i>
+
+72
+00:07:13,246 --> 00:07:15,653
+<i>He's defended his title for the tenth time</i>
+
+73
+00:07:15,790 --> 00:07:20,333
+<i>and will face the world heavyweight</i>
+<i>wrestling champion in a charity benefit,</i>
+
+74
+00:07:20,461 --> 00:07:23,498
+<i>with all the proceeds</i>
+<i>to go to a local youth foundation.</i>
+
+75
+00:07:23,631 --> 00:07:28,293
+<i>I'll have to give him credit. Mr Balboa</i>
+<i>stays busy. He's a true sportsman.</i>
+
+76
+00:07:28,427 --> 00:07:33,136
+<i>It looks like the no. 1 contender, Clubber</i>
+<i>Lang, will have to play the waiting game.</i>
+
+77
+00:07:33,266 --> 00:07:35,673
+<i>But that should be a great match-up.</i>
+
+78
+00:07:35,810 --> 00:07:38,217
+Paulie, take it easy, OK?
+
+79
+00:07:41,107 --> 00:07:43,099
+Hey, you goin'?
+
+80
+00:07:43,234 --> 00:07:46,235
+Hey,
+don't forget to give Rocky my best, huh?
+
+81
+00:07:46,988 --> 00:07:49,989
+You know, I've been comin' here years.
+
+82
+00:07:50,116 --> 00:07:54,363
+How 'bout you give me,
+Paulie, your best once?
+
+83
+00:07:55,079 --> 00:07:57,831
+Take it easy, Paulie.
+
+84
+00:07:57,957 --> 00:08:01,658
+Hey, Paulie, you heard me?
+
+85
+00:08:01,794 --> 00:08:05,543
+When you see the Rock,
+tell him the boys all said "Hey"!
+
+86
+00:09:52,321 --> 00:09:54,361
+Paulie.
+
+87
+00:09:58,327 --> 00:10:01,281
+You wanna hear I owe ya?
+You, I owe nothin'.
+
+88
+00:10:01,414 --> 00:10:03,656
+Nah, you don't owe me nothin'.
+
+89
+00:10:03,791 --> 00:10:06,080
+So, what do ya want I should do?
+
+90
+00:10:06,210 --> 00:10:09,045
+- My sister ain't here?
+- She's home.
+
+91
+00:10:09,172 --> 00:10:12,375
+Me and her were tight until you come in.
+
+92
+00:10:12,508 --> 00:10:14,916
+I raised her. She don't come down.
+
+93
+00:10:15,052 --> 00:10:17,425
+She don't know about this.
+
+94
+00:10:17,555 --> 00:10:19,797
+You and her can go to hell,
+you know that?
+
+95
+00:10:19,932 --> 00:10:21,972
+Watch your mouth, Paulie.
+
+96
+00:10:22,101 --> 00:10:26,015
+You gonna whack me?
+I don't sweat you. Come on.
+
+97
+00:10:26,147 --> 00:10:28,270
+Come on, Paul. Screw your head on right.
+
+98
+00:10:28,399 --> 00:10:32,266
+Nah, your freakin' head
+is the one on wrong.
+
+99
+00:10:32,403 --> 00:10:36,567
+- Yeah? What did I do?
+- What'd ya do? Nothin'.
+
+100
+00:10:36,699 --> 00:10:41,741
+For yourself? Oh, nice! You fixed
+your face up handsome. Nice clothes.
+
+101
+00:10:41,871 --> 00:10:45,536
+What'd ya do for Paulie?
+Three years - did ya get me a job?
+
+102
+00:10:45,666 --> 00:10:50,459
+Look at this! You gave me
+a lousy stinkin' Ex-Lax watch. This!
+
+103
+00:10:51,547 --> 00:10:54,750
+- Paulie...
+- What? What?
+
+104
+00:10:54,884 --> 00:10:57,126
+That's right. No, leave it down!
+
+105
+00:10:57,261 --> 00:10:59,835
+It never kept good time anyway.
+
+106
+00:11:00,681 --> 00:11:04,513
+You forget when you were a punk
+and those guys used to laugh at you.
+
+107
+00:11:04,644 --> 00:11:08,344
+- Who used to whack them bums out?
+- They laughed at both of us.
+
+108
+00:11:08,481 --> 00:11:10,888
+No-one laughed at me.
+
+109
+00:11:11,025 --> 00:11:15,105
+Tell me. Who fixed you up
+with your first woman? Me, Paulie!
+
+110
+00:11:15,238 --> 00:11:20,612
+- She was pregnant.
+- So what? You was no prize either.
+
+111
+00:11:20,743 --> 00:11:23,151
+You know, I always give ya. I give ya.
+
+112
+00:11:23,287 --> 00:11:27,071
+What do you do?
+You buy a new house. You move Mick in.
+
+113
+00:11:27,208 --> 00:11:31,122
+Did you ask me?
+Is there somethin' the matter with me?
+
+114
+00:11:31,796 --> 00:11:34,548
+I got feelings. This ain't cardboard.
+
+115
+00:11:34,674 --> 00:11:36,713
+Everybody's got 'em, Paulie.
+
+116
+00:11:37,260 --> 00:11:40,842
+- The hell with everybody.
+- Maybe it's the hell with you.
+
+117
+00:11:41,806 --> 00:11:46,302
+- I don't wanna listen to this crap.
+- You talk like everyone owes you a living.
+
+118
+00:11:46,435 --> 00:11:49,686
+Nobody owes nobody nothin'.
+You owe yourself.
+
+119
+00:11:49,814 --> 00:11:54,690
+- You're wrong! Friends owe.
+- No! Friends do because they wanna do.
+
+120
+00:11:54,819 --> 00:11:57,392
+Shut your freakin' mouth.
+You keep me down.
+
+121
+00:11:57,530 --> 00:12:02,904
+Down? You're like a crazy brother
+to me. You really are.
+
+122
+00:12:03,035 --> 00:12:07,282
+So I wanna tell you somethin'.
+This is comin' straight from the heart.
+
+123
+00:12:07,790 --> 00:12:11,159
+You ain't down. And you ain't a loser.
+
+124
+00:12:11,669 --> 00:12:15,085
+You're just a jealous, lazy bum.
+
+125
+00:12:16,424 --> 00:12:19,175
+OK. I'm gonna break your mouth.
+
+126
+00:12:19,468 --> 00:12:21,710
+I'm gonna bust your mouth up!
+
+127
+00:12:32,815 --> 00:12:35,520
+Can I have a job?
+
+128
+00:12:37,653 --> 00:12:40,323
+All you had to do was ask.
+
+129
+00:12:45,203 --> 00:12:47,741
+- You punch pretty good.
+- Think so?
+
+130
+00:12:47,872 --> 00:12:49,911
+Oh, superb!
+
+131
+00:12:51,834 --> 00:12:54,835
+- It cost a lot, huh?
+- Yeah, a few bucks.
+
+132
+00:12:54,962 --> 00:12:57,251
+Got an extra one?
+
+133
+00:12:59,842 --> 00:13:03,887
+- Any trouble with Paulie tonight?
+- Nah, nothin' unusual.
+
+134
+00:13:04,013 --> 00:13:06,586
+Are you really gonna fight that wrestler?
+
+135
+00:13:06,724 --> 00:13:09,595
+That's all right. It'll be fun.
+
+136
+00:13:09,727 --> 00:13:12,183
+Mind if I serenade you awhile?
+
+137
+00:13:12,313 --> 00:13:14,934
+<i>~ Doo doo doo-doo... ~</i>
+Come on, it's your part.
+
+138
+00:13:15,066 --> 00:13:17,473
+- What are you doing?
+- Come on, you can do it.
+
+139
+00:13:17,610 --> 00:13:19,567
+<i>~ Doo doo doo-doo ~</i>
+
+140
+00:13:19,695 --> 00:13:23,527
+- Come on. You're gonna wake the baby.
+- Adrian, let's do a duet.
+
+141
+00:13:23,658 --> 00:13:25,781
+<i>~ Doo doo doo-doo</i>
+
+142
+00:13:26,577 --> 00:13:28,819
+<i>~ Doe doe doe-doe... ~</i>
+- No, no.
+
+143
+00:13:28,955 --> 00:13:33,249
+That's good, but it's not "doe doe".
+It's <i>~ doo doo doo-doo ~</i>
+
+144
+00:13:34,085 --> 00:13:36,920
+<i>~ Doo doo doe-doo... ~</i>
+- That's good, darlin'.
+
+145
+00:13:37,046 --> 00:13:41,922
+<i>~ I been told</i>
+<i>Doo doo doo-doo... ~</i>
+
+146
+00:13:42,051 --> 00:13:46,796
+<i>~ By people, and they all</i>
+<i>Doo doo doo-doo... ~</i>
+
+147
+00:13:46,931 --> 00:13:51,593
+<i>~ They said to take you back
+Take you back like before ~</i>
+
+148
+00:13:55,106 --> 00:13:56,766
+What's the matter?
+
+149
+00:13:56,899 --> 00:14:00,351
+I don't know any more
+of the composition.
+
+150
+00:14:00,486 --> 00:14:04,151
+- Maybe we're lucky.
+- Yeah, maybe we're very lucky.
+
+151
+00:14:05,658 --> 00:14:09,572
+<i>~ Doo doo doo-doo...</i>
+<i>Hm hm mm-mm ~</i>
+
+152
+00:14:12,039 --> 00:14:16,536
+<i>Howdy, sports fans. This is Dennis James</i>
+<i>with Jim Healy down here at ringside.</i>
+
+153
+00:14:16,669 --> 00:14:20,667
+Tonight we have a most unlikely match,
+the boxer against the wrestler,
+
+154
+00:14:20,798 --> 00:14:23,254
+with all the proceeds going to charity.
+
+155
+00:14:23,551 --> 00:14:26,256
+What do you think about
+a boxer against a wrestler?
+
+156
+00:14:26,387 --> 00:14:31,726
+You know the theory. Once the wrestler
+grabs the boxer, that's all she wrote.
+
+157
+00:14:31,851 --> 00:14:35,801
+What the hell goes on inside your head?
+Anything normal functions?
+
+158
+00:14:35,938 --> 00:14:38,346
+- Yeah, there's a few.
+- I don't think so.
+
+159
+00:14:38,482 --> 00:14:42,694
+To fight a creature like this,
+you gotta have 100lb of brain damage.
+
+160
+00:14:42,862 --> 00:14:47,239
+I seen wrestlers that was bigger than
+dinosaurs. You ever fight a dinosaur?
+
+161
+00:14:47,366 --> 00:14:51,660
+- No, not lately.
+- They can cause a variety of damage.
+
+162
+00:14:52,038 --> 00:14:54,659
+The wrestling champion
+of the world is here,
+
+163
+00:14:54,790 --> 00:14:58,076
+and he is quite a sight,
+all decked out in red.
+
+164
+00:14:58,628 --> 00:15:01,794
+- Why are they carryin' him?
+- He's walkin'.
+
+165
+00:15:07,970 --> 00:15:10,924
+I'm comin' after you, Balboa.
+
+166
+00:15:11,057 --> 00:15:13,678
+- Let's call it off.
+- Aw, come on. It's for charity.
+
+167
+00:15:13,809 --> 00:15:18,222
+You're wearin' your anatomy out.
+Nobody else does this much for charity.
+
+168
+00:15:18,356 --> 00:15:21,310
+- Bob Hope would.
+- That's true.
+
+169
+00:15:27,073 --> 00:15:29,564
+Rocky, you better call Bob Hope.
+
+170
+00:15:37,124 --> 00:15:40,458
+To all my love slaves out there,
+
+171
+00:15:40,586 --> 00:15:44,251
+Thunderlips is here in the flesh, baby.
+
+172
+00:15:44,799 --> 00:15:46,590
+Oh, my God.
+
+173
+00:15:46,717 --> 00:15:51,759
+The Ultimate Male,
+versus the ultimate meatball.
+
+174
+00:15:53,182 --> 00:15:56,100
+Boy, he is a monster!
+How much would you take
+
+175
+00:15:56,227 --> 00:15:59,975
+- even to get in the ring with him?
+- Would you like to start at Fort Knox?
+
+176
+00:16:00,106 --> 00:16:03,973
+In the white corner, an incredible sight.
+
+177
+00:16:04,735 --> 00:16:07,606
+Standing nearly seven feet,
+
+178
+00:16:08,322 --> 00:16:11,193
+weighing 390lb...
+
+179
+00:16:12,410 --> 00:16:15,411
+- Large, ain't he?
+...the undisputed wrestling champion...
+
+180
+00:16:15,538 --> 00:16:18,325
+That's the biggest arm in the world!
+
+181
+00:16:19,167 --> 00:16:23,544
+A man who calls himself
+the ultimate object of desire,
+
+182
+00:16:24,630 --> 00:16:27,168
+the mountain of molten lust,
+
+183
+00:16:27,300 --> 00:16:31,000
+the one, the only - Thunderlips!
+
+184
+00:16:35,892 --> 00:16:40,767
+You're all trash! You're all trash!
+You're all trash!
+
+185
+00:16:44,108 --> 00:16:47,228
+The slugger from Philadelphia...
+
+186
+00:16:48,779 --> 00:16:50,938
+You better shut up.
+
+187
+00:16:51,782 --> 00:16:53,989
+I'll break him in half!
+
+188
+00:16:54,118 --> 00:16:58,068
+- How much do you think he eats?
+- About 202lb.
+
+189
+00:16:58,206 --> 00:17:00,364
+Weighing 202lb,
+
+190
+00:17:00,958 --> 00:17:06,249
+the reigning heavyweight champion
+of the world, Rocky Balboa.
+
+191
+00:17:13,387 --> 00:17:17,088
+- Come to the centre of the ring.
+- OK, come on, Mick.
+
+192
+00:17:24,899 --> 00:17:29,691
+All right, you guys. This is for fun,
+so take it easy and give 'em a good show.
+
+193
+00:17:31,280 --> 00:17:35,148
+Listen, after the match, how about
+we get a Polaroid together, OK?
+
+194
+00:17:35,827 --> 00:17:38,282
+You're in trouble, buster.
+
+195
+00:17:39,497 --> 00:17:42,498
+He got me mad!
+I'm gonna break him in half like this!
+
+196
+00:17:43,709 --> 00:17:46,165
+Lately, everybody wants to beat me up.
+
+197
+00:17:46,295 --> 00:17:48,667
+This is entertainment. Fun and games.
+
+198
+00:17:48,798 --> 00:17:52,297
+Stay awake, make faces.
+Move around the ring.
+
+199
+00:17:52,426 --> 00:17:54,799
+He is the ring.
+
+200
+00:17:56,055 --> 00:17:58,463
+I get nervous every time he does that.
+
+201
+00:18:03,563 --> 00:18:07,145
+Whoa! You move fast for a big guy.
+
+202
+00:18:07,275 --> 00:18:10,608
+Why don't we just move around?
+Give 'em a good show first.
+
+203
+00:18:10,736 --> 00:18:13,821
+I'll chase you, and you chase me.
+How's that? All right?
+
+204
+00:18:13,948 --> 00:18:17,115
+I'll go easy. Here you go. Is that OK?
+
+205
+00:18:17,243 --> 00:18:19,401
+Does that hurt? All right?
+
+206
+00:18:19,537 --> 00:18:21,743
+How's that? OK? Not bad, huh?
+
+207
+00:18:24,750 --> 00:18:26,790
+Come on, meatball.
+
+208
+00:18:31,090 --> 00:18:33,581
+Think it's all fake, meatball?
+
+209
+00:18:33,718 --> 00:18:36,635
+Thunderlips has gone absolutely berserk.
+
+210
+00:18:38,347 --> 00:18:42,392
+- Run for your life.
+- Life's tough, meatball!
+
+211
+00:18:49,692 --> 00:18:54,437
+Get up, boy. Come on, meatball.
+Get some of this right here.
+
+212
+00:18:58,868 --> 00:19:02,071
+Rocko, remember the neighbourhood!
+
+213
+00:19:02,538 --> 00:19:04,246
+Get out of his way!
+
+214
+00:19:04,373 --> 00:19:08,371
+No, no. I'm not yet - not for the meatball.
+I'm not throwing in yet, boy!
+
+215
+00:19:08,503 --> 00:19:13,663
+If I can't break your spirit,
+I sure enough can break your back.
+
+216
+00:19:15,134 --> 00:19:18,088
+- Is Daddy having fun?
+- Of course.
+
+217
+00:19:23,559 --> 00:19:26,596
+Somebody get me a hatchet.
+
+218
+00:19:27,063 --> 00:19:32,021
+- Holy smoke.
+- Here we go, baby! Nice drop, meatball.
+
+219
+00:19:36,405 --> 00:19:39,110
+Oh, my God. Balboa is really in pain.
+
+220
+00:19:39,242 --> 00:19:44,995
+No one can believe the superhuman
+strength of Thunderlips. I am the man!
+
+221
+00:19:45,122 --> 00:19:48,408
+- Stop him, will ya?
+- You want this punching bag?
+
+222
+00:19:48,543 --> 00:19:51,460
+- Adrian!
+- Rocky!
+
+223
+00:19:51,587 --> 00:19:53,496
+Catch me!
+
+224
+00:19:53,631 --> 00:19:58,542
+<i>Incredible! Balboa was just</i>
+<i>heaved into the fifth row!</i>
+
+225
+00:19:58,678 --> 00:20:01,928
+<i>Now the fans are outraged too!</i>
+
+226
+00:20:02,139 --> 00:20:05,722
+He's got me mad! I'm gonna
+drag him down like a dirty rag!
+
+227
+00:20:05,852 --> 00:20:08,603
+You weakling, Balboa.
+
+228
+00:20:09,272 --> 00:20:12,059
+Take it easy, take it easy.
+
+229
+00:20:12,692 --> 00:20:14,815
+- Mickey, you OK?
+- It's my heart.
+
+230
+00:20:14,944 --> 00:20:18,479
+The security guards are rushing in,
+trying to stop this slaughter.
+
+231
+00:20:18,614 --> 00:20:21,864
+- Teeth are flying all around.
+- Cut my gloves off.
+
+232
+00:20:23,578 --> 00:20:26,282
+Cut my gloves off!
+
+233
+00:20:27,165 --> 00:20:30,498
+The place is a zoo.
+This place has turned into a zoo!
+
+234
+00:20:32,128 --> 00:20:34,583
+You want me to get a doctor?
+You're sure?
+
+235
+00:20:34,714 --> 00:20:39,126
+The girls have gotten into it now.
+They're getting beat up.
+
+236
+00:20:41,846 --> 00:20:44,847
+- I'll be right back.
+- You're a maniac! Come back here!
+
+237
+00:20:44,974 --> 00:20:48,058
+- What are you doing?
+- Come back here!
+
+238
+00:20:48,186 --> 00:20:52,931
+- Come on!
+- Out of the way, worms! I'm comin' up.
+
+239
+00:20:55,776 --> 00:20:57,686
+Come on, come on!
+
+240
+00:21:02,533 --> 00:21:04,989
+All right, Thunderlips. Break it up!
+
+241
+00:21:05,119 --> 00:21:07,741
+No choking. No choking.
+
+242
+00:21:09,207 --> 00:21:11,448
+Paulie, don't!
+
+243
+00:21:14,962 --> 00:21:17,002
+I don't sweat you.
+
+244
+00:21:24,805 --> 00:21:27,261
+Hang on there, kid.
+
+245
+00:21:28,267 --> 00:21:29,975
+How d'you like it?
+
+246
+00:21:32,313 --> 00:21:34,685
+I don't need this.
+
+247
+00:21:36,108 --> 00:21:41,483
+Rocky hanging on like a bull terrier.
+Now he's going for the stranglehold.
+
+248
+00:21:41,614 --> 00:21:44,022
+Rocky! Rocky!
+
+249
+00:21:49,789 --> 00:21:51,912
+The body!
+
+250
+00:21:56,212 --> 00:21:58,881
+Knock his block off!
+
+251
+00:22:07,098 --> 00:22:09,137
+No-o-o-o!
+
+252
+00:22:10,560 --> 00:22:13,763
+It's unbelievable! Rocky actually did it!
+
+253
+00:22:13,896 --> 00:22:17,680
+The human skyscraper is out of the ring!
+
+254
+00:22:17,817 --> 00:22:20,486
+Right. That's it! Time is up.
+
+255
+00:22:23,865 --> 00:22:27,779
+Ladies and gentlemen, we have a draw.
+
+256
+00:22:29,537 --> 00:22:32,372
+Thank you for attending
+the annual charity match
+
+257
+00:22:32,498 --> 00:22:35,285
+between the Italian Stallion,
+Rocky Balboa,
+
+258
+00:22:35,418 --> 00:22:37,790
+and Thunderlips, the Ultimate Male.
+
+259
+00:22:37,920 --> 00:22:40,246
+See you next year. Thank God.
+
+260
+00:22:40,381 --> 00:22:42,504
+- Are you all right?
+- Yeah, pretty good.
+
+261
+00:22:42,884 --> 00:22:44,592
+Good match.
+
+262
+00:22:44,719 --> 00:22:48,467
+- Why'd you get so crazy on me out there?
+- That's the name of the game.
+
+263
+00:22:48,598 --> 00:22:52,298
+While you're still calm,
+can we get that Polaroid together?
+
+264
+00:22:52,435 --> 00:22:55,436
+- Yeah, sure.
+- Adrian, come on over here.
+
+265
+00:22:55,563 --> 00:23:00,059
+- My wife Adrian, my kid... Thunderlips.
+- Ow! That hurt!
+
+266
+00:23:00,193 --> 00:23:02,315
+That's all right.
+
+267
+00:23:02,445 --> 00:23:06,063
+You know, sometimes charity really hurts.
+
+268
+00:23:09,577 --> 00:23:13,824
+And Pinocchio told a lie, you see,
+and his nose started growing real big.
+
+269
+00:23:13,956 --> 00:23:18,832
+- Why didn't his ears grow?
+- I don't know. I didn't write the story.
+
+270
+00:23:18,961 --> 00:23:22,876
+- Are you fighting again?
+- No, I don't plan on fighting today.
+
+271
+00:23:23,007 --> 00:23:26,043
+- Promise?
+- Promise. Definitely. I promise.
+
+272
+00:23:26,177 --> 00:23:29,012
+- Good, I like you here.
+- Yeah? I like being here.
+
+273
+00:23:29,138 --> 00:23:31,973
+Are you gettin' hungry?
+You want some breakfast?
+
+274
+00:23:32,099 --> 00:23:35,136
+- Some Wheaties? What are Wheaties?
+- Champions.
+
+275
+00:23:35,269 --> 00:23:38,354
+Breakfast of what? Champions!
+
+276
+00:23:38,481 --> 00:23:41,731
+<i>The father bear says</i>
+<i>"Somebody's been sleepin' in my bed."</i>
+
+277
+00:23:41,859 --> 00:23:46,854
+The little bear said "Somebody's been
+sleepin' in my bed, and there she is."
+
+278
+00:23:46,989 --> 00:23:52,778
+He pulls back the covers, exposing her
+to the, you know, public. See?
+
+279
+00:23:52,912 --> 00:23:54,951
+Eat your cereal before it sinks.
+
+280
+00:23:55,081 --> 00:23:58,865
+- What happened to Goldilocks?
+- I'm not exactly sure.
+
+281
+00:23:59,001 --> 00:24:03,213
+- Busted for trespassing and got 30 days.
+- That's real nice, Paulie.
+
+282
+00:24:05,049 --> 00:24:08,003
+Rocky. Rocky, the car is waiting.
+
+283
+00:24:08,135 --> 00:24:11,089
+- Go ahead. You guys better go.
+- Be a good boy now.
+
+284
+00:24:11,222 --> 00:24:13,927
+We'll have a fun time, me and the kid.
+
+285
+00:24:14,058 --> 00:24:16,976
+Mrs Stallion, you almost look pretty good.
+
+286
+00:24:17,103 --> 00:24:19,345
+Oh. Thank you, Paulie.
+
+287
+00:24:19,480 --> 00:24:24,641
+Don't give the kid any beer.
+And, Paulie, don't take him to the track.
+
+288
+00:24:24,777 --> 00:24:27,564
+- How you doin', Mick?
+- Pretty good.
+
+289
+00:24:29,073 --> 00:24:31,778
+Now we got a problem in the seventh.
+
+290
+00:24:52,180 --> 00:24:56,426
+Whatever happened to them
+quiet, tender moments?
+
+291
+00:25:12,992 --> 00:25:15,032
+Thank you. Thank you, one and all.
+
+292
+00:25:15,953 --> 00:25:20,200
+Every once in a while, a person
+comes along who defies the odds,
+
+293
+00:25:20,666 --> 00:25:26,420
+who defies logic
+and fulfils an incredible dream.
+
+294
+00:25:26,672 --> 00:25:29,876
+On behalf of all
+the citizens of Philadelphia
+
+295
+00:25:30,009 --> 00:25:32,761
+and those touched
+by your accomplishments
+
+296
+00:25:33,137 --> 00:25:37,929
+and your untiring participation
+in this city's many charity functions,
+
+297
+00:25:38,309 --> 00:25:41,559
+it is with great honour
+that we present this memorial,
+
+298
+00:25:41,938 --> 00:25:47,976
+which will stand always as a celebration
+to the indomitable spirit of man.
+
+299
+00:25:48,110 --> 00:25:51,942
+Philadelphia salutes
+its favourite son, Rocky Balboa!
+
+300
+00:26:04,377 --> 00:26:08,421
+- It's beautiful.
+- Definitely a thing of beauty.
+
+301
+00:26:08,798 --> 00:26:11,336
+Rocky! Rocky!
+
+302
+00:26:23,729 --> 00:26:25,769
+Thank you.
+
+303
+00:26:29,360 --> 00:26:31,400
+Thank you very much.
+
+304
+00:26:35,992 --> 00:26:40,286
+I don't know, what... what do you say
+to something like this?
+
+305
+00:26:42,206 --> 00:26:45,160
+About three years ago,
+
+306
+00:26:45,293 --> 00:26:50,453
+this city really took me inside, you know?
+
+307
+00:26:53,426 --> 00:26:58,254
+And I wanna thank you very much
+for that. I really do.
+
+308
+00:26:59,056 --> 00:27:04,477
+And I been thinking... I wasn't gonna
+bring this up, but I might as well now.
+
+309
+00:27:05,062 --> 00:27:09,190
+I would never do anything
+to hurt this sport
+
+310
+00:27:09,317 --> 00:27:13,729
+that has been so really good to me.
+
+311
+00:27:14,280 --> 00:27:18,906
+I been talkin' it over
+with my wife and my manager.
+
+312
+00:27:20,369 --> 00:27:22,742
+We think that...
+
+313
+00:27:22,872 --> 00:27:27,083
+It's really hard to do this. I feel like...
+
+314
+00:27:27,210 --> 00:27:30,994
+I'm thinkin' maybe it's time that I should
+
+315
+00:27:31,130 --> 00:27:36,041
+step down maybe and retire.
+
+316
+00:27:41,682 --> 00:27:45,762
+Gettin' out while you can? Don't give
+this sucker no statue. Give him guts!
+
+317
+00:27:45,895 --> 00:27:49,430
+I told you I wasn't goin' away.
+You got your shot. Now gimme mine.
+
+318
+00:27:49,565 --> 00:27:52,981
+- Why don't you get the hell outta there?
+- Shut up, old man!
+
+319
+00:27:53,110 --> 00:27:55,352
+Tell these folks why you've ducked me.
+
+320
+00:27:55,488 --> 00:27:58,358
+Politics, man!
+This country wants to keep me down.
+
+321
+00:27:58,491 --> 00:28:03,034
+They don't want a man like me to have
+the title because I'm not a puppet like you.
+
+322
+00:28:03,162 --> 00:28:08,323
+- You know, you've got a big mouth.
+- Why don't you close it, Balboa?
+
+323
+00:28:08,459 --> 00:28:11,662
+- Any time.
+- The guy's crazy. Don't listen to him.
+
+324
+00:28:11,796 --> 00:28:15,247
+The little man don't wanna come to me,
+so I'll lay out the truth.
+
+325
+00:28:15,383 --> 00:28:18,384
+I am ranked number one. One!
+That means I'm the best.
+
+326
+00:28:18,511 --> 00:28:21,512
+But this bum takes the easy matches,
+fights other bums.
+
+327
+00:28:21,639 --> 00:28:26,680
+I'm tellin' you and everybody here. I'll
+fight him anywhere, any time, for nothin'.
+
+328
+00:28:29,605 --> 00:28:32,772
+But you people ain't gonna see that,
+cos he's gonna retire.
+
+329
+00:28:32,984 --> 00:28:36,435
+You see, he don't fight no real man.
+He fight them set-ups.
+
+330
+00:28:36,571 --> 00:28:39,026
+- What?
+- You're a disgrace to this sport.
+
+331
+00:28:39,157 --> 00:28:41,992
+Shut up, old man!
+You don't know where I came from.
+
+332
+00:28:42,118 --> 00:28:46,198
+Balboa, your family doin' real nice.
+You call yourself a fighter, prove it.
+
+333
+00:28:46,414 --> 00:28:50,079
+Give me the same chance.
+The way you been duckin' is a disgrace.
+
+334
+00:28:50,418 --> 00:28:52,825
+If he ain't no coward,
+why don't he fight me?
+
+335
+00:28:52,962 --> 00:28:56,331
+- I can't listen to this...
+- I don't care what you're ranked.
+
+336
+00:28:56,465 --> 00:29:01,626
+- You don't get no shot, and I mean that!
+- What are you doin'? I wanna fight him.
+
+337
+00:29:01,762 --> 00:29:04,929
+Well, you got him.
+But you fight him without me.
+
+338
+00:29:05,933 --> 00:29:09,978
+- What are you sayin'?
+- It's finished. I don't want no more of this.
+
+339
+00:29:10,104 --> 00:29:13,555
+I don't want no more of it.
+You understand? None of it!
+
+340
+00:29:13,858 --> 00:29:16,610
+It's over with!
+
+341
+00:29:16,736 --> 00:29:19,856
+Hey, woman! Hey, woman. Listen here.
+
+342
+00:29:19,989 --> 00:29:23,572
+Since your old man ain't got no heart,
+maybe you wanna see a real man?
+
+343
+00:29:23,701 --> 00:29:26,951
+I bet you stay up every night
+dreaming you had a real man, huh?
+
+344
+00:29:27,079 --> 00:29:32,370
+Bring your pretty little self over to my
+apartment and I'll show you a real man.
+
+345
+00:29:32,502 --> 00:29:34,790
+You want it, you got it! You got it, man!
+
+346
+00:29:39,175 --> 00:29:41,500
+I'll see you in the ring! You got it!
+
+347
+00:29:48,142 --> 00:29:51,558
+Rocky, don't! Come on.
+Rocky, please. Let's go talk.
+
+348
+00:29:51,687 --> 00:29:53,846
+OK, Adrian.
+
+349
+00:29:53,981 --> 00:29:56,437
+Rocky! Let's talk.
+
+350
+00:30:01,322 --> 00:30:03,860
+Why'd you leave?
+Why'd you walk away like that?
+
+351
+00:30:03,991 --> 00:30:06,696
+Life's too short, kid.
+
+352
+00:30:06,828 --> 00:30:11,620
+- Where you goin'?
+- I'm goin' on a permanent vacation.
+
+353
+00:30:12,083 --> 00:30:14,538
+What do you mean?
+We got one more fight.
+
+354
+00:30:14,669 --> 00:30:17,753
+No, no. Not "we". You.
+
+355
+00:30:18,381 --> 00:30:20,788
+Why are you doin' this?
+
+356
+00:30:24,971 --> 00:30:28,671
+- I said, why you doin' this?
+- Because you can't win, Rock.
+
+357
+00:30:28,808 --> 00:30:31,928
+This guy'll kill you to death
+inside of three rounds.
+
+358
+00:30:32,061 --> 00:30:34,386
+- You're crazy.
+- What else is new?
+
+359
+00:30:34,522 --> 00:30:37,725
+- He's just another fighter.
+- No, he ain't.
+
+360
+00:30:37,859 --> 00:30:40,147
+This guy is a wreckin' machine.
+
+361
+00:30:40,278 --> 00:30:44,275
+And he's hungry. You ain't been
+hungry since you won that belt.
+
+362
+00:30:44,407 --> 00:30:47,491
+- What? I had ten title defences.
+- That was easy.
+
+363
+00:30:47,618 --> 00:30:51,402
+- What do you mean, easy?
+- They was hand-picked!
+
+364
+00:30:53,875 --> 00:30:56,544
+- Set-ups?
+- No, they weren't set-ups!
+
+365
+00:30:56,669 --> 00:31:00,453
+They was good fighters.
+But they wasn't killers, like this guy.
+
+366
+00:31:00,590 --> 00:31:03,460
+He'll knock ya into tomorrow, Rock.
+
+367
+00:31:22,862 --> 00:31:25,151
+Jeez, Mick.
+
+368
+00:31:26,741 --> 00:31:28,864
+Why'd you do it?
+
+369
+00:31:30,870 --> 00:31:36,659
+Because the beating that you got from
+Apollo shoulda killed you, kid. It didn't.
+
+370
+00:31:36,792 --> 00:31:41,953
+It was my job to keep you winning,
+and to keep you healthy.
+
+371
+00:31:47,094 --> 00:31:50,261
+You really don't think
+I got nothin' left, do you?
+
+372
+00:31:51,098 --> 00:31:54,966
+Well, Rock, let's... let's put it this way.
+
+373
+00:31:56,312 --> 00:31:59,562
+Now, three years ago,
+you was supernatural.
+
+374
+00:32:00,483 --> 00:32:04,694
+You was...
+You was hard, and you was nasty
+
+375
+00:32:04,820 --> 00:32:07,276
+and you had this cast-iron jaw.
+
+376
+00:32:08,032 --> 00:32:14,236
+But then, the worst thing happened to you
+that could happen to any fighter.
+
+377
+00:32:15,623 --> 00:32:17,948
+You got civilised.
+
+378
+00:32:23,422 --> 00:32:25,415
+But don't worry, kid.
+
+379
+00:32:25,550 --> 00:32:32,133
+You know, presidents retire,
+generals retire, horses retire.
+
+380
+00:32:32,265 --> 00:32:36,345
+Man o' War retired.
+They put him out to stud.
+
+381
+00:32:37,687 --> 00:32:40,688
+That's what you shoulda done - retire.
+
+382
+00:32:44,277 --> 00:32:47,194
+I can't retire knowin' all this, Mick.
+
+383
+00:32:47,321 --> 00:32:50,239
+- Aw, don't push it.
+- You been carrying me.
+
+384
+00:32:50,366 --> 00:32:53,984
+- We don't need it.
+- You been carrying me, though.
+
+385
+00:32:54,120 --> 00:32:57,370
+I haven't been carryin' you,
+I've been protectin' ya.
+
+386
+00:32:57,498 --> 00:33:00,618
+No, I want this fight. Just one more.
+
+387
+00:33:00,751 --> 00:33:03,955
+- No, we don't need it.
+- I'll live in the gym.
+
+388
+00:33:04,088 --> 00:33:06,579
+- We don't need it.
+- Mick, I do.
+
+389
+00:33:07,967 --> 00:33:12,214
+- I'm askin' you to train me one last time.
+- No, no. I can't.
+
+390
+00:33:12,346 --> 00:33:14,588
+If you don't,
+
+391
+00:33:14,724 --> 00:33:19,966
+I'm gonna tell everybody you ain't
+bought new underwear in ten years.
+
+392
+00:33:20,104 --> 00:33:23,888
+- You would, wouldn't ya?
+- Yeah. Absolutely.
+
+393
+00:33:26,319 --> 00:33:28,062
+No, no.
+
+394
+00:33:28,196 --> 00:33:30,235
+Come on.
+
+395
+00:33:31,199 --> 00:33:35,410
+One more time - it's over. It's a deal?
+
+396
+00:33:35,536 --> 00:33:39,368
+- Go on, go on.
+- It's your head, kid. It's your head.
+
+397
+00:33:42,543 --> 00:33:45,580
+Yeah, it is. Thanks, man.
+
+398
+00:33:47,215 --> 00:33:50,671
+<i>~ Pushin', gettin' ready for the fight ~</i>
+
+399
+00:33:50,885 --> 00:33:54,427
+<i>~ Pushin', every day and night ~</i>
+
+400
+00:33:55,890 --> 00:33:59,638
+<i>~ Pushin', gettin' ready for the fight ~</i>
+
+401
+00:33:59,769 --> 00:34:02,770
+<i>~ Pushin', every day and night ~</i>
+
+402
+00:34:03,356 --> 00:34:05,847
+<i>~ Pushin', gettin' ready for the fight... ~</i>
+
+403
+00:34:05,983 --> 00:34:08,937
+Rocky robes here!
+Get your Rocky robes here!
+
+404
+00:34:09,070 --> 00:34:13,317
+Rocky robes, hot off the truck!
+Clean stuff. Get your robes!
+
+405
+00:34:20,873 --> 00:34:23,543
+<i>~ On the night of the fight ~</i>
+
+406
+00:34:23,668 --> 00:34:25,411
+<i>~ I will survive ~</i>
+
+407
+00:34:25,545 --> 00:34:29,079
+<i>~ There's nowhere to run,</i>
+<i>there's nowhere to hide ~</i>
+
+408
+00:34:29,215 --> 00:34:31,421
+<i>~ On the night of the fight ~</i>
+
+409
+00:34:31,551 --> 00:34:33,045
+<i>~ It's just you and I ~</i>
+
+410
+00:34:33,177 --> 00:34:37,092
+<i>~ There's nowhere to run,</i>
+<i>there's nowhere to hide... ~</i>
+
+411
+00:34:37,223 --> 00:34:40,307
+Collectors' item! Get your buttons here!
+
+412
+00:34:40,977 --> 00:34:45,971
+You can't stand toe to toe with
+this guy or he'll deposit you up on Mars.
+
+413
+00:34:46,107 --> 00:34:48,942
+He's too tough. He's too strong.
+
+414
+00:34:50,236 --> 00:34:54,649
+Listen, how the hell can we
+train in this creep joint here?
+
+415
+00:34:54,782 --> 00:34:57,949
+This is kind of a house of ill repute,
+or somethin', is it?
+
+416
+00:34:58,161 --> 00:35:02,490
+- Why did you rent this joint?
+- Aw, come on. Let's go out in style.
+
+417
+00:35:02,748 --> 00:35:05,239
+You wanna go out in style,
+go out in one piece.
+
+418
+00:35:05,376 --> 00:35:08,496
+Now, come on, let's get outta here,
+back to the old gym.
+
+419
+00:35:08,629 --> 00:35:11,381
+Let's get some blood
+and sweat and tears around here.
+
+420
+00:35:11,507 --> 00:35:15,635
+- Can we do that?
+- Hey, will you just relax and enjoy it, OK?
+
+421
+00:35:19,807 --> 00:35:21,634
+They love it, Mick.
+
+422
+00:35:28,941 --> 00:35:32,275
+Go on, fight.
+Fight now, go ahead. Fight it, fight it.
+
+423
+00:35:32,403 --> 00:35:35,689
+Get rough. Get tough. Get brutal. That's it.
+
+424
+00:35:35,823 --> 00:35:38,030
+Excuse me. Can I get a kiss?
+
+425
+00:35:38,159 --> 00:35:41,029
+- Yeah, sure.
+- Get outta here, will ya?
+
+426
+00:35:41,162 --> 00:35:44,613
+This is like fightin' in a zoo.
+
+427
+00:35:44,749 --> 00:35:50,538
+Is that the way you train for Clubber?
+He ain't gonna kiss ya. He's gonna kill ya.
+
+428
+00:35:50,671 --> 00:35:52,711
+Get outta here!
+
+429
+00:35:56,636 --> 00:36:00,550
+- Hey, Rock. How about a picture?
+- Yeah, sure.
+
+430
+00:36:56,153 --> 00:36:59,854
+This'll tell us a story.
+That's it, side to side.
+
+431
+00:36:59,991 --> 00:37:02,030
+Side to side, Rock.
+
+432
+00:37:02,910 --> 00:37:06,362
+Shut up back there, can't you?
+Change your tune.
+
+433
+00:37:06,497 --> 00:37:10,709
+That's it. Pull front punches. That's it, kid.
+You're a deadly weapon.
+
+434
+00:37:10,835 --> 00:37:14,334
+Time! Time, time, time. Quit it.
+
+435
+00:37:14,463 --> 00:37:16,503
+You're OK. Come on.
+
+436
+00:37:17,550 --> 00:37:21,630
+Put this on before you catch pneumonia.
+I'll give you a rubdown too.
+
+437
+00:37:21,762 --> 00:37:27,349
+Listen, I don't like to hear much
+of what comes out of people's mouths,
+
+438
+00:37:27,476 --> 00:37:30,050
+and I don't like soft-talkin' moments.
+
+439
+00:37:30,188 --> 00:37:33,603
+- That's for sure.
+- But I just wanna tell ya one thing.
+
+440
+00:37:33,733 --> 00:37:37,777
+- That I'm proud of ya.
+- Well, thanks a lot.
+
+441
+00:37:37,904 --> 00:37:40,477
+That's all right, kid. Let's get outta here.
+
+442
+00:37:40,615 --> 00:37:44,149
+Hey, Mick. What do you think
+we're gonna do when it's all over?
+
+443
+00:37:44,285 --> 00:37:46,693
+I don't know. Maybe join up with a circus.
+
+444
+00:37:46,829 --> 00:37:48,869
+Yeah, maybe.
+
+445
+00:37:48,998 --> 00:37:51,323
+All right, let's get out.
+
+446
+00:37:57,173 --> 00:37:59,746
+Good evening.
+With Bill Baldwin, I'm Stu Nahan.
+
+447
+00:37:59,884 --> 00:38:04,842
+Welcome to this heavyweight title fight,
+which may be the most memorable of all.
+
+448
+00:38:04,972 --> 00:38:09,100
+Tonight is the champion's final
+and perhaps most difficult defence.
+
+449
+00:38:09,227 --> 00:38:13,011
+- Rocky, are you in your best shape?
+- Absolutely. I feel real good.
+
+450
+00:38:13,272 --> 00:38:16,522
+He's a deadly weapon.
+He's one of a kind and he's gonna do it.
+
+451
+00:38:16,651 --> 00:38:20,898
+- Clubber, are you as fast as Balboa?
+- No talkin'. I do my talkin' in the ring.
+
+452
+00:38:23,449 --> 00:38:26,367
+I told you, you better get outta here.
+I wanna be alone.
+
+453
+00:38:26,494 --> 00:38:30,657
+- Will you retire after this fight?
+- Yeah. This is the last one for sure.
+
+454
+00:38:30,790 --> 00:38:33,079
+This is definitely the last one.
+
+455
+00:38:33,793 --> 00:38:36,248
+You're parasites and leeches.
+Get outta here.
+
+456
+00:38:36,379 --> 00:38:39,249
+What will you do after tonight?
+
+457
+00:38:39,382 --> 00:38:41,421
+I'm not sure.
+
+458
+00:38:41,551 --> 00:38:45,383
+- Maybe join the circus. Huh, Mick?
+- Yeah, have some fun.
+
+459
+00:38:45,513 --> 00:38:49,380
+- Come on, take your robe off.
+- Take off your robe!
+
+460
+00:38:49,517 --> 00:38:51,842
+I told you to get outta my face!
+
+461
+00:38:51,978 --> 00:38:56,189
+With us is the former heavyweight
+champion of the world, Apollo Creed.
+
+462
+00:38:56,315 --> 00:38:59,980
+Do you have any predictions on this fight?
+How do you see it going?
+
+463
+00:39:00,111 --> 00:39:02,780
+Strength would have
+to go to the challenger,
+
+464
+00:39:02,905 --> 00:39:07,733
+while experience and the world's
+hardest head would have to go to Balboa.
+
+465
+00:39:08,161 --> 00:39:12,869
+Remember, Rock, don't trade with this
+guy. Take your time. Wear him down.
+
+466
+00:39:12,999 --> 00:39:18,539
+But don't stand toe to toe.
+This punk's never been 15 rounds before.
+
+467
+00:39:18,671 --> 00:39:21,755
+- Take him good.
+- OK. I will.
+
+468
+00:39:23,759 --> 00:39:28,884
+- I predict the champ's gonna take it.
+- Do you really think he can hit that hard?
+
+469
+00:39:29,015 --> 00:39:31,684
+Why do you think I'm here with you?
+
+470
+00:39:49,076 --> 00:39:53,785
+Hey, sucker! You're finished!
+You're through! You're washed up!
+
+471
+00:39:53,915 --> 00:39:56,156
+- I'm the baddest in the world!
+- Not to me.
+
+472
+00:39:56,542 --> 00:39:59,828
+What you say, paper champion?
+I'm gonna beat you like a dog.
+
+473
+00:39:59,962 --> 00:40:02,085
+Get that ape back in the ring.
+
+474
+00:40:02,215 --> 00:40:06,212
+- You made me wait too long! You'll pay!
+- Come on, mouth.
+
+475
+00:40:06,552 --> 00:40:09,008
+Get him outta there!
+
+476
+00:40:18,147 --> 00:40:21,314
+Do you know who I am? I'm the man!
+
+477
+00:40:23,069 --> 00:40:28,443
+- I'll get you, sucker! You're dead meat!
+- Let me go!
+
+478
+00:40:28,574 --> 00:40:32,109
+Rocky! Rocky!
+
+479
+00:40:32,954 --> 00:40:35,658
+- What's wrong?
+- It's his heart.
+
+480
+00:40:35,790 --> 00:40:39,325
+Get a doctor!
+Somebody get a doctor! Come on!
+
+481
+00:40:46,342 --> 00:40:48,915
+Get 'em outta here!
+
+482
+00:40:49,053 --> 00:40:51,805
+- Mick, will you sit on the table?
+- I'm all right.
+
+483
+00:40:51,931 --> 00:40:55,181
+Take a deep breath.
+Get those guys outta here! Move!
+
+484
+00:40:56,310 --> 00:40:59,644
+Paulie, tell 'em the fight's off.
+Go on. Go on!
+
+485
+00:40:59,772 --> 00:41:03,058
+The fight's not off.
+Are you outta your mind? The fight's on.
+
+486
+00:41:03,192 --> 00:41:06,644
+- Mick, we can't tonight. I ain't fightin'.
+- We're gonna fight.
+
+487
+00:41:06,779 --> 00:41:10,029
+Just let me get my breath.
+Is that against the rules?
+
+488
+00:41:10,783 --> 00:41:13,784
+- Will you please get a doctor?
+- He's on his way.
+
+489
+00:41:13,911 --> 00:41:16,865
+Mick, I can't go out and fight like this.
+
+490
+00:41:16,998 --> 00:41:22,205
+Get outta there. Get goin', will ya? Take
+him. Take him good - get it over with.
+
+491
+00:41:25,590 --> 00:41:27,878
+Adrian, what am I supposed to do?
+
+492
+00:41:28,009 --> 00:41:33,299
+What do ya mean? After all these years
+together, you don't know what to do?
+
+493
+00:41:33,431 --> 00:41:37,131
+You oughta be ashamed of yourself.
+Now get out there and do it.
+
+494
+00:41:38,394 --> 00:41:40,434
+Do it.
+
+495
+00:41:41,189 --> 00:41:43,098
+Do it.
+
+496
+00:41:43,232 --> 00:41:47,312
+- You're the best.
+- OK. OK.
+
+497
+00:41:47,445 --> 00:41:50,114
+Rocky! Rocky! Rocky!
+
+498
+00:41:50,239 --> 00:41:52,446
+Oh, my God.
+
+499
+00:41:55,828 --> 00:41:58,995
+Adrian, take care of him.
+Take care of him.
+
+500
+00:42:03,961 --> 00:42:06,203
+Ladies and gentlemen,
+
+501
+00:42:06,339 --> 00:42:11,546
+welcome to the heavyweight
+championship of the world.
+
+502
+00:42:11,677 --> 00:42:16,256
+And fans, with us tonight,
+truly one of the fistic greats.
+
+503
+00:42:16,432 --> 00:42:22,221
+He's coming up from ringside,
+the Master of Disaster, the King of Sting,
+
+504
+00:42:22,355 --> 00:42:25,521
+the one and only Apollo Creed.
+
+505
+00:42:26,984 --> 00:42:30,400
+There's the former heavyweight
+champion, Apollo Creed.
+
+506
+00:42:30,530 --> 00:42:32,818
+He looks like $9 million.
+
+507
+00:42:33,282 --> 00:42:38,656
+Get outta my face! I don't need
+no has-been messin' in my corner.
+
+508
+00:42:38,788 --> 00:42:41,623
+Get that bad look off your face
+before I knock it off!
+
+509
+00:42:41,749 --> 00:42:46,162
+Come on. Wanna jump me? Jump!
+Come on. Come on, Creed.
+
+510
+00:42:46,629 --> 00:42:49,915
+Come on. Yeah, come on.
+
+511
+00:42:50,049 --> 00:42:53,584
+Yeah. Just like a chicken. You better run.
+
+512
+00:42:57,056 --> 00:43:02,347
+Give everybody a present and drop this
+chump, all right? Good luck to you, man.
+
+513
+00:43:07,066 --> 00:43:11,562
+All right, fans, here we go.
+On my left, out of the blue corner,
+
+514
+00:43:11,696 --> 00:43:16,737
+hailing from Chicago,
+weighing in at an even 235lb,
+
+515
+00:43:17,034 --> 00:43:19,952
+the world's No.1 challenger...
+
+516
+00:43:20,079 --> 00:43:23,199
+- Wonder how Mick's doin'.
+...Clubber Lang.
+
+517
+00:43:25,960 --> 00:43:28,036
+I'm the best! I'm the best!
+
+518
+00:43:28,713 --> 00:43:31,464
+You and Clubber exchanged words.
+Any comment?
+
+519
+00:43:31,591 --> 00:43:32,705
+No comment.
+
+520
+00:43:32,842 --> 00:43:39,011
+His opponent in the opposite corner,
+really needing no introduction,
+
+521
+00:43:39,140 --> 00:43:42,840
+he weighs in at a trim 201 lb.
+
+522
+00:43:42,977 --> 00:43:47,438
+The pride of Philadelphia,
+the Italian Stallion,
+
+523
+00:43:47,565 --> 00:43:54,612
+and the reigning heavyweight champion
+of the world, Rocky Balboa.
+
+524
+00:43:58,659 --> 00:44:00,866
+Listen to this crowd.
+
+525
+00:44:06,459 --> 00:44:11,666
+Now to give instructions in the middle
+of the ring, your referee, Marty Denkin.
+
+526
+00:44:13,716 --> 00:44:16,670
+Clubber, Rocky. I want a good, clean fight.
+
+527
+00:44:16,802 --> 00:44:19,673
+When I tell you to break,
+step back and break.
+
+528
+00:44:19,805 --> 00:44:23,803
+Now go back to the corner
+and come out fighting at the bell.
+
+529
+00:44:24,268 --> 00:44:27,269
+Dead meat.
+
+530
+00:44:31,234 --> 00:44:33,772
+This is not gonna be a fight of finesse.
+
+531
+00:44:33,903 --> 00:44:37,070
+These are two guys
+that really throw punches.
+
+532
+00:44:37,198 --> 00:44:40,234
+- The chump is scared.
+- Yeah. Tear him up, champ.
+
+533
+00:44:40,368 --> 00:44:42,906
+He's scared. See the look in his eyes?
+
+534
+00:44:44,163 --> 00:44:48,078
+I'm no trainer. Just go out
+and kill the guy. Kill him, Rock.
+
+535
+00:44:49,168 --> 00:44:51,706
+He's scared.
+
+536
+00:44:51,838 --> 00:44:55,171
+I'm the new champion!
+I'm the new champ as of tonight.
+
+537
+00:44:55,299 --> 00:45:00,175
+...Italian Stallion, a rugged champion,
+in the final fight of his colourful career.
+
+538
+00:45:04,976 --> 00:45:08,594
+Here we go. Oh boy,
+the champion came out swinging.
+
+539
+00:45:10,356 --> 00:45:14,899
+Balboa's off to an incredible start,
+determined to destroy the challenger.
+
+540
+00:45:19,949 --> 00:45:22,107
+Move him back! Move him back!
+
+541
+00:45:26,289 --> 00:45:28,328
+Defence.
+
+542
+00:45:30,001 --> 00:45:32,752
+They're goin' at each other.
+
+543
+00:45:34,172 --> 00:45:36,460
+You got him.
+
+544
+00:45:36,591 --> 00:45:38,963
+Double up! Double up!
+
+545
+00:45:40,845 --> 00:45:44,712
+Come on! Come on now, boy! Come on.
+
+546
+00:45:46,726 --> 00:45:49,976
+The challenger is hitting him
+with everything he's got.
+
+547
+00:45:54,483 --> 00:45:56,939
+Come on, Balboa. Make me weak!
+
+548
+00:45:57,528 --> 00:46:00,066
+Come on, Balboa. Come on, weakling.
+
+549
+00:46:06,370 --> 00:46:09,822
+Clubber away.
+Trying to get him to his corner.
+
+550
+00:46:09,957 --> 00:46:12,033
+Grab him, Paulie.
+
+551
+00:46:12,919 --> 00:46:15,291
+- Where's Mick? Where's Mick?
+- He's OK.
+
+552
+00:46:15,421 --> 00:46:17,165
+I need him.
+
+553
+00:46:17,340 --> 00:46:19,961
+He ain't nothin'! I told you he ain't nothin'.
+
+554
+00:46:20,092 --> 00:46:23,711
+- He's too strong.
+- Don't talk like that, Rock.
+
+555
+00:46:23,846 --> 00:46:26,598
+I'm gonna smoke him.
+I'm gonna smoke him.
+
+556
+00:46:27,058 --> 00:46:29,300
+I can't keep him off.
+
+557
+00:46:29,852 --> 00:46:32,343
+He's mine! I'm gonna get him!
+
+558
+00:46:32,939 --> 00:46:35,015
+I'm losin' it, Paulie.
+
+559
+00:46:37,151 --> 00:46:39,025
+- What have you got?
+- 200 over 50.
+
+560
+00:46:39,153 --> 00:46:41,312
+All right, let's start CPR.
+
+561
+00:46:42,406 --> 00:46:44,897
+- Rock, you can do it.
+- I'll try.
+
+562
+00:46:45,034 --> 00:46:48,818
+Round two.
+Rocky appears to be staggering.
+
+563
+00:46:48,955 --> 00:46:53,284
+- Yeah, I'll get him.
+- Out of the corner, here comes Clubber!
+
+564
+00:46:56,295 --> 00:46:59,960
+Come on, Balboa, come on. Give it to me.
+
+565
+00:47:04,011 --> 00:47:06,218
+Move on the inside.
+
+566
+00:47:07,139 --> 00:47:10,971
+The champion is nearly helpless.
+Gosh, what a beating he's taking.
+
+567
+00:47:16,566 --> 00:47:19,650
+Don't stand toe to toe with him.
+
+568
+00:47:38,421 --> 00:47:42,465
+- Man, get up.
+- Get up! Get up!
+
+569
+00:47:42,592 --> 00:47:45,213
+I told you I'm gonna get you.
+Come on, get up!
+
+570
+00:47:45,344 --> 00:47:48,345
+Seven, eight, nine,
+
+571
+00:47:48,681 --> 00:47:50,555
+ten. You're out.
+
+572
+00:47:51,017 --> 00:47:53,804
+The champion is finished
+in the second round!
+
+573
+00:47:53,936 --> 00:47:57,139
+It's unbelievable. Incredible upset.
+
+574
+00:47:57,273 --> 00:48:01,021
+Balboa, in the corner,
+is out on his feet, out of the fight.
+
+575
+00:48:06,157 --> 00:48:08,280
+We have the time.
+
+576
+00:48:08,409 --> 00:48:13,652
+The winner by knockout, the new
+heavyweight champion of the world,
+
+577
+00:48:13,789 --> 00:48:16,494
+Clubber Lang!
+
+578
+00:48:16,626 --> 00:48:19,295
+I told you! I told you I'd do it!
+
+579
+00:48:21,297 --> 00:48:24,500
+I'm the new champion of the world!
+
+580
+00:48:31,891 --> 00:48:33,930
+Come on, get outta here!
+
+581
+00:48:39,357 --> 00:48:41,812
+- What happened?
+- I'm all right. How's Mick?
+
+582
+00:48:41,943 --> 00:48:44,101
+He wouldn't go to the hospital.
+
+583
+00:48:44,237 --> 00:48:47,771
+Mr Balboa, we must get him
+to hospital immediately.
+
+584
+00:48:47,907 --> 00:48:49,531
+OK.
+
+585
+00:49:02,880 --> 00:49:05,798
+- Mick?
+- What?
+
+586
+00:49:05,925 --> 00:49:11,844
+- Mick?
+- Wh... what? Wh-wh-what?
+
+587
+00:49:11,973 --> 00:49:16,267
+- Is it over?
+- Yeah. Yeah, it's all over.
+
+588
+00:49:17,395 --> 00:49:21,227
+Hey, listen. What happened?
+
+589
+00:49:22,066 --> 00:49:24,438
+It was a knockout.
+
+590
+00:49:25,528 --> 00:49:29,193
+- What round? What round?
+- Second round.
+
+591
+00:49:32,368 --> 00:49:35,155
+Yeah, I knew it. That's good.
+
+592
+00:49:35,288 --> 00:49:38,870
+- We did it, huh?
+- We did it. We did it.
+
+593
+00:49:39,000 --> 00:49:43,827
+You don't have to worry about nothin'
+no more. Everything's gonna be OK, Mick.
+
+594
+00:49:43,963 --> 00:49:48,210
+- Yeah. Rocky, we did it.
+- You gotta get to hospital.
+
+595
+00:49:49,010 --> 00:49:51,133
+You ain't as young as you used to be, OK?
+
+596
+00:49:51,262 --> 00:49:53,587
+You know what?
+
+597
+00:49:53,723 --> 00:49:56,926
+We did everything right.
+I did everything right?
+
+598
+00:49:57,059 --> 00:49:59,218
+Listen, you done everything right.
+
+599
+00:49:59,353 --> 00:50:04,430
+Listen, we got more to do. Mick,
+whatever you wanna do, we'll do it, OK?
+
+600
+00:50:05,067 --> 00:50:07,356
+I love ya, kid. I love ya.
+
+601
+00:50:08,821 --> 00:50:10,861
+Mick.
+
+602
+00:50:10,990 --> 00:50:13,030
+It hurts me.
+
+603
+00:50:15,077 --> 00:50:17,070
+Mick?
+
+604
+00:50:20,708 --> 00:50:22,748
+Mick!
+
+605
+00:50:30,551 --> 00:50:32,591
+Mick!
+
+606
+00:50:35,765 --> 00:50:38,516
+Mick... Christ.
+
+607
+00:50:52,949 --> 00:50:55,903
+Don't go away. Please don't.
+
+608
+00:50:56,035 --> 00:51:01,456
+We got more to do...
+We got more to do. We got...
+
+609
+00:51:03,334 --> 00:51:08,541
+Oh, God. Oh, Jesus.
+
+610
+00:52:07,106 --> 00:52:09,395
+This concludes our service.
+
+611
+00:55:03,866 --> 00:55:06,238
+That's not the way to do it.
+
+612
+00:55:06,369 --> 00:55:08,361
+Who's that?
+
+613
+00:55:09,038 --> 00:55:12,324
+Why don't you hit it straight? Step into it.
+
+614
+00:55:14,335 --> 00:55:17,419
+- Apollo?
+- Right.
+
+615
+00:55:17,547 --> 00:55:21,924
+I waited at your house for an hour.
+Your wife said you might be here.
+
+616
+00:55:22,051 --> 00:55:25,467
+- What are you doin' here?
+- Business.
+
+617
+00:55:27,056 --> 00:55:32,892
+If the papers knew we were talkin' like
+this, they'd think we was crazy. Why you?
+
+618
+00:55:33,020 --> 00:55:36,187
+Cos I'm the best and you need
+somebody to teach you different.
+
+619
+00:55:36,315 --> 00:55:40,728
+- Why?
+- You can't pull it off without me.
+
+620
+00:55:40,862 --> 00:55:44,313
+You still didn't give me the answer.
+What's the real reason?
+
+621
+00:55:45,533 --> 00:55:47,988
+Listen. It's quiet, isn't it?
+
+622
+00:55:49,245 --> 00:55:51,783
+When you retire, it's too quiet.
+
+623
+00:55:51,914 --> 00:55:54,037
+We too young to retire, anyway.
+
+624
+00:55:54,167 --> 00:56:00,287
+Besides, I could promote this thing into
+the biggest gate ever. Bigger than ours.
+
+625
+00:56:00,590 --> 00:56:05,133
+Heaven knows, I don't mind being
+involved with large numbers, right?
+
+626
+00:56:06,512 --> 00:56:10,592
+I don't need this no more.
+I... I don't want this no more.
+
+627
+00:56:11,893 --> 00:56:15,178
+Look, man. When you beat me,
+
+628
+00:56:16,105 --> 00:56:20,814
+I hurt all over. I didn't wanna know
+from nobody, not even my kids.
+
+629
+00:56:21,611 --> 00:56:23,650
+Every fighter knows that hurt.
+
+630
+00:56:23,779 --> 00:56:27,030
+We get sick inside trying to live with it,
+so don't back off now.
+
+631
+00:56:27,158 --> 00:56:30,823
+Make it right for yourself
+or you'll be sorry you didn't.
+
+632
+00:56:30,953 --> 00:56:35,033
+We held the greatest title
+in the whole world, babe.
+
+633
+00:56:36,209 --> 00:56:40,621
+You lost that fight for all
+the wrong reasons. You lost your edge.
+
+634
+00:56:41,422 --> 00:56:46,582
+All right. I know your manager dying
+had you all messed up inside.
+
+635
+00:56:47,345 --> 00:56:50,299
+But the truth is you didn't look hungry.
+
+636
+00:56:50,431 --> 00:56:52,637
+Now when we fought,
+
+637
+00:56:53,518 --> 00:56:56,435
+you had that eye of the tiger,
+man, the edge.
+
+638
+00:56:56,604 --> 00:57:01,811
+Now you gotta get it back, and the way
+to do it is to go back to the beginning.
+
+639
+00:57:03,670 --> 00:57:05,995
+Maybe we could win it back together.
+
+640
+00:57:08,050 --> 00:57:10,505
+Eye of the tiger, man.
+
+641
+00:57:13,764 --> 00:57:15,803
+Why'd you have to come here?
+
+642
+00:57:16,850 --> 00:57:20,301
+I have the plan. Get back, man.
+
+643
+00:57:22,189 --> 00:57:24,312
+You got me curious.
+
+644
+00:57:26,109 --> 00:57:28,435
+You got me curious, Rock.
+
+645
+00:57:32,991 --> 00:57:36,906
+<i>Clubber, do you accept the challenge</i>
+<i>for a rematch with Balboa?</i>
+
+646
+00:57:37,037 --> 00:57:40,370
+<i>I reject the challenge</i>
+<i>because Balboa is no challenge.</i>
+
+647
+00:57:40,499 --> 00:57:44,627
+<i>But I'd be happy to beat up on him</i>
+<i>some more. I always said he was nothin'.</i>
+
+648
+00:57:44,753 --> 00:57:46,793
+I can't wait to see this bum fall.
+
+649
+00:57:46,922 --> 00:57:49,876
+<i>What do you think of him</i>
+<i>being trained by Apollo Creed?</i>
+
+650
+00:57:50,008 --> 00:57:53,258
+<i>Apollo who? That old fool Apollo Creed?</i>
+
+651
+00:57:53,387 --> 00:57:56,969
+<i>- Shucks. One has-been...</i>
+- Just keep talkin', pal.
+
+652
+00:57:57,099 --> 00:58:00,598
+<i>Been runnin' off at the mouth.</i>
+<i>When I see him, I'm gonna close it.</i>
+
+653
+00:58:00,727 --> 00:58:04,642
+<i>- When will the match take place?</i>
+<i>- The sooner, the better.</i>
+
+654
+00:58:04,773 --> 00:58:09,684
+<i>I'm the champion of the world.</i>
+<i>I can't be beat and I won't be beat.</i>
+
+655
+00:58:09,820 --> 00:58:13,355
+<i>This time I'll train harder.</i>
+<i>There won't be no quick knockdowns.</i>
+
+656
+00:58:13,490 --> 00:58:16,906
+<i>I'm gonna torture him.</i>
+<i>I'm gonna crucify him - real bad.</i>
+
+657
+00:58:17,035 --> 00:58:19,158
+<i>Hard words from a hard man.</i>
+
+658
+00:58:19,288 --> 00:58:24,958
+<i>The odds against Balboa making</i>
+<i>a comeback at 34 are very long indeed.</i>
+
+659
+00:58:25,085 --> 00:58:28,335
+<i>Can he do it? Most experts doubt it.</i>
+
+660
+00:58:28,463 --> 00:58:33,754
+<i>Balboa was a fine champion,</i>
+<i>but his time has passed. I wish him luck.</i>
+
+661
+00:58:34,920 --> 00:58:39,381
+- Don't listen to it, Rocky.
+- No, do listen to it, Rock.
+
+662
+00:58:39,508 --> 00:58:44,134
+When this is over, a lot of folks are
+gonna owe you an engraved apology.
+
+663
+00:58:45,472 --> 00:58:49,470
+- And you're gonna owe me a big favour.
+- What favour?
+
+664
+00:58:49,601 --> 00:58:51,890
+When it's over. Hm?
+
+665
+00:58:56,817 --> 00:59:01,894
+Rocko, come on! We're gonna
+be late at the airport. Let's go!
+
+666
+00:59:02,030 --> 00:59:05,565
+- Think we forgot anything?
+- I think we have it all.
+
+667
+00:59:05,701 --> 00:59:09,745
+- Maybe another sweater.
+- No. California's not that cold, is it?
+
+668
+00:59:09,871 --> 00:59:13,287
+OK, listen.
+I want you to be a good boy, OK?
+
+669
+00:59:13,417 --> 00:59:15,789
+- Don't give anybody a hard time.
+- OK.
+
+670
+00:59:16,587 --> 00:59:18,793
+Gimme a kiss.
+
+671
+00:59:25,556 --> 00:59:28,080
+- We'll call when we land.
+- Yeah, we'll call.
+
+672
+00:59:52,174 --> 00:59:54,176
+<i>~ I been told by ~</i>
+
+673
+00:59:55,729 --> 00:59:58,813
+<i>~ Some people, and they all ~</i>
+
+674
+00:59:59,399 --> 01:00:01,641
+<i>~ Say to take you back ~</i>
+
+675
+01:00:03,945 --> 01:00:06,780
+<i>~ Take you back like before ~</i>
+
+676
+01:00:07,991 --> 01:00:11,241
+<i>~ I don't call that a reason ~</i>
+
+677
+01:00:12,245 --> 01:00:17,915
+<i>~ I just call it believin' in myself ~</i>
+
+678
+01:00:18,668 --> 01:00:21,040
+<i>~ Believin' in myself ~</i>
+
+679
+01:00:23,165 --> 01:00:26,333
+- What the hell are we doin' in LA?
+- This is where I started.
+
+680
+01:00:26,468 --> 01:00:28,793
+- So?
+- So this is where he's startin'.
+
+681
+01:00:28,929 --> 01:00:31,633
+This place is disgusting.
+Let's stay at your place.
+
+682
+01:00:31,765 --> 01:00:35,430
+You're missin' the point.
+Let's check in and get over to the gym.
+
+683
+01:00:35,560 --> 01:00:39,854
+Rock, we don't need this.
+It's below your standards.
+
+684
+01:00:39,981 --> 01:00:43,148
+We gotta give it a try, Paulie.
+Come on, Adrian.
+
+685
+01:00:52,202 --> 01:00:54,491
+<i>~ I don't call that a reason ~</i>
+
+686
+01:00:54,621 --> 01:00:56,578
+I don't even have a gun.
+
+687
+01:00:56,706 --> 01:01:01,119
+<i>~ I just call it believin' in myself ~</i>
+
+688
+01:01:02,629 --> 01:01:03,954
+<i>~ Believin' in myself... ~</i>
+
+689
+01:01:04,059 --> 01:01:07,748
+Fun is fun. I like those kind of things,
+but this, I don't like.
+
+690
+01:01:07,884 --> 01:01:13,341
+Look at this place. Rats even have
+more pride than to be caught dead here.
+
+691
+01:01:13,473 --> 01:01:16,924
+I mean, look at the dump.
+I just don't like it.
+
+692
+01:01:17,060 --> 01:01:19,977
+- Think of Adrian's health.
+- I'm fine, Paulie.
+
+693
+01:01:36,454 --> 01:01:38,661
+Check this out.
+
+694
+01:01:47,090 --> 01:01:49,925
+Yeah. Yeah...
+
+695
+01:01:51,303 --> 01:01:55,550
+- This is where I started.
+- That's your problem.
+
+696
+01:01:55,682 --> 01:01:59,015
+Rocko,
+let's leave before they leave us for dead.
+
+697
+01:02:00,979 --> 01:02:05,024
+Yeah.
+You see that look in their eyes, Rock?
+
+698
+01:02:05,358 --> 01:02:08,525
+When we fought, I trained hard
+but I didn't have that look.
+
+699
+01:02:08,653 --> 01:02:10,776
+You had it and you won.
+
+700
+01:02:12,407 --> 01:02:14,447
+Gotta get that look back, Rock.
+
+701
+01:02:14,826 --> 01:02:18,112
+Eye of the tiger, man.
+Eye of the tiger. Come on.
+
+702
+01:02:18,246 --> 01:02:20,239
+Come on, let's go.
+
+703
+01:02:20,373 --> 01:02:23,244
+Look at this place. No class in here.
+
+704
+01:02:23,376 --> 01:02:25,950
+- Is he always so cheerful?
+- I don't sweat you.
+
+705
+01:02:26,087 --> 01:02:29,670
+- Hey, Paulie. Don't get mentally irregular.
+- It's a free country.
+
+706
+01:02:29,799 --> 01:02:34,011
+- Just don't get irregular.
+- I don't need no philosophy lesson.
+
+707
+01:02:34,137 --> 01:02:38,550
+- It takes six years to get to know him.
+- I ain't got six years.
+
+708
+01:02:38,683 --> 01:02:41,055
+Come on, Paulie, just relax. Come on.
+
+709
+01:02:42,395 --> 01:02:44,435
+We're on business.
+
+710
+01:02:46,900 --> 01:02:50,850
+- Hey! Hey, champ!
+- Hey, Duke, my man!
+
+711
+01:02:50,987 --> 01:02:54,237
+- Hey, everything's set up.
+- Good. I know you know this man.
+
+712
+01:02:54,366 --> 01:02:57,948
+Yeah. It's gonna be good workin'
+with you and not against you.
+
+713
+01:02:58,078 --> 01:02:59,821
+- How you feel?
+- Pretty good, thanks.
+
+714
+01:02:59,955 --> 01:03:02,742
+We've been livin' modern.
+Now we're gonna train old.
+
+715
+01:03:02,874 --> 01:03:04,950
+I'm goin' over here to talk to the guys.
+
+716
+01:03:05,085 --> 01:03:07,124
+Hey! The champ is home.
+
+717
+01:03:09,506 --> 01:03:13,504
+- We gotta leave. I got a reputation.
+- What do you mean, reputation?
+
+718
+01:03:13,635 --> 01:03:17,253
+- You heard. I don't like these people.
+- You don't like 'em?
+
+719
+01:03:19,307 --> 01:03:22,142
+Well, maybe they don't
+like you either, Paulie.
+
+720
+01:03:22,269 --> 01:03:25,020
+What'd I do to them?
+
+721
+01:03:25,146 --> 01:03:27,186
+And they call me punchy.
+
+722
+01:03:27,315 --> 01:03:31,894
+- Stallion. Come over and meet the fellas.
+- I'll be right back.
+
+723
+01:03:32,028 --> 01:03:34,068
+How you doin', guys?
+
+724
+01:03:45,083 --> 01:03:47,870
+That's it, that's it.
+Come on, on the toes. On the toes!
+
+725
+01:03:48,003 --> 01:03:51,835
+On the toes. On the toes. On the toes.
+
+726
+01:03:53,383 --> 01:03:55,423
+Come on, Rock.
+
+727
+01:03:55,552 --> 01:03:59,502
+- He ain't too graceful.
+- That's why we're here, Paulie.
+
+728
+01:03:59,723 --> 01:04:02,392
+Waste of time. He's got heavy feet.
+
+729
+01:04:02,517 --> 01:04:05,518
+Get on the balls of your feet.
+Come on, relax, Rock.
+
+730
+01:04:06,021 --> 01:04:10,065
+- Come on, get those feet outta concrete.
+- It'll take time but it'll come.
+
+731
+01:04:10,191 --> 01:04:13,395
+He can't train to the jungle junk music.
+
+732
+01:04:14,112 --> 01:04:18,608
+Come on, relax, Rock.
+On the balls of your feet. Find the rhythm.
+
+733
+01:04:18,742 --> 01:04:21,315
+We'll start a new dance called the crawl.
+
+734
+01:04:21,453 --> 01:04:25,700
+You can't train him like a coloured fighter.
+He ain't got no rhythm.
+
+735
+01:04:25,999 --> 01:04:26,999
+Come on.
+
+736
+01:04:27,125 --> 01:04:29,248
+- How stupid do I look!
+- You look great.
+
+737
+01:04:29,461 --> 01:04:31,952
+Everything we do works out the jab.
+Good.
+
+738
+01:04:35,342 --> 01:04:38,545
+- Can he swim?
+- With a name like Rock?
+
+739
+01:04:38,678 --> 01:04:42,462
+No time to waste. Let's go!
+Another lap. Move it.
+
+740
+01:04:42,599 --> 01:04:46,383
+- Another lap.
+- He ain't no tuna. We belong in the gym.
+
+741
+01:04:46,519 --> 01:04:48,595
+He's usin' muscles he never knew he had.
+
+742
+01:04:48,730 --> 01:04:53,107
+Come on, Rock. Stretch now.
+Move it, Rock. Move it.
+
+743
+01:04:53,318 --> 01:04:56,734
+Nobody can change that much.
+He's a bruiser. He ain't no boxer.
+
+744
+01:04:56,863 --> 01:05:00,149
+You keep tellin' him that
+and he'll be nothin'.
+
+745
+01:05:00,283 --> 01:05:03,783
+Another lap. Come on now!
+Move it. Move it!
+
+746
+01:05:03,912 --> 01:05:07,660
+Come on. Move it, Rock.
+Come on! Let's go. Let's go.
+
+747
+01:05:08,083 --> 01:05:09,910
+That's it, stretch it out.
+
+748
+01:05:10,043 --> 01:05:13,044
+That's it. You gotta pull. Hard, now. Hard.
+
+749
+01:05:21,137 --> 01:05:24,637
+Shut up, ya Sterno bums! I'll squash ya.
+
+750
+01:05:24,766 --> 01:05:27,008
+There's decent people tryin' to sleep!
+
+751
+01:05:27,143 --> 01:05:29,895
+Shut up, you honky scum bastard mother!
+
+752
+01:05:30,021 --> 01:05:33,473
+Who needs this sick place? I don't.
+
+753
+01:05:35,235 --> 01:05:37,274
+No class.
+
+754
+01:05:40,323 --> 01:05:42,649
+Damn, that Clubber's strong.
+
+755
+01:05:42,784 --> 01:05:45,868
+15 rounds is a long time.
+
+756
+01:05:46,580 --> 01:05:48,619
+We gotta put him away early.
+
+757
+01:05:50,250 --> 01:05:55,161
+I figure with the pace we gotta set, Rock
+can last maybe seven or eight rounds.
+
+758
+01:05:56,631 --> 01:05:59,003
+Then we'll be out of steam, man.
+
+759
+01:05:59,551 --> 01:06:01,793
+We got to put him away early.
+
+760
+01:06:05,473 --> 01:06:08,427
+At least the water's hot.
+
+761
+01:06:10,562 --> 01:06:13,017
+Well, we never really had a honeymoon.
+
+762
+01:06:15,400 --> 01:06:17,440
+It's not so bad.
+
+763
+01:06:19,571 --> 01:06:22,240
+You've been in worse places.
+
+764
+01:06:22,949 --> 01:06:25,274
+<i>Rocky's in trouble in round two.</i>
+
+765
+01:06:25,410 --> 01:06:29,075
+<i>He takes a right.</i>
+<i>He's been cut! Rocky's been cut!</i>
+
+766
+01:06:30,999 --> 01:06:33,038
+Come on, Rock. Come on, now.
+
+767
+01:06:34,210 --> 01:06:36,536
+Let's go. You gotta get tougher.
+
+768
+01:06:36,671 --> 01:06:39,708
+Think smooth. Bounce. Bounce. Bounce.
+
+769
+01:06:40,342 --> 01:06:43,675
+On your toes, Rock.
+On your toes. On your toes!
+
+770
+01:06:44,971 --> 01:06:47,343
+Push yourself, Rock! Concentrate.
+
+771
+01:06:47,599 --> 01:06:51,466
+Let's move it, Rock.
+Move it now. Come on!
+
+772
+01:06:51,603 --> 01:06:53,761
+Have fun with it.
+
+773
+01:06:53,897 --> 01:06:56,566
+That's it. Easy, easy, easy.
+
+774
+01:06:59,194 --> 01:07:01,352
+Don't push it. Let it come.
+
+775
+01:07:01,488 --> 01:07:05,236
+It'll come. It just takes time, baby.
+
+776
+01:07:05,492 --> 01:07:08,825
+Move your head, move your head.
+Up and down.
+
+777
+01:07:08,954 --> 01:07:11,361
+Come on, come on.
+
+778
+01:07:11,498 --> 01:07:15,116
+In and out. Inside. Inside. Inside, baby.
+
+779
+01:07:15,669 --> 01:07:20,129
+- Side to side. Move your head.
+- Watch him. He's got two hands, right?
+
+780
+01:07:25,011 --> 01:07:29,969
+Damn, man! What the hell are you doin'?
+This guy will knock you on your ass!
+
+781
+01:07:31,685 --> 01:07:33,843
+Come on, Rock, it's not a game.
+
+782
+01:07:33,979 --> 01:07:37,763
+You wanna live in a hospital
+for five weeks this time?
+
+783
+01:07:37,899 --> 01:07:41,434
+- You thought I was tough. He'll kill ya!
+- All right.
+
+784
+01:07:41,570 --> 01:07:46,113
+Come on. Get your head on your
+shoulders, man. Think about the fight.
+
+785
+01:07:46,241 --> 01:07:49,325
+Clubber Lang's in here.
+He's tryin' to hurt you, Rock.
+
+786
+01:07:49,452 --> 01:07:52,240
+Here it comes. Jab! He's jabbin'.
+
+787
+01:07:52,539 --> 01:07:56,537
+He's tryin' to hurt you.
+You gotta fight him. You gotta move.
+
+788
+01:07:57,669 --> 01:08:01,714
+<i>He's up against the ropes.</i>
+<i>He can't get out of the corner!</i>
+
+789
+01:08:05,510 --> 01:08:07,918
+He's hookin'! He's hookin'! He's hookin'!
+
+790
+01:08:08,054 --> 01:08:10,094
+Damn, Rock! Come on!
+
+791
+01:08:11,016 --> 01:08:14,550
+- What's the matter with you?
+- Tomorrow. We'll do it tomorrow.
+
+792
+01:08:14,686 --> 01:08:17,224
+There is no tomorrow!
+
+793
+01:08:17,898 --> 01:08:19,937
+There is no tomorrow!
+
+794
+01:08:20,442 --> 01:08:22,481
+<i>There is no tomorrow!</i>
+
+795
+01:08:28,199 --> 01:08:31,403
+There's one thing you gotta remember.
+We gotta get some speed.
+
+796
+01:08:31,536 --> 01:08:35,700
+You gotta get some flexibility. You
+gotta get some quickness. Understand?
+
+797
+01:08:35,832 --> 01:08:40,209
+Quickness, endurance. That's all we
+gotta concern ourselves with, Rock.
+
+798
+01:08:40,337 --> 01:08:42,744
+Mickey never had me do this.
+
+799
+01:08:43,840 --> 01:08:46,296
+Yeah. OK, here we go.
+
+800
+01:08:47,969 --> 01:08:49,629
+Ready.
+
+801
+01:08:53,350 --> 01:08:55,389
+Set... Go!
+
+802
+01:08:58,897 --> 01:09:01,186
+Come on. Come on.
+
+803
+01:09:08,323 --> 01:09:10,362
+Come on.
+
+804
+01:09:11,409 --> 01:09:13,616
+<i>You can't win, Rock.</i>
+
+805
+01:09:14,871 --> 01:09:17,955
+<i>You ain't been hungry</i>
+<i>since you won that belt.</i>
+
+806
+01:09:18,875 --> 01:09:21,331
+<i>He'll knock ya into tomorrow!</i>
+
+807
+01:10:05,297 --> 01:10:07,538
+What's the matter?
+
+808
+01:10:08,133 --> 01:10:11,087
+It's over. It's all over.
+
+809
+01:10:22,480 --> 01:10:24,936
+What's the matter with you?
+
+810
+01:11:00,101 --> 01:11:02,094
+Can I talk to you?
+
+811
+01:11:06,524 --> 01:11:10,439
+I wanna ask you something important,
+and I want you to tell me the truth.
+
+812
+01:11:10,570 --> 01:11:14,650
+- What?
+- Why'd you come here?
+
+813
+01:11:16,034 --> 01:11:18,442
+I just don't want it no more.
+
+814
+01:11:18,745 --> 01:11:24,166
+- If it's over cos you want it to be, I'm glad.
+- I do.
+
+815
+01:11:25,335 --> 01:11:29,498
+It's just, you've never quit
+anything since I've known you.
+
+816
+01:11:33,426 --> 01:11:37,590
+I don't know what you want me to say.
+I mean, what happened?
+
+817
+01:11:37,722 --> 01:11:40,296
+How did everything
+that was so good get so bad?
+
+818
+01:11:41,643 --> 01:11:43,849
+What's so bad? Tell me. What?
+
+819
+01:11:43,979 --> 01:11:47,098
+I wrecked everything
+by not thinking for myself.
+
+820
+01:11:47,232 --> 01:11:50,683
+Why couldn't Mickey tell me
+where it was really at from the start?
+
+821
+01:11:50,819 --> 01:11:55,528
+He didn't have to carry me and lie and
+make me think I was better than I was.
+
+822
+01:11:55,657 --> 01:11:59,073
+- He never lied.
+- Those fights weren't right.
+
+823
+01:11:59,202 --> 01:12:01,325
+I never fought anybody in their prime.
+
+824
+01:12:01,454 --> 01:12:05,499
+There was always some angle to keep
+the title longer than I shoulda had it.
+
+825
+01:12:05,625 --> 01:12:07,499
+Do you understand?
+
+826
+01:12:07,627 --> 01:12:12,040
+You've gotta understand, he loved you!
+That was his job, protecting you.
+
+827
+01:12:12,173 --> 01:12:15,507
+Protectin' don't help nothin'.
+It makes things worse.
+
+828
+01:12:15,635 --> 01:12:20,843
+You wake up one day thinking you're
+a winner, but you're not. You're a loser.
+
+829
+01:12:20,974 --> 01:12:23,761
+So we wouldn't have had
+the title as long. So what?
+
+830
+01:12:23,893 --> 01:12:26,811
+- At least it would have been real.
+- It was real!
+
+831
+01:12:26,938 --> 01:12:29,608
+Nothing is real
+if you don't believe in who you are.
+
+832
+01:12:29,774 --> 01:12:32,063
+I don't believe in myself no more!
+
+833
+01:12:32,193 --> 01:12:35,562
+When a fighter don't believe,
+he's finished. That's it.
+
+834
+01:12:35,697 --> 01:12:38,781
+That's not it.
+Why don't you tell me the truth?
+
+835
+01:12:38,909 --> 01:12:42,112
+What are you puttin' me through?
+You wanna know the truth?
+
+836
+01:12:42,245 --> 01:12:44,285
+I don't wanna lose what I got.
+
+837
+01:12:44,414 --> 01:12:48,827
+At first, I didn't care about what happened.
+I'd go in the ring, get bust up.
+
+838
+01:12:48,960 --> 01:12:52,080
+But now there's you and the kid.
+I don't wanna lose what I got!
+
+839
+01:12:52,213 --> 01:12:57,884
+What do we have that can't be replaced?
+What? A house. We got cars, money.
+
+840
+01:12:58,011 --> 01:13:01,676
+We got everything but the truth.
+What's the truth, dammit?!
+
+841
+01:13:01,806 --> 01:13:03,965
+I'm afraid! All right?
+
+842
+01:13:04,100 --> 01:13:07,434
+You wanna hear me say it?
+You wanna break me down? I'm afraid.
+
+843
+01:13:07,562 --> 01:13:09,555
+For the first time, I'm afraid.
+
+844
+01:13:09,689 --> 01:13:12,726
+I'm afraid too.
+There's nothin' wrong with that.
+
+845
+01:13:12,859 --> 01:13:15,730
+- There is. For me, there is.
+- Why? You're human.
+
+846
+01:13:15,862 --> 01:13:20,323
+I don't know what I am. I know I'm a liar,
+and because of that, Mickey ain't here.
+
+847
+01:13:20,450 --> 01:13:25,159
+You didn't push him into anything. He was
+a grown man. He did what he had to do.
+
+848
+01:13:25,288 --> 01:13:27,993
+And you have no right to feel guilty.
+You don't!
+
+849
+01:13:28,625 --> 01:13:31,626
+You were a champion.
+You did what you were expected to do.
+
+850
+01:13:31,753 --> 01:13:34,244
+You did what everybody
+thought you should do.
+
+851
+01:13:34,381 --> 01:13:38,592
+And you wanna tell me that those fights
+weren't real? I don't believe it!
+
+852
+01:13:39,135 --> 01:13:43,429
+It doesn't matter what I believe.
+You've got to carry that fear inside you,
+
+853
+01:13:43,556 --> 01:13:48,633
+afraid everybody'll take things away,
+that you'll be remembered as a coward,
+
+854
+01:13:48,770 --> 01:13:52,519
+that you're not a man any more.
+Well, none of it's true.
+
+855
+01:13:52,649 --> 01:13:57,358
+It doesn't matter if I tell you because
+you're the one that's got to settle it.
+
+856
+01:13:57,487 --> 01:14:02,730
+Get rid of it! Cos when the smoke clears,
+and they stop chanting your name,
+
+857
+01:14:02,867 --> 01:14:04,575
+it's just gonna be us.
+
+858
+01:14:04,703 --> 01:14:08,119
+And you can't live like this.
+We can't live like this.
+
+859
+01:14:08,248 --> 01:14:13,491
+Cos it's gonna bother you for the rest of
+your life. Look what it's doing to you now.
+
+860
+01:14:18,675 --> 01:14:22,091
+Apollo thinks you can do it. So do I.
+
+861
+01:14:22,804 --> 01:14:27,181
+But you gotta wanna do it for the right
+reasons. Not for the guilt over Mickey.
+
+862
+01:14:27,309 --> 01:14:32,765
+Not for the people, not for the title,
+not for money, or me - but for you.
+
+863
+01:14:33,607 --> 01:14:35,646
+Just you. Just you alone.
+
+864
+01:14:39,613 --> 01:14:43,147
+- And if I lose?
+- Then you lose.
+
+865
+01:14:43,283 --> 01:14:48,075
+But at least you lose with no excuses.
+No fear.
+
+866
+01:14:48,204 --> 01:14:51,620
+And I know you could live with that.
+
+867
+01:14:58,590 --> 01:15:01,377
+How'd you get so tough?
+
+868
+01:15:02,594 --> 01:15:05,049
+I live with a fighter.
+
+869
+01:15:11,186 --> 01:15:13,511
+I really love you.
+
+870
+01:15:20,070 --> 01:15:22,109
+I love you.
+
+871
+01:15:45,011 --> 01:15:48,345
+No, no, no. Rock, no.
+Just flick it. Just flick it.
+
+872
+01:15:53,687 --> 01:15:55,726
+Faster! Faster!
+
+873
+01:16:08,868 --> 01:16:11,194
+Good. Five more laps.
+
+874
+01:16:13,248 --> 01:16:14,790
+Punch it!
+
+875
+01:16:15,875 --> 01:16:17,204
+On your toes!
+
+876
+01:16:19,963 --> 01:16:23,795
+<i>~ Gonna fly now ~</i>
+
+877
+01:16:25,051 --> 01:16:29,547
+<i>~ It's all right now ~</i>
+
+878
+01:16:30,015 --> 01:16:34,593
+<i>~ Flying high now... ~</i>
+
+879
+01:16:45,155 --> 01:16:47,194
+Jab out! Get him!
+
+880
+01:16:49,284 --> 01:16:51,323
+Gotta move it faster.
+
+881
+01:16:57,000 --> 01:16:59,408
+Faster! Faster! Kick it!
+
+882
+01:17:02,047 --> 01:17:03,541
+Very nice!
+
+883
+01:17:19,314 --> 01:17:21,639
+Move your head. Beautiful!
+
+884
+01:17:22,067 --> 01:17:25,270
+That's right. Under! Under and over.
+
+885
+01:17:25,403 --> 01:17:27,977
+Send him out!
+
+886
+01:17:35,038 --> 01:17:39,783
+<i>~ Feeling strong now ~</i>
+
+887
+01:17:39,918 --> 01:17:42,788
+<i>~ Nothing wrong now ~</i>
+
+888
+01:17:42,921 --> 01:17:45,626
+Faster. Faster. Yeah!
+
+889
+01:17:50,637 --> 01:17:53,210
+Now! Yeah!
+
+890
+01:17:55,433 --> 01:17:58,221
+Hey, Rocky the fish!
+
+891
+01:17:58,353 --> 01:18:00,013
+Yeah! Yeah!
+
+892
+01:18:29,009 --> 01:18:33,801
+<i>~ Gonna fly now ~</i>
+
+893
+01:18:33,930 --> 01:18:38,592
+<i>~ Nothin' wrong now ~</i>
+
+894
+01:18:38,727 --> 01:18:43,934
+<i>~ Gonna fly ~</i>
+
+895
+01:18:44,399 --> 01:18:49,026
+<i>~ Fly, fly ~</i>
+
+896
+01:18:49,154 --> 01:18:52,653
+<i>~ Fly ~</i>
+
+897
+01:18:54,451 --> 01:18:56,739
+<i>Good evening.</i>
+<i>I'm Stu Nahan, with Bill Baldwin.</i>
+
+898
+01:18:56,870 --> 01:18:59,622
+<i>We welcome you</i>
+<i>to Madison Square Garden.</i>
+
+899
+01:18:59,748 --> 01:19:02,369
+It's the anxiously awaited rematch
+
+900
+01:19:02,500 --> 01:19:07,495
+between former champion Rocky Balboa
+and the reigning champion Clubber Lang.
+
+901
+01:19:07,672 --> 01:19:11,966
+We now switch to our remote
+cameras inside the dressing rooms.
+
+902
+01:19:12,093 --> 01:19:15,925
+Would you comment on how you plan
+to fight Balboa? What's your strategy?
+
+903
+01:19:16,056 --> 01:19:19,057
+Don't need any.
+Balboa's so predictable and stupid.
+
+904
+01:19:19,184 --> 01:19:23,395
+The man comes straight ahead. He's
+tailor-made for me. He's gonna get hurt.
+
+905
+01:19:24,689 --> 01:19:28,023
+- That's good.
+- Turn 'em over. Good?
+
+906
+01:19:28,151 --> 01:19:30,607
+How does that look? OK?
+
+907
+01:19:30,737 --> 01:19:33,358
+No, I don't hate Balboa. But I pity the fool.
+
+908
+01:19:33,490 --> 01:19:37,534
+And I will destroy
+any man who tries to take what I got.
+
+909
+01:19:40,872 --> 01:19:43,707
+Remember where you came from.
+
+910
+01:19:43,833 --> 01:19:47,202
+Remember what it took to get you here.
+
+911
+01:19:47,337 --> 01:19:50,124
+And remember what
+he did to you last time, right?
+
+912
+01:19:50,298 --> 01:19:53,999
+Both are brawlers, with the edge
+and power going to Clubber Lang,
+
+913
+01:19:54,135 --> 01:19:58,347
+so I would say the odds are very long
+against Balboa regaining his title.
+
+914
+01:19:58,807 --> 01:20:02,176
+Now it's your turn. It's your turn, huh?
+
+915
+01:20:03,979 --> 01:20:06,018
+What's your prediction for the fight?
+
+916
+01:20:06,147 --> 01:20:10,441
+- Prediction?
+- Yes. Prediction.
+
+917
+01:20:10,569 --> 01:20:12,360
+Pain.
+
+918
+01:20:12,487 --> 01:20:15,488
+Lang likes to hurt a man to the body.
+
+919
+01:20:15,615 --> 01:20:18,782
+And Balboa may never have
+psychologically recovered
+
+920
+01:20:18,910 --> 01:20:21,828
+from that vicious knockout
+that Clubber laid on him.
+
+921
+01:20:23,582 --> 01:20:25,621
+It's time.
+
+922
+01:20:26,876 --> 01:20:28,916
+- Here.
+- What?
+
+923
+01:20:31,631 --> 01:20:34,122
+I want you to wear these.
+
+924
+01:20:35,844 --> 01:20:40,719
+Come on, Apollo. These are the colours
+that you wore in our first fight together.
+
+925
+01:20:40,849 --> 01:20:43,422
+I... I can't wear your colours.
+
+926
+01:20:43,560 --> 01:20:46,098
+Just wear 'em.
+
+927
+01:20:46,229 --> 01:20:48,269
+- Yeah?
+- Yeah.
+
+928
+01:20:49,274 --> 01:20:50,851
+Thanks, Apollo.
+
+929
+01:20:50,984 --> 01:20:53,985
+Just make sure you wash 'em
+before you bring 'em back.
+
+930
+01:20:54,112 --> 01:20:56,318
+Will do. Will do.
+
+931
+01:20:57,032 --> 01:20:59,867
+- Thanks, Apollo.
+- Hey, and remember,
+
+932
+01:20:59,993 --> 01:21:02,069
+after this you owe me a favour.
+
+933
+01:21:02,662 --> 01:21:04,287
+What favour?
+
+934
+01:21:04,414 --> 01:21:09,076
+I'd have to agree. Toe to toe, Lang is
+devastating, and he's much too strong.
+
+935
+01:21:09,210 --> 01:21:11,666
+Rocky! Rocky!
+
+936
+01:21:11,796 --> 01:21:14,334
+Listen. I wanna tell you
+that I'm proud of you.
+
+937
+01:21:14,466 --> 01:21:18,131
+It takes a helluva man to change,
+and you did it. Prove it to 'em, right?
+
+938
+01:21:18,261 --> 01:21:20,384
+- You did good, Apollo.
+- Thanks, Paulie.
+
+939
+01:21:20,513 --> 01:21:22,553
+Let's do it, Paulie.
+
+940
+01:21:23,683 --> 01:21:27,977
+Here come Rocky and Apollo,
+the two former champions.
+
+941
+01:21:34,861 --> 01:21:37,696
+Look at the tenseness in his face,
+that taut body.
+
+942
+01:21:37,822 --> 01:21:40,396
+- Boy, does he look serious right now.
+- He does.
+
+943
+01:21:40,533 --> 01:21:45,492
+You know, Stu, the word is that this is
+Rocky's last fight - win, lose or draw.
+
+944
+01:21:45,622 --> 01:21:50,200
+There he is, the Italian Stallion,
+Rocky Balboa, climbing into the ring.
+
+945
+01:21:50,335 --> 01:21:54,878
+Boy, he looks incredibly thin.
+I'd say he's gotta be about 20lb lighter.
+
+946
+01:21:55,006 --> 01:21:57,793
+Rocky Balboa,
+the iron man from Philadelphia.
+
+947
+01:21:57,926 --> 01:22:00,880
+This crowd is with him tonight. Listen.
+
+948
+01:22:02,806 --> 01:22:05,213
+Balboa doesn't really have
+any boxing skills.
+
+949
+01:22:05,350 --> 01:22:08,055
+But I've never seen as much
+raw determination...
+
+950
+01:22:08,186 --> 01:22:10,095
+Hold it, Stu.
+
+951
+01:22:10,230 --> 01:22:13,848
+Here comes the champion now,
+Clubber Lang. Look at this crowd.
+
+952
+01:22:15,986 --> 01:22:21,656
+Look at those eyes. I've never seen
+a guy with such sullen eyes. He is tough.
+
+953
+01:22:21,783 --> 01:22:24,903
+Clubber, go back where you came from!
+
+954
+01:22:26,329 --> 01:22:29,829
+He even belted a spectator.
+Did you see that? Look at that man.
+
+955
+01:22:29,958 --> 01:22:33,872
+Boy, awesome. Man, he's tough.
+
+956
+01:22:34,004 --> 01:22:38,048
+Clubber Lang,
+the heavyweight champion of the world!
+
+957
+01:22:38,466 --> 01:22:40,755
+Hey, fool! You ready for another beatin'?
+
+958
+01:22:40,885 --> 01:22:43,092
+You should've never came back!
+
+959
+01:22:43,221 --> 01:22:45,593
+- Don't look at him.
+- Let's just be cool.
+
+960
+01:22:45,849 --> 01:22:47,806
+Hey, boy.
+
+961
+01:22:47,934 --> 01:22:51,884
+Hey, boy. After I crucify him, you're next.
+
+962
+01:22:52,063 --> 01:22:55,432
+- Just stay outta my face, chump.
+- Don't turn your back on me.
+
+963
+01:22:55,567 --> 01:22:58,521
+We got a brawl before the bell.
+
+964
+01:22:59,321 --> 01:23:01,444
+This ring is ready to explode!
+
+965
+01:23:01,573 --> 01:23:04,740
+With the fight about to officially begin...
+
+966
+01:23:06,286 --> 01:23:09,821
+- I'm gonna get you! Let him go!
+- Come on!
+
+967
+01:23:09,956 --> 01:23:12,115
+Let him go! I want him!
+
+968
+01:23:12,250 --> 01:23:14,290
+- You said be cool.
+- That was cool.
+
+969
+01:23:14,419 --> 01:23:17,373
+I'm the champ!
+I'll beat ya like I did last time.
+
+970
+01:23:17,505 --> 01:23:20,506
+You won't have to look to find me.
+I'm here.
+
+971
+01:23:20,634 --> 01:23:23,800
+Boxing fans around the world,
+
+972
+01:23:23,929 --> 01:23:26,550
+welcome to Madison Square Garden
+
+973
+01:23:26,681 --> 01:23:30,679
+and tonight's heavyweight
+championship of the world!
+
+974
+01:23:32,938 --> 01:23:34,977
+Out of the red corner,
+
+975
+01:23:35,106 --> 01:23:40,148
+the challenger, weighing 191 lb,
+
+976
+01:23:40,278 --> 01:23:43,694
+from the fighting city of Philadelphia,
+
+977
+01:23:43,823 --> 01:23:47,074
+the former heavyweight
+champion of the world,
+
+978
+01:23:47,202 --> 01:23:49,360
+the Italian Stallion,
+
+979
+01:23:49,496 --> 01:23:55,036
+Rocky Balboa!
+
+980
+01:24:00,382 --> 01:24:03,916
+I tell ya, he has so slimmed down,
+he looks like a middleweight.
+
+981
+01:24:04,552 --> 01:24:09,974
+Out of the blue corner, weighing 237lb,
+
+982
+01:24:10,100 --> 01:24:13,303
+the hard-punching pedlar from Chicago,
+
+983
+01:24:13,478 --> 01:24:17,606
+the reigning heavyweight
+champion of the world,
+
+984
+01:24:17,732 --> 01:24:20,769
+Clubber Lang!
+
+985
+01:24:21,778 --> 01:24:24,150
+Referee, Lou Filippo.
+
+986
+01:24:24,823 --> 01:24:26,946
+OK, boys. Let's go.
+
+987
+01:24:27,617 --> 01:24:31,200
+We went over the rules yesterday.
+I'm gonna repeat a few of 'em.
+
+988
+01:24:31,329 --> 01:24:33,536
+Watch your low blows
+and rabbit punches.
+
+989
+01:24:33,665 --> 01:24:36,500
+In case of a knockdown,
+go to the corner I tell you to,
+
+990
+01:24:36,626 --> 01:24:39,378
+and you stay there
+until I tell you to come out.
+
+991
+01:24:39,504 --> 01:24:42,339
+Is that understood? Any questions?
+
+992
+01:24:42,465 --> 01:24:44,707
+Let's go back to your corner now.
+Let's go.
+
+993
+01:24:45,927 --> 01:24:49,510
+- I'm gonna bust you up.
+- Go for it.
+
+994
+01:24:51,850 --> 01:24:56,393
+Here we go. The war is on!
+We're just waiting for the bell.
+
+995
+01:24:56,521 --> 01:24:58,810
+Take my belt off. I'll get that chump.
+
+996
+01:24:58,940 --> 01:25:02,356
+Don't let this bum let you fight his fight.
+You're the best!
+
+997
+01:25:03,403 --> 01:25:05,111
+Hell.
+
+998
+01:25:05,280 --> 01:25:08,815
+Rhythm and power. Then jab him.
+
+999
+01:25:08,950 --> 01:25:10,990
+Rocky! Rocky!
+
+1000
+01:25:14,289 --> 01:25:16,910
+It should be a great fight!
+
+1001
+01:25:18,168 --> 01:25:22,379
+Balboa goes right out of his corner
+and right after Clubber Lang.
+
+1002
+01:25:22,505 --> 01:25:26,455
+He's going right to left, into Clubber's
+face. What a start to the fight!
+
+1003
+01:25:26,593 --> 01:25:29,547
+Another jab. Another jab.
+
+1004
+01:25:30,096 --> 01:25:33,263
+And another!
+This is not the Rocky we expected!
+
+1005
+01:25:33,558 --> 01:25:35,681
+Looks fantastic.
+
+1006
+01:25:38,980 --> 01:25:43,476
+Another right. And a right.
+Look at that! A right and left to the head!
+
+1007
+01:25:43,610 --> 01:25:48,106
+Clubber Lang doesn't know what's
+happening. He's being stung by this style.
+
+1008
+01:25:48,240 --> 01:25:51,110
+Look at the shots he's taking.
+
+1009
+01:25:53,161 --> 01:25:57,989
+- He can't corner the fleet-footed fighter.
+- It's absolutely unbelievable!
+
+1010
+01:25:59,668 --> 01:26:02,503
+Come on, you oversized hick!
+Bring it to me! Hit me!
+
+1011
+01:26:02,629 --> 01:26:05,416
+That right hand is like a triphammer!
+
+1012
+01:26:08,927 --> 01:26:11,299
+- Rock, tie him up!
+- Bring it to me! Hit me!
+
+1013
+01:26:11,805 --> 01:26:14,343
+Come on, get back. Get back!
+
+1014
+01:26:14,474 --> 01:26:17,392
+Tough first round!
+
+1015
+01:26:17,519 --> 01:26:20,188
+There's Rocky
+with a couple of rights and lefts.
+
+1016
+01:26:20,313 --> 01:26:22,520
+Get off! Get off!
+
+1017
+01:26:23,358 --> 01:26:26,193
+This crowd is going absolutely wild.
+
+1018
+01:26:52,637 --> 01:26:57,050
+We got pandemonium in the ring
+at the end of round one.
+
+1019
+01:26:57,183 --> 01:27:01,098
+Lang wants more.
+He can't realise that the round is over!
+
+1020
+01:27:03,315 --> 01:27:07,562
+All right, you looked great.
+Just don't get crazy and we're home.
+
+1021
+01:27:07,694 --> 01:27:10,529
+- I'll kill you, man
+- The man is strong.
+
+1022
+01:27:10,655 --> 01:27:13,941
+I'm gonna kill him. I'm gonna kill him.
+
+1023
+01:27:15,660 --> 01:27:17,700
+Now he's gonna come hard, right?
+
+1024
+01:27:17,829 --> 01:27:22,954
+- Don't give him a chance to settle.
+- Counter and move. Counter and move.
+
+1025
+01:27:23,084 --> 01:27:26,204
+He had Lang at his mercy!
+
+1026
+01:27:30,592 --> 01:27:34,459
+Now it's Lang coming out for Rocky.
+
+1027
+01:27:35,472 --> 01:27:40,549
+Rocky has him in his corner
+and is still landing rights and lefts.
+
+1028
+01:27:41,269 --> 01:27:43,476
+A right to the head. Another.
+
+1029
+01:27:43,605 --> 01:27:47,353
+He's really setting him up.
+Five unanswered shots!
+
+1030
+01:27:48,693 --> 01:27:51,445
+Kill him! Kill him!
+
+1031
+01:27:54,950 --> 01:27:56,942
+- Get outta there!
+- Get back!
+
+1032
+01:28:02,249 --> 01:28:04,918
+All right!
+
+1033
+01:28:06,962 --> 01:28:09,085
+Break it up. Break it up.
+
+1034
+01:28:09,214 --> 01:28:12,417
+- What are you doin'?
+- Come on, Balboa.
+
+1035
+01:28:14,302 --> 01:28:16,591
+Get your hands up. Come on, Rock!
+
+1036
+01:28:18,056 --> 01:28:20,725
+That right hand hurt Rocky again!
+
+1037
+01:28:22,310 --> 01:28:25,513
+Balboa's in trouble now.
+
+1038
+01:28:29,776 --> 01:28:32,314
+Hold him, dammit!
+
+1039
+01:28:33,572 --> 01:28:37,949
+- Come on, Rocky!
+- This is Clubber's round.
+
+1040
+01:28:43,873 --> 01:28:45,913
+And Balboa is down.
+
+1041
+01:28:47,168 --> 01:28:49,659
+- Get up, dammit!
+- Come on.
+
+1042
+01:28:50,297 --> 01:28:52,538
+- Five!
+- He's in trouble.
+
+1043
+01:28:52,674 --> 01:28:54,916
+Six!
+
+1044
+01:28:55,051 --> 01:28:56,961
+Seven!
+
+1045
+01:28:58,096 --> 01:29:02,260
+It's Clubber again. Lang with the left hand.
+Another left and a right!
+
+1046
+01:29:04,894 --> 01:29:07,136
+And down goes Balboa again.
+
+1047
+01:29:08,607 --> 01:29:10,184
+Stop the fight.
+
+1048
+01:29:10,609 --> 01:29:13,859
+- Six!
+- I got some more, so get up.
+
+1049
+01:29:14,321 --> 01:29:16,360
+I got a lotta moves. Come on!
+
+1050
+01:29:16,489 --> 01:29:19,407
+Here we go again.
+Clubber coming into him!
+
+1051
+01:29:24,372 --> 01:29:27,492
+You ain't so bad. You ain't so bad.
+
+1052
+01:29:28,335 --> 01:29:30,493
+You ain't so bad. You ain't nothin!
+
+1053
+01:29:30,629 --> 01:29:33,713
+You must be crazy.
+You're just a stupid fool.
+
+1054
+01:29:33,840 --> 01:29:37,624
+- But I ain't breathin' heavy.
+- He's a fool. He's stupid.
+
+1055
+01:29:37,761 --> 01:29:39,884
+How could he come back
+from that beating?
+
+1056
+01:29:40,013 --> 01:29:42,219
+What the hell are you doin'?
+
+1057
+01:29:42,349 --> 01:29:46,216
+- It's a strategy. I know what I'm doin'.
+- You don't know.
+
+1058
+01:29:46,353 --> 01:29:50,053
+- He's gotta come to you.
+- He's nothin'. He's mine.
+
+1059
+01:29:50,190 --> 01:29:54,567
+Stand toe to toe with this bum and
+he'll kill you. He'll beat your head off.
+
+1060
+01:29:54,694 --> 01:29:56,603
+He's gettin' tired.
+
+1061
+01:29:57,530 --> 01:30:01,824
+Don't go wasting your punches.
+Don't try to take him out with one punch.
+
+1062
+01:30:01,993 --> 01:30:05,279
+Use your head. You wear him down.
+He's all ours.
+
+1063
+01:30:05,664 --> 01:30:07,324
+I know what I'm doin'.
+
+1064
+01:30:07,457 --> 01:30:11,870
+Don't tell me what you think!
+Go out there and do it. Eye of the tiger.
+
+1065
+01:30:13,505 --> 01:30:16,874
+Knock his head off. He's just a man.
+
+1066
+01:30:17,634 --> 01:30:21,466
+Be more man than him.
+Go get him. Eye of the tiger.
+
+1067
+01:30:24,349 --> 01:30:29,260
+Round three - tough round to call.
+This is a little slower...
+
+1068
+01:30:29,396 --> 01:30:31,472
+It's my round.
+
+1069
+01:30:31,606 --> 01:30:34,524
+I'm gonna take ya this time.
+
+1070
+01:30:34,651 --> 01:30:36,940
+You're mine. You're mine.
+
+1071
+01:30:37,070 --> 01:30:39,857
+- Come on. Come on.
+- I'm gonna get ya.
+
+1072
+01:30:52,502 --> 01:30:55,123
+Get outta there.
+
+1073
+01:30:58,925 --> 01:31:01,001
+Get outta there!
+
+1074
+01:31:01,136 --> 01:31:03,674
+- Come on.
+- Stick him.
+
+1075
+01:31:07,100 --> 01:31:09,140
+Come on!
+
+1076
+01:31:10,604 --> 01:31:12,228
+Again, again!
+
+1077
+01:31:12,439 --> 01:31:16,187
+- He's gettin' killed
+- No, no, no, he's not. He's gettin' mad.
+
+1078
+01:31:16,318 --> 01:31:19,022
+The whole world's watching.
+Knock me out.
+
+1079
+01:31:20,655 --> 01:31:23,360
+Harder! Can you hit hard? Hit me harder!
+
+1080
+01:31:30,498 --> 01:31:32,408
+Get outta there!
+
+1081
+01:31:34,377 --> 01:31:36,833
+Rocky!
+
+1082
+01:31:41,468 --> 01:31:42,962
+Yeah!
+
+1083
+01:31:43,803 --> 01:31:46,092
+My mother hits harder than that. Come on!
+
+1084
+01:31:46,222 --> 01:31:48,429
+A little harder. Hit me on the face.
+
+1085
+01:31:50,143 --> 01:31:52,266
+Come on, champ. You ain't so bad.
+
+1086
+01:31:52,854 --> 01:31:54,977
+You ain't nothin'.
+
+1087
+01:31:57,442 --> 01:31:58,901
+Rocky!
+
+1088
+01:31:59,027 --> 01:32:01,898
+Rocky! Rocky!
+
+1089
+01:32:14,918 --> 01:32:18,666
+I might believe the strategy now.
+He's making Clubber miss!
+
+1090
+01:32:18,797 --> 01:32:23,257
+He drew him in. Now Rocky's throwing
+the punches. Look at the punches.
+
+1091
+01:32:25,345 --> 01:32:29,888
+He's lifting him right off
+the canvas with those punches!
+
+1092
+01:32:34,604 --> 01:32:36,644
+He's completely psyched out!
+
+1093
+01:32:38,316 --> 01:32:41,021
+Lang is confused by all of this!
+
+1094
+01:33:14,603 --> 01:33:15,931
+Come on!
+
+1095
+01:33:26,740 --> 01:33:30,156
+The place is going bananas!
+
+1096
+01:33:30,827 --> 01:33:33,152
+- Get up!
+- Five!
+
+1097
+01:33:33,288 --> 01:33:34,403
+Six!
+
+1098
+01:33:34,873 --> 01:33:36,533
+Seven!
+
+1099
+01:33:36,666 --> 01:33:38,706
+Eight! Nine!
+
+1100
+01:33:38,960 --> 01:33:41,498
+Ten. You're out.
+
+1101
+01:33:50,555 --> 01:33:56,558
+There he is, the new heavyweight
+champion of the world, Rocky Balboa!
+
+1102
+01:33:58,897 --> 01:34:00,936
+Rocky is exhausted.
+
+1103
+01:34:06,321 --> 01:34:10,153
+Ladies and gentlemen,
+the winner by knockout...
+
+1104
+01:34:10,283 --> 01:34:14,495
+- Are you all right?
+- Never better. Never better.
+
+1105
+01:34:15,705 --> 01:34:20,166
+...the heavyweight champion of the world,
+the Italian Stallion,
+
+1106
+01:34:20,293 --> 01:34:23,128
+Rocky Balboa!
+
+1107
+01:34:33,390 --> 01:34:36,344
+- We made a deal.
+- I know, but this is extremely crazy.
+
+1108
+01:34:36,476 --> 01:34:38,516
+Yeah. Mentally irregular, right?
+
+1109
+01:34:38,645 --> 01:34:41,397
+But it makes sense. You owe me a favour.
+
+1110
+01:34:41,523 --> 01:34:44,393
+I know, but... When did you think of this?
+
+1111
+01:34:44,526 --> 01:34:48,226
+- About three years ago.
+- This is very crazy, Apollo.
+
+1112
+01:34:48,363 --> 01:34:53,523
+Stallion, when you won that last fight,
+you beat me by one second.
+
+1113
+01:34:53,660 --> 01:34:56,151
+That's hard for
+an intelligent man to handle.
+
+1114
+01:34:56,288 --> 01:35:00,332
+- Didn't you say you learnt to live with it?
+- I lied.
+
+1115
+01:35:00,458 --> 01:35:02,949
+Oh, you lied!
+
+1116
+01:35:03,169 --> 01:35:08,412
+- So now you gotta prove it to yourself?
+- No TV, no newspapers. Just you and me.
+
+1117
+01:35:08,550 --> 01:35:11,586
+Nothin'. Just you and me.
+Age before beauty.
+
+1118
+01:35:11,720 --> 01:35:14,923
+- Anything you say.
+- I'll do all the work, OK?
+
+1119
+01:35:15,056 --> 01:35:19,184
+You better go slow cos you ain't
+as young as springtime any more.
+
+1120
+01:35:19,311 --> 01:35:21,884
+I'm still young enough to whip your butt.
+
+1121
+01:35:22,022 --> 01:35:25,521
+Yeah? How you gonna do that?
+You taught me everything you know.
+
+1122
+01:35:25,859 --> 01:35:31,233
+Almost everything. You gotta remember,
+you fight great, but I'm a great fighter.
+
+1123
+01:35:31,364 --> 01:35:34,069
+- You ready?
+- Absolutely.
+
+1124
+01:35:35,285 --> 01:35:38,784
+You know, Stallion,
+it's too bad we gotta get old.
+
+1125
+01:35:40,557 --> 01:35:42,596
+Ah, just keep punchin', Apollo.
+
+1126
+01:35:44,769 --> 01:35:46,809
+You wanna ring the bell?
+
+1127
+01:35:46,938 --> 01:35:48,136
+All right.
+
+1128
+01:35:48,273 --> 01:35:50,312
+Ding-ding.
+
+1129
+01:35:51,443 --> 01:35:53,482
+Come on, Stallion.
+
+1130
+01:35:53,987 --> 01:35:55,861
+Come on, come on.
+
+1131
+01:35:56,489 --> 01:35:59,027
+Boy, you really move good
+for an older guy.
+
+1132
+01:36:00,577 --> 01:36:03,282
+You're lookin' good. I taught you well.
+
+1133
+01:36:03,872 --> 01:36:07,075
+I think you taught me too good.
+Look at him fly.
+
+1134
+01:36:07,208 --> 01:36:10,542
+Look out now. No, no, you don't
+want any of this. Come on.
+
+1135
+01:36:11,963 --> 01:36:15,964
+- Maybe I'm in here with the wrong guy.
+- Watch yourself. Ready?
+
+1136
+01:36:16,384 --> 01:36:20,252
+<i>~ It's the eye of the tiger</i>
+<i>It's the thrill of the fight ~</i>
+
+1137
+01:36:20,388 --> 01:36:23,923
+<i>~ Risin' up to the challenge of our rival ~</i>
+
+1138
+01:36:24,851 --> 01:36:29,063
+<i>~ And the last known survivor</i>
+<i>Stalks his prey in the night ~</i>
+
+1139
+01:36:29,189 --> 01:36:33,815
+<i>~ And he's watching us all with the eye ~</i>
+
+1140
+01:36:33,943 --> 01:36:36,517
+<i>~ Of the tiger ~</i>
+
+1141
+01:36:39,324 --> 01:36:40,783
+<i>~ Risin' up ~</i>
+
+1142
+01:36:40,909 --> 01:36:43,482
+<i>~ Back on the street ~</i>
+
+1143
+01:36:43,620 --> 01:36:47,867
+<i>~ Did my time, took my chances ~</i>
+
+1144
+01:36:47,999 --> 01:36:51,285
+<i>~ Went the distance</i>
+<i>Now I'm back on my feet ~</i>
+
+1145
+01:36:51,419 --> 01:36:55,631
+<i>~ Just a man, and his will to survive ~</i>
+
+1146
+01:36:56,758 --> 01:37:00,672
+<i>~ So many times, it happens too fast ~</i>
+
+1147
+01:37:01,137 --> 01:37:04,589
+<i>~ You change your passion for glory ~</i>
+
+1148
+01:37:05,517 --> 01:37:06,631
+<i>~ Don't lose your grip ~</i>
+
+1149
+01:37:06,768 --> 01:37:08,844
+<i>~ On the dreams of the past ~</i>
+
+1150
+01:37:08,978 --> 01:37:13,391
+<i>~ You must fight just to keep them alive ~</i>
+
+1151
+01:37:13,650 --> 01:37:17,861
+<i>~ It's the eye of the tiger</i>
+<i>It's the thrill of the fight ~</i>
+
+1152
+01:37:17,987 --> 01:37:21,985
+<i>~ Risin' up to the challenge of our rival</i>
+
+1153
+01:37:22,117 --> 01:37:26,577
+<i>~ And the last known survivor</i>
+<i>Stalks his prey in the night ~</i>
+
+1154
+01:37:26,705 --> 01:37:31,082
+<i>~ And he's watchin' us all with the eye ~</i>
+
+1155
+01:37:31,376 --> 01:37:33,783
+<i>~ Of the tiger ~</i>
+
+1156
+01:37:36,965 --> 01:37:38,459
+<i>~ Face to face ~</i>
+
+1157
+01:37:38,591 --> 01:37:40,631
+<i>~ Out in the heat ~</i>
+
+1158
+01:37:41,344 --> 01:37:44,298
+<i>~ Hangin' tough, stayin' hungry ~</i>
+
+1159
+01:37:45,473 --> 01:37:49,008
+<i>~ They stack the odds</i>
+<i>Still we take to the street ~</i>
+
+1160
+01:37:49,144 --> 01:37:53,307
+<i>~ For the kill with the skill to survive ~</i>
+
+1161
+01:37:53,440 --> 01:37:55,479
+<i>~ It's the eye of the tiger ~</i>
+
+1162
+01:37:55,608 --> 01:37:57,684
+<i>~ It's the thrill of the fight ~</i>
+
+1163
+01:37:57,819 --> 01:38:01,983
+<i>~ Risin' up to the challenge of our rival ~</i>
+
+1164
+01:38:02,115 --> 01:38:06,362
+<i>~ And the last known survivor</i>
+<i>Stalks his prey in the night ~</i>
+
+1165
+01:38:06,494 --> 01:38:10,788
+<i>~ And he's watchin' us all with the eye ~</i>
+
+1166
+01:38:10,915 --> 01:38:14,082
+<i>~ Of the tiger ~</i>
+
+1167
+01:38:21,009 --> 01:38:24,425
+<i>~ Risin' up, straight to the top ~</i>
+
+1168
+01:38:25,180 --> 01:38:28,383
+<i>~ Had the guts, got the glory ~</i>
+
+1169
+01:38:29,559 --> 01:38:32,975
+<i>~ Went the distance</i>
+<i>Now I'm not gonna stop ~</i>
+
+1170
+01:38:33,104 --> 01:38:37,149
+<i>~ Just a man and his will to survive ~</i>
+
+1171
+01:38:37,275 --> 01:38:39,731
+<i>~ It's the eye of the tiger ~</i>
+
+1172
+01:38:39,861 --> 01:38:41,439
+<i>~ It's the thrill of the fight ~</i>
+
+1173
+01:38:41,571 --> 01:38:45,865
+<i>~ Risin' up the challenge of our rival ~</i>
+
+1174
+01:38:45,992 --> 01:38:50,369
+<i>~ And the last known survivor</i>
+<i>Stalks his prey in the night ~</i>
+
+1175
+01:38:50,497 --> 01:38:55,622
+<i>~ And he's watchin' us all with the eye ~</i>
+
+1176
+01:38:57,170 --> 01:39:00,669
+<i>~ Of the tiger ~</i>
+
+1177
+01:39:09,974 --> 01:39:12,014
+<i>~ The eye of the tiger ~</i>
+
+1178
+01:39:13,186 --> 01:39:15,226
+Subtitles by Visiontext

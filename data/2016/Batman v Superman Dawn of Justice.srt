@@ -1,0 +1,159 @@
+1
+00:00:07,201 --> 00:00:07,698
+<font color="#86CECB"><i>Senator: Today</i></font>
+
+2
+00:00:09,341 --> 00:00:10,594
+<font color="#86CECB">is a day for truth</font>
+
+3
+00:00:15,321 --> 00:00:16,789
+<font color="#86CECB">The world needs to know what happened</font>
+
+4
+00:00:17,641 --> 00:00:18,594
+<font color="#86CECB">and to know what he stands for</font>
+
+5
+00:00:19,641 --> 00:00:22,594
+<font color="#86CECB">That kind of power is very dangerous</font>
+
+6
+00:00:44,641 --> 00:00:46,594
+<font color="#86CECB">Let the record show that this committee</font>
+
+7
+00:00:46,641 --> 00:00:47,594
+<font color="#86CECB">holds him responsible</font>
+
+8
+00:00:53,641 --> 00:00:55,594
+<font color="#FFFEEC">Alfred: That's how it starts</font>
+
+9
+00:00:57,641 --> 00:00:59,594
+<font color="#FFFEEC"><i>the fever,</i></font>
+
+10
+00:01:00,641 --> 00:01:02,594
+<font color="#FFFEEC"><i>the rage,</i></font>
+
+11
+00:01:02,641 --> 00:01:08,594
+<font color="#FFFEEC">that turns good men <b>cruel</b></font>
+
+12
+00:01:10,641 --> 00:01:12,594
+<font color="#FE9881">This Bat vilgilante </font>
+
+13
+00:01:12,641 --> 00:01:14,594
+<font color="#FE9881">is like a one man reign of terror!</font>
+
+14
+00:01:15,641 --> 00:01:17,294
+<font color="#BEC8D1">Perry: You don't get to decide what the right thing is</font>
+
+15
+00:01:17,441 --> 00:01:20,594
+<font color="#BEC8D1">Nobody cares about Clark Kent taking on Batman</font>
+
+16
+00:01:23,341 --> 00:01:24,594
+<font color="#9ABDC6">Lois Lane: This means something</font>
+
+17
+00:01:24,641 --> 00:01:27,594
+<font color="#9ABDC6">it’s all some people have, it’s all that gives them hope</font>
+
+18
+00:01:30,541 --> 00:01:32,594
+<font color="#DCDAF1">Martha Kent: People hate what they dont understand</font>
+
+19
+00:01:33,341 --> 00:01:34,594
+<font color="#DCDAF1">Be their hero Clark</font>
+
+20
+00:01:34,641 --> 00:01:36,001
+<font color="#DCDAF1">Be their angel,</font>
+
+21
+00:01:36,141 --> 00:01:37,594
+<font color="#DCDAF1">Be their monument,</font>
+
+22
+00:01:38,541 --> 00:01:40,594
+<font color="#DCDAF1">Be anything they need you to be,</font>
+
+23
+00:01:41,241 --> 00:01:42,594
+<font color="#DCDAF1"><i>Or be none of it</i></font>
+
+24
+00:01:44,341 --> 00:01:45,594
+<font color="#DCDAF1">You dont owe this world a thing</font>
+
+25
+00:01:46,241 --> 00:01:47,594
+<font color="#DCDAF1">You never did.</font>
+
+26
+00:01:50,341 --> 00:01:52,594
+<font color="#4CCD98">Lex Luthor: Do you know the oldest line of Murphy Senator?</font>
+
+27
+00:01:53,241 --> 00:01:55,594
+<font color="#4CCD98">Devil's dont come from hell beneath us!</font>
+
+28
+00:01:57,141 --> 00:01:58,594
+<font color="#86CECB">Senator: They come from the sky</font>
+
+29
+00:02:00,241 --> 00:02:02,594
+<font color="#B8BDF2">Batman: Twenty years in Gotham. How many good guys are left?</font>
+
+30
+00:02:03,741 --> 00:02:05,594
+<font color="#B8BDF2">How many stayed that way?</font>
+
+31
+00:02:06,441 --> 00:02:08,594
+<font color="#B8BDF2">He has the power to wipe out the entire human race</font>
+
+32
+00:02:21,241 --> 00:02:23,594
+<font color="#B8BDF2">and I have to destroy him</font>
+
+33
+00:02:38,841 --> 00:02:40,594
+<font color="#FFFEEC">Alfred: Your'e gonna begin a war </font>
+
+34
+00:02:44,141 --> 00:02:45,594
+<font color="#FFFEEC">He is not our enemy</font>
+
+35
+00:02:51,641 --> 00:02:52,594
+<font color="#4CCD98"><b>Lex Luthor: Black and Blue</b></font>
+
+36
+00:02:54,641 --> 00:02:55,594
+<font color="#4CCD98"><b>God vs Man</b></font>
+
+37
+00:02:57,641 --> 00:02:59,594
+<font color="#4CCD98"><b>Day vs Night</b></font>
+
+38
+00:03:04,641 --> 00:03:06,594
+<font color="#4CCD98"><i><b>The Red Capes are coming</b></i></font>
+
+39
+00:03:08,641 --> 00:03:10,594
+<font color="#4CCD98"><i><b>The Red Capes are coming</b></i></font>
+
+40
+00:03:11,641 --> 00:03:38,594
+<font color="#00FF00"><b>~~==Made by Ultron59==~~</b></font>
