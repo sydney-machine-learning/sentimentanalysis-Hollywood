@@ -4,7 +4,7 @@ import os
 from collections import Counter
 
 # Define the list of common words to exclude
-common_exclusions = {'i', 'you', 'to', 'the', 'a', 'and', 'it', 'is', 'that', 'of','s', 't', 'what', 'in', 'me', 'this', 'on', 'sir', 'get','for', 'she', 'be', 'eve', 'not', 'have', 'all', 'her', 'was', 'my','can', 'oh', 'no', 'we', 'well', 'annie', 'be', 'he', 'like', 'don'}
+common_exclusions = {'-','♪','i', 'you', 'to', 'the', 'a', 'and', 'it', 'is', 'that', 'of','s', 't', 'what', 'in', 'me', 'this', 'on', 'sir', 'get','for', 'she', 'be', 'eve', 'not', 'have', 'all', 'her', 'was', 'my','can', 'oh', 'no', 'we', 'well', 'annie', 'be', 'he', 'like', 'don'}
 
 def parse_srt_excluding_common(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -23,6 +23,12 @@ def parse_srt_excluding_common(file_path):
     # Remove timestamps and numbers
     lines = re.sub(r'\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}', '', content)
     lines = re.sub(r'\d+', '', lines)
+    lines = lines.replace('\n', '')
+    lines = re.sub(r'\n\s*\n', '\n', lines).strip()
+    lines = lines.replace('-', '')
+    lines = lines.replace('♪', '')
+    lines = re.sub(r'</?i>', '', lines)
+    lines = re.sub(r'</?b>', '', lines)
 
     # Extract words
     words = re.findall(r'\b\w+\b', lines.lower())
@@ -35,7 +41,7 @@ def parse_srt_excluding_common(file_path):
     common_words = Counter(filtered_words).most_common(10)
     top_ten_words = [word for word, _ in common_words]
 
-    return word_count, total_minutes, top_ten_words
+    return word_count, total_minutes, top_ten_words,lines
 
 def process_srt_files_excluding_common(directory):
     data = []
@@ -46,13 +52,14 @@ def process_srt_files_excluding_common(directory):
                 if srt_file.endswith('.srt'):
                     file_path = os.path.join(year_path, srt_file)
                     movie_name = re.sub(r'[^\w\s]', '', srt_file).replace(' ', '')
-                    word_count, total_minutes, top_ten_words = parse_srt_excluding_common(file_path)
+                    word_count, total_minutes, top_ten_words , content = parse_srt_excluding_common(file_path)
                     data.append({
                         'movie': movie_name,
                         'year': year_folder,
                         'numberofwords': word_count,
                         'time': f"{total_minutes:.2f}mins",
-                        'toptenwords': top_ten_words
+                        'toptenwords': top_ten_words,
+                        'bodyContent': content
                     })
     return data
 
