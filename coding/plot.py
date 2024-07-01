@@ -8,13 +8,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from collections import Counter
 
+# nltk.download('punkt')
+# nltk.download('stopwords')
 
 def process_text(text):
     stop_words = set(nltk.corpus.stopwords.words('english'))
     tokens = nltk.word_tokenize(text.lower())
     filtered_tokens = [word for word in tokens if word.isalpha() and word not in stop_words]
     return filtered_tokens
-
 
 def get_text_from_files(folder_path):
     text = ""
@@ -25,8 +26,7 @@ def get_text_from_files(folder_path):
                 text += file.read()
     return text
 
-
-def get_ngram_counts(text, n, top_n=20):
+def get_ngram_counts(text, n, top_n=10):
     tokens = process_text(text)
     ngram_list = list(ngrams(tokens, n))
     ngram_counts = Counter(ngram_list)
@@ -34,45 +34,26 @@ def get_ngram_counts(text, n, top_n=20):
     ngram_df['Ngram'] = ngram_df['Ngram'].apply(lambda x: ' '.join(x))
     return ngram_df
 
-
-def plot_ngrams(bigram_df, trigram_df, title=None, output_path=None):
+def plot_ngrams(ngram_df, title=None, output_path=None):
     sns.set(style="whitegrid")
-    fig, axes = plt.subplots(1, 2, figsize=(20, 10))
-    
-    # Bigram plot
-    sns.barplot(ax=axes[0], x='Frequency', y='Ngram', data=bigram_df, palette='viridis')
-    axes[0].set_title("Top 20 Bigrams", fontsize=16)
-    axes[0].set_xlabel("Frequency", fontsize=14)
-    axes[0].set_ylabel("")
-    axes[0].tick_params(axis='both', which='major', labelsize=12)
-    axes[0].text(0.95, 0.01, 'Bigram', verticalalignment='bottom', horizontalalignment='right',
-                 transform=axes[0].transAxes, color='black', fontsize=12, bbox=dict(facecolor='white', alpha=0.6))
-
-    # Trigram plot
-    sns.barplot(ax=axes[1], x='Frequency', y='Ngram', data=trigram_df, palette='viridis')
-    axes[1].set_title("Top 20 Trigrams", fontsize=16)
-    axes[1].set_xlabel("Frequency", fontsize=14)
-    axes[1].set_ylabel("")
-    axes[1].tick_params(axis='both', which='major', labelsize=12)
-    axes[1].text(0.95, 0.01, 'Trigram', verticalalignment='bottom', horizontalalignment='right',
-                 transform=axes[1].transAxes, color='black', fontsize=12, bbox=dict(facecolor='white', alpha=0.6))
-    
-    plt.suptitle(title if title else "Top Ngrams", fontsize=20)
+    plt.figure(figsize=(10, 8))
+    sns.barplot(x='Frequency', y='Ngram', data=ngram_df, palette='viridis')
+    plt.title(title if title else "Top Ngrams", fontsize=20)
+    plt.xlabel("Frequency", fontsize=20)
+    plt.ylabel("")
+    plt.xticks(fontsize=20)
+    plt.yticks(rotation=45, fontsize=20)  # Rotate y-ticks and adjust fontsize
     plt.tight_layout()
-    plt.subplots_adjust(top=0.92, wspace=0.3)
     if output_path:
         plt.savefig(output_path)
     plt.show()
 
-
 decades = [(1950, 1959), (1960, 1969), (1970, 1979), (1980, 1989), (1990, 1999),
            (2000, 2009), (2010, 2019), (2020, 2024)]
-
 
 output_directory = '/Users/zjy/Desktop/graphs'
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
-
 
 for decade in decades:
     decade_text = ""
@@ -83,7 +64,11 @@ for decade in decades:
     bigram_df = get_ngram_counts(decade_text, 2)
     trigram_df = get_ngram_counts(decade_text, 3)
 
-    title = f"Top 20 Bigrams and Trigrams ({decade[0]}-{decade[1]})"
-    output_path = os.path.join(output_directory, f"{decade[0]}-{decade[1]}.png")
+    bigram_title = f"Top 10 Bigrams ({decade[0]}-{decade[1]})"
+    trigram_title = f"Top 10 Trigrams ({decade[0]}-{decade[1]})"
+    
+    bigram_output_path = os.path.join(output_directory, f"{decade[0]}-{decade[1]}_bigrams.png")
+    trigram_output_path = os.path.join(output_directory, f"{decade[0]}-{decade[1]}_trigrams.png")
 
-    plot_ngrams(bigram_df, trigram_df, title=title, output_path=output_path)
+    plot_ngrams(bigram_df, title=bigram_title, output_path=bigram_output_path)
+    plot_ngrams(trigram_df, title=trigram_title, output_path=trigram_output_path)
