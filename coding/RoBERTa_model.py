@@ -11,9 +11,8 @@ from torch.utils.data import TensorDataset, DataLoader, Dataset, RandomSampler, 
 from transformers import RobertaModel
 import torch.nn as nn
 import roberta_new
-
-
 from transformers import RobertaModel
+
 MAX_LEN = 200  # Based on the length of movies
 TRAIN_BATCH_SIZE = 1
 VALID_BATCH_SIZE = 1
