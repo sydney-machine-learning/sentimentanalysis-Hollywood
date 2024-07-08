@@ -59,5 +59,27 @@ plt.grid(True)
 plt.xticks(rotation=45)
 plt.tight_layout()
 
-# Save the plot to a file
+# heatmap
+heatdata=data.iloc[:,3:12]
+
+# plt.figure(figsize=(10, 8))
+# sns.heatmap(data.iloc[:,3:12], annot=True, cmap='coolwarm', cbar=True, square=True)
+# plt.title('Heatmap of Emotions Data')
+# plt.show()
+columns = data.iloc[:,3:12].columns
+
+# 初始化共现矩阵
+co_occurrence_matrix = pd.DataFrame(np.zeros((len(columns), len(columns))), index=columns, columns=columns)
+
+# 计算每对情绪的共现次数
+for i in range(len(heatdata)):
+    for emotion1 in columns:
+        for emotion2 in columns:
+            if heatdata.at[i, emotion1] > 0 and heatdata.at[i, emotion2] > 0:
+                co_occurrence_matrix.at[emotion1, emotion2] += 1
+
+# 绘制热力图
+plt.figure(figsize=(10, 8))
+sns.heatmap(co_occurrence_matrix, annot=True, fmt='.2f', cmap='coolwarm', linewidths=0.5, linecolor='white')
+plt.title('Co-occurrence Heatmap of Emotions')
 plt.show()
