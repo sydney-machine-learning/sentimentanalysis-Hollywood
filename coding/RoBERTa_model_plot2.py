@@ -17,7 +17,6 @@ plt.barh(emotion_counts.index, emotion_counts.values, color='blue')
 plt.xlabel('Count')
 plt.ylabel('Emotion')
 plt.title('Counts of Different Emotions')
-plt.show()
 
 
 weights = {
@@ -30,7 +29,7 @@ weights = {
     'Annoyed': -1,
     'Denial': -4,
     'Official report': 0,
-    'Joking': -1
+    'Joking': 1
 }
 
 data['weighted_score'] = (
@@ -45,7 +44,6 @@ data['weighted_score'] = (
     data['Official report'] * weights['Official report'] +
     data['Joking'] * weights['Joking']
 )
-
 
 data['year']=data2['year']
 # Group by year and calculate the average weighted score for each year
@@ -62,12 +60,4 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 
 # Save the plot to a file
-plt.show()
-
-heatmap_data = data[['Optimistic', 'Thankful', 'Empathetic', 'Pessimistic', 'Anxious', 'Sad', 'Annoyed', 'Denial', 'Official report', 'Joking']]
-plt.figure(figsize=(10, 8))
-sns.heatmap(heatmap_data, annot=True, cmap="Blues", cbar=True, linewidths=0.5, linecolor='grey')
-plt.title('Sentiment Heatmap')
-plt.xlabel('Sentiment')
-plt.ylabel('Movie Index')
 plt.show()
