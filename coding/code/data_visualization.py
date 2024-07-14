@@ -43,8 +43,5 @@ plt.tight_layout()
 plt.show()
 
 output_path = 'C:/Users/Admin/Desktop/decade_movie_statistics.png'
-<<<<<<< HEAD:coding_h/data_visualization.py
 fig.savefig(output_path)
-=======
 fig.savefig(output_path)
->>>>>>> 3c7a21ae9dffd6fe2542b971f3512a001f83654d:coding/data_visualization.py
