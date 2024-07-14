@@ -4,8 +4,8 @@ import numpy as np
 import seaborn as sns
 
 # Load the data from the CSV file
-data = pd.read_csv('C:/Users/Admin/Desktop/roberta_df.csv')
-data2 = pd.read_csv('C:/Users/Admin/Desktop/data_csv.csv')
+data = pd.read_csv('C:/Users/Admin/Desktop/sentimentanalysis-Hollywood/coding/roberta_df.csv')
+data2 = pd.read_csv('C:/Users/Admin/Desktop/sentimentanalysis-Hollywood/coding/data_csv.csv')
 
 # Extract relevant columns and sum the counts for each emotion
 emotion_columns = ['Optimistic', 'Thankful', 'Empathetic', 'Pessimistic', 'Anxious', 'Sad', 'Annoyed', 'Denial', 'Official report', 'Joking']
