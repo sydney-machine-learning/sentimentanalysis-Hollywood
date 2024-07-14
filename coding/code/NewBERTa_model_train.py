@@ -20,6 +20,8 @@ test_data = pd.read_table("C:/Users/Admin/Desktop/sentimentanalysis-Hollywood/tr
 train_data = train_data.dropna(subset=['text', 'labels'])
 test_data = test_data.dropna(subset=['text', 'labels'])
 
+test_texts = test_data['text'].values
+
 # get unique label
 train_unique_labels = train_data['labels'].unique()
 test_unique_labels = test_data['labels'].unique()
@@ -195,8 +197,8 @@ print(f'Test Precision: {precision}')
 print(f'Test Recall: {recall}')
 print(f'Test F1 Score: {f1}')
 
-texts = test_data['text'].values  # original Pandas DataFrame
-errors = analyze_errors(predictions, true_labels, texts)
+  # original Pandas DataFrame
+errors = analyze_errors(predictions, true_labels, test_texts)
 print(f'Number of errors: {len(errors)}')
 for error in errors[:10]:  # print 10 errors
     print(f'Text: {error[0]}, True Label: {error[1]}, Predicted Label: {error[2]}')
