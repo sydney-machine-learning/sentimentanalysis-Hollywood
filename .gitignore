@@ -1,2 +1,3 @@
 # .gitignore
 .venv/
+coding/model/newBERTa_model/model.safetensors
