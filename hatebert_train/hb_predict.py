@@ -68,17 +68,17 @@ data['classification'], data['probability'] = zip(*results)
 output_path = r'C:\Users\Admin\Desktop\sentimentanalysis-Hollywood\coding\hate_data.csv'
 data.to_csv(output_path, index=False)
 
-# 绘图分析
+
 plt.figure(figsize=(10, 5))
 
-# 绘制每年虐待语言的概率分布
+
 data.groupby('year')['probability'].mean().plot(kind='bar')
 plt.title('Average Probability of Abusive Language by Year')
 plt.xlabel('Year')
 plt.ylabel('Average Probability')
 plt.show()
 
-# 绘制每年虐待语言的数量
+
 data['is_abusive'] = data['classification'] == 'Abusive Language'
 data.groupby('year')['is_abusive'].sum().plot(kind='bar')
 plt.title('Number of Abusive Language Instances by Year')
