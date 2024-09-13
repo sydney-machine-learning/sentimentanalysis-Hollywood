@@ -25,10 +25,29 @@ We used pre-trained RoBERTa and HateBERT models for sentiment analysis and abuse
 
 ### Results
 
-Sentiment Analysis
-Sentiment analysis revealed that humorous and positive emotions like joking are highly frequent in movie dialogues, especially in comedies.
-Over time, the overall emotional polarity of movies became more complex, with the highest positivity found in earlier decades (1950s-1980s).
+1. Sentiment Analysis Over Time
+We performed sentiment analysis on movie dialogues from 1950 to 2024, identifying significant changes in emotional expression.
 
-Abusive Language Detection
-The overall frequency of abusive language has declined since the 1950s, particularly in the Action and Thriller genres.
-The analysis of abusive words showed notable changes in societal acceptance of violent and abusive content in films.
+Sentiment Polarity Trends (1950-2024)
+The graph below shows the trend of sentiment polarity in movie dialogues over time, with sentiment polarity scores ranging from -1 to 1, where positive numbers represent positive emotions and negative numbers represent negative emotions.
+
+Sentiment Weights by Decade
+The sentiment weights chart highlights the relative contribution of different emotions over the decades. Emotions like optimism, anger, and humor fluctuate in prominence across different time periods.
+![image](https://github.com/user-attachments/assets/fa7e93b1-ef34-4d89-96a0-b5118c5a6bc3)
+
+
+2. Abusive Language Detection
+Abusive Word Frequency by Decade
+Abusive language frequency peaked in the 2000s and has since declined, reflecting changing societal norms.
+
+Abusive Content Across Genres
+Action films show a low level of abusive content, while thrillers in the 1950s had the highest abusive word count.
+![image](https://github.com/user-attachments/assets/4c34ac95-fb90-4c18-8dec-e49dcab9cd34)
+
+
+3. Emotional Sentiment Co-occurrence
+The heatmap below shows frequent co-occurrences of humor with anger, especially in comedies, reflecting the use of satire and conflict.
+![image](https://github.com/user-attachments/assets/958371b5-3b73-49b5-8da3-b4734c0e9816)
+
+
+
