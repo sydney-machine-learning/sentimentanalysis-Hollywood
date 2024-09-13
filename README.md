@@ -6,21 +6,21 @@ It examines changes in sentiment and abusive language in movie dialogues over 75
 
 ### Datasets
 
-Movies Subtitles
+Movies Subtitles:
 Subtitles from over 1,000 films, including Oscar-nominated films and the top 10 box-office hits, were collected. These films were categorized into four genres: Action, Comedy, Drama, and Thriller.
 
-SenWave Dataset
+SenWave Dataset:
 This dataset includes sentiment-labeled tweets from the COVID-19 pandemic period. It is used to fine-tune our sentiment classification model for multi-label classification across emotions like optimism, anxiety, and anger.
 
-RAL-E Dataset
+RAL-E Dataset:
 A Reddit-based dataset used for detecting abusive language, focusing on offensive, hateful, or violent content. The dataset was crucial for fine-tuning our abuse detection models.
 
 ### Models
 
-N-Gram Analysis
+N-Gram Analysis:
 We conducted an N-Gram analysis (bigrams, trigrams) to visualize the most frequent word sequences in movie dialogues over time. This helped identify thematic trends and shifts in sentiment.
 
-BERT-based Models
+BERT-based Models:
 We used pre-trained RoBERTa and HateBERT models for sentiment analysis and abuse detection. RoBERTa was fine-tuned using the SenWave dataset for sentiment analysis, while HateBERT was used to detect abusive language in movie dialogues.
 
 ### Results
