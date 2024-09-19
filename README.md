@@ -1,3 +1,11 @@
+# Sentiment analysis of movie scripts from Hollywood
+
+This repository provides code and supplementary materials for the paper titled 'Longitudinal Abuse and Sentiment Analysis of Hollywood Oscar and Blockbuster Movie Dialogues using LLMs'.
+
+## Seminar
+
+## Publication
+
 ## Task Description
 
 This project explores the trends in abusive language and sentiment in Hollywood movies from 1950 to 2024, with a focus on Oscar-nominated films and top 10 box-office hits. We utilize modern NLP models such as RoBERTa to conduct multi-label classification on movie subtitles, analyzing shifts in emotions and the use of abusive language across time and genres.
@@ -10,10 +18,11 @@ Movies Subtitles:
 Subtitles from over 1,000 films, including Oscar-nominated films and the top 10 box-office hits, were collected. These films were categorized into four genres: Action, Comedy, Drama, and Thriller.
 
 SenWave Dataset:
-This dataset includes sentiment-labeled tweets from the COVID-19 pandemic period. It is used to fine-tune our sentiment classification model for multi-label classification across emotions like optimism, anxiety, and anger.
+This dataset includes sentiment-labeled tweets from the COVID-19 pandemic period. It is used to fine-tune our sentiment classification model for multi-label classification across emotions like optimism, anxiety, and anger. Additionally, the SenWave dataset from GitHub was utilised: 
+[SenWave Dataset](https://github.com/gitdevqiang/SenWave?tab=readme-ov-file#senwave-a-fine-grained-sentiment-analysis-dataset-for-covid-19-tweets)
 
 RAL-E Dataset:
-A Reddit-based dataset used for detecting abusive language, focusing on offensive, hateful, or violent content. The dataset was crucial for fine-tuning our abuse detection models.
+A Reddit-based dataset used for detecting abusive language, focusing on offensive, hateful, or violent content. The dataset was crucial for fine-tuning our abuse detection models. The dataset we used comes from Tommaso Caselli's HateBERT paper:[RAL-E Dataset](https://osf.io/tbd58/?view_only=%20cb79b3228d4248ddb875eb1803525ad8)
 
 ### Models
 
