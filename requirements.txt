@@ -1,0 +1,27 @@
+# Python dependencies for sentimentanalysis-Hollywood
+# Install into a virtual environment:
+#   py -3.10 -m venv .venv
+#   .venv\Scripts\activate          (Windows)
+#   pip install -r requirements.txt
+#
+# Versions are pinned for reproducibility (everyone gets the same build).
+# numpy is held <2.0 because torch 2.3.1 / transformers 4.42 predate the numpy 2.0 ABI change.
+
+# --- Data handling & numerics ---
+pandas==2.2.2
+numpy>=1.20,<2.0
+scipy==1.14.0
+
+# --- NLP / deep learning ---
+torch==2.3.1
+transformers==4.42.4
+nltk==3.8.1
+scikit_learn==1.5.1
+
+# --- Plotting ---
+matplotlib==3.9.1
+seaborn==0.13.2
+
+# --- Web scraping (used by movie_inf_wiki.py for Wikipedia runtimes) ---
+requests==2.32.3
+beautifulsoup4==4.12.3

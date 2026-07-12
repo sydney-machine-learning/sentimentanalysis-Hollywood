@@ -1,24 +1,20 @@
 import pandas as pd
-import torch
-from transformers import RobertaTokenizer, RobertaForSequenceClassification
-from torch.utils.data import TensorDataset, DataLoader, Dataset, RandomSampler, SequentialSampler
 import numpy as np
 import torch
-from scipy.special import softmax
 import torch.nn as nn
-import torch.nn.functional as F
-from torch.utils.data import TensorDataset, DataLoader, Dataset, RandomSampler, SequentialSampler
-from transformers import RobertaModel
-import torch.nn as nn
-import roberta_new
-from transformers import RobertaModel
+from torch.utils.data import Dataset, DataLoader
+from transformers import RobertaTokenizer, RobertaModel
+from pathlib import Path
 
-MAX_LEN = 200  # Based on the length of movies
-TRAIN_BATCH_SIZE = 1
-VALID_BATCH_SIZE = 1
-EPOCHS = 4
-LEARNING_RATE = 2e-05
-tokenizer = RobertaTokenizer.from_pretrained('roberta-base')  # Use RoBERTa tokenizer
+# --- Paths relative to the repo (never hardcode C:/Users/Admin/...) ---
+REPO_ROOT = Path(__file__).resolve().parents[2]
+DATA_CSV = REPO_ROOT / "coding" / "data_csv.csv"                        # input
+MODEL_PATH = REPO_ROOT / "coding" / "model" / "roberta-finetuned.pth"  # trained weights
+OUTPUT_CSV = REPO_ROOT / "coding" / "roberta_df.csv"                    # output
+
+MAX_LEN = 200          # tokens per movie (NOTE: this truncates long movies)
+INFER_BATCH_SIZE = 32  # was 1 -- batching makes inference far faster
+tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 class RoBERTaCustom(nn.Module):
@@ -70,25 +66,28 @@ class CustomDataset(Dataset):
         }
 
 
-roberta = torch.load("C:/Users/Admin/Desktop/sentimentanalysis-Hollywood/.venv/Lib/site-packages/torch/roberta-finetuned.pth")
-roberta 
+# Load the fine-tuned model. map_location=device lets a model saved on GPU load
+# on CPU (and vice versa); .to(device) then puts it where the data will be.
+roberta = torch.load(MODEL_PATH, map_location=device)
+roberta.to(device)
 
-mdf=pd.read_csv("C:/Users/Admin/Desktop/data_csv.csv")
-
+mdf = pd.read_csv(DATA_CSV)
 
 roberta_df = pd.DataFrame()
 roberta_df['movie'] = mdf['bodyContent']
 
-values = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]] * 1027
-roberta_df['list'] = values
+# One [0]*10 placeholder target per movie (unused at inference). Using a list
+# comprehension over len(mdf) avoids both the magic number 1027 AND a subtle bug:
+# [[0]*10] * n makes n references to the SAME list, not n independent lists.
+roberta_df['list'] = [[0] * 10 for _ in range(len(mdf))]
 
 
 test_dataset = CustomDataset(roberta_df, tokenizer, MAX_LEN)
 
-roberta_test_params = {'batch_size': 1,
-                    'shuffle': False,
-                    'num_workers': 0
-                    }
+roberta_test_params = {'batch_size': INFER_BATCH_SIZE,  # was 1 -- the key speedup
+                       'shuffle': False,
+                       'num_workers': 0  # keep 0 on Windows to avoid multiprocessing issues
+                       }
 
 test_loader = DataLoader(test_dataset, **roberta_test_params)
 
@@ -108,24 +107,15 @@ def test():
 
     return roberta_outputs
 
-test_outputs = test()
-test_outputs = np.array(test_outputs)
+test_outputs = np.array(test())
 
-for i in range(test_outputs.shape[0]):
-    for j in range(test_outputs.shape[1]):
-        if test_outputs[i][j] >= 0.5: test_outputs[i][j] = 1
-        else: test_outputs[i][j] = 0
+# Threshold at 0.5 -> 0/1, vectorized (replaces a slow nested Python loop).
+test_outputs = (test_outputs >= 0.5).astype(int)
 
-for i in range(len(test_outputs)):
-    roberta_df.at[i, 'Optimistic'] = test_outputs[i][0]
-    roberta_df.at[i, 'Thankful'] = test_outputs[i][1]
-    roberta_df.at[i, 'Empathetic'] = test_outputs[i][2]
-    roberta_df.at[i, 'Pessimistic'] = test_outputs[i][3]
-    roberta_df.at[i, 'Anxious'] = test_outputs[i][4]
-    roberta_df.at[i, 'Sad'] = test_outputs[i][5]
-    roberta_df.at[i, 'Annoyed'] = test_outputs[i][6]
-    roberta_df.at[i, 'Denial'] = test_outputs[i][7]
-    roberta_df.at[i, 'Official report'] = test_outputs[i][8]
-    roberta_df.at[i, 'Joking'] = test_outputs[i][9]
+# Assign all 10 emotion columns at once (replaces the per-cell .at[] loop).
+EMOTIONS = ['Optimistic', 'Thankful', 'Empathetic', 'Pessimistic', 'Anxious',
+            'Sad', 'Annoyed', 'Denial', 'Official report', 'Joking']
+roberta_df[EMOTIONS] = test_outputs
 
-roberta_df.to_csv("C:/Users/Admin/Desktop/roberta_df.csv", index=False)
+roberta_df.to_csv(OUTPUT_CSV, index=False)
+print(f"Wrote {len(roberta_df)} rows to {OUTPUT_CSV}")

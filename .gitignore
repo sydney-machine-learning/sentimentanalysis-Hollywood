@@ -1,3 +1,13 @@
 # .gitignore
 .venv/
+venv/
 coding/model/newBERTa_model/model.safetensors
+
+# --- Python generated artifacts (never source code; regenerated automatically) ---
+# Note: in .gitignore, '#' is only a comment at the START of a line, never inline.
+# compiled bytecode cache Python creates on import/run:
+__pycache__/
+# individual compiled bytecode files:
+*.pyc
+# pytest's run cache:
+.pytest_cache/

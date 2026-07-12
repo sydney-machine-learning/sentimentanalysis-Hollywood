@@ -1,0 +1,5 @@
+# Development / testing dependencies.
+# These are NOT needed to run the pipeline, only to test and develop it.
+# Install with:  pip install -r requirements-dev.txt   (this also pulls in requirements.txt)
+-r requirements.txt
+pytest==8.3.2
